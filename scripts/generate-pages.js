@@ -41,9 +41,32 @@ async function generatePages() {
 	const peopleFolder = `${__dirname}/../content/people`;
 	await fs.mkdir(peopleFolder, {recursive: true});
 	for (const person of Object.values(mapOfPeople)) {
+
+		// Work out the person's best time
+		let best = null;
+		for (const time of person.times) {
+			if (!best || time.fullTimeInSeconds < best.fullTimeInSeconds) {
+				best = time;
+			}
+		}
+
+		// Work out the person's average time
+		const allTimesInSeconds = person.times.map(time => time.fullTimeInSeconds);
+		const sumOfAllTimes = allTimesInSeconds.reduce((total, time) => total + time, 0);
+		const averageInSeconds = Math.ceil(sumOfAllTimes / allTimesInSeconds.length);
+		const average = {
+			time: {
+				minutes: Math.floor(averageInSeconds / 60),
+				seconds: averageInSeconds % 60
+			},
+			fullTimeInSeconds: averageInSeconds
+		};
+
 		const personFrontMatter = {
 			title: person.name,
-			times: person.times.sort(sortByProperty('date'))
+			times: person.times.sort(sortByProperty('date')).reverse(),
+			average,
+			best
 		};
 		await fs.writeFile(`${peopleFolder}/${person.name}.md`, `
 			${JSON.stringify(personFrontMatter, null, '  ')}
