@@ -51,7 +51,8 @@ async function fetchLeaderboard() {
 			const time = timeElement ? parseTime(timeElement.textContent.trim()) : null;
 			return {
 				name,
-				time
+				time,
+				fullTimeInSeconds: time ? (time.minutes * 60) + time.seconds : null
 			};
 		});
 
