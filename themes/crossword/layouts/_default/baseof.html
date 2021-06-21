@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode | default "en" }}">
+<head>
+
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<title>{{ block "title" . }}{{ with .Params.Title }}{{ . }} | {{ end }}{{ .Site.Title }}{{ end }}</title>
+	<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}" />
+
+	{{/* Hide drafts and private pages */}}
+	{{ if or .Draft .Params.private }}<meta name="robots" content="noindex" />{{ end }}
+
+	{{/* Site links */}}
+	<link rel="sitemap" type="application/xml" href="/sitemap.xml" title="Sitemap" />
+	<link rel="canonical" href="{{ .Permalink }}" />
+
+	{{/* Output Styles */}}
+	{{- "<!--[if gt IE 8]><!-->" | safeHTML }}
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+
+		{{/* Stylesheets */}}
+		{{ $sassOptions := (dict
+			"outputStyle" "compressed"
+			"enableSourceMap" true
+			"targetPath" "main.css"
+		) -}}
+		{{ $styles := resources.Get "sass/main.scss" | resources.ExecuteAsTemplate "sass/main.scss" . | toCSS $sassOptions | resources.Fingerprint "sha512" -}}
+		<link rel="stylesheet" href="{{ $styles.RelPermalink }}" />
+
+	{{ "<!--<![endif]-->" | safeHTML }}
+
+	{{ partial "site/icons.html" . -}}
+	{{ partial "site/analytics.html" . -}}
+
+</head>
+<body>
+	<main role="main">
+		{{- block "main" . }}{{- end }}
+	</main>
+</body>
+</html>

@@ -1,0 +1,34 @@
+
+{{/* Site icons */}}
+
+{{- $logoSourceImage := resources.Get "logo.png" -}}
+{{- if $logoSourceImage -}}
+
+	{{- $logo32 := $logoSourceImage.Resize "32x" -}}
+	{{- $logo70 := $logoSourceImage.Resize "70x" -}}
+	{{- $logo76 := $logoSourceImage.Resize "76x" -}}
+	{{- $logo120 := $logoSourceImage.Resize "120x" -}}
+	{{- $logo150 := $logoSourceImage.Resize "150x" -}}
+	{{- $logo152 := $logoSourceImage.Resize "152x" -}}
+	{{- $logo192 := $logoSourceImage.Resize "192x" -}}
+	{{- $logo310 := $logoSourceImage.Resize "310x" -}}
+
+	<link rel="icon" type="image/png" href="{{ $logo32.RelPermalink }}" />
+	<link rel="icon" sizes="192x192" href="{{ $logo192.RelPermalink }}" />
+	
+	{{/* Apple icons */}}
+	<link rel="apple-touch-icon" href="{{ $logo152.RelPermalink }}" />
+	<link rel="apple-touch-icon" sizes="76x76" href="{{ $logo76.RelPermalink }}" />
+	<link rel="apple-touch-icon" sizes="120x120" href="{{ $logo120.RelPermalink }}" />
+	<link rel="apple-touch-icon" sizes="152x152" href="{{ $logo152.RelPermalink }}" />
+
+	{{/* Microsoft icons */}}
+	<meta name="msapplication-square70x70logo" content="{{ $logo70.RelPermalink }}" />
+	<meta name="msapplication-square150x150logo" content="{{ $logo150.RelPermalink }}" />
+	
+{{- end -}}
+
+{{- $faviconSourceImage := resources.Get "favicon.ico" -}}
+{{- if $faviconSourceImage -}}
+	<link rel="shortcut icon" href="{{ $faviconSourceImage.RelPermalink }}" />
+{{- end -}}

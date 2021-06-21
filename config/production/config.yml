@@ -1,0 +1,10 @@
+
+# Config for production environment
+
+# Set the base URL
+baseURL: https://crossword.rowanmanning.com/
+
+# Set up site analytics
+params:
+  analytics:
+    fathomSiteId: "NZWPDGTE"

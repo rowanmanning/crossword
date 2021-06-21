@@ -1,0 +1,30 @@
+{
+  "name": "crossword",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Fetch and archive the New York Times crossword leaderboard",
+  "keywords": [],
+  "author": {
+    "name": "Rowan Manning",
+    "url": "https://crossword.rowanmanning.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rowanmanning/crossword.git"
+  },
+  "homepage": "https://github.com/rowanmanning/crossword",
+  "bugs": "https://github.com/rowanmanning/crossword/issues",
+  "license": "GPL-3.0",
+  "engines": {
+    "node": ">=14"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@rowanmanning/eslint-config": "^3.1.0",
+    "@rowanmanning/make": "^2.1.0",
+    "eslint": "^7.28.0"
+  },
+  "scripts": {
+    "start": "hugo server"
+  }
+}

@@ -1,0 +1,25 @@
+
+# Default config
+
+# Set default language
+languageCode: "en-gb"
+
+# Site title
+title: "Crossword"
+
+# Configure the themes
+theme: ["crossword"]
+
+# Enable emoji rendering
+enableEmoji: true
+
+# Restrict the output types
+outputs:
+  home: ["HTML"]
+  page: ["HTML"]
+  section: ["HTML"]
+  taxonomy: ["HTML"]
+  term: ["HTML"]
+
+# Publish to the "build" directory
+publishDir: "build"

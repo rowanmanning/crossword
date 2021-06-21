@@ -1,0 +1,20 @@
+
+{{ define "main" }}
+
+	<h1>{{ .Title }}</h1>
+
+	{{ if .Content }}
+		{{ .Content }}
+	{{ end }}
+
+	{{ if len .Pages }}
+		<ol>
+			{{ range .Pages.ByDate.Reverse }}
+				<li>
+					<a href="{{ .RelPermalink }}">{{ .Title }}</a>
+				</li>
+			{{ end }}
+		</ol>
+	{{ end }}
+
+{{ end }}

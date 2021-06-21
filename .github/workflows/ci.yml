@@ -1,0 +1,32 @@
+name: CI
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+env:
+  NODE_ENV: test
+jobs:
+
+  # Verify code
+  verify:
+    name: Verify code
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v1
+        with:
+          node-version: 14.x
+      - uses: actions/cache@v1
+        env:
+          cache-version: v1
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-${{ env.cache-version }}-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-${{ env.cache-version }}-
+            ${{ runner.os }}-
+      - run: npm install
+      - run: make verify

@@ -1,0 +1,11 @@
+name: crossword
+license: GPL-3.0
+licenselink: 'https://github.com/rowanmanning/crossword/blob/main/LICENSE'
+description: ''
+homepage: 'https://crossword.rowanmanning.com/'
+tags: []
+features: []
+min_version: 0.83.0
+author:
+  name: Rowan Manning
+  homepage: 'https://rowanmanning.com/'

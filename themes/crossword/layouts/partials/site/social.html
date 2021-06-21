@@ -1,0 +1,53 @@
+
+{{ if eq .Kind "page" }}
+
+	{{- partial "get-content-images" . -}}
+	{{- $image := .Scratch.Get "image" -}}
+
+	{{/* Twitter summary card */}}
+	<meta name="twitter:card" content="summary" />
+	<meta property="twitter:url" content="{{ .Permalink }}">
+	<meta name="twitter:title" content="{{ .Title }}" />
+	{{- $logoSourceImage := resources.Get "logo-twitter.png" }}
+	{{ if $image }}
+		<meta name="twitter:image" content="{{ $image.Permalink }}" />
+		<meta name="twitter:image:alt" content="{{ $image.Title | default .Title }}" />
+	{{ else if $logoSourceImage }}
+		<meta name="twitter:image" content="{{ $logoSourceImage.Permalink }}" />
+		<meta name="twitter:image:alt" content="{{ .Title }}" />
+	{{ end }}
+	{{ if .Site.Author.twitter }}<meta name="twitter:site" content="@{{ .Site.Author.twitter }}" />{{ end }}
+	{{ if .Description }}<meta name="twitter:description" content="{{ .Description }}" />{{ end }}
+
+	{{/* Open Graph */}}
+	<meta property="og:type" content="{{ if .Section }}article{{ else }}website{{ end }}" />
+	<meta property="og:site_name" content="{{ .Site.Title }}" />
+	<meta property="og:title" content="{{ .Title }}" />
+	<meta property="og:url" content="{{ .Permalink }}" />
+	{{ if $image }}
+		<meta name="og:image" content="{{ $image.Permalink }}" />
+		<meta name="og:image:alt" content="{{ $image.Title | default .Title }}" />
+	{{ else if $logoSourceImage }}
+		<meta name="og:image" content="{{ $logoSourceImage.Permalink }}" />
+		<meta name="og:image:alt" content="{{ .Title }}" />
+	{{ end }}
+	{{ if .Description }}<meta property="og:description" content="{{ .Description }}" />{{ end }}
+
+	{{/* Open Graph article */}}
+	{{ if .Section }}
+		<meta property="article:published_time" content="{{ .Date }}" />
+		{{ if gt .Lastmod .Date -}}
+			<meta property="article:modified_time" content="{{ .Lastmod }}" />
+		{{ end }}
+		{{ if .Params.tags }}{{ range .Params.tags -}}
+			<meta property="article:tag" content="{{ . }}" />
+		{{ end }}{{ end }}
+	{{ end }}
+
+{{ end }}
+
+{{/* Webmentions */}}
+{{ if (and .Site.Author .Site.Author.webmention) }}
+	<link rel="webmention" href="https://webmention.io/{{ .Site.Author.webmention }}/webmention" />
+	<link rel="pingback" href="https://webmention.io/{{ .Site.Author.webmention }}/xmlrpc" />
+{{ end }}

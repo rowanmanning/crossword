@@ -1,0 +1,6 @@
+
+# Config for development environment
+
+# Build draft and future content
+buildDrafts: true
+buildFuture: true
