@@ -9,7 +9,7 @@
 
 	{{ if len .Pages }}
 		<ol>
-			{{ range .Pages.ByDate.Reverse }}
+			{{ range .Pages.ByTitle }}
 				<li>
 					<a href="{{ .RelPermalink }}">{{ .Title }}</a>
 				</li>

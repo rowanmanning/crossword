@@ -1,0 +1,23 @@
+
+{{ define "main" }}
+
+	<h1>{{ .Title }}</h1>
+
+	{{ if .Content }}
+		{{ .Content }}
+	{{ end }}
+
+	{{ $leaderboards := where $.Site.RegularPages "Section" "leaderboards" }}
+
+	{{ if len $leaderboards }}
+		{{ $page := index $leaderboards 0 }}
+
+		<h2>
+			<a href="/leaderboards/{{ $page.Title | urlize }}">{{ dateFormat "Monday, Jan 2 2006" $page.Date }}</a>
+		</h2>
+		
+		{{- partial "leaderboard-times-table.html" $page -}}
+	{{ end }}
+
+
+{{ end }}

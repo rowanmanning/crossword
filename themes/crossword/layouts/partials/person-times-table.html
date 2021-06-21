@@ -1,0 +1,19 @@
+
+{{ if len .Params.times }}
+	<table>
+		<thead>
+			<tr>
+				<th>Date</th>
+				<th>Time</th>
+			</tr>
+		</thead>
+		<tbody>
+			{{ range .Params.times }}
+				<tr>
+					<td><a href="/leaderboards/{{ .date | urlize }}/">{{ dateFormat "Jan 2 2006" .date }}</a></td>
+					<td>{{ .time.minutes }}:{{ if lt .time.seconds 10 }}0{{ end }}{{ .time.seconds }}</td>
+				</tr>
+			{{ end }}
+		</tbody>
+	</table>
+{{ end }}

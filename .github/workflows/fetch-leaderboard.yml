@@ -39,7 +39,7 @@ jobs:
       - name: Fetch leaderboard
         env:
           NYT_COOKIES: ${{ secrets.NYT_COOKIES }}
-        run: ./scripts/fetch-leaderboard.js
+        run: ./scripts/fetch-leaderboard.js && ./scripts/generate-pages.js
 
       # Commit new leaderboard to the repo
       - name: Commit to the repo

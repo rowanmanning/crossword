@@ -34,8 +34,10 @@
 
 </head>
 <body>
+	{{- partial "page/header.html" . -}}
 	<main role="main">
 		{{- block "main" . }}{{- end }}
 	</main>
+	{{- partial "page/footer.html" . -}}
 </body>
 </html>
