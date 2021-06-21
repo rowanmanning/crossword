@@ -21,7 +21,7 @@ Fetch and archive the New York Times crossword leaderboard - [crossword.rowanman
 
 ## Contributing
 
-[The contributing guide is available here](docs/contributing.md). All contributors must follow [Audrey's code of conduct](docs/code_of_conduct.md).
+[The contributing guide is available here](docs/contributing.md). All contributors must follow [Crossword's code of conduct](docs/code_of_conduct.md).
 
 
 ## License

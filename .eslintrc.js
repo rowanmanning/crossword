@@ -4,5 +4,7 @@ module.exports = {
 	extends: [
 		'@rowanmanning/eslint-config'
 	],
-	rules: {}
+	rules: {
+		'max-len': 'off'
+	}
 };

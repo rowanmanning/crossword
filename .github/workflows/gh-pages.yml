@@ -6,13 +6,13 @@ on:
   push:
     branches:
       - main
-  # workflow_run:
-  #   workflows:
-  #     - Fetch webmentions
-  #   branches:
-  #     - main
-  #   types:
-  #     - completed
+  workflow_run:
+    workflows:
+      - Fetch leaderboard
+    branches:
+      - main
+    types:
+      - completed
 
 # Jobs
 jobs:
@@ -24,6 +24,11 @@ jobs:
         with:
           submodules: true # To install themes
           fetch-depth: 0 # We need all history for .GitInfo and .Lastmod
+
+      - name: Setup timezone
+        uses: zcong1993/setup-timezone@master
+        with:
+          timezone: America/New_York
 
       # Set up Node.js and install dependencies
       - uses: actions/setup-node@v1

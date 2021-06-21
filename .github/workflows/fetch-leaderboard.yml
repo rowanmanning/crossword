@@ -1,0 +1,54 @@
+
+name: Fetch leaderboard
+
+# Run every 30 minutes
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch: {}
+
+# Jobs
+jobs:
+  leaderboard:
+    runs-on: ubuntu-18.04
+    steps:
+
+      - uses: actions/checkout@v2
+
+      - name: Setup timezone
+        uses: zcong1993/setup-timezone@master
+        with:
+          timezone: America/New_York
+
+      # Set up Node.js and install dependencies
+      - uses: actions/setup-node@v1
+        with:
+          node-version: 14.x
+      - uses: actions/cache@v1
+        env:
+          cache-version: v1
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-${{ env.cache-version }}-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-${{ env.cache-version }}-
+            ${{ runner.os }}-
+      - run: npm install
+
+      # Fetch and process leaderboard
+      - name: Fetch leaderboard
+        env:
+          NYT_COOKIES: ${{ secrets.NYT_COOKIES }}
+        run: ./scripts/fetch-leaderboard.js
+
+      # Commit new leaderboard to the repo
+      - name: Commit to the repo
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config --global user.name "Rowan Manning"
+          git config --global user.email "info@rowanmanning.com"
+          git remote set-url origin "https://${GITHUB_ACTOR}:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          git checkout main
+          git add .
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Fetch leaderboard"; git push origin main)
