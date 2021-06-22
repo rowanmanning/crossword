@@ -15,6 +15,11 @@
 						<td>
 							{{ if .time }}
 								{{ .time.minutes }}:{{ if lt .time.seconds 10 }}0{{ end }}{{ .time.seconds }}
+								{{ if and $.Params.best (eq $.Params.best.fullTimeInSeconds .fullTimeInSeconds) }}
+									<span class="leaderboard__best" title="Best time">
+										⭐️ <span class="hidden">Best time</span>
+									</span>
+								{{ end }}
 							{{ else }}
 								-
 							{{ end }}

@@ -18,6 +18,15 @@
 							{{ else }}
 								-
 							{{ end }}
+
+							{{ $fullTimeInSeconds := .fullTimeInSeconds }}
+							{{ range where (where $.Site.RegularPages "Section" "people") "Title" .name }}
+								{{ if and .Params.best (eq .Params.best.fullTimeInSeconds $fullTimeInSeconds) }}
+									<span class="leaderboard__best" title="{{ .Title }}'s best time">
+										⭐️ <span class="hidden">{{ .Title }}'s best time</span>
+									</span>
+								{{ end }}
+							{{ end }}
 						</td>
 					</tr>
 				{{ end }}
