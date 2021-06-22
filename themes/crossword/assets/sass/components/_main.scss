@@ -10,4 +10,38 @@
 	padding-bottom: var(--spacingvalue-xxxl);
 	padding-top: var(--spacingvalue-xxxl);
 	overflow: hidden;
+	position: relative;
+}
+
+.main__nav {
+	--main-nav-height: 200px;
+	position: fixed;
+	top: 50%;
+	height: 200px;
+	width: 40px;
+	background-color: var(--colorvalue-white-dark);
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: center center;
+	margin-top: calc(-1 * (var(--main-nav-height) / 2));
+
+	&:hover {
+		background-color: var(--colorvalue-gray-light);
+	}
+
+	@media (max-width: $layout-width-max + 80px) {
+		width: 20px;
+	}
+}
+
+.main__nav--next {
+	right: 0;
+	border-radius: 40px 0 0 40px;
+	background-image: url("#{$site-base-url}icons/arrow-right.svg");
+}
+
+.main__nav--prev {
+	left: 0;
+	border-radius: 0 40px 40px 0;
+	background-image: url("#{$site-base-url}icons/arrow-left.svg");
 }

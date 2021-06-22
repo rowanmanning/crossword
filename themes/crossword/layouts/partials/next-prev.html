@@ -1,0 +1,12 @@
+
+{{ with .NextInSection }}
+	<a href="{{ .RelPermalink }}" title="{{ .Title }}" class="main__nav main__nav--next">
+		<span class="hidden">Next page</span>
+	</a>
+{{ end }}
+
+{{ with .PrevInSection }}
+	<a href="{{ .RelPermalink }}" title="{{ .Title }}" class="main__nav main__nav--prev">
+		<span class="hidden">Previous page</span>
+	</a>
+{{ end }}
