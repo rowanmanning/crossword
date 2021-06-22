@@ -9,8 +9,10 @@
 				Their best ever time is {{ .time.minutes }}:{{ if lt .time.seconds 10 }}0{{ end }}{{ .time.seconds }}
 				on <a href="/leaderboards/{{ .date | urlize }}/">{{ dateFormat "Jan 2 2006" .date }}</a>.
 			{{ end }}
-			{{ with .Params.average.time }}
-				Their average time is {{ .minutes }}:{{ if lt .seconds 10 }}0{{ end }}{{ .seconds }}.
+			{{ if .Params.average.fullTimeInSeconds }}
+				{{ with .Params.average.time }}
+					Their average time is {{ .minutes }}:{{ if lt .seconds 10 }}0{{ end }}{{ .seconds }}.
+				{{ end }}
 			{{ end }}
 		</p>
 	</div>
