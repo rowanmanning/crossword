@@ -1,0 +1,9 @@
+
+// Highlight targeted elements
+:target,
+:target * {
+	animation: highlight 2s ease;
+}
+@keyframes highlight {
+	0% { background-color: var(--color-target-highlight); }
+}

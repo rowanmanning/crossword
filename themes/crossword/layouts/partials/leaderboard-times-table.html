@@ -10,7 +10,7 @@
 			</thead>
 			<tbody>
 				{{ range .Params.times }}
-					<tr>
+					<tr id="person-{{ .name | urlize }}">
 						<td><a href="/people/{{ .name | urlize }}/">{{ .name }}</a></td>
 						<td>
 							{{ if .time }}

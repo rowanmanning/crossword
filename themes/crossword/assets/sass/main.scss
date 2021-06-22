@@ -15,6 +15,7 @@ $site-base-url: "{{ "/" | relURL }}";
 @import "shared/hidden";
 @import "shared/layout";
 @import "shared/link";
+@import "shared/target";
 @import "shared/typography";
 
 // Components

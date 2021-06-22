@@ -7,7 +7,7 @@
 			Viewing times for {{ .Title }}.
 			{{ with .Params.best }}
 				Their best ever time is {{ .time.minutes }}:{{ if lt .time.seconds 10 }}0{{ end }}{{ .time.seconds }}
-				on <a href="/leaderboards/{{ .date | urlize }}/">{{ dateFormat "Jan 2 2006" .date }}</a>.
+				on <a href="/leaderboards/{{ .date | urlize }}/#person-{{ $.Title | urlize }}">{{ dateFormat "Jan 2 2006" .date }}</a>.
 			{{ end }}
 			{{ if .Params.average.fullTimeInSeconds }}
 				{{ with .Params.average.time }}
@@ -27,7 +27,7 @@
 					<img src="/awards/{{ .type }}.svg" alt="{{ .text }}" class="award-list__award-icon" />
 					<span>
 						{{ .text }}.<br/>
-						<a href="/leaderboards/{{ .date }}/">{{ dateFormat "Jan 2 2006" .date }}</a>
+						<a href="/leaderboards/{{ .date }}/#person-{{ $.Title | urlize }}">{{ dateFormat "Jan 2 2006" .date }}</a>
 					</span>
 				</li>
 			{{ end }}
