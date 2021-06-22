@@ -11,7 +11,13 @@
 			{{ range .Params.times }}
 				<tr>
 					<td><a href="/people/{{ .name | urlize }}/">{{ .name }}</a></td>
-					<td>{{ .time.minutes }}:{{ if lt .time.seconds 10 }}0{{ end }}{{ .time.seconds }}</td>
+					<td>
+						{{ if .time }}
+							{{ .time.minutes }}:{{ if lt .time.seconds 10 }}0{{ end }}{{ .time.seconds }}
+						{{ else }}
+							-
+						{{ end }}
+					</td>
 				</tr>
 			{{ end }}
 		</tbody>
