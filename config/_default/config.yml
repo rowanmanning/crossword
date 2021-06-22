@@ -15,7 +15,7 @@ enableEmoji: true
 
 # Restrict the output types
 outputs:
-  home: ["HTML"]
+  home: ["HTML", "CROSSWORD JSON"]
   page: ["HTML"]
   section: ["HTML"]
   taxonomy: ["HTML"]

@@ -1,0 +1,26 @@
+
+# JSON representation
+# ===================
+#
+# Add "CROSSWORD_JSON" to the home Page Kind under [outputs.home] in your site config
+# to generate a Lunr index.
+#
+# Example:
+#   [outputs]
+#     home = ["HTML", "LUNR"]
+
+# Required media types
+[mediaTypes."application/json"]
+  suffixes = ["json"]
+
+# Lunr output formats (generates the document list)
+# https://lunrjs.com/guides/getting_started.html#creating-an-index
+[outputFormats.Crossword_JSON]
+  name = "Crossword JSON"
+  mediaType = "application/json"
+  baseName = "export"
+  isPlainText = true
+  rel = "alternate"
+  isHTML = false
+  noUgly = false
+  permalinkable = false

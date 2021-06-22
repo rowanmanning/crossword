@@ -3,4 +3,4 @@ title: Home
 description: Under Construction
 ---
 
-🚧 Under Construction 🚧
+[Export all data as JSON](/export.json).
