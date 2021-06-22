@@ -32,5 +32,27 @@
       "seconds": 41
     },
     "fullTimeInSeconds": 41
-  }
+  },
+  "awards": [
+    {
+      "type": "silver",
+      "text": "You got the second fastest time on a day",
+      "date": "2021-06-21"
+    },
+    {
+      "type": "sub-120",
+      "text": "Completed in less than two minutes",
+      "date": "2021-06-21"
+    },
+    {
+      "type": "sub-60",
+      "text": "Completed in less than a minute",
+      "date": "2021-06-21"
+    },
+    {
+      "type": "sub-45",
+      "text": "Completed in less than 45 seconds",
+      "date": "2021-06-22"
+    }
+  ]
 }

@@ -32,5 +32,17 @@
       "seconds": 14
     },
     "fullTimeInSeconds": 74
-  }
+  },
+  "awards": [
+    {
+      "type": "bronze",
+      "text": "You got the third fastest time on a day",
+      "date": "2021-06-21"
+    },
+    {
+      "type": "sub-120",
+      "text": "Completed in less than two minutes",
+      "date": "2021-06-21"
+    }
+  ]
 }

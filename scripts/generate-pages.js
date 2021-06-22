@@ -64,11 +64,134 @@ async function generatePages() {
 			fullTimeInSeconds: averageInSeconds
 		};
 
+		// Sort times by date
+		person.times.sort(sortByProperty('date'));
+
+		// Calculate a person's awards
+		const awards = [];
+
+		// Work out placements
+		const placements = leaderboards.map(board => {
+			const placement = board.times.find(time => time.name === person.name);
+			return {
+				date: board.date,
+				placement: board.times.indexOf(placement) + 1
+			};
+		});
+
+		// Ignore the most recent date, because it will change over the day
+		placements.pop();
+
+		// Gold
+		const gold = placements.find(({placement}) => placement === 1);
+		if (gold) {
+			awards.push({
+				type: 'gold',
+				text: 'You got the fastest time on a day',
+				date: gold.date
+			});
+		}
+
+		// Silver
+		const silver = placements.find(({placement}) => placement === 2);
+		if (silver) {
+			awards.push({
+				type: 'silver',
+				text: 'You got the second fastest time on a day',
+				date: silver.date
+			});
+		}
+
+		// Bronze
+		const bronze = placements.find(({placement}) => placement === 3);
+		if (bronze) {
+			awards.push({
+				type: 'bronze',
+				text: 'You got the third fastest time on a day',
+				date: bronze.date
+			});
+		}
+
+		// Sub-two-minutes
+		const sub120 = person.times.find(time => time.fullTimeInSeconds < 120);
+		if (sub120) {
+			awards.push({
+				type: 'sub-120',
+				text: 'Completed in less than two minutes',
+				date: sub120.date
+			});
+		}
+
+		// Sub-minute
+		const sub60 = person.times.find(time => time.fullTimeInSeconds < 60);
+		if (sub60) {
+			awards.push({
+				type: 'sub-60',
+				text: 'Completed in less than a minute',
+				date: sub60.date
+			});
+		}
+
+		// Sub-45-seconds
+		const sub45 = person.times.find(time => time.fullTimeInSeconds < 45);
+		if (sub45) {
+			awards.push({
+				type: 'sub-45',
+				text: 'Completed in less than 45 seconds',
+				date: sub45.date
+			});
+		}
+
+		// Sub-30-seconds
+		const sub30 = person.times.find(time => time.fullTimeInSeconds < 30);
+		if (sub30) {
+			awards.push({
+				type: 'sub-30',
+				text: 'Completed in less than 30 seconds',
+				date: sub30.date
+			});
+		}
+
+		// 5-minutes
+		const over300 = person.times.find(time => time.fullTimeInSeconds >= 300);
+		if (over300) {
+			awards.push({
+				type: 'over-300',
+				text: 'Completed in 5 minutes or more',
+				date: over300.date
+			});
+		}
+
+		// Arjun
+		const arjun = (
+			person.times.find(time => time.fullTimeInSeconds === 97) ||
+			person.times.find(time => time.fullTimeInSeconds === 137)
+		);
+		if (arjun) {
+			awards.push({
+				type: 'arjun',
+				text: 'Join us',
+				date: arjun.date
+			});
+		}
+
+		// Nice
+		const nice = person.times.find(time => time.fullTimeInSeconds === 69);
+		if (nice) {
+			awards.push({
+				type: 'nice',
+				text: 'Nice',
+				date: nice.date
+			});
+		}
+
+		// Generate the person page
 		const personFrontMatter = {
 			title: person.name,
-			times: person.times.sort(sortByProperty('date')).reverse(),
+			times: person.times.reverse(),
 			average,
-			best
+			best,
+			awards
 		};
 		await fs.writeFile(`${peopleFolder}/${person.name}.md`, `
 			${JSON.stringify(personFrontMatter, null, '  ')}
