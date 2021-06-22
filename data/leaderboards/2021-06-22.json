@@ -32,6 +32,22 @@
 		"fullTimeInSeconds": 43
 	},
 	{
+		"name": "j-sheps",
+		"time": {
+			"minutes": 0,
+			"seconds": 45
+		},
+		"fullTimeInSeconds": 45
+	},
+	{
+		"name": "Kara",
+		"time": {
+			"minutes": 0,
+			"seconds": 45
+		},
+		"fullTimeInSeconds": 45
+	},
+	{
 		"name": "joelcarr",
 		"time": {
 			"minutes": 1,
@@ -46,11 +62,6 @@
 			"seconds": 29
 		},
 		"fullTimeInSeconds": 89
-	},
-	{
-		"name": "j-sheps",
-		"time": null,
-		"fullTimeInSeconds": null
 	},
 	{
 		"name": "leaf",

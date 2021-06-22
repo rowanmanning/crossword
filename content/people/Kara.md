@@ -1,5 +1,5 @@
 {
-  "title": "j-sheps",
+  "title": "Kara",
   "times": [
     {
       "date": "2021-06-22",
@@ -8,22 +8,14 @@
         "seconds": 45
       },
       "fullTimeInSeconds": 45
-    },
-    {
-      "date": "2021-06-21",
-      "time": {
-        "minutes": 0,
-        "seconds": 49
-      },
-      "fullTimeInSeconds": 49
     }
   ],
   "average": {
     "time": {
       "minutes": 0,
-      "seconds": 47
+      "seconds": 45
     },
-    "fullTimeInSeconds": 47
+    "fullTimeInSeconds": 45
   },
   "best": {
     "date": "2021-06-22",
