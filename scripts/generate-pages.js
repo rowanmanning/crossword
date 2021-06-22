@@ -42,16 +42,18 @@ async function generatePages() {
 	await fs.mkdir(peopleFolder, {recursive: true});
 	for (const person of Object.values(mapOfPeople)) {
 
+		const nonNullTimes = person.times.filter(time => time.time);
+
 		// Work out the person's best time
 		let best = null;
-		for (const time of person.times) {
+		for (const time of nonNullTimes) {
 			if (!best || time.fullTimeInSeconds < best.fullTimeInSeconds) {
 				best = time;
 			}
 		}
 
 		// Work out the person's average time
-		const allTimesInSeconds = person.times.map(time => time.fullTimeInSeconds);
+		const allTimesInSeconds = nonNullTimes.map(time => time.fullTimeInSeconds);
 		const sumOfAllTimes = allTimesInSeconds.reduce((total, time) => total + time, 0);
 		const averageInSeconds = Math.ceil(sumOfAllTimes / allTimesInSeconds.length);
 		const average = {

@@ -17,14 +17,17 @@
   ],
   "average": {
     "time": {
-      "minutes": 1,
-      "seconds": 8
+      "minutes": 2,
+      "seconds": 15
     },
-    "fullTimeInSeconds": 68
+    "fullTimeInSeconds": 135
   },
   "best": {
-    "date": "2021-06-22",
-    "time": null,
-    "fullTimeInSeconds": null
+    "date": "2021-06-21",
+    "time": {
+      "minutes": 2,
+      "seconds": 15
+    },
+    "fullTimeInSeconds": 135
   }
 }
