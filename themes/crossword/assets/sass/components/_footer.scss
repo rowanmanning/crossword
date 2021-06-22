@@ -4,6 +4,10 @@
 	@extend %base-typography;
 }
 
+.footer a {
+	@extend %link;
+}
+
 // Footer inner element
 .footer__inner {
 	@extend %layout-inner;
