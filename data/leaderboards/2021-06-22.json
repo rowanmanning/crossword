@@ -8,6 +8,14 @@
 		"fullTimeInSeconds": 39
 	},
 	{
+		"name": "Rowan M",
+		"time": {
+			"minutes": 0,
+			"seconds": 41
+		},
+		"fullTimeInSeconds": 41
+	},
+	{
 		"name": "varjmes",
 		"time": {
 			"minutes": 0,
@@ -37,11 +45,6 @@
 	},
 	{
 		"name": "leaf",
-		"time": null,
-		"fullTimeInSeconds": null
-	},
-	{
-		"name": "Rowan M",
 		"time": null,
 		"fullTimeInSeconds": null
 	}
