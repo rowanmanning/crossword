@@ -56,16 +56,19 @@
 		"fullTimeInSeconds": 74
 	},
 	{
+		"name": "leaf",
+		"time": {
+			"minutes": 1,
+			"seconds": 22
+		},
+		"fullTimeInSeconds": 82
+	},
+	{
 		"name": "binaryberry",
 		"time": {
 			"minutes": 1,
 			"seconds": 29
 		},
 		"fullTimeInSeconds": 89
-	},
-	{
-		"name": "leaf",
-		"time": null,
-		"fullTimeInSeconds": null
 	}
 ]
