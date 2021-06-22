@@ -32,17 +32,23 @@
 		"fullTimeInSeconds": 43
 	},
 	{
+		"name": "joelcarr",
+		"time": {
+			"minutes": 1,
+			"seconds": 14
+		},
+		"fullTimeInSeconds": 74
+	},
+	{
 		"name": "binaryberry",
-		"time": null,
-		"fullTimeInSeconds": null
+		"time": {
+			"minutes": 1,
+			"seconds": 29
+		},
+		"fullTimeInSeconds": 89
 	},
 	{
 		"name": "j-sheps",
-		"time": null,
-		"fullTimeInSeconds": null
-	},
-	{
-		"name": "joelcarr",
 		"time": null,
 		"fullTimeInSeconds": null
 	},
