@@ -1,0 +1,13 @@
+
+$layout-width-max: 720px;
+$layout-width-mobile: 640px;
+$layout-width-small-mobile: 480px;
+
+:root {
+
+	// Define layout width values
+	--layout-width-max: #{$layout-width-max};
+	--layout-width-mobile: #{$layout-width-mobile};
+	--layout-width-small-mobile: #{$layout-width-small-mobile};
+
+}

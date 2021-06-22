@@ -1,0 +1,17 @@
+
+// Hidden block
+%hidden,
+.hidden {
+	position: absolute;
+	left: -100000px;
+	top: auto;
+	width: 1px;
+	height: 1px;
+	overflow: hidden;
+}
+
+// Hidden fully block
+%hidden-fully,
+.hidden-fully {
+	display: none !important;
+}

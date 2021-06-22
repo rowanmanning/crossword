@@ -1,0 +1,14 @@
+
+// Inner layout placeholder
+%layout-inner {
+	max-width: var(--layout-width-max);
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: var(--spacing-line);
+	padding-right: var(--spacing-line);
+
+	@media (max-width: $layout-width-small-mobile) {
+		padding-left: var(--spacingvalue-m);
+		padding-right: var(--spacingvalue-m);
+	}
+}

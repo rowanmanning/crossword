@@ -1,14 +1,15 @@
 
 {{ define "main" }}
 
-	<h1>{{ .Title }}</h1>
-
-	{{ if .Content }}
-		{{ .Content }}
-	{{ end }}
+	<div class="content-body">
+		<h1>{{ .Title }}</h1>
+		{{ if .Content }}
+			{{ .Content }}
+		{{ end }}
+	</div>
 
 	{{ if len .Pages }}
-		<ol>
+		<ol class="content-list">
 			{{ range .Pages.ByTitle }}
 				<li>
 					<a href="{{ .RelPermalink }}">{{ .Title }}</a>

@@ -1,0 +1,174 @@
+
+// Content body block
+.content-body {
+	@extend %base-typography;
+
+	// Reset default margins
+	blockquote, caption, details, dl, figure, h1, h2, h3, h4, h5, h6, hr, ol, p, pre, table, ul {
+		margin-top: 0;
+		margin-bottom: var(--spacing-line);
+	}
+
+	// Caption element
+	caption {
+		margin-bottom: var(--spacing-half-line);
+	}
+
+	// Remove bottom margin from nested list elements
+	ol, ul {
+		padding-left: var(--spacing-onepointfive-line);
+		ol, ul {
+			margin-bottom: 0;
+		}
+	}
+
+	// Reset heading element font weights
+	caption, dt, h6, h5, h4, h3, h2, h1, th {
+		font-weight: normal;
+	}
+
+	// Heading level 6 elements
+	h6 {
+		font-size: var(--font-size-h6);
+		line-height: var(--line-height-h6);
+		font-weight: bold;
+	}
+
+	// Heading level 5 elements
+	h5 {
+		font-size: var(--font-size-h5);
+		line-height: var(--line-height-h5);
+		font-weight: bold;
+	}
+
+	// Heading level 4 elements
+	h4 {
+		font-family: var(--font-family-heading);
+		font-size: var(--font-size-h4);
+		line-height: var(--line-height-h4);
+	}
+
+	// Heading level 3 elements
+	h3 {
+		font-family: var(--font-family-heading);
+		font-size: var(--font-size-h3);
+		line-height: var(--line-height-h3);
+	}
+
+	// Heading level 2 elements
+	h2 {
+		border-bottom: calc(var(--spacing-rule) / 2) solid var(--colorvalue-white-dark);
+		clear: both;
+		font-family: var(--font-family-heading);
+		font-size: var(--font-size-subheading);
+		line-height: var(--line-height-subheading);
+		margin-top: var(--spacing-double-line);
+		padding-bottom: var(--spacing-rule);
+
+		a,
+		a:visited {
+			text-decoration: none;
+			color: inherit;
+		}
+	}
+
+	// Heading level 1 elements
+	h1 {
+		font-size: var(--font-size-title);
+		line-height: var(--line-height-title);
+		font-family: var(--font-family-heading);
+	}
+
+	// Description list elements
+	dt {
+		font-weight: bold;
+	}
+	dd {
+		padding-left: var(--spacing-line);
+		margin-left: 0;
+		margin-bottom: var(--spacing-half-line);
+	}
+
+	// Table elements
+	th {
+		text-align: left;
+		font-weight: bold;
+	}
+	caption {
+		font-weight: bold;
+		text-align: left;
+	}
+
+	// Link elements
+	a {
+		@extend %link;
+	}
+
+	// Text-level semantic elements
+	abbr {
+		cursor: help;
+	}
+	cite {
+		font-style: italic;
+	}
+	figcaption, small, sub, sup {
+		font-size: var(--font-size-small);
+		line-height: var(--line-height-small);
+	}
+	mark {
+		background-color: var(--colorvalue-yellow);
+	}
+	q {
+		font-style: italic;
+
+		&::before {
+			content: "“";
+		}
+		&::after {
+			content: "”";
+		}
+	}
+
+	// Rule elements
+	hr {
+		border: none;
+		border-top: var(--spacing-rule) solid var(--colorvalue-gray-light);
+		color: var(--colorvalue-gray-light);
+		height: 0;
+		margin-bottom: var(--spacing-double-line);
+	}
+
+	// Figure elements
+	figure {
+		margin-left: 0;
+		margin-right: 0;
+	}
+
+	// Code elements
+	code {
+		padding: calc(var(--spacing-rule) / 2) var(--spacing-rule);
+		background-color: var(--colorvalue-gray-light);
+		border-radius: var(--spacing-rule);
+		font-family: var(--font-family-monospace);
+	}
+	pre {
+		overflow: hidden;
+	
+		> code {
+			display: block;
+			padding: var(--spacing-half-line);
+			background-color: var(--colorvalue-gray);
+			border: solid var(--spacing-rule) var(--colorvalue-gray-light);
+			color: var(--colorvalue-gray-light);
+			overflow: auto;
+		}
+	}
+
+	// Blockquote element
+	blockquote {
+		--quote-border-color: var(--colorvalue-gray-light);
+
+		border-left: calc(var(--spacing-rule) * 0.5) solid var(--quote-border-color);
+		padding-left: calc(var(--spacing-line) - (var(--spacing-rule) * 0.5));
+	}
+}

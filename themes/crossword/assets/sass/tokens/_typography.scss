@@ -1,0 +1,32 @@
+
+:root {
+
+	// Define font family variables
+	--font-family-body: Verdana, Geneva, Tahoma, sans-serif;
+	--font-family-heading: "Roboto Slab", Georgia, serif;
+	--font-family-monospace: Courier, "Courier New", "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+
+	// Define font size variables
+	--font-size-body: 16px;
+	--font-size-small: 14px;
+	--font-size-xs: 12px;
+	--font-size-title: 32px;
+	--font-size-subheading: 24px;
+	--font-size-h3: 22px;
+	--font-size-h4: 20px;
+	--font-size-h5: 16px;
+	--font-size-h6: 16px;
+	--font-size-hero: 48px;
+
+	// Define line height variables
+	--line-height-body: var(--spacing-line);
+	--line-height-xs: var(--spacing-three-quarter-line);
+	--line-height-small: var(--spacing-line);
+	--line-height-title: var(--spacing-double-line);
+	--line-height-subheading: var(--spacing-line);
+	--line-height-h3: var(--spacing-line);
+	--line-height-h4: var(--spacing-line);
+	--line-height-h5: var(--spacing-line);
+	--line-height-h6: var(--spacing-line);
+
+}

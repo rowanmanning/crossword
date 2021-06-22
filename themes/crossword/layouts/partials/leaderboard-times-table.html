@@ -1,25 +1,27 @@
 
 {{ if len .Params.times }}
-	<table>
-		<thead>
-			<tr>
-				<th>Person</th>
-				<th>Time</th>
-			</tr>
-		</thead>
-		<tbody>
-			{{ range .Params.times }}
+	<div class="table table--wide content-body">
+		<table class="leaderboard table__data table--striped">
+			<thead>
 				<tr>
-					<td><a href="/people/{{ .name | urlize }}/">{{ .name }}</a></td>
-					<td>
-						{{ if .time }}
-							{{ .time.minutes }}:{{ if lt .time.seconds 10 }}0{{ end }}{{ .time.seconds }}
-						{{ else }}
-							-
-						{{ end }}
-					</td>
+					<th>Person</th>
+					<th>Time</th>
 				</tr>
-			{{ end }}
-		</tbody>
-	</table>
+			</thead>
+			<tbody>
+				{{ range .Params.times }}
+					<tr>
+						<td><a href="/people/{{ .name | urlize }}/">{{ .name }}</a></td>
+						<td>
+							{{ if .time }}
+								{{ .time.minutes }}:{{ if lt .time.seconds 10 }}0{{ end }}{{ .time.seconds }}
+							{{ else }}
+								-
+							{{ end }}
+						</td>
+					</tr>
+				{{ end }}
+			</tbody>
+		</table>
+	</div>
 {{ end }}

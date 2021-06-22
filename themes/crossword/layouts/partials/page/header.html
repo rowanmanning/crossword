@@ -1,23 +1,25 @@
 
-<header role="banner">
+<header role="banner" class="header">
+	<div class="header__inner">
 
-	<a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+		<a href="{{ .Site.BaseURL }}" class="header__site-name">{{ .Site.Title }}</a>
 
-	<nav role="navigation">
-		<ul>
+		<nav role="navigation" class="header__navigation">
+			<ul>
 
-			{{ $currentPage := . }}
-			{{ range .Site.Menus.main }}
-				{{ $isMenuCurrent := $currentPage.IsMenuCurrent "main" . }}
-				{{ $hasMenuCurrent := $currentPage.HasMenuCurrent "main" . }}
-				{{ $parentIsCurrent := false }}
-				{{ if $currentPage.Parent }}{{ $parentIsCurrent = $currentPage.Parent.IsMenuCurrent "main" . }}{{ end }}
-				<li {{if or $isMenuCurrent $hasMenuCurrent $parentIsCurrent }}aria-selected="true"{{end}}>
-					<a href="{{ .URL }}">{{ .Name }}</a>
-				</li>
-			{{ end }}
+				{{ $currentPage := . }}
+				{{ range .Site.Menus.main }}
+					{{ $isMenuCurrent := $currentPage.IsMenuCurrent "main" . }}
+					{{ $hasMenuCurrent := $currentPage.HasMenuCurrent "main" . }}
+					{{ $parentIsCurrent := false }}
+					{{ if $currentPage.Parent }}{{ $parentIsCurrent = $currentPage.Parent.IsMenuCurrent "main" . }}{{ end }}
+					<li class="header__navigation-item {{if or $isMenuCurrent $hasMenuCurrent $parentIsCurrent }}header__navigation-item--selected{{end}}">
+						<a href="{{ .URL }}">{{ .Name }}</a>
+					</li>
+				{{ end }}
 
-		</ul>
-	</nav>
+			</ul>
+		</nav>
 
+	</div>
 </header>

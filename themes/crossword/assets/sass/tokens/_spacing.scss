@@ -1,0 +1,23 @@
+
+:root {
+
+	// Define spacing values
+	--spacingvalue-xxs: 4px;
+	--spacingvalue-xs: 8px;
+	--spacingvalue-s: 12px;
+	--spacingvalue-m: 16px;
+	--spacingvalue-l: 24px;
+	--spacingvalue-xl: 32px;
+	--spacingvalue-xxl: 36px;
+	--spacingvalue-xxxl: 48px;
+	--spacingvalue-xxxxl: 96px;
+
+	// Define spacing use-cases
+	--spacing-line: var(--spacingvalue-l);
+	--spacing-half-line: calc(var(--spacing-line) * 0.5);
+	--spacing-three-quarter-line: calc(var(--spacing-line) * 0.75);
+	--spacing-onepointfive-line: calc(var(--spacing-line) * 1.5);
+	--spacing-double-line: calc(var(--spacing-line) * 2);
+	--spacing-rule: var(--spacingvalue-xs);
+
+}

@@ -1,0 +1,96 @@
+
+// Header block
+.header {
+	@extend %base-typography;
+}
+
+// Header link style overrides
+.header a {
+	color: inherit;
+	text-decoration: none;
+	display: block;
+
+	&:hover {
+		text-decoration: underline;
+	}
+}
+
+// Header inner element
+.header__inner {
+	@extend %layout-inner;
+	display: flex;
+	padding-bottom: var(--spacingvalue-xs);
+	padding-top: var(--spacingvalue-xs);
+	position: relative;
+
+	@media (max-width: $layout-width-mobile) {
+		flex-direction: column;
+	}
+}
+
+// Header site name element
+.header__site-name {
+	font-family: var(--font-family-heading);
+	font-size: 20px;
+	font-weight: normal;
+	margin-right: var(--spacingvalue-xs);
+	padding: var(--spacingvalue-xxs) 0;
+
+	@media (max-width: $layout-width-mobile) {
+		margin-bottom: var(--spacingvalue-xxs);
+		margin-right: 0;
+	}
+}
+
+// Header navigation element
+.header__navigation {
+	flex: 1;
+
+	@media (max-width: $layout-width-mobile) {
+		font-size: var(--font-size-small);
+		margin-left: calc(-1 * var(--spacingvalue-xxs));
+		margin-bottom: var(--spacingvalue-xxs);
+	}
+
+	> ul {
+		display: flex;
+		list-style: none;
+		justify-content: flex-end;
+		margin: 0;
+		padding: 0;
+
+		@media (max-width: $layout-width-mobile) {
+			justify-content: flex-start;
+			flex-wrap: wrap;
+		}
+
+		> li:not(:first-child) {
+			margin-left: var(--spacingvalue-xxs);
+		}
+	}
+}
+
+// Header navigation item element
+.header__navigation-item {
+	> a {
+		padding: var(--spacingvalue-xxs) var(--spacingvalue-xs);
+		border-radius: var(--spacingvalue-xxs);
+
+		@media (max-width: $layout-width-mobile) {
+			padding: 0 var(--spacingvalue-xxs);
+		}
+
+		&:hover {
+			background-color: var(--colorvalue-white-dark);
+		}
+	}
+}
+
+// Header navigation item element, "selected" modifier
+.header__navigation-item--selected {
+	> a {
+		&, &:hover {
+			background-color: var(--colorvalue-white-dark);
+		}
+	}
+}

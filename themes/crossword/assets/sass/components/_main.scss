@@ -1,0 +1,13 @@
+
+// Main block
+.main {
+	@extend %base-typography;
+}
+
+// Main inner element
+.main__inner {
+	@extend %layout-inner;
+	padding-bottom: var(--spacingvalue-xxxl);
+	padding-top: var(--spacingvalue-xxxl);
+	overflow: hidden;
+}

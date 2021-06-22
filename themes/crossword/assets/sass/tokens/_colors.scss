@@ -1,0 +1,18 @@
+
+:root {
+
+	// Define color values (for site UI)
+	--colorvalue-gray: #333;
+	--colorvalue-gray-light: #ccc;
+	--colorvalue-blue: #155587;
+	--colorvalue-purple: #7f629c;
+	--colorvalue-white: #fff;
+	--colorvalue-white-dark: #eee;
+
+	// Define color use-cases
+	--color-site-background: var(--colorvalue-cream);
+	--color-content-text: var(--colorvalue-gray);
+	--color-link: var(--colorvalue-green-dark);
+	--color-link-visited: var(--colorvalue-purple);
+
+}

@@ -1,0 +1,45 @@
+
+// Table block
+.table {
+	--table-border: 1px solid var(--colorvalue-gray-light);
+
+	overflow: auto;
+	margin-bottom: var(--spacing-line);
+	
+	> table {
+		margin: 0;
+	}
+}
+
+// Table data element
+.table__data {
+	border-bottom: var(--table-border);
+	border-right: var(--table-border);
+	border-collapse: collapse;
+	
+	th {
+		background-color: var(--colorvalue-gray-light);
+	}
+
+	td, th {
+		padding: var(--spacing-rule);
+		border-top: var(--table-border);
+		border-left: var(--table-border);
+	}
+
+	tfoot {
+		td, th {
+			border-top: 2px solid var(--colorvalue-gray-light);
+		}
+	}
+}
+
+// Table block, "wide" modifier
+.table--wide .table__data {
+	min-width: 100%;
+}
+
+// Table block, "striped" modifier
+.table--striped tbody tr:nth-child(odd) td {
+	background-color: var(--colorvalue-white-dark);
+}

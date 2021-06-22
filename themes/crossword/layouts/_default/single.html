@@ -1,10 +1,11 @@
 
 {{ define "main" }}
 
-	<h1>{{ .Title }}</h1>
-
-	{{ if .Content }}
-		{{ .Content }}
-	{{ end }}
+	<div class="content-body">
+		<h1>{{ .Title }}</h1>
+		{{ if .Content }}
+			{{ .Content }}
+		{{ end }}
+	</div>
 
 {{ end }}
