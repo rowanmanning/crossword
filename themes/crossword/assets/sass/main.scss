@@ -18,6 +18,7 @@ $site-base-url: "{{ "/" | relURL }}";
 @import "shared/typography";
 
 // Components
+@import "components/award-list";
 @import "components/content-body";
 @import "components/content-list";
 @import "components/footer";

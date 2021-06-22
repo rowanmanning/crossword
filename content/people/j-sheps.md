@@ -36,7 +36,7 @@
   "awards": [
     {
       "type": "gold",
-      "text": "You got the fastest time on a day",
+      "text": "The fastest time on a day",
       "date": "2021-06-21"
     },
     {

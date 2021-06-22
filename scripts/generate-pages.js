@@ -87,7 +87,7 @@ async function generatePages() {
 		if (gold) {
 			awards.push({
 				type: 'gold',
-				text: 'You got the fastest time on a day',
+				text: 'The fastest time on a day',
 				date: gold.date
 			});
 		}
@@ -97,7 +97,7 @@ async function generatePages() {
 		if (silver) {
 			awards.push({
 				type: 'silver',
-				text: 'You got the second fastest time on a day',
+				text: 'The second fastest time on a day',
 				date: silver.date
 			});
 		}
@@ -107,7 +107,7 @@ async function generatePages() {
 		if (bronze) {
 			awards.push({
 				type: 'bronze',
-				text: 'You got the third fastest time on a day',
+				text: 'The third fastest time on a day',
 				date: bronze.date
 			});
 		}

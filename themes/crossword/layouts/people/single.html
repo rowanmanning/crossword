@@ -17,6 +17,26 @@
 		</p>
 	</div>
 
+	{{ if len .Params.awards }}
+		<div class="content-body">
+			<h2 id="awards">Awards</h2>
+		</div>
+		<ul class="award-list">
+			{{ range .Params.awards }}
+				<li class="award-list__award">
+					<img src="/awards/{{ .type }}.svg" alt="{{ .text }}" class="award-list__award-icon" />
+					<span>
+						{{ .text }}.<br/>
+						<a href="/leaderboards/{{ .date }}/">{{ dateFormat "Jan 2 2006" .date }}</a>
+					</span>
+				</li>
+			{{ end }}
+		</ul>
+	{{ end }}
+
+	<div class="content-body">
+		<h2 id="times">Times</h2>
+	</div>
 	{{- partial "person-times-table.html" . -}}
 
 {{ end }}

@@ -36,7 +36,7 @@
   "awards": [
     {
       "type": "bronze",
-      "text": "You got the third fastest time on a day",
+      "text": "The third fastest time on a day",
       "date": "2021-06-21"
     },
     {

@@ -1,0 +1,32 @@
+
+// Award list block
+.award-list {
+	@extend %base-typography;
+
+	list-style: none;
+	padding-left: 0;
+	margin-left: 0;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+// Award list award element
+.award-list__award {
+	font-size: var(--font-size-small);
+	width: 33%;
+	display: flex;
+	align-items: flex-start;
+	box-sizing: border-box;
+	padding-right: var(--spacing-line);
+	margin-bottom: var(--spacing-line);
+
+	@media (max-width: $layout-width-mobile) {
+		width: 50%;
+	}
+}
+
+// Award list award icon element
+.award-list__award-icon {
+	display: block;
+	margin-right: var(--spacing-half-line);
+}
