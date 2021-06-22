@@ -12,7 +12,7 @@
 		<ol class="content-list">
 			{{ range .Pages.ByTitle }}
 				<li>
-					<a href="{{ .RelPermalink }}">{{ .Title }}</a>
+					<a href="{{ .RelPermalink }}" class="link">{{ .Title }}</a>
 				</li>
 			{{ end }}
 		</ol>
