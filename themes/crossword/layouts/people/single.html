@@ -26,8 +26,11 @@
 				<li class="award-list__award">
 					<img src="/awards/{{ .type }}.svg" alt="{{ .text }}" class="award-list__award-icon" />
 					<span>
-						{{ .text }}.<br/>
-						<a href="/leaderboards/{{ .date }}/#person-{{ $.Title | urlize }}">{{ dateFormat "Jan 2 2006" .date }}</a>
+						{{ .text }}.
+						{{ if .date }}
+							<br/>
+							<a href="/leaderboards/{{ .date }}/#person-{{ $.Title | urlize }}">{{ dateFormat "Jan 2 2006" .date }}</a>
+						{{ end }}
 					</span>
 				</li>
 			{{ end }}

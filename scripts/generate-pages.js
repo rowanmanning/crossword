@@ -82,13 +82,28 @@ async function generatePages() {
 		// Ignore the most recent date, because it will change over the day
 		placements.pop();
 
+		// Get placement numbers for streak calculation
+		const placementNumbers = placements.map(({placement}) => `[${placement}]`).join('');
+
 		// Gold
 		const gold = placements.find(({placement}) => placement === 1);
 		if (gold) {
 			awards.push({
 				type: 'gold',
-				text: 'The fastest time on a day',
+				text: 'The fastest time on a single day',
 				date: gold.date
+			});
+		}
+		if (placementNumbers.includes('[1][1]')) {
+			awards.push({
+				type: 'double-gold',
+				text: 'The fastest time two days in a row'
+			});
+		}
+		if (placementNumbers.includes('[1][1][1]')) {
+			awards.push({
+				type: 'triple-gold',
+				text: 'The fastest time three days in a row'
 			});
 		}
 
@@ -97,8 +112,20 @@ async function generatePages() {
 		if (silver) {
 			awards.push({
 				type: 'silver',
-				text: 'The second fastest time on a day',
+				text: 'The second fastest time on a single day',
 				date: silver.date
+			});
+		}
+		if (placementNumbers.includes('[2][2]')) {
+			awards.push({
+				type: 'double-silver',
+				text: 'The second fastest time two days in a row'
+			});
+		}
+		if (placementNumbers.includes('[2][2][2]')) {
+			awards.push({
+				type: 'triple-silver',
+				text: 'The second fastest time three days in a row'
 			});
 		}
 
@@ -107,8 +134,20 @@ async function generatePages() {
 		if (bronze) {
 			awards.push({
 				type: 'bronze',
-				text: 'The third fastest time on a day',
+				text: 'The third fastest time on a single day',
 				date: bronze.date
+			});
+		}
+		if (placementNumbers.includes('[3][3]')) {
+			awards.push({
+				type: 'double-bronze',
+				text: 'The third fastest time two days in a row'
+			});
+		}
+		if (placementNumbers.includes('[3][3][3]')) {
+			awards.push({
+				type: 'triple-bronze',
+				text: 'The third fastest time three days in a row'
 			});
 		}
 

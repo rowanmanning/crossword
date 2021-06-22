@@ -36,7 +36,7 @@
   "awards": [
     {
       "type": "silver",
-      "text": "The second fastest time on a day",
+      "text": "The second fastest time on a single day",
       "date": "2021-06-21"
     },
     {
