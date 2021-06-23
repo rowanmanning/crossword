@@ -126,6 +126,16 @@ module.exports = class Awards {
 			});
 		}
 
+		// Sub-20-seconds
+		const sub20 = times.find(({time}) => time.totalSeconds !== null && time.totalSeconds < 20);
+		if (sub20) {
+			awards.push({
+				type: 'sub-20',
+				text: 'Completed in less than 20 seconds',
+				leaderboard: sub20.leaderboard.date
+			});
+		}
+
 		// 5-minutes
 		const over300 = times.find(({time}) => time.totalSeconds >= 300);
 		if (over300) {
