@@ -1,0 +1,55 @@
+
+// Person card block
+.person-card {
+	@extend %base-typography;
+
+	a {
+		@extend %link;
+	}
+}
+
+// Person card name element
+.person-card__name {
+	color: inherit !important;
+	text-decoration: none;
+	font-family: var(--font-family-heading);
+	font-size: var(--font-size-h3);
+	line-height: var(--font-size-h3);
+	margin-bottom: var(--spacingvalue-xs);
+	display: block;
+	
+	&:hover {
+		text-decoration: underline;
+	}
+}
+
+// Person card meta and awards element
+.person-card__meta,
+.person-card__awards {
+	display: flex;
+	flex-wrap: wrap;
+	list-style: none;
+	margin: 0;
+	margin-bottom: var(--spacingvalue-xs);
+	padding: 0;
+
+	> li {
+		display: inline-block;
+		margin-right: var(--spacingvalue-xs);
+	}
+}
+
+// Person card meta element
+.person-card__meta {
+	> li:not(:last-child):after {
+		content: "/";
+		display: inline-block;
+		margin-left: var(--spacingvalue-xs);
+		color: var(--colorvalue-gray-light);
+	}
+}
+
+// Person card award icon element
+.person-card__award-icon {
+	width: var(--spacing-line)
+}

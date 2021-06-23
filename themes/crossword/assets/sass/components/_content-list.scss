@@ -11,3 +11,25 @@
 		display: block;
 	}
 }
+
+// Content list "tiled" modifier
+.content-list--tiled {
+	display: flex;
+	flex-wrap: wrap;
+
+	> li {
+		width: 50%;
+		box-sizing: border-box;
+		margin-bottom: var(--spacing-line);
+		padding-right: var(--spacing-line);
+
+		&:nth-child(even) {
+			padding-right: 0;
+		}
+
+		@media (max-width: $layout-width-mobile) {
+			width: 100%;
+			padding-right: 0;
+		}
+	}
+}

@@ -1,0 +1,41 @@
+
+{{ define "main" }}
+
+	<div class="content-body">
+		<h1>{{ .Title }}</h1>
+		{{ if .Content }}
+			{{ .Content }}
+		{{ end }}
+	</div>
+
+	{{ if len .Pages }}
+		<ol class="content-list content-list--tiled">
+			{{ range .Pages.ByTitle }}
+				{{ $permalink := .RelPermalink }}
+				<li class="person-card">
+					<a href="{{ $permalink }}" class="person-card__name">{{ .Title }}</a>
+					<ul class="person-card__meta">
+						{{ with .Params.best }}
+							<li>Best {{ .time.minutes }}:{{ if lt .time.seconds 10 }}0{{ end }}{{ .time.seconds }}</li>
+						{{ end }}
+						{{ if .Params.average.fullTimeInSeconds }}
+							{{ with .Params.average.time }}
+								<li>Average {{ .minutes }}:{{ if lt .seconds 10 }}0{{ end }}{{ .seconds }}</li>
+							{{ end }}
+						{{ end }}
+					</ul>
+					<ul class="person-card__awards">
+						{{ range .Params.awards }}
+							<li class="person-card__award">
+								<a href="{{ $permalink }}#award-{{ .type }}">
+									<img src="/awards/{{ .type }}.svg" alt="{{ .text }}" class="person-card__award-icon" title="{{ .text }}" />
+								</a>
+							</li>
+						{{ end }}
+					</ul>
+				</li>
+			{{ end }}
+		</ol>
+	{{ end }}
+
+{{ end }}

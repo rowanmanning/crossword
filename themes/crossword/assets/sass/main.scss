@@ -26,4 +26,5 @@ $site-base-url: "{{ "/" | relURL }}";
 @import "components/header";
 @import "components/main";
 @import "components/page";
+@import "components/person-card";
 @import "components/table";

@@ -23,7 +23,7 @@
 		</div>
 		<ul class="award-list">
 			{{ range .Params.awards }}
-				<li class="award-list__award">
+				<li class="award-list__award" id="award-{{ .type }}">
 					<img src="/awards/{{ .type }}.svg" alt="{{ .text }}" class="award-list__award-icon" />
 					<span>
 						{{ .text }}.
