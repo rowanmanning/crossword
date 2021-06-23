@@ -9,13 +9,27 @@
 	},
 	{
 		"name": "Ania",
-		"time": null,
-		"fullTimeInSeconds": null
+		"time": {
+			"minutes": 1,
+			"seconds": 1
+		},
+		"fullTimeInSeconds": 61
 	},
 	{
 		"name": "apaleslimghost",
-		"time": null,
-		"fullTimeInSeconds": null
+		"time": {
+			"minutes": 1,
+			"seconds": 24
+		},
+		"fullTimeInSeconds": 84
+	},
+	{
+		"name": "joelcarr",
+		"time": {
+			"minutes": 2,
+			"seconds": 25
+		},
+		"fullTimeInSeconds": 145
 	},
 	{
 		"name": "binaryberry",
@@ -24,11 +38,6 @@
 	},
 	{
 		"name": "j-sheps",
-		"time": null,
-		"fullTimeInSeconds": null
-	},
-	{
-		"name": "joelcarr",
 		"time": null,
 		"fullTimeInSeconds": null
 	},

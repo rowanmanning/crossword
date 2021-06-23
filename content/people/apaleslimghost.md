@@ -3,8 +3,11 @@
   "times": [
     {
       "date": "2021-06-23",
-      "time": null,
-      "fullTimeInSeconds": null
+      "time": {
+        "minutes": 1,
+        "seconds": 24
+      },
+      "fullTimeInSeconds": 84
     },
     {
       "date": "2021-06-22",
@@ -17,10 +20,10 @@
   ],
   "average": {
     "time": {
-      "minutes": 0,
-      "seconds": 45
+      "minutes": 1,
+      "seconds": 5
     },
-    "fullTimeInSeconds": 45
+    "fullTimeInSeconds": 65
   },
   "best": {
     "date": "2021-06-22",
