@@ -8,6 +8,10 @@
 	margin-left: 0;
 	display: flex;
 	flex-wrap: wrap;
+
+	a {
+		@extend %link;
+	}
 }
 
 // Award list award element
