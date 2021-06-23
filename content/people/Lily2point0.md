@@ -3,8 +3,11 @@
   "times": [
     {
       "date": "2021-06-23",
-      "time": null,
-      "fullTimeInSeconds": null
+      "time": {
+        "minutes": 0,
+        "seconds": 51
+      },
+      "fullTimeInSeconds": 51
     },
     {
       "date": "2021-06-22",
@@ -26,9 +29,9 @@
   "average": {
     "time": {
       "minutes": 1,
-      "seconds": 5
+      "seconds": 1
     },
-    "fullTimeInSeconds": 65
+    "fullTimeInSeconds": 61
   },
   "best": {
     "date": "2021-06-22",
@@ -58,11 +61,6 @@
       "type": "sub-45",
       "text": "Completed in less than 45 seconds",
       "date": "2021-06-22"
-    },
-    {
-      "type": "sub-30",
-      "text": "Completed in less than 30 seconds",
-      "date": "2021-06-23"
     }
   ]
 }

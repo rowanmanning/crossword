@@ -1,5 +1,13 @@
 [
 	{
+		"name": "Lily2point0",
+		"time": {
+			"minutes": 0,
+			"seconds": 51
+		},
+		"fullTimeInSeconds": 51
+	},
+	{
 		"name": "Ania",
 		"time": null,
 		"fullTimeInSeconds": null
@@ -26,11 +34,6 @@
 	},
 	{
 		"name": "leaf",
-		"time": null,
-		"fullTimeInSeconds": null
-	},
-	{
-		"name": "Lily2point0",
 		"time": null,
 		"fullTimeInSeconds": null
 	},
