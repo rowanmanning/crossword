@@ -10,7 +10,8 @@
 
 	{{ if len .Pages }}
 		<ol class="content-list content-list--tiled">
-			{{ range .Pages.ByTitle }}
+			{{ $pages := sort .Pages (.Params.sort.property | default "Title") (.Params.sort.direction | default "asc") }}
+			{{ range $pages }}
 				{{ $permalink := .RelPermalink }}
 				<li class="person-card">
 					<a href="{{ $permalink }}" class="person-card__name">{{ .Title }}</a>

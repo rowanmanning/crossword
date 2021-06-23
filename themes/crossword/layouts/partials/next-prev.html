@@ -1,12 +1,40 @@
 
-{{ with .NextInSection }}
-	<a href="{{ .RelPermalink }}" title="{{ .Title }}" class="main__nav main__nav--next">
-		<span class="hidden">Next page</span>
-	</a>
+{{ $currentPage := . }}
+{{ if .Section }}
+
+	{{- $sectionParent := .Site.GetPage "section" .Section -}}
+	{{- $pagesInSection := (
+		sort
+		(
+			where
+			(where .Site.Pages "Section" .Section)
+			"Kind"
+			"page"
+		)
+		($sectionParent.Params.sort.property | default "Title")
+		($sectionParent.Params.sort.direction | default "asc")
+	) -}}
+
+	{{- range $index, $page := $pagesInSection -}}
+		{{- if eq $page $currentPage -}}
+			{{ if ne $index 0 }}
+				{{ $previousPage := index $pagesInSection (sub $index 1) }}
+				{{ with $previousPage }}
+					<a href="{{ .RelPermalink }}" title="{{ .Title }}" class="main__nav main__nav--prev">
+						<span class="hidden">Previous page</span>
+					</a>
+				{{ end }}
+			{{ end }}
+			{{ if ne $index (sub (len $pagesInSection) 1) }}
+				{{ $nextPage := index $pagesInSection (add $index 1) }}
+				{{ with $nextPage }}
+					<a href="{{ .RelPermalink }}" title="{{ .Title }}" class="main__nav main__nav--next">
+						<span class="hidden">Next page</span>
+					</a>
+				{{ end }}
+			{{ end }}
+		{{- end -}}
+	{{- end -}}
+
 {{ end }}
 
-{{ with .PrevInSection }}
-	<a href="{{ .RelPermalink }}" title="{{ .Title }}" class="main__nav main__nav--prev">
-		<span class="hidden">Previous page</span>
-	</a>
-{{ end }}
