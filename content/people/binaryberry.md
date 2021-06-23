@@ -1,51 +1,52 @@
 {
   "title": "binaryberry",
+  "name": "binaryberry",
   "times": [
     {
-      "date": "2021-06-23",
+      "leaderboard": "2021-06-23",
       "time": {
         "minutes": 2,
-        "seconds": 10
-      },
-      "fullTimeInSeconds": 130
+        "seconds": 10,
+        "totalSeconds": 130
+      }
     },
     {
-      "date": "2021-06-22",
+      "leaderboard": "2021-06-22",
       "time": {
         "minutes": 1,
-        "seconds": 29
-      },
-      "fullTimeInSeconds": 89
+        "seconds": 29,
+        "totalSeconds": 89
+      }
     },
     {
-      "date": "2021-06-21",
+      "leaderboard": "2021-06-21",
       "time": {
         "minutes": 2,
-        "seconds": 15
-      },
-      "fullTimeInSeconds": 135
+        "seconds": 15,
+        "totalSeconds": 135
+      }
     }
   ],
-  "average": {
-    "time": {
-      "minutes": 1,
-      "seconds": 58
-    },
-    "fullTimeInSeconds": 118
-  },
   "best": {
-    "date": "2021-06-22",
+    "leaderboard": "2021-06-22",
     "time": {
       "minutes": 1,
-      "seconds": 29
-    },
-    "fullTimeInSeconds": 89
+      "seconds": 29,
+      "totalSeconds": 89
+    }
+  },
+  "mean": {
+    "time": {
+      "minutes": 1,
+      "seconds": 58,
+      "totalSeconds": 118
+    }
   },
   "awards": [
     {
       "type": "sub-120",
       "text": "Completed in less than two minutes",
-      "date": "2021-06-22"
+      "leaderboard": "2021-06-22"
     }
   ]
 }

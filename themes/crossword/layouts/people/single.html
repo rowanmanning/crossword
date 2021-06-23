@@ -7,12 +7,10 @@
 			Viewing times for {{ .Title }}.
 			{{ with .Params.best }}
 				Their best ever time is {{ .time.minutes }}:{{ if lt .time.seconds 10 }}0{{ end }}{{ .time.seconds }}
-				on <a href="/leaderboards/{{ .date | urlize }}/#person-{{ $.Title | urlize }}">{{ dateFormat "Jan 2 2006" .date }}</a>.
+				on <a href="/leaderboards/{{ .leaderboard | urlize }}/#person-{{ $.Title | urlize }}">{{ dateFormat "Jan 2 2006" .leaderboard }}</a>.
 			{{ end }}
-			{{ if .Params.average.fullTimeInSeconds }}
-				{{ with .Params.average.time }}
-					Their average time is {{ .minutes }}:{{ if lt .seconds 10 }}0{{ end }}{{ .seconds }}.
-				{{ end }}
+			{{ with .Params.mean.time }}
+				Their average time is {{ .minutes }}:{{ if lt .seconds 10 }}0{{ end }}{{ .seconds }}.
 			{{ end }}
 		</p>
 	</div>
@@ -27,9 +25,9 @@
 					<img src="/awards/{{ .type }}.svg" alt="{{ .text }}" class="award-list__award-icon" />
 					<span>
 						{{ .text }}.
-						{{ if .date }}
+						{{ if .leaderboard }}
 							<br/>
-							<a href="/leaderboards/{{ .date }}/#person-{{ $.Title | urlize }}">{{ dateFormat "Jan 2 2006" .date }}</a>
+							<a href="/leaderboards/{{ .leaderboard }}/#person-{{ $.Title | urlize }}">{{ dateFormat "Jan 2 2006" .leaderboard }}</a>
 						{{ end }}
 					</span>
 				</li>

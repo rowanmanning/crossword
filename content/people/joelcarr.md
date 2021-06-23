@@ -1,56 +1,57 @@
 {
   "title": "joelcarr",
+  "name": "joelcarr",
   "times": [
     {
-      "date": "2021-06-23",
+      "leaderboard": "2021-06-23",
       "time": {
         "minutes": 2,
-        "seconds": 25
-      },
-      "fullTimeInSeconds": 145
+        "seconds": 25,
+        "totalSeconds": 145
+      }
     },
     {
-      "date": "2021-06-22",
+      "leaderboard": "2021-06-22",
       "time": {
         "minutes": 1,
-        "seconds": 14
-      },
-      "fullTimeInSeconds": 74
+        "seconds": 14,
+        "totalSeconds": 74
+      }
     },
     {
-      "date": "2021-06-21",
+      "leaderboard": "2021-06-21",
       "time": {
         "minutes": 1,
-        "seconds": 23
-      },
-      "fullTimeInSeconds": 83
+        "seconds": 23,
+        "totalSeconds": 83
+      }
     }
   ],
-  "average": {
-    "time": {
-      "minutes": 1,
-      "seconds": 41
-    },
-    "fullTimeInSeconds": 101
-  },
   "best": {
-    "date": "2021-06-22",
+    "leaderboard": "2021-06-22",
     "time": {
       "minutes": 1,
-      "seconds": 14
-    },
-    "fullTimeInSeconds": 74
+      "seconds": 14,
+      "totalSeconds": 74
+    }
+  },
+  "mean": {
+    "time": {
+      "minutes": 1,
+      "seconds": 41,
+      "totalSeconds": 101
+    }
   },
   "awards": [
     {
       "type": "bronze",
       "text": "The third fastest time on a single day",
-      "date": "2021-06-21"
+      "leaderboard": "2021-06-21"
     },
     {
       "type": "sub-120",
       "text": "Completed in less than two minutes",
-      "date": "2021-06-21"
+      "leaderboard": "2021-06-21"
     }
   ]
 }

@@ -11,11 +11,11 @@
 			<tbody>
 				{{ range .Params.times }}
 					<tr>
-						<td><a href="/leaderboards/{{ .date | urlize }}/#person-{{ $.Title | urlize }}">{{ dateFormat "Jan 2 2006" .date }}</a></td>
+						<td><a href="/leaderboards/{{ .leaderboard | urlize }}/#person-{{ $.Title | urlize }}">{{ dateFormat "Jan 2 2006" .leaderboard }}</a></td>
 						<td>
 							{{ if .time }}
 								{{ .time.minutes }}:{{ if lt .time.seconds 10 }}0{{ end }}{{ .time.seconds }}
-								{{ if and $.Params.best (eq $.Params.best.fullTimeInSeconds .fullTimeInSeconds) }}
+								{{ if and $.Params.best.time (eq $.Params.best.time.totalSeconds .time.totalSeconds) }}
 									<span class="leaderboard__best" title="Best time">
 										⭐️ <span class="hidden">Best time</span>
 									</span>

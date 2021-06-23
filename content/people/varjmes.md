@@ -1,66 +1,67 @@
 {
   "title": "varjmes",
+  "name": "varjmes",
   "times": [
     {
-      "date": "2021-06-23",
+      "leaderboard": "2021-06-23",
       "time": {
         "minutes": 0,
-        "seconds": 23
-      },
-      "fullTimeInSeconds": 23
+        "seconds": 23,
+        "totalSeconds": 23
+      }
     },
     {
-      "date": "2021-06-22",
+      "leaderboard": "2021-06-22",
       "time": {
         "minutes": 0,
-        "seconds": 43
-      },
-      "fullTimeInSeconds": 43
+        "seconds": 43,
+        "totalSeconds": 43
+      }
     },
     {
-      "date": "2021-06-21",
+      "leaderboard": "2021-06-21",
       "time": {
         "minutes": 2,
-        "seconds": 23
-      },
-      "fullTimeInSeconds": 143
+        "seconds": 23,
+        "totalSeconds": 143
+      }
     }
   ],
-  "average": {
-    "time": {
-      "minutes": 1,
-      "seconds": 10
-    },
-    "fullTimeInSeconds": 70
-  },
   "best": {
-    "date": "2021-06-23",
+    "leaderboard": "2021-06-23",
     "time": {
       "minutes": 0,
-      "seconds": 23
-    },
-    "fullTimeInSeconds": 23
+      "seconds": 23,
+      "totalSeconds": 23
+    }
+  },
+  "mean": {
+    "time": {
+      "minutes": 1,
+      "seconds": 10,
+      "totalSeconds": 70
+    }
   },
   "awards": [
     {
       "type": "sub-120",
       "text": "Completed in less than two minutes",
-      "date": "2021-06-22"
+      "leaderboard": "2021-06-22"
     },
     {
       "type": "sub-60",
       "text": "Completed in less than a minute",
-      "date": "2021-06-22"
+      "leaderboard": "2021-06-22"
     },
     {
       "type": "sub-45",
       "text": "Completed in less than 45 seconds",
-      "date": "2021-06-22"
+      "leaderboard": "2021-06-22"
     },
     {
       "type": "sub-30",
       "text": "Completed in less than 30 seconds",
-      "date": "2021-06-23"
+      "leaderboard": "2021-06-23"
     }
   ]
 }

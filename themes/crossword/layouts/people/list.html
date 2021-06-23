@@ -15,13 +15,11 @@
 				<li class="person-card">
 					<a href="{{ $permalink }}" class="person-card__name">{{ .Title }}</a>
 					<ul class="person-card__meta">
-						{{ with .Params.best }}
-							<li>Best {{ .time.minutes }}:{{ if lt .time.seconds 10 }}0{{ end }}{{ .time.seconds }}</li>
+						{{ with .Params.best.time }}
+							<li>Best {{ .minutes }}:{{ if lt .seconds 10 }}0{{ end }}{{ .seconds }}</li>
 						{{ end }}
-						{{ if .Params.average.fullTimeInSeconds }}
-							{{ with .Params.average.time }}
-								<li>Average {{ .minutes }}:{{ if lt .seconds 10 }}0{{ end }}{{ .seconds }}</li>
-							{{ end }}
+						{{ with .Params.mean.time }}
+							<li>Average {{ .minutes }}:{{ if lt .seconds 10 }}0{{ end }}{{ .seconds }}</li>
 						{{ end }}
 					</ul>
 					<ul class="person-card__awards">

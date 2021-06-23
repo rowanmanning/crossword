@@ -1,21 +1,11 @@
 {{- $scratch := newScratch -}}
 {{- $scratch.Add "export" slice -}}
 {{- range $date, $times := .Site.Data.leaderboards -}}
-	{{- $scratch.Add "current" slice -}}
-	{{- range $times -}}
-		{{-
-			$scratch.Add "current" (dict
-				"name" .name
-				"seconds" .fullTimeInSeconds
-			)
-		-}}
-	{{- end -}}
 	{{-
 		$scratch.Add "export" (dict
 			"date" $date
-			"times" ($scratch.Get "current")
+			"times" $times
 		)
 	-}}
-	{{- $scratch.Delete "current" -}}
 {{- end -}}
 {{ jsonify ($scratch.Get "export") }}

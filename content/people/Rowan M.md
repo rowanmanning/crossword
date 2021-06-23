@@ -1,76 +1,77 @@
 {
   "title": "Rowan M",
+  "name": "Rowan M",
   "times": [
     {
-      "date": "2021-06-23",
+      "leaderboard": "2021-06-23",
       "time": {
         "minutes": 0,
-        "seconds": 25
-      },
-      "fullTimeInSeconds": 25
+        "seconds": 25,
+        "totalSeconds": 25
+      }
     },
     {
-      "date": "2021-06-22",
+      "leaderboard": "2021-06-22",
       "time": {
         "minutes": 0,
-        "seconds": 41
-      },
-      "fullTimeInSeconds": 41
+        "seconds": 41,
+        "totalSeconds": 41
+      }
     },
     {
-      "date": "2021-06-21",
+      "leaderboard": "2021-06-21",
       "time": {
         "minutes": 0,
-        "seconds": 53
-      },
-      "fullTimeInSeconds": 53
+        "seconds": 53,
+        "totalSeconds": 53
+      }
     }
   ],
-  "average": {
-    "time": {
-      "minutes": 0,
-      "seconds": 40
-    },
-    "fullTimeInSeconds": 40
-  },
   "best": {
-    "date": "2021-06-23",
+    "leaderboard": "2021-06-23",
     "time": {
       "minutes": 0,
-      "seconds": 25
-    },
-    "fullTimeInSeconds": 25
+      "seconds": 25,
+      "totalSeconds": 25
+    }
+  },
+  "mean": {
+    "time": {
+      "minutes": 0,
+      "seconds": 40,
+      "totalSeconds": 40
+    }
   },
   "awards": [
     {
       "type": "silver",
       "text": "The second fastest time on a single day",
-      "date": "2021-06-21"
+      "leaderboard": "2021-06-21"
     },
     {
       "type": "bronze",
       "text": "The third fastest time on a single day",
-      "date": "2021-06-22"
+      "leaderboard": "2021-06-22"
     },
     {
       "type": "sub-120",
       "text": "Completed in less than two minutes",
-      "date": "2021-06-21"
+      "leaderboard": "2021-06-21"
     },
     {
       "type": "sub-60",
       "text": "Completed in less than a minute",
-      "date": "2021-06-21"
+      "leaderboard": "2021-06-21"
     },
     {
       "type": "sub-45",
       "text": "Completed in less than 45 seconds",
-      "date": "2021-06-22"
+      "leaderboard": "2021-06-22"
     },
     {
       "type": "sub-30",
       "text": "Completed in less than 30 seconds",
-      "date": "2021-06-23"
+      "leaderboard": "2021-06-23"
     }
   ]
 }
