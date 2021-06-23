@@ -3,8 +3,11 @@
   "times": [
     {
       "date": "2021-06-23",
-      "time": null,
-      "fullTimeInSeconds": null
+      "time": {
+        "minutes": 0,
+        "seconds": 25
+      },
+      "fullTimeInSeconds": 25
     },
     {
       "date": "2021-06-22",
@@ -26,17 +29,17 @@
   "average": {
     "time": {
       "minutes": 0,
-      "seconds": 47
+      "seconds": 40
     },
-    "fullTimeInSeconds": 47
+    "fullTimeInSeconds": 40
   },
   "best": {
-    "date": "2021-06-22",
+    "date": "2021-06-23",
     "time": {
       "minutes": 0,
-      "seconds": 41
+      "seconds": 25
     },
-    "fullTimeInSeconds": 41
+    "fullTimeInSeconds": 25
   },
   "awards": [
     {
@@ -63,6 +66,11 @@
       "type": "sub-45",
       "text": "Completed in less than 45 seconds",
       "date": "2021-06-22"
+    },
+    {
+      "type": "sub-30",
+      "text": "Completed in less than 30 seconds",
+      "date": "2021-06-23"
     }
   ]
 }

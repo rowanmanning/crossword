@@ -1,5 +1,21 @@
 [
 	{
+		"name": "varjmes",
+		"time": {
+			"minutes": 0,
+			"seconds": 23
+		},
+		"fullTimeInSeconds": 23
+	},
+	{
+		"name": "Rowan M",
+		"time": {
+			"minutes": 0,
+			"seconds": 25
+		},
+		"fullTimeInSeconds": 25
+	},
+	{
 		"name": "Lily2point0",
 		"time": {
 			"minutes": 0,
@@ -43,16 +59,6 @@
 	},
 	{
 		"name": "leaf",
-		"time": null,
-		"fullTimeInSeconds": null
-	},
-	{
-		"name": "Rowan M",
-		"time": null,
-		"fullTimeInSeconds": null
-	},
-	{
-		"name": "varjmes",
 		"time": null,
 		"fullTimeInSeconds": null
 	}
