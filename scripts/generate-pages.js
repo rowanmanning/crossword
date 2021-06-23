@@ -152,7 +152,7 @@ async function generatePages() {
 		}
 
 		// Sub-two-minutes
-		const sub120 = person.times.find(time => time.fullTimeInSeconds < 120);
+		const sub120 = person.times.find(time => time.fullTimeInSeconds !== null && time.fullTimeInSeconds < 120);
 		if (sub120) {
 			awards.push({
 				type: 'sub-120',
@@ -162,7 +162,7 @@ async function generatePages() {
 		}
 
 		// Sub-minute
-		const sub60 = person.times.find(time => time.fullTimeInSeconds < 60);
+		const sub60 = person.times.find(time => time.fullTimeInSeconds !== null && time.fullTimeInSeconds < 60);
 		if (sub60) {
 			awards.push({
 				type: 'sub-60',
@@ -172,7 +172,7 @@ async function generatePages() {
 		}
 
 		// Sub-45-seconds
-		const sub45 = person.times.find(time => time.fullTimeInSeconds < 45);
+		const sub45 = person.times.find(time => time.fullTimeInSeconds !== null && time.fullTimeInSeconds < 45);
 		if (sub45) {
 			awards.push({
 				type: 'sub-45',
@@ -182,7 +182,7 @@ async function generatePages() {
 		}
 
 		// Sub-30-seconds
-		const sub30 = person.times.find(time => time.fullTimeInSeconds < 30);
+		const sub30 = person.times.find(time => time.fullTimeInSeconds !== null && time.fullTimeInSeconds < 30);
 		if (sub30) {
 			awards.push({
 				type: 'sub-30',
