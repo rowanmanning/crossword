@@ -2,6 +2,11 @@
   "title": "varjmes",
   "times": [
     {
+      "date": "2021-06-23",
+      "time": null,
+      "fullTimeInSeconds": null
+    },
+    {
       "date": "2021-06-22",
       "time": {
         "minutes": 0,
@@ -48,6 +53,11 @@
       "type": "sub-45",
       "text": "Completed in less than 45 seconds",
       "date": "2021-06-22"
+    },
+    {
+      "type": "sub-30",
+      "text": "Completed in less than 30 seconds",
+      "date": "2021-06-23"
     }
   ]
 }
