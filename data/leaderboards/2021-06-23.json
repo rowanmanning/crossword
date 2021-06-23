@@ -8,12 +8,28 @@
 		"fullTimeInSeconds": 23
 	},
 	{
+		"name": "j-sheps",
+		"time": {
+			"minutes": 0,
+			"seconds": 24
+		},
+		"fullTimeInSeconds": 24
+	},
+	{
 		"name": "Rowan M",
 		"time": {
 			"minutes": 0,
 			"seconds": 25
 		},
 		"fullTimeInSeconds": 25
+	},
+	{
+		"name": "arjun137",
+		"time": {
+			"minutes": 0,
+			"seconds": 40
+		},
+		"fullTimeInSeconds": 40
 	},
 	{
 		"name": "Lily2point0",
@@ -32,6 +48,14 @@
 		"fullTimeInSeconds": 61
 	},
 	{
+		"name": "leaf",
+		"time": {
+			"minutes": 1,
+			"seconds": 5
+		},
+		"fullTimeInSeconds": 65
+	},
+	{
 		"name": "apaleslimghost",
 		"time": {
 			"minutes": 1,
@@ -40,26 +64,19 @@
 		"fullTimeInSeconds": 84
 	},
 	{
+		"name": "binaryberry",
+		"time": {
+			"minutes": 2,
+			"seconds": 10
+		},
+		"fullTimeInSeconds": 130
+	},
+	{
 		"name": "joelcarr",
 		"time": {
 			"minutes": 2,
 			"seconds": 25
 		},
 		"fullTimeInSeconds": 145
-	},
-	{
-		"name": "binaryberry",
-		"time": null,
-		"fullTimeInSeconds": null
-	},
-	{
-		"name": "j-sheps",
-		"time": null,
-		"fullTimeInSeconds": null
-	},
-	{
-		"name": "leaf",
-		"time": null,
-		"fullTimeInSeconds": null
 	}
 ]
