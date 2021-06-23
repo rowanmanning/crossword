@@ -20,7 +20,7 @@
 			{{ if ne $index 0 }}
 				{{ $previousPage := index $pagesInSection (sub $index 1) }}
 				{{ with $previousPage }}
-					<a href="{{ .RelPermalink }}" title="{{ .Title }}" class="main__nav main__nav--prev">
+					<a href="{{ .RelPermalink }}" title="{{ .Title }}" class="main__nav main__nav--prev" data-component="prev">
 						<span class="hidden">Previous page</span>
 					</a>
 				{{ end }}
@@ -28,7 +28,7 @@
 			{{ if ne $index (sub (len $pagesInSection) 1) }}
 				{{ $nextPage := index $pagesInSection (add $index 1) }}
 				{{ with $nextPage }}
-					<a href="{{ .RelPermalink }}" title="{{ .Title }}" class="main__nav main__nav--next">
+					<a href="{{ .RelPermalink }}" title="{{ .Title }}" class="main__nav main__nav--next" data-component="next">
 						<span class="hidden">Next page</span>
 					</a>
 				{{ end }}

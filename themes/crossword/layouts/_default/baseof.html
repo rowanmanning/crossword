@@ -33,6 +33,17 @@
 	{{ partial "site/icons.html" . -}}
 	{{ partial "site/analytics.html" . -}}
 
+	{{/* Output JavaScript */}}
+	{{ $jsOptions := (dict
+		"minify" true
+		"targetPath" "main.js"
+		"params" (dict
+			"baseUrl" .Site.BaseURL
+		)
+	) -}}
+	{{ $js := resources.Get "js/main.js" | js.Build $jsOptions | resources.Fingerprint "sha512" -}}
+	<script defer src="{{ $js.RelPermalink }}"></script>
+
 </head>
 <body class="page">
 	{{- partial "page/header.html" . -}}
