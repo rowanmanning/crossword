@@ -62,6 +62,11 @@
       "type": "sub-45",
       "text": "Completed in less than 45 seconds",
       "leaderboard": "2021-06-22"
+    },
+    {
+      "type": "three-day-streak",
+      "text": "Played for three days in a row",
+      "leaderboard": "2021-06-23"
     }
   ]
 }

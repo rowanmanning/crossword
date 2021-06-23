@@ -20,6 +20,26 @@ module.exports = class Awards {
 		// Get placement numbers for streak calculation
 		const placementNumbers = placements.map(({placement}) => `[${placement}]`).join('');
 
+		// Get player streaks
+		const playStreaks = times
+			.reduce((streaks, {time, leaderboard}) => {
+				let currentStreak = streaks.pop();
+				if (time.isPending) {
+					streaks.push(currentStreak);
+					currentStreak = [];
+				} else {
+					currentStreak.push(leaderboard.date);
+				}
+				streaks.push(currentStreak);
+				return streaks;
+			}, [[]])
+			.map(streak => {
+				return {
+					length: streak.length,
+					leaderboard: streak.pop()
+				};
+			});
+
 		// Gold
 		const gold = placements.find(({placement}) => placement === 1);
 		if (gold) {
@@ -143,6 +163,46 @@ module.exports = class Awards {
 				type: 'over-300',
 				text: 'Completed in 5 minutes or more',
 				leaderboard: over300.leaderboard.date
+			});
+		}
+
+		// 3-day streak
+		const threeDayStreak = playStreaks.find(({length}) => length >= 3);
+		if (threeDayStreak) {
+			awards.push({
+				type: 'three-day-streak',
+				text: 'Played for three days in a row',
+				leaderboard: threeDayStreak.leaderboard
+			});
+		}
+
+		// 7-day streak
+		const weekStreak = playStreaks.find(({length}) => length >= 7);
+		if (weekStreak) {
+			awards.push({
+				type: 'week-streak',
+				text: 'Played for a full week without breaks',
+				leaderboard: weekStreak.leaderboard
+			});
+		}
+
+		// 30-day streak
+		const monthStreak = playStreaks.find(({length}) => length >= 30);
+		if (monthStreak) {
+			awards.push({
+				type: 'month-streak',
+				text: 'Played for a full month (30 days) without breaks',
+				leaderboard: monthStreak.leaderboard
+			});
+		}
+
+		// 90-day streak
+		const quarterStreak = playStreaks.find(({length}) => length >= 90);
+		if (quarterStreak) {
+			awards.push({
+				type: 'quarter-streak',
+				text: 'Played for a full quarter, give that OKR a 1',
+				leaderboard: quarterStreak.leaderboard
 			});
 		}
 
