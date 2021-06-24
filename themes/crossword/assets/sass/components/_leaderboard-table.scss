@@ -1,5 +1,13 @@
 
-// Leaderboard table column widths
+// Leaderboard table block
+.leaderboard-table {
+	td,
+	th {
+		vertical-align: top;
+	}
+}
+
+// Leaderboard table column element widths
 .leaderboard-table__main-column {
 	width: 40%;
 }
@@ -8,6 +16,7 @@
 }
 .leaderboard-table__awards-column {
 	width: 40%;
+	padding-bottom: 0 !important;
 }
 
 // Leaderboard table awards element
@@ -21,6 +30,7 @@
 	> li {
 		display: inline-block;
 		margin-right: var(--spacingvalue-xs);
+		margin-bottom: var(--spacing-rule);
 	}
 }
 
