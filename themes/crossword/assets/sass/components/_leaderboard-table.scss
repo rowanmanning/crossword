@@ -1,0 +1,31 @@
+
+// Leaderboard table column widths
+.leaderboard-table__main-column {
+	width: 40%;
+}
+.leaderboard-table__time-column {
+	max-width: 20%;
+}
+.leaderboard-table__awards-column {
+	width: 40%;
+}
+
+// Leaderboard table awards element
+.leaderboard-table__awards {
+	display: flex;
+	flex-wrap: wrap;
+	list-style: none;
+	margin: 0 !important;
+	padding: 0 !important;
+
+	> li {
+		display: inline-block;
+		margin-right: var(--spacingvalue-xs);
+	}
+}
+
+// Leaderboard table award icon element
+.leaderboard-table__award-icon {
+	width: var(--spacing-line);
+	display: block;
+}

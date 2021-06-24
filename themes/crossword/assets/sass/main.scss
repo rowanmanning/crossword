@@ -24,6 +24,7 @@ $site-base-url: "{{ "/" | relURL }}";
 @import "components/content-list";
 @import "components/footer";
 @import "components/header";
+@import "components/leaderboard-table";
 @import "components/main";
 @import "components/page";
 @import "components/person-card";

@@ -1,11 +1,13 @@
 
+{{ $leaderboard := . }}
 {{ if len .Params.times }}
 	<div class="table table--wide content-body">
-		<table class="leaderboard table__data table--striped">
+		<table class="leaderboard-table table__data table--striped">
 			<thead>
 				<tr>
-					<th>Person</th>
-					<th>Time</th>
+					<th class="leaderboard-table__main-column">Person</th>
+					<th class="leaderboard-table__time-column">Time</th>
+					<th class="leaderboard-table__awards-column">Awards</th>
 				</tr>
 			</thead>
 			<tbody>
@@ -14,20 +16,35 @@
 						<td><a href="/people/{{ .person | urlize }}/">{{ .person }}</a></td>
 						<td>
 							{{ if .time }}
-
 								{{ partial "time.html" .time }}
-
-								{{ $totalSeconds := .time.totalSeconds }}
-								{{ range where (where $.Site.RegularPages "Section" "people") "Title" .person }}
-									{{ if and .Params.best.time (eq .Params.best.time.totalSeconds $totalSeconds) }}
-										<span class="leaderboard__best" title="{{ .Title }}'s best time">
-											⭐️ <span class="hidden">{{ .Title }}'s best time</span>
-										</span>
-									{{ end }}
-								{{ end }}
-
 							{{ else }}
 								-
+							{{ end }}
+						</td>
+						<td>
+							{{ if .time }}
+								<ul class="leaderboard-table__awards">
+									{{ $totalSeconds := .time.totalSeconds }}
+									{{ range where (where $.Site.RegularPages "Section" "people") "Title" .person }}
+										{{ $permalink := .RelPermalink }}
+										{{ if and .Params.best.time (eq .Params.best.time.totalSeconds $totalSeconds) }}
+											<li class="leaderboard-table__award">
+												<a href="{{ $permalink }}">
+													<img src="/icons/best.svg" alt="{{ .Title }}'s best time" class="leaderboard-table__award-icon" title="{{ .Title }}'s best time" />
+												</a>
+											</li>
+										{{ end }}
+										{{ if .Params.awards }}
+											{{ range where .Params.awards "leaderboard" $leaderboard.Title }}
+												<li class="leaderboard-table__award">
+													<a href="{{ $permalink }}#award-{{ .type }}">
+														<img src="/awards/{{ .type }}.svg" alt="{{ .text }}" class="leaderboard-table__award-icon" title="{{ .text }}" />
+													</a>
+												</li>
+											{{ end }}
+										{{ end }}
+									{{ end }}
+								</ul>
 							{{ end }}
 						</td>
 					</tr>

@@ -1,27 +1,45 @@
 
 {{ if len .Params.times }}
 	<div class="table table--wide content-body">
-		<table class="leaderboard table__data table--striped">
+		<table class="leaderboard-table table__data table--striped">
 			<thead>
 				<tr>
-					<th>Date</th>
-					<th>Time</th>
+					<th class="leaderboard-table__main-column">Date</th>
+					<th class="leaderboard-table__time-column">Time</th>
+					<th class="leaderboard-table__awards-column">Awards</th>
 				</tr>
 			</thead>
 			<tbody>
 				{{ range .Params.times }}
+					{{ $leaderboard := .leaderboard }}
 					<tr>
 						<td><a href="/leaderboards/{{ .leaderboard | urlize }}/#person-{{ $.Title | urlize }}">{{ dateFormat "Jan 2 2006" .leaderboard }}</a></td>
 						<td>
 							{{ if .time }}
 								{{ partial "time.html" .time }}
-								{{ if and $.Params.best.time (eq $.Params.best.time.totalSeconds .time.totalSeconds) }}
-									<span class="leaderboard__best" title="Best time">
-										⭐️ <span class="hidden">Best time</span>
-									</span>
-								{{ end }}
 							{{ else }}
 								-
+							{{ end }}
+						</td>
+						<td>
+							{{ if .time }}
+								<ul class="leaderboard-table__awards">
+									{{ $totalSeconds := .time.totalSeconds }}
+									{{ if and $.Params.best.time (eq $.Params.best.time.totalSeconds $totalSeconds) }}
+										<li class="leaderboard-table__award">
+											<img src="/icons/best.svg" alt="{{ $.Title }}'s best time" class="leaderboard-table__award-icon" title="{{ $.Title }}'s best time" />
+										</li>
+									{{ end }}
+									{{ if $.Params.awards }}
+										{{ range where $.Params.awards "leaderboard" $leaderboard }}
+											<li class="leaderboard-table__award">
+												<a href="#award-{{ .type }}">
+													<img src="/awards/{{ .type }}.svg" alt="{{ .text }}" class="leaderboard-table__award-icon" title="{{ .text }}" />
+												</a>
+											</li>
+										{{ end }}
+									{{ end }}
+								</ul>
 							{{ end }}
 						</td>
 					</tr>
