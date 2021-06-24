@@ -14,7 +14,7 @@
 						<td><a href="/leaderboards/{{ .leaderboard | urlize }}/#person-{{ $.Title | urlize }}">{{ dateFormat "Jan 2 2006" .leaderboard }}</a></td>
 						<td>
 							{{ if .time }}
-								{{ .time.minutes }}:{{ if lt .time.seconds 10 }}0{{ end }}{{ .time.seconds }}
+								{{ partial "time.html" .time }}
 								{{ if and $.Params.best.time (eq $.Params.best.time.totalSeconds .time.totalSeconds) }}
 									<span class="leaderboard__best" title="Best time">
 										⭐️ <span class="hidden">Best time</span>

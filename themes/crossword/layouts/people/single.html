@@ -6,11 +6,11 @@
 		<p>
 			Viewing times for {{ .Title }}.
 			{{ with .Params.best }}
-				Their best ever time is {{ .time.minutes }}:{{ if lt .time.seconds 10 }}0{{ end }}{{ .time.seconds }}
+				Their best ever time is {{ partial "time.html" .time }}
 				on <a href="/leaderboards/{{ .leaderboard | urlize }}/#person-{{ $.Title | urlize }}">{{ dateFormat "Jan 2 2006" .leaderboard }}</a>.
 			{{ end }}
 			{{ with .Params.mean.time }}
-				Their average time is {{ .minutes }}:{{ if lt .seconds 10 }}0{{ end }}{{ .seconds }}.
+				Their average time is {{ partial "time.html" . }}.
 			{{ end }}
 		</p>
 	</div>

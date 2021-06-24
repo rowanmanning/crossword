@@ -1,0 +1,3 @@
+<time datetime="PT{{ .minutes }}M{{ .seconds }}S" title="{{ .minutes }}:{{ if lt .seconds 10 }}0{{ end }}{{ .seconds }} ({{ .totalSeconds }} seconds)">
+	{{- .minutes }}:{{ if lt .seconds 10 }}0{{ end }}{{ .seconds -}}
+</time>

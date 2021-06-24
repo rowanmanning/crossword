@@ -17,10 +17,10 @@
 					<a href="{{ $permalink }}" class="person-card__name">{{ .Title }}</a>
 					<ul class="person-card__meta">
 						{{ with .Params.best.time }}
-							<li>Best {{ .minutes }}:{{ if lt .seconds 10 }}0{{ end }}{{ .seconds }}</li>
+							<li>Best {{ partial "time.html" . }}</li>
 						{{ end }}
 						{{ with .Params.mean.time }}
-							<li>Average {{ .minutes }}:{{ if lt .seconds 10 }}0{{ end }}{{ .seconds }}</li>
+							<li>Average {{ partial "time.html" . }}</li>
 						{{ end }}
 					</ul>
 					<ul class="person-card__awards">
