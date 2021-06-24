@@ -63,7 +63,8 @@
     },
     {
       "type": "double-bronze",
-      "text": "Get the third fastest time two days in a row"
+      "text": "Get the third fastest time two days in a row",
+      "leaderboard": "2021-06-23"
     },
     {
       "type": "sub-120",

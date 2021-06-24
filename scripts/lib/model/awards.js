@@ -17,8 +17,28 @@ module.exports = class Awards {
 		// Ignore the most recent placement, because it will change over the day
 		placements.pop();
 
-		// Get placement numbers for streak calculation
-		const placementNumbers = placements.map(({placement}) => `[${placement}]`).join('');
+		// Group placements for streak calculation
+		const placementGroups = placements
+			.reduce((groups, {placement, leaderboard}) => {
+				const group = groups.length ? groups.pop() : null;
+				if (group && group.placement === placement) {
+					group.leaderboards.push(leaderboard.date);
+					group.length = group.leaderboards.length;
+					groups.push(group);
+				} else {
+					if (group) {
+						groups.push(group);
+					}
+					groups.push({
+						placement,
+						length: 1,
+						leaderboards: [
+							leaderboard.date
+						]
+					});
+				}
+				return groups;
+			}, []);
 
 		// Get player streaks
 		const playStreaks = times
@@ -68,16 +88,20 @@ module.exports = class Awards {
 				leaderboard: gold.leaderboard.date
 			});
 		}
-		if (placementNumbers.includes('[1][1]')) {
+		const doubleGold = placementGroups.find(({placement, length}) => placement === 1 && length >= 2);
+		if (doubleGold) {
 			awards.push({
 				type: 'double-gold',
-				text: 'Get the fastest time two days in a row'
+				text: 'Get the fastest time two days in a row',
+				leaderboard: doubleGold.leaderboards[1]
 			});
 		}
-		if (placementNumbers.includes('[1][1][1]')) {
+		const tripleGold = placementGroups.find(({placement, length}) => placement === 1 && length >= 3);
+		if (tripleGold) {
 			awards.push({
 				type: 'triple-gold',
-				text: 'Get the fastest time three days in a row'
+				text: 'Get the fastest time three days in a row',
+				leaderboard: tripleGold.leaderboards[2]
 			});
 		}
 
@@ -90,16 +114,20 @@ module.exports = class Awards {
 				leaderboard: silver.leaderboard.date
 			});
 		}
-		if (placementNumbers.includes('[2][2]')) {
+		const doubleSilver = placementGroups.find(({placement, length}) => placement === 2 && length >= 2);
+		if (doubleSilver) {
 			awards.push({
 				type: 'double-silver',
-				text: 'Get the second fastest time two days in a row'
+				text: 'Get the second fastest time two days in a row',
+				leaderboard: doubleSilver.leaderboards[1]
 			});
 		}
-		if (placementNumbers.includes('[2][2][2]')) {
+		const tripleSilver = placementGroups.find(({placement, length}) => placement === 2 && length >= 3);
+		if (tripleSilver) {
 			awards.push({
 				type: 'triple-silver',
-				text: 'Get the second fastest time three days in a row'
+				text: 'Get the second fastest time three days in a row',
+				leaderboard: tripleSilver.leaderboards[2]
 			});
 		}
 
@@ -112,16 +140,20 @@ module.exports = class Awards {
 				leaderboard: bronze.leaderboard.date
 			});
 		}
-		if (placementNumbers.includes('[3][3]')) {
+		const doubleBronze = placementGroups.find(({placement, length}) => placement === 3 && length >= 2);
+		if (doubleBronze) {
 			awards.push({
 				type: 'double-bronze',
-				text: 'Get the third fastest time two days in a row'
+				text: 'Get the third fastest time two days in a row',
+				leaderboard: doubleBronze.leaderboards[1]
 			});
 		}
-		if (placementNumbers.includes('[3][3][3]')) {
+		const tripleBronze = placementGroups.find(({placement, length}) => placement === 3 && length >= 3);
+		if (tripleBronze) {
 			awards.push({
 				type: 'triple-bronze',
-				text: 'Get the third fastest time three days in a row'
+				text: 'Get the third fastest time three days in a row',
+				leaderboard: tripleBronze.leaderboards[2]
 			});
 		}
 
@@ -130,16 +162,19 @@ module.exports = class Awards {
 		if (podium) {
 			awards.push({
 				type: 'podium',
-				text: 'Unlock first, second, and third place awards'
+				text: 'Unlock first, second, and third place awards',
+				leaderboard: placements.filter(({placement}) => placement >= 1 || placement <= 3)[2].leaderboard.date
 			});
 		}
 
 		// Podium climbing
+		const placementNumbers = placements.map(({placement}) => `[${placement}]`).join('');
 		const podiumClimbing = placementNumbers.includes('[3][2][1]');
 		if (podiumClimbing) {
 			awards.push({
 				type: 'podium-climbing',
 				text: 'Unlock third, second, and first place awards on consecutive days'
+				// TODO work out how we can record the date here
 			});
 		}
 
