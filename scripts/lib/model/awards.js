@@ -40,6 +40,25 @@ module.exports = class Awards {
 				};
 			});
 
+		// Get time differences
+		const timeDifferences = times
+			.filter(({time}) => !time.isPending)
+			.reduce((differences, {time, leaderboard}, index, filteredTimes) => {
+				const previous = filteredTimes[index - 1];
+				if (previous) {
+					const from = previous.time.totalSeconds;
+					const to = time.totalSeconds;
+					const timeDifference = to - from;
+					const timeMultiplier = Math.round((to / from) * 100) / 100;
+					differences.push({
+						timeDifference,
+						timeMultiplier,
+						leaderboard
+					});
+				}
+				return differences;
+			}, []);
+
 		// Gold
 		const gold = placements.find(({placement}) => placement === 1);
 		if (gold) {
@@ -121,6 +140,36 @@ module.exports = class Awards {
 			awards.push({
 				type: 'podium-climbing',
 				text: 'Unlock third, second, and first place awards on consecutive days'
+			});
+		}
+
+		// Half time
+		const halfTime = timeDifferences.find(({timeMultiplier}) => timeMultiplier <= 0.5);
+		if (halfTime) {
+			awards.push({
+				type: 'half-time',
+				text: 'Half your completion time from one day to the next',
+				leaderboard: halfTime.leaderboard.date
+			});
+		}
+
+		// Quarter time
+		const quarterTime = timeDifferences.find(({timeMultiplier}) => timeMultiplier <= 0.25);
+		if (quarterTime) {
+			awards.push({
+				type: 'quarter-time',
+				text: 'Quarter your completion time from one day to the next',
+				leaderboard: quarterTime.leaderboard.date
+			});
+		}
+
+		// Double time
+		const doubleTime = timeDifferences.find(({timeMultiplier}) => timeMultiplier >= 2);
+		if (doubleTime) {
+			awards.push({
+				type: 'double-time',
+				text: 'Double your completion time from one day to the next',
+				leaderboard: doubleTime.leaderboard.date
 			});
 		}
 

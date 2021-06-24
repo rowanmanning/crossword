@@ -57,6 +57,16 @@
       "leaderboard": "2021-06-23"
     },
     {
+      "type": "half-time",
+      "text": "Half your completion time from one day to the next",
+      "leaderboard": "2021-06-22"
+    },
+    {
+      "type": "double-time",
+      "text": "Double your completion time from one day to the next",
+      "leaderboard": "2021-06-24"
+    },
+    {
       "type": "sub-120",
       "text": "Completed in less than two minutes",
       "leaderboard": "2021-06-22"
