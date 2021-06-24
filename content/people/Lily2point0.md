@@ -4,7 +4,11 @@
   "times": [
     {
       "leaderboard": "2021-06-24",
-      "time": null
+      "time": {
+        "minutes": 1,
+        "seconds": 0,
+        "totalSeconds": 60
+      }
     },
     {
       "leaderboard": "2021-06-23",
@@ -70,7 +74,7 @@
     {
       "type": "three-day-streak",
       "text": "Played for three days in a row",
-      "leaderboard": "2021-06-23"
+      "leaderboard": "2021-06-24"
     }
   ]
 }
