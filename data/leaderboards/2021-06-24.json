@@ -1,5 +1,9 @@
 [
 	{
+		"name": "j-sheps",
+		"seconds": 31
+	},
+	{
 		"name": "Rowan M",
 		"seconds": 44
 	},
@@ -20,19 +24,15 @@
 		"seconds": 119
 	},
 	{
-		"name": "Ania",
-		"seconds": null
-	},
-	{
 		"name": "binaryberry",
-		"seconds": null
-	},
-	{
-		"name": "j-sheps",
-		"seconds": null
+		"seconds": 126
 	},
 	{
 		"name": "joelcarr",
+		"seconds": 137
+	},
+	{
+		"name": "Ania",
 		"seconds": null
 	},
 	{

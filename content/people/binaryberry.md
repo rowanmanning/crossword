@@ -4,7 +4,11 @@
   "times": [
     {
       "leaderboard": "2021-06-24",
-      "time": null
+      "time": {
+        "minutes": 2,
+        "seconds": 6,
+        "totalSeconds": 126
+      }
     },
     {
       "leaderboard": "2021-06-23",
@@ -41,9 +45,9 @@
   },
   "mean": {
     "time": {
-      "minutes": 1,
-      "seconds": 58,
-      "totalSeconds": 118
+      "minutes": 2,
+      "seconds": 0,
+      "totalSeconds": 120
     }
   },
   "awards": [
@@ -55,7 +59,7 @@
     {
       "type": "three-day-streak",
       "text": "Played for three days in a row",
-      "leaderboard": "2021-06-23"
+      "leaderboard": "2021-06-24"
     }
   ]
 }
