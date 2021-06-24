@@ -247,6 +247,16 @@ module.exports = class Awards {
 			});
 		}
 
+		// Pi
+		const pi = times.find(({time}) => time.totalSeconds === 194);
+		if (pi) {
+			awards.push({
+				type: 'pi',
+				text: '3.141 592 653 589 793 238 462 643…',
+				leaderboard: pi.leaderboard.date
+			});
+		}
+
 		return awards;
 	}
 
