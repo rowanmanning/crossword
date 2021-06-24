@@ -106,6 +106,24 @@ module.exports = class Awards {
 			});
 		}
 
+		// Podium
+		const podium = (gold && silver && bronze);
+		if (podium) {
+			awards.push({
+				type: 'podium',
+				text: 'Unlock first, second, and third place awards'
+			});
+		}
+
+		// Podium climbing
+		const podiumClimbing = placementNumbers.includes('[3][2][1]');
+		if (podiumClimbing) {
+			awards.push({
+				type: 'podium-climbing',
+				text: 'Unlock third, second, and first place awards on consecutive days'
+			});
+		}
+
 		// Sub-two-minutes
 		const sub120 = times.find(({time}) => time.totalSeconds !== null && time.totalSeconds < 120);
 		if (sub120) {
