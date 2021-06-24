@@ -3,6 +3,10 @@
   "name": "varjmes",
   "times": [
     {
+      "leaderboard": "2021-06-24",
+      "time": null
+    },
+    {
       "leaderboard": "2021-06-23",
       "time": {
         "minutes": 0,
@@ -43,6 +47,11 @@
     }
   },
   "awards": [
+    {
+      "type": "gold",
+      "text": "The fastest time on a single day",
+      "leaderboard": "2021-06-23"
+    },
     {
       "type": "sub-120",
       "text": "Completed in less than two minutes",

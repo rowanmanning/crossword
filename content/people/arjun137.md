@@ -3,6 +3,10 @@
   "name": "arjun137",
   "times": [
     {
+      "leaderboard": "2021-06-24",
+      "time": null
+    },
+    {
       "leaderboard": "2021-06-23",
       "time": {
         "minutes": 0,

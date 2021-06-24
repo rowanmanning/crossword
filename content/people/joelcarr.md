@@ -3,6 +3,10 @@
   "name": "joelcarr",
   "times": [
     {
+      "leaderboard": "2021-06-24",
+      "time": null
+    },
+    {
       "leaderboard": "2021-06-23",
       "time": {
         "minutes": 2,

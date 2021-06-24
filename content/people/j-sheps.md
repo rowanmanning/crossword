@@ -3,6 +3,10 @@
   "name": "j-sheps",
   "times": [
     {
+      "leaderboard": "2021-06-24",
+      "time": null
+    },
+    {
       "leaderboard": "2021-06-23",
       "time": {
         "minutes": 0,
@@ -47,6 +51,11 @@
       "type": "gold",
       "text": "The fastest time on a single day",
       "leaderboard": "2021-06-21"
+    },
+    {
+      "type": "silver",
+      "text": "The second fastest time on a single day",
+      "leaderboard": "2021-06-23"
     },
     {
       "type": "sub-120",
