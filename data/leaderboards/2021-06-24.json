@@ -12,6 +12,10 @@
 		"seconds": 56
 	},
 	{
+		"name": "itsalex",
+		"seconds": 57
+	},
+	{
 		"name": "Oliver Turner",
 		"seconds": 57
 	},
@@ -22,6 +26,10 @@
 	{
 		"name": "arjun137",
 		"seconds": 66
+	},
+	{
+		"name": "leaf",
+		"seconds": 85
 	},
 	{
 		"name": "apaleslimghost",
@@ -37,10 +45,6 @@
 	},
 	{
 		"name": "Ania",
-		"seconds": null
-	},
-	{
-		"name": "leaf",
 		"seconds": null
 	}
 ]
