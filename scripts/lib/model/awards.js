@@ -267,6 +267,16 @@ module.exports = class Awards {
 			});
 		}
 
+		// Beast
+		const beast = placements.filter(({placement}) => placement === 6);
+		if (beast.length >= 3) {
+			awards.push({
+				type: 'beast',
+				text: 'His number is six hundred and sixty-six',
+				leaderboard: beast[2].leaderboard.date
+			});
+		}
+
 		return awards;
 	}
 

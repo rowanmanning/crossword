@@ -26,7 +26,6 @@
 					<span>
 						{{ .text }}.
 						{{ if .leaderboard }}
-							<br/>
 							<a href="/leaderboards/{{ .leaderboard }}/#person-{{ $.Title | urlize }}">{{ dateFormat "Jan 2 2006" .leaderboard }}</a>
 						{{ end }}
 					</span>
