@@ -257,6 +257,16 @@ module.exports = class Awards {
 			});
 		}
 
+		// Blaze
+		const blaze = times.find(({time}) => time.totalSeconds === 260);
+		if (blaze) {
+			awards.push({
+				type: 'blaze',
+				text: 'That\'s illegal and I don\'t condone it',
+				leaderboard: blaze.leaderboard.date
+			});
+		}
+
 		return awards;
 	}
 
