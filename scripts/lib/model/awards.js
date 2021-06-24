@@ -36,7 +36,7 @@ module.exports = class Awards {
 			.map(streak => {
 				return {
 					length: streak.length,
-					leaderboard: streak.pop()
+					leaderboards: streak
 				};
 			});
 
@@ -239,7 +239,7 @@ module.exports = class Awards {
 			awards.push({
 				type: 'three-day-streak',
 				text: 'Play for three days in a row',
-				leaderboard: threeDayStreak.leaderboard
+				leaderboard: threeDayStreak.leaderboards[2]
 			});
 		}
 
@@ -249,7 +249,7 @@ module.exports = class Awards {
 			awards.push({
 				type: 'week-streak',
 				text: 'Play for a full week without breaks',
-				leaderboard: weekStreak.leaderboard
+				leaderboard: weekStreak.leaderboards[6]
 			});
 		}
 
@@ -259,7 +259,7 @@ module.exports = class Awards {
 			awards.push({
 				type: 'month-streak',
 				text: 'Play for a full month (30 days) without breaks',
-				leaderboard: monthStreak.leaderboard
+				leaderboard: monthStreak.leaderboards[29]
 			});
 		}
 
@@ -269,7 +269,7 @@ module.exports = class Awards {
 			awards.push({
 				type: 'quarter-streak',
 				text: 'Play for a full quarter, give that OKR a 1',
-				leaderboard: quarterStreak.leaderboard
+				leaderboard: quarterStreak.leaderboards[89]
 			});
 		}
 
