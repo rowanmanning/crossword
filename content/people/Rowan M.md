@@ -53,41 +53,41 @@
   "awards": [
     {
       "type": "silver",
-      "text": "The second fastest time on a single day",
+      "text": "Get the second fastest time for a day",
       "leaderboard": "2021-06-21"
     },
     {
       "type": "bronze",
-      "text": "The third fastest time on a single day",
+      "text": "Get the third fastest time for a day",
       "leaderboard": "2021-06-22"
     },
     {
       "type": "double-bronze",
-      "text": "The third fastest time two days in a row"
+      "text": "Get the third fastest time two days in a row"
     },
     {
       "type": "sub-120",
-      "text": "Completed in less than two minutes",
+      "text": "Complete a puzzle in less than two minutes",
       "leaderboard": "2021-06-21"
     },
     {
       "type": "sub-60",
-      "text": "Completed in less than a minute",
+      "text": "Complete a puzzle in less than a minute",
       "leaderboard": "2021-06-21"
     },
     {
       "type": "sub-45",
-      "text": "Completed in less than 45 seconds",
+      "text": "Complete a puzzle in less than 45 seconds",
       "leaderboard": "2021-06-22"
     },
     {
       "type": "sub-30",
-      "text": "Completed in less than 30 seconds",
+      "text": "Complete a puzzle in less than 30 seconds",
       "leaderboard": "2021-06-23"
     },
     {
       "type": "three-day-streak",
-      "text": "Played for three days in a row",
+      "text": "Play for three days in a row",
       "leaderboard": "2021-06-24"
     }
   ]

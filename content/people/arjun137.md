@@ -37,17 +37,17 @@
   "awards": [
     {
       "type": "sub-120",
-      "text": "Completed in less than two minutes",
+      "text": "Complete a puzzle in less than two minutes",
       "leaderboard": "2021-06-23"
     },
     {
       "type": "sub-60",
-      "text": "Completed in less than a minute",
+      "text": "Complete a puzzle in less than a minute",
       "leaderboard": "2021-06-23"
     },
     {
       "type": "sub-45",
-      "text": "Completed in less than 45 seconds",
+      "text": "Complete a puzzle in less than 45 seconds",
       "leaderboard": "2021-06-23"
     }
   ]

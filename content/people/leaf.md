@@ -53,12 +53,12 @@
   "awards": [
     {
       "type": "sub-120",
-      "text": "Completed in less than two minutes",
+      "text": "Complete a puzzle in less than two minutes",
       "leaderboard": "2021-06-22"
     },
     {
       "type": "three-day-streak",
-      "text": "Played for three days in a row",
+      "text": "Play for three days in a row",
       "leaderboard": "2021-06-24"
     }
   ]

@@ -64,20 +64,20 @@ module.exports = class Awards {
 		if (gold) {
 			awards.push({
 				type: 'gold',
-				text: 'The fastest time on a single day',
+				text: 'Get the fastest time for a day',
 				leaderboard: gold.leaderboard.date
 			});
 		}
 		if (placementNumbers.includes('[1][1]')) {
 			awards.push({
 				type: 'double-gold',
-				text: 'The fastest time two days in a row'
+				text: 'Get the fastest time two days in a row'
 			});
 		}
 		if (placementNumbers.includes('[1][1][1]')) {
 			awards.push({
 				type: 'triple-gold',
-				text: 'The fastest time three days in a row'
+				text: 'Get the fastest time three days in a row'
 			});
 		}
 
@@ -86,20 +86,20 @@ module.exports = class Awards {
 		if (silver) {
 			awards.push({
 				type: 'silver',
-				text: 'The second fastest time on a single day',
+				text: 'Get the second fastest time for a day',
 				leaderboard: silver.leaderboard.date
 			});
 		}
 		if (placementNumbers.includes('[2][2]')) {
 			awards.push({
 				type: 'double-silver',
-				text: 'The second fastest time two days in a row'
+				text: 'Get the second fastest time two days in a row'
 			});
 		}
 		if (placementNumbers.includes('[2][2][2]')) {
 			awards.push({
 				type: 'triple-silver',
-				text: 'The second fastest time three days in a row'
+				text: 'Get the second fastest time three days in a row'
 			});
 		}
 
@@ -108,20 +108,20 @@ module.exports = class Awards {
 		if (bronze) {
 			awards.push({
 				type: 'bronze',
-				text: 'The third fastest time on a single day',
+				text: 'Get the third fastest time for a day',
 				leaderboard: bronze.leaderboard.date
 			});
 		}
 		if (placementNumbers.includes('[3][3]')) {
 			awards.push({
 				type: 'double-bronze',
-				text: 'The third fastest time two days in a row'
+				text: 'Get the third fastest time two days in a row'
 			});
 		}
 		if (placementNumbers.includes('[3][3][3]')) {
 			awards.push({
 				type: 'triple-bronze',
-				text: 'The third fastest time three days in a row'
+				text: 'Get the third fastest time three days in a row'
 			});
 		}
 
@@ -178,7 +178,7 @@ module.exports = class Awards {
 		if (sub120) {
 			awards.push({
 				type: 'sub-120',
-				text: 'Completed in less than two minutes',
+				text: 'Complete a puzzle in less than two minutes',
 				leaderboard: sub120.leaderboard.date
 			});
 		}
@@ -188,7 +188,7 @@ module.exports = class Awards {
 		if (sub60) {
 			awards.push({
 				type: 'sub-60',
-				text: 'Completed in less than a minute',
+				text: 'Complete a puzzle in less than a minute',
 				leaderboard: sub60.leaderboard.date
 			});
 		}
@@ -198,7 +198,7 @@ module.exports = class Awards {
 		if (sub45) {
 			awards.push({
 				type: 'sub-45',
-				text: 'Completed in less than 45 seconds',
+				text: 'Complete a puzzle in less than 45 seconds',
 				leaderboard: sub45.leaderboard.date
 			});
 		}
@@ -208,7 +208,7 @@ module.exports = class Awards {
 		if (sub30) {
 			awards.push({
 				type: 'sub-30',
-				text: 'Completed in less than 30 seconds',
+				text: 'Complete a puzzle in less than 30 seconds',
 				leaderboard: sub30.leaderboard.date
 			});
 		}
@@ -218,7 +218,7 @@ module.exports = class Awards {
 		if (sub20) {
 			awards.push({
 				type: 'sub-20',
-				text: 'Completed in less than 20 seconds',
+				text: 'Complete a puzzle in less than 20 seconds',
 				leaderboard: sub20.leaderboard.date
 			});
 		}
@@ -228,7 +228,7 @@ module.exports = class Awards {
 		if (over300) {
 			awards.push({
 				type: 'over-300',
-				text: 'Completed in 5 minutes or more',
+				text: 'Complete a puzzle in 5 minutes or more',
 				leaderboard: over300.leaderboard.date
 			});
 		}
@@ -238,7 +238,7 @@ module.exports = class Awards {
 		if (threeDayStreak) {
 			awards.push({
 				type: 'three-day-streak',
-				text: 'Played for three days in a row',
+				text: 'Play for three days in a row',
 				leaderboard: threeDayStreak.leaderboard
 			});
 		}
@@ -248,7 +248,7 @@ module.exports = class Awards {
 		if (weekStreak) {
 			awards.push({
 				type: 'week-streak',
-				text: 'Played for a full week without breaks',
+				text: 'Play for a full week without breaks',
 				leaderboard: weekStreak.leaderboard
 			});
 		}
@@ -258,7 +258,7 @@ module.exports = class Awards {
 		if (monthStreak) {
 			awards.push({
 				type: 'month-streak',
-				text: 'Played for a full month (30 days) without breaks',
+				text: 'Play for a full month (30 days) without breaks',
 				leaderboard: monthStreak.leaderboard
 			});
 		}
@@ -268,7 +268,7 @@ module.exports = class Awards {
 		if (quarterStreak) {
 			awards.push({
 				type: 'quarter-streak',
-				text: 'Played for a full quarter, give that OKR a 1',
+				text: 'Play for a full quarter, give that OKR a 1',
 				leaderboard: quarterStreak.leaderboard
 			});
 		}
