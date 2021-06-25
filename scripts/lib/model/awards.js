@@ -195,7 +195,7 @@ module.exports = class Awards {
 			awards.push({
 				type: 'podium',
 				text: 'Unlock first, second, and third place awards',
-				leaderboard: times.filter(({position}) => position >= 1 || position <= 3)[2].leaderboard.date
+				leaderboard: [gold.leaderboard.date, silver.leaderboard.date, bronze.leaderboard.date].sort().pop()
 			});
 		}
 
