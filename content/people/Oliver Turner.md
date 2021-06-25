@@ -49,6 +49,11 @@
       "type": "sub-60",
       "text": "Complete a puzzle in less than a minute",
       "leaderboard": "2021-06-24"
+    },
+    {
+      "type": "twinning",
+      "text": "Get the same time as another person",
+      "leaderboard": "2021-06-24"
     }
   ]
 }

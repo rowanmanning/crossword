@@ -12,6 +12,7 @@ module.exports = class Awards {
 		// We reverse the sorting of times so that the first time an award
 		// is unlocked is counted rather than the last
 		const times = [...this.person.times].reverse();
+		const nonPendingTimes = times.filter(({isPending}) => !isPending);
 		const timesExcludingToday = times.slice(0, times.length - 1);
 
 		// Group positions for streak calculation
@@ -302,6 +303,40 @@ module.exports = class Awards {
 				type: 'quarter-streak',
 				text: 'Play for a full quarter, give that OKR a 1',
 				leaderboard: quarterStreak.leaderboards[89]
+			});
+		}
+
+		// Twinning
+		const twinning = nonPendingTimes.find(time => {
+			return time.leaderboard.times.filter(({position}) => position === time.position).length >= 2;
+		});
+		if (twinning) {
+			awards.push({
+				type: 'twinning',
+				text: 'Get the same time as another person',
+				leaderboard: twinning.leaderboard.date
+			});
+		}
+
+		const tripleting = nonPendingTimes.find(time => {
+			return time.leaderboard.times.filter(({position}) => position === time.position).length >= 3;
+		});
+		if (tripleting) {
+			awards.push({
+				type: 'tripleting',
+				text: 'Get the same time as two other people',
+				leaderboard: tripleting.leaderboard.date
+			});
+		}
+
+		const quadrupleting = nonPendingTimes.find(time => {
+			return time.leaderboard.times.filter(({position}) => position === time.position).length >= 4;
+		});
+		if (quadrupleting) {
+			awards.push({
+				type: 'quadrupleting',
+				text: 'Get the same time as three other people',
+				leaderboard: quadrupleting.leaderboard.date
 			});
 		}
 

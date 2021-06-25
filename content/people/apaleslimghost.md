@@ -72,6 +72,11 @@
       "type": "three-day-streak",
       "text": "Play for three days in a row",
       "leaderboard": "2021-06-24"
+    },
+    {
+      "type": "twinning",
+      "text": "Get the same time as another person",
+      "leaderboard": "2021-06-22"
     }
   ]
 }
