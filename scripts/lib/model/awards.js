@@ -358,6 +358,16 @@ module.exports = class Awards {
 			});
 		}
 
+		// 999
+		const emergency = timesExcludingToday.filter(({position}) => position === 9);
+		if (emergency.length >= 3) {
+			awards.push({
+				type: 'emergency',
+				text: 'What\'s your emergency?',
+				leaderboard: emergency[2].leaderboard.date
+			});
+		}
+
 		return awards;
 	}
 
