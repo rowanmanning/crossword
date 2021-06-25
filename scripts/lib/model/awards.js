@@ -38,6 +38,23 @@ module.exports = class Awards {
 				return groups;
 			}, []);
 
+		// Get groups of third + second + first
+		const podiumGroups = timesExcludingToday
+			.reduce((groups, {position, leaderboard}) => {
+				const group = groups.length ? groups.pop() : [];
+				if (position === 3) {
+					groups.push([leaderboard.date]);
+				} else if (group.length === 1 && position === 2) {
+					group.push(leaderboard.date);
+					groups.push(group);
+				} else if (group.length === 2 && position === 1) {
+					group.push(leaderboard.date);
+					groups.push(group);
+				}
+				return groups;
+			}, [])
+			.filter(group => group.length === 3);
+
 		// Get player streaks
 		const playStreaks = times
 			.reduce((streaks, {isPending, leaderboard}) => {
@@ -200,13 +217,12 @@ module.exports = class Awards {
 		}
 
 		// Podium climbing
-		const positionNumbers = timesExcludingToday.map(({position}) => `[${position}]`).join('');
-		const podiumClimbing = positionNumbers.includes('[3][2][1]');
+		const podiumClimbing = podiumGroups[0];
 		if (podiumClimbing) {
 			awards.push({
 				type: 'podium-climbing',
-				text: 'Unlock third, second, then first place awards on consecutive days'
-				// TODO work out how we can record the date here
+				text: 'Unlock third, second, then first place awards in order',
+				leaderboard: podiumClimbing[2]
 			});
 		}
 
