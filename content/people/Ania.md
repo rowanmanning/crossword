@@ -3,6 +3,10 @@
   "name": "Ania",
   "times": [
     {
+      "leaderboard": "2021-06-25",
+      "time": null
+    },
+    {
       "leaderboard": "2021-06-24",
       "time": null
     },

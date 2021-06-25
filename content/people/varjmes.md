@@ -3,6 +3,10 @@
   "name": "varjmes",
   "times": [
     {
+      "leaderboard": "2021-06-25",
+      "time": null
+    },
+    {
       "leaderboard": "2021-06-24",
       "time": {
         "minutes": 0,
@@ -55,6 +59,11 @@
       "type": "gold",
       "text": "Get the fastest time for a day",
       "leaderboard": "2021-06-23"
+    },
+    {
+      "type": "bronze",
+      "text": "Get the third fastest time for a day",
+      "leaderboard": "2021-06-24"
     },
     {
       "type": "half-time",
