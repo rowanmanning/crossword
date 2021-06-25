@@ -4,7 +4,11 @@
   "times": [
     {
       "leaderboard": "2021-06-25",
-      "time": null
+      "time": {
+        "minutes": 2,
+        "seconds": 13,
+        "totalSeconds": 133
+      }
     },
     {
       "leaderboard": "2021-06-24",
@@ -42,8 +46,8 @@
   "mean": {
     "time": {
       "minutes": 1,
-      "seconds": 23,
-      "totalSeconds": 83
+      "seconds": 36,
+      "totalSeconds": 96
     }
   },
   "awards": [
