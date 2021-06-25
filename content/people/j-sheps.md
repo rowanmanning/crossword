@@ -4,7 +4,11 @@
   "times": [
     {
       "leaderboard": "2021-06-25",
-      "time": null
+      "time": {
+        "minutes": 1,
+        "seconds": 29,
+        "totalSeconds": 89
+      }
     },
     {
       "leaderboard": "2021-06-24",
@@ -50,8 +54,8 @@
   "mean": {
     "time": {
       "minutes": 0,
-      "seconds": 38,
-      "totalSeconds": 38
+      "seconds": 48,
+      "totalSeconds": 48
     }
   },
   "awards": [
@@ -64,6 +68,11 @@
       "type": "silver",
       "text": "Get the second fastest time for a day",
       "leaderboard": "2021-06-23"
+    },
+    {
+      "type": "double-time",
+      "text": "Double your completion time from one day to the next",
+      "leaderboard": "2021-06-25"
     },
     {
       "type": "sub-120",
