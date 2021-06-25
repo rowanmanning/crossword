@@ -6,6 +6,7 @@
 				<tr>
 					<th class="leaderboard-table__main-column">Date</th>
 					<th class="leaderboard-table__time-column">Time</th>
+					<th class="leaderboard-table__position-column"><abbr title="Position">#</abbr></th>
 					<th class="leaderboard-table__awards-column">Awards</th>
 				</tr>
 			</thead>
@@ -13,14 +14,15 @@
 				{{ range .Params.times }}
 					{{ $leaderboard := .leaderboard }}
 					<tr>
-						<td><a href="/leaderboards/{{ .leaderboard | urlize }}/#person-{{ $.Title | urlize }}">{{ dateFormat "Jan 2 2006" .leaderboard }}</a></td>
-						<td>
+						<td class="leaderboard-table__main-column"><a href="/leaderboards/{{ .leaderboard | urlize }}/#person-{{ $.Title | urlize }}">{{ dateFormat "Jan 2 2006" .leaderboard }}</a></td>
+						<td class="leaderboard-table__time-column">
 							{{ if not .isPending }}
 								{{ partial "time.html" . }}
 							{{ else }}
 								-
 							{{ end }}
 						</td>
+						<td class="leaderboard-table__position-column">{{ .position | default "-" }}</td>
 						<td class="leaderboard-table__awards-column">
 							{{ if not .isPending }}
 								<ul class="leaderboard-table__awards">

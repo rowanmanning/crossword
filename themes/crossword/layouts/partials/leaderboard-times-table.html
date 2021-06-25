@@ -5,6 +5,7 @@
 		<table class="leaderboard-table table__data table--striped">
 			<thead>
 				<tr>
+					<th class="leaderboard-table__position-column"><abbr title="Position">#</abbr></th>
 					<th class="leaderboard-table__main-column">Person</th>
 					<th class="leaderboard-table__time-column">Time</th>
 					<th class="leaderboard-table__awards-column">Awards</th>
@@ -13,8 +14,9 @@
 			<tbody>
 				{{ range .Params.times }}
 					<tr id="person-{{ .person | urlize }}">
-						<td><a href="/people/{{ .person | urlize }}/">{{ .person }}</a></td>
-						<td>
+						<td class="leaderboard-table__position-column">{{ .position | default "-" }}</td>
+						<td class="leaderboard-table__main-column"><a href="/people/{{ .person | urlize }}/">{{ .person }}</a></td>
+						<td class="leaderboard-table__time-column">
 							{{ if not .isPending }}
 								{{ partial "time.html" . }}
 							{{ else }}

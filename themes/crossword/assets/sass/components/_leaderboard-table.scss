@@ -9,10 +9,18 @@
 
 // Leaderboard table column element widths
 .leaderboard-table__main-column {
-	width: 40%;
+	max-width: 60%;
+}
+.leaderboard-table__time-column,
+.leaderboard-table__position-column {
+	max-width: 20%;
+	text-align: center !important;
 }
 .leaderboard-table__time-column {
-	max-width: 20%;
+	width: 6ch;
+}
+.leaderboard-table__position-column {
+	width: 3ch;
 }
 .leaderboard-table__awards-column {
 	width: 40%;
