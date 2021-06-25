@@ -155,6 +155,40 @@ module.exports = class Awards {
 			});
 		}
 
+		// Consistent position
+		const consistent2 = positionGroups.find(({position, length}) => position > 3 && length >= 2);
+		if (consistent2) {
+			awards.push({
+				type: 'consistent-2',
+				text: 'Get the same position two days in a row',
+				leaderboard: consistent2.leaderboards[1]
+			});
+		}
+		const consistent3 = positionGroups.find(({position, length}) => position > 3 && length >= 3);
+		if (consistent3) {
+			awards.push({
+				type: 'consistent-3',
+				text: 'Get the same position three days in a row',
+				leaderboard: consistent3.leaderboards[2]
+			});
+		}
+		const consistent4 = positionGroups.find(({position, length}) => position > 3 && length >= 4);
+		if (consistent4) {
+			awards.push({
+				type: 'consistent-4',
+				text: 'Get the same position four days in a row',
+				leaderboard: consistent4.leaderboards[3]
+			});
+		}
+		const consistent5 = positionGroups.find(({position, length}) => position > 3 && length >= 5);
+		if (consistent5) {
+			awards.push({
+				type: 'consistent-5',
+				text: 'Get the same position five days in a row',
+				leaderboard: consistent5.leaderboards[3]
+			});
+		}
+
 		// Podium
 		const podium = (gold && silver && bronze);
 		if (podium) {
@@ -171,7 +205,7 @@ module.exports = class Awards {
 		if (podiumClimbing) {
 			awards.push({
 				type: 'podium-climbing',
-				text: 'Unlock third, second, and first place awards on consecutive days'
+				text: 'Unlock third, second, then first place awards on consecutive days'
 				// TODO work out how we can record the date here
 			});
 		}

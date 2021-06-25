@@ -73,6 +73,11 @@
       "leaderboard": "2021-06-22"
     },
     {
+      "type": "consistent-2",
+      "text": "Get the same position two days in a row",
+      "leaderboard": "2021-06-24"
+    },
+    {
       "type": "half-time",
       "text": "Half your completion time from one day to the next",
       "leaderboard": "2021-06-22"

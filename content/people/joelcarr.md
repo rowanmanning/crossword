@@ -73,6 +73,11 @@
       "leaderboard": "2021-06-21"
     },
     {
+      "type": "consistent-2",
+      "text": "Get the same position two days in a row",
+      "leaderboard": "2021-06-24"
+    },
+    {
       "type": "sub-120",
       "text": "Complete a puzzle in less than two minutes",
       "leaderboard": "2021-06-21"
