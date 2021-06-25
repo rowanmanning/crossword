@@ -4,7 +4,11 @@
   "times": [
     {
       "leaderboard": "2021-06-25",
-      "time": null
+      "time": {
+        "minutes": 2,
+        "seconds": 48,
+        "totalSeconds": 168
+      }
     },
     {
       "leaderboard": "2021-06-24",
@@ -46,8 +50,8 @@
   "mean": {
     "time": {
       "minutes": 1,
-      "seconds": 12,
-      "totalSeconds": 72
+      "seconds": 36,
+      "totalSeconds": 96
     }
   },
   "awards": [
@@ -60,6 +64,11 @@
       "type": "half-time",
       "text": "Half your completion time from one day to the next",
       "leaderboard": "2021-06-22"
+    },
+    {
+      "type": "double-time",
+      "text": "Double your completion time from one day to the next",
+      "leaderboard": "2021-06-25"
     },
     {
       "type": "sub-120",

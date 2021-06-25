@@ -1,5 +1,9 @@
 [
 	{
+		"name": "Rowan M",
+		"seconds": 52
+	},
+	{
 		"name": "Lily2point0",
 		"seconds": 87
 	},
@@ -13,7 +17,7 @@
 	},
 	{
 		"name": "Ania",
-		"seconds": null
+		"seconds": 168
 	},
 	{
 		"name": "arjun137",
@@ -41,10 +45,6 @@
 	},
 	{
 		"name": "Oliver Turner",
-		"seconds": null
-	},
-	{
-		"name": "Rowan M",
 		"seconds": null
 	}
 ]
