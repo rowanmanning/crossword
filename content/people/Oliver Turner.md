@@ -3,36 +3,41 @@
   "name": "Oliver Turner",
   "times": [
     {
+      "person": "Oliver Turner",
       "leaderboard": "2021-06-25",
-      "time": {
-        "minutes": 0,
-        "seconds": 54,
-        "totalSeconds": 54
-      }
+      "minutes": 0,
+      "seconds": 54,
+      "totalSeconds": 54,
+      "position": 2,
+      "isPending": false
     },
     {
+      "person": "Oliver Turner",
       "leaderboard": "2021-06-24",
-      "time": {
-        "minutes": 0,
-        "seconds": 57,
-        "totalSeconds": 57
-      }
+      "minutes": 0,
+      "seconds": 57,
+      "totalSeconds": 57,
+      "position": 4,
+      "isPending": false
     }
   ],
   "best": {
+    "person": "Oliver Turner",
     "leaderboard": "2021-06-25",
-    "time": {
-      "minutes": 0,
-      "seconds": 54,
-      "totalSeconds": 54
-    }
+    "minutes": 0,
+    "seconds": 54,
+    "totalSeconds": 54,
+    "position": 2,
+    "isPending": false
   },
   "mean": {
-    "time": {
-      "minutes": 0,
-      "seconds": 56,
-      "totalSeconds": 56
-    }
+    "person": null,
+    "leaderboard": null,
+    "minutes": 0,
+    "seconds": 56,
+    "totalSeconds": 56,
+    "position": null,
+    "isPending": false
   },
   "awards": [
     {

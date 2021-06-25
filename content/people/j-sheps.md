@@ -3,60 +3,68 @@
   "name": "j-sheps",
   "times": [
     {
+      "person": "j-sheps",
       "leaderboard": "2021-06-25",
-      "time": {
-        "minutes": 1,
-        "seconds": 29,
-        "totalSeconds": 89
-      }
+      "minutes": 1,
+      "seconds": 29,
+      "totalSeconds": 89,
+      "position": 4,
+      "isPending": false
     },
     {
+      "person": "j-sheps",
       "leaderboard": "2021-06-24",
-      "time": {
-        "minutes": 0,
-        "seconds": 31,
-        "totalSeconds": 31
-      }
+      "minutes": 0,
+      "seconds": 31,
+      "totalSeconds": 31,
+      "position": 1,
+      "isPending": false
     },
     {
+      "person": "j-sheps",
       "leaderboard": "2021-06-23",
-      "time": {
-        "minutes": 0,
-        "seconds": 24,
-        "totalSeconds": 24
-      }
+      "minutes": 0,
+      "seconds": 24,
+      "totalSeconds": 24,
+      "position": 2,
+      "isPending": false
     },
     {
+      "person": "j-sheps",
       "leaderboard": "2021-06-22",
-      "time": {
-        "minutes": 0,
-        "seconds": 45,
-        "totalSeconds": 45
-      }
+      "minutes": 0,
+      "seconds": 45,
+      "totalSeconds": 45,
+      "position": 5,
+      "isPending": false
     },
     {
+      "person": "j-sheps",
       "leaderboard": "2021-06-21",
-      "time": {
-        "minutes": 0,
-        "seconds": 49,
-        "totalSeconds": 49
-      }
+      "minutes": 0,
+      "seconds": 49,
+      "totalSeconds": 49,
+      "position": 1,
+      "isPending": false
     }
   ],
   "best": {
+    "person": "j-sheps",
     "leaderboard": "2021-06-23",
-    "time": {
-      "minutes": 0,
-      "seconds": 24,
-      "totalSeconds": 24
-    }
+    "minutes": 0,
+    "seconds": 24,
+    "totalSeconds": 24,
+    "position": 2,
+    "isPending": false
   },
   "mean": {
-    "time": {
-      "minutes": 0,
-      "seconds": 48,
-      "totalSeconds": 48
-    }
+    "person": null,
+    "leaderboard": null,
+    "minutes": 0,
+    "seconds": 48,
+    "totalSeconds": 48,
+    "position": null,
+    "isPending": false
   },
   "awards": [
     {

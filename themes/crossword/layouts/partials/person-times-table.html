@@ -15,17 +15,16 @@
 					<tr>
 						<td><a href="/leaderboards/{{ .leaderboard | urlize }}/#person-{{ $.Title | urlize }}">{{ dateFormat "Jan 2 2006" .leaderboard }}</a></td>
 						<td>
-							{{ if .time }}
-								{{ partial "time.html" .time }}
+							{{ if not .isPending }}
+								{{ partial "time.html" . }}
 							{{ else }}
 								-
 							{{ end }}
 						</td>
 						<td class="leaderboard-table__awards-column">
-							{{ if .time }}
+							{{ if not .isPending }}
 								<ul class="leaderboard-table__awards">
-									{{ $totalSeconds := .time.totalSeconds }}
-									{{ if and $.Params.best.time (eq $.Params.best.time.totalSeconds $totalSeconds) }}
+									{{ if and $.Params.best (eq $.Params.best.totalSeconds .totalSeconds) }}
 										<li class="leaderboard-table__award">
 											<img src="/icons/best.svg" alt="{{ $.Title }}'s best time" class="leaderboard-table__award-icon" title="{{ $.Title }}'s best time" />
 										</li>

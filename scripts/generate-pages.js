@@ -5,6 +5,7 @@ const fs = require('fs/promises');
 const loadAllJSON = require('./lib/utils/load-all-json');
 const Leaderboard = require('./lib/model/leaderboard');
 const Person = require('./lib/model/person');
+const Time = require('./lib/model/time');
 
 generatePages();
 
@@ -28,6 +29,7 @@ async function generatePages() {
 
 		// Loop over people for leaderboard data
 		for (const {name, seconds} of data) {
+			const time = new Time(seconds);
 
 			// Create person if they don't exist
 			if (!people.has(name)) {
@@ -35,9 +37,9 @@ async function generatePages() {
 			}
 			const person = people.get(name);
 
-			// Add the time to the person and the leaderboard
-			person.addTime(leaderboard, seconds);
-			leaderboard.addTime(person, seconds);
+			// Set the person and leaderboard on the time
+			time.leaderboard = leaderboard;
+			time.person = person;
 		}
 
 	}

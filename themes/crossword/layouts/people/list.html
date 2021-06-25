@@ -16,10 +16,10 @@
 				<li class="person-card">
 					<a href="{{ $permalink }}" class="person-card__name">{{ .Title }}</a>
 					<ul class="person-card__meta">
-						{{ with .Params.best.time }}
+						{{ with .Params.best }}
 							<li>Best {{ partial "time.html" . }}</li>
 						{{ end }}
-						{{ with .Params.mean.time }}
+						{{ with .Params.mean }}
 							<li>Average {{ partial "time.html" . }}</li>
 						{{ end }}
 					</ul>

@@ -3,32 +3,41 @@
   "name": "itsalex",
   "times": [
     {
+      "person": "itsalex",
       "leaderboard": "2021-06-25",
-      "time": null
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
     },
     {
+      "person": "itsalex",
       "leaderboard": "2021-06-24",
-      "time": {
-        "minutes": 0,
-        "seconds": 57,
-        "totalSeconds": 57
-      }
+      "minutes": 0,
+      "seconds": 57,
+      "totalSeconds": 57,
+      "position": 4,
+      "isPending": false
     }
   ],
   "best": {
+    "person": "itsalex",
     "leaderboard": "2021-06-24",
-    "time": {
-      "minutes": 0,
-      "seconds": 57,
-      "totalSeconds": 57
-    }
+    "minutes": 0,
+    "seconds": 57,
+    "totalSeconds": 57,
+    "position": 4,
+    "isPending": false
   },
   "mean": {
-    "time": {
-      "minutes": 0,
-      "seconds": 57,
-      "totalSeconds": 57
-    }
+    "person": null,
+    "leaderboard": null,
+    "minutes": 0,
+    "seconds": 57,
+    "totalSeconds": 57,
+    "position": null,
+    "isPending": false
   },
   "awards": [
     {

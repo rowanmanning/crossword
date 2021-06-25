@@ -11,20 +11,17 @@ module.exports = class Person {
 		this.awards = new Awards(this);
 	}
 
-	addTime(leaderboard, seconds) {
-		this.times.push({
-			leaderboard,
-			time: new Time(seconds)
-		});
+	addTime(time) {
+		this.times.push(time);
 		this.sortTimes();
 	}
 
 	sortTimes() {
-		this.times.sort((entryA, entryB) => {
-			if (entryA.leaderboard.date < entryB.leaderboard.date) {
+		this.times.sort((timeA, timeB) => {
+			if (timeA.leaderboard.date < timeB.leaderboard.date) {
 				return 1;
 			}
-			if (entryA.leaderboard.date > entryB.leaderboard.date) {
+			if (timeA.leaderboard.date > timeB.leaderboard.date) {
 				return -1;
 			}
 			return 0;
@@ -33,46 +30,26 @@ module.exports = class Person {
 
 	get best() {
 		return this.times.reduce((best, current) => {
-			return (current.time < best.time ? current : best);
+			return (current < best ? current : best);
 		});
 	}
 
 	get mean() {
-		const seconds = this.times.filter(({time}) => time < Infinity).map(({time}) => time.totalSeconds);
+		const seconds = this.times.filter(time => time < Infinity).map(time => time.totalSeconds);
 		if (!seconds.length) {
-			return {time: new Time()};
+			return new Time();
 		}
-		return {
-			time: new Time(Math.ceil(seconds.reduce((numA, numB) => numA + numB, 0) / seconds.length))
-		};
-	}
-
-	get placements() {
-		return this.times.map(({leaderboard, time}) => {
-			const placement = leaderboard.times.find(({person}) => person.name === this.name);
-			return {
-				leaderboard,
-				time,
-				placement: leaderboard.times.indexOf(placement) + 1
-			};
-		});
+		return new Time(Math.ceil(seconds.reduce((numA, numB) => numA + numB, 0) / seconds.length));
 	}
 
 	toJSON() {
 		return {
 			title: this.name,
 			name: this.name,
-			times: this.times.map(this.constructor.flattenTime),
-			best: this.constructor.flattenTime(this.best),
+			times: this.times,
+			best: this.best,
 			mean: this.mean,
 			awards: this.awards
-		};
-	}
-
-	static flattenTime({leaderboard, time}) {
-		return {
-			leaderboard: leaderboard.date,
-			time
 		};
 	}
 

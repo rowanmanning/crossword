@@ -3,60 +3,68 @@
   "name": "joelcarr",
   "times": [
     {
+      "person": "joelcarr",
       "leaderboard": "2021-06-25",
-      "time": {
-        "minutes": 3,
-        "seconds": 57,
-        "totalSeconds": 237
-      }
+      "minutes": 3,
+      "seconds": 57,
+      "totalSeconds": 237,
+      "position": 9,
+      "isPending": false
     },
     {
+      "person": "joelcarr",
       "leaderboard": "2021-06-24",
-      "time": {
-        "minutes": 2,
-        "seconds": 17,
-        "totalSeconds": 137
-      }
+      "minutes": 2,
+      "seconds": 17,
+      "totalSeconds": 137,
+      "position": 10,
+      "isPending": false
     },
     {
+      "person": "joelcarr",
       "leaderboard": "2021-06-23",
-      "time": {
-        "minutes": 2,
-        "seconds": 25,
-        "totalSeconds": 145
-      }
+      "minutes": 2,
+      "seconds": 25,
+      "totalSeconds": 145,
+      "position": 10,
+      "isPending": false
     },
     {
+      "person": "joelcarr",
       "leaderboard": "2021-06-22",
-      "time": {
-        "minutes": 1,
-        "seconds": 14,
-        "totalSeconds": 74
-      }
+      "minutes": 1,
+      "seconds": 14,
+      "totalSeconds": 74,
+      "position": 6,
+      "isPending": false
     },
     {
+      "person": "joelcarr",
       "leaderboard": "2021-06-21",
-      "time": {
-        "minutes": 1,
-        "seconds": 23,
-        "totalSeconds": 83
-      }
+      "minutes": 1,
+      "seconds": 23,
+      "totalSeconds": 83,
+      "position": 3,
+      "isPending": false
     }
   ],
   "best": {
+    "person": "joelcarr",
     "leaderboard": "2021-06-22",
-    "time": {
-      "minutes": 1,
-      "seconds": 14,
-      "totalSeconds": 74
-    }
+    "minutes": 1,
+    "seconds": 14,
+    "totalSeconds": 74,
+    "position": 6,
+    "isPending": false
   },
   "mean": {
-    "time": {
-      "minutes": 2,
-      "seconds": 16,
-      "totalSeconds": 136
-    }
+    "person": null,
+    "leaderboard": null,
+    "minutes": 2,
+    "seconds": 16,
+    "totalSeconds": 136,
+    "position": null,
+    "isPending": false
   },
   "awards": [
     {

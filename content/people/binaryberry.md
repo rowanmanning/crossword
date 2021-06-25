@@ -3,56 +3,68 @@
   "name": "binaryberry",
   "times": [
     {
+      "person": "binaryberry",
       "leaderboard": "2021-06-25",
-      "time": null
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
     },
     {
+      "person": "binaryberry",
       "leaderboard": "2021-06-24",
-      "time": {
-        "minutes": 2,
-        "seconds": 6,
-        "totalSeconds": 126
-      }
+      "minutes": 2,
+      "seconds": 6,
+      "totalSeconds": 126,
+      "position": 9,
+      "isPending": false
     },
     {
+      "person": "binaryberry",
       "leaderboard": "2021-06-23",
-      "time": {
-        "minutes": 2,
-        "seconds": 10,
-        "totalSeconds": 130
-      }
+      "minutes": 2,
+      "seconds": 10,
+      "totalSeconds": 130,
+      "position": 9,
+      "isPending": false
     },
     {
+      "person": "binaryberry",
       "leaderboard": "2021-06-22",
-      "time": {
-        "minutes": 1,
-        "seconds": 29,
-        "totalSeconds": 89
-      }
+      "minutes": 1,
+      "seconds": 29,
+      "totalSeconds": 89,
+      "position": 8,
+      "isPending": false
     },
     {
+      "person": "binaryberry",
       "leaderboard": "2021-06-21",
-      "time": {
-        "minutes": 2,
-        "seconds": 15,
-        "totalSeconds": 135
-      }
+      "minutes": 2,
+      "seconds": 15,
+      "totalSeconds": 135,
+      "position": 6,
+      "isPending": false
     }
   ],
   "best": {
+    "person": "binaryberry",
     "leaderboard": "2021-06-22",
-    "time": {
-      "minutes": 1,
-      "seconds": 29,
-      "totalSeconds": 89
-    }
+    "minutes": 1,
+    "seconds": 29,
+    "totalSeconds": 89,
+    "position": 8,
+    "isPending": false
   },
   "mean": {
-    "time": {
-      "minutes": 2,
-      "seconds": 0,
-      "totalSeconds": 120
-    }
+    "person": null,
+    "leaderboard": null,
+    "minutes": 2,
+    "seconds": 0,
+    "totalSeconds": 120,
+    "position": null,
+    "isPending": false
   },
   "awards": [
     {

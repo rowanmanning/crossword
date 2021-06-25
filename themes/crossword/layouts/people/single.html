@@ -6,16 +6,16 @@
 		<p>
 			Viewing times for {{ .Title }}.
 			{{ with .Params.best }}
-				Their best ever time is {{ partial "time.html" .time }}
+				Their best ever time is {{ partial "time.html" . }}
 				on <a href="/leaderboards/{{ .leaderboard | urlize }}/#person-{{ $.Title | urlize }}">{{ dateFormat "Jan 2 2006" .leaderboard }}</a>.
 			{{ end }}
-			{{ with .Params.mean.time }}
+			{{ with .Params.mean }}
 				Their average time is {{ partial "time.html" . }}.
 			{{ end }}
 		</p>
 	</div>
 
-	{{ if len .Params.awards }}
+	{{ if .Params.awards }}
 		<div class="content-body">
 			<h2 id="awards">Awards</h2>
 		</div>

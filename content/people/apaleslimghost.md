@@ -3,52 +3,59 @@
   "name": "apaleslimghost",
   "times": [
     {
+      "person": "apaleslimghost",
       "leaderboard": "2021-06-25",
-      "time": {
-        "minutes": 2,
-        "seconds": 13,
-        "totalSeconds": 133
-      }
+      "minutes": 2,
+      "seconds": 13,
+      "totalSeconds": 133,
+      "position": 6,
+      "isPending": false
     },
     {
+      "person": "apaleslimghost",
       "leaderboard": "2021-06-24",
-      "time": {
-        "minutes": 1,
-        "seconds": 59,
-        "totalSeconds": 119
-      }
+      "minutes": 1,
+      "seconds": 59,
+      "totalSeconds": 119,
+      "position": 8,
+      "isPending": false
     },
     {
+      "person": "apaleslimghost",
       "leaderboard": "2021-06-23",
-      "time": {
-        "minutes": 1,
-        "seconds": 24,
-        "totalSeconds": 84
-      }
+      "minutes": 1,
+      "seconds": 24,
+      "totalSeconds": 84,
+      "position": 8,
+      "isPending": false
     },
     {
+      "person": "apaleslimghost",
       "leaderboard": "2021-06-22",
-      "time": {
-        "minutes": 0,
-        "seconds": 45,
-        "totalSeconds": 45
-      }
+      "minutes": 0,
+      "seconds": 45,
+      "totalSeconds": 45,
+      "position": 5,
+      "isPending": false
     }
   ],
   "best": {
+    "person": "apaleslimghost",
     "leaderboard": "2021-06-22",
-    "time": {
-      "minutes": 0,
-      "seconds": 45,
-      "totalSeconds": 45
-    }
+    "minutes": 0,
+    "seconds": 45,
+    "totalSeconds": 45,
+    "position": 5,
+    "isPending": false
   },
   "mean": {
-    "time": {
-      "minutes": 1,
-      "seconds": 36,
-      "totalSeconds": 96
-    }
+    "person": null,
+    "leaderboard": null,
+    "minutes": 1,
+    "seconds": 36,
+    "totalSeconds": 96,
+    "position": null,
+    "isPending": false
   },
   "awards": [
     {

@@ -3,44 +3,50 @@
   "name": "arjun137",
   "times": [
     {
+      "person": "arjun137",
       "leaderboard": "2021-06-25",
-      "time": {
-        "minutes": 2,
-        "seconds": 58,
-        "totalSeconds": 178
-      }
+      "minutes": 2,
+      "seconds": 58,
+      "totalSeconds": 178,
+      "position": 8,
+      "isPending": false
     },
     {
+      "person": "arjun137",
       "leaderboard": "2021-06-24",
-      "time": {
-        "minutes": 1,
-        "seconds": 6,
-        "totalSeconds": 66
-      }
+      "minutes": 1,
+      "seconds": 6,
+      "totalSeconds": 66,
+      "position": 6,
+      "isPending": false
     },
     {
+      "person": "arjun137",
       "leaderboard": "2021-06-23",
-      "time": {
-        "minutes": 0,
-        "seconds": 40,
-        "totalSeconds": 40
-      }
+      "minutes": 0,
+      "seconds": 40,
+      "totalSeconds": 40,
+      "position": 4,
+      "isPending": false
     }
   ],
   "best": {
+    "person": "arjun137",
     "leaderboard": "2021-06-23",
-    "time": {
-      "minutes": 0,
-      "seconds": 40,
-      "totalSeconds": 40
-    }
+    "minutes": 0,
+    "seconds": 40,
+    "totalSeconds": 40,
+    "position": 4,
+    "isPending": false
   },
   "mean": {
-    "time": {
-      "minutes": 1,
-      "seconds": 35,
-      "totalSeconds": 95
-    }
+    "person": null,
+    "leaderboard": null,
+    "minutes": 1,
+    "seconds": 35,
+    "totalSeconds": 95,
+    "position": null,
+    "isPending": false
   },
   "awards": [
     {

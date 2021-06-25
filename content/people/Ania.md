@@ -3,56 +3,68 @@
   "name": "Ania",
   "times": [
     {
+      "person": "Ania",
       "leaderboard": "2021-06-25",
-      "time": {
-        "minutes": 2,
-        "seconds": 48,
-        "totalSeconds": 168
-      }
+      "minutes": 2,
+      "seconds": 48,
+      "totalSeconds": 168,
+      "position": 7,
+      "isPending": false
     },
     {
+      "person": "Ania",
       "leaderboard": "2021-06-24",
-      "time": null
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
     },
     {
+      "person": "Ania",
       "leaderboard": "2021-06-23",
-      "time": {
-        "minutes": 1,
-        "seconds": 1,
-        "totalSeconds": 61
-      }
+      "minutes": 1,
+      "seconds": 1,
+      "totalSeconds": 61,
+      "position": 6,
+      "isPending": false
     },
     {
+      "person": "Ania",
       "leaderboard": "2021-06-22",
-      "time": {
-        "minutes": 0,
-        "seconds": 35,
-        "totalSeconds": 35
-      }
+      "minutes": 0,
+      "seconds": 35,
+      "totalSeconds": 35,
+      "position": 1,
+      "isPending": false
     },
     {
+      "person": "Ania",
       "leaderboard": "2021-06-21",
-      "time": {
-        "minutes": 2,
-        "seconds": 0,
-        "totalSeconds": 120
-      }
+      "minutes": 2,
+      "seconds": 0,
+      "totalSeconds": 120,
+      "position": 5,
+      "isPending": false
     }
   ],
   "best": {
+    "person": "Ania",
     "leaderboard": "2021-06-22",
-    "time": {
-      "minutes": 0,
-      "seconds": 35,
-      "totalSeconds": 35
-    }
+    "minutes": 0,
+    "seconds": 35,
+    "totalSeconds": 35,
+    "position": 1,
+    "isPending": false
   },
   "mean": {
-    "time": {
-      "minutes": 1,
-      "seconds": 36,
-      "totalSeconds": 96
-    }
+    "person": null,
+    "leaderboard": null,
+    "minutes": 1,
+    "seconds": 36,
+    "totalSeconds": 96,
+    "position": null,
+    "isPending": false
   },
   "awards": [
     {

@@ -3,60 +3,68 @@
   "name": "Rowan M",
   "times": [
     {
+      "person": "Rowan M",
       "leaderboard": "2021-06-25",
-      "time": {
-        "minutes": 0,
-        "seconds": 52,
-        "totalSeconds": 52
-      }
+      "minutes": 0,
+      "seconds": 52,
+      "totalSeconds": 52,
+      "position": 1,
+      "isPending": false
     },
     {
+      "person": "Rowan M",
       "leaderboard": "2021-06-24",
-      "time": {
-        "minutes": 0,
-        "seconds": 44,
-        "totalSeconds": 44
-      }
+      "minutes": 0,
+      "seconds": 44,
+      "totalSeconds": 44,
+      "position": 2,
+      "isPending": false
     },
     {
+      "person": "Rowan M",
       "leaderboard": "2021-06-23",
-      "time": {
-        "minutes": 0,
-        "seconds": 25,
-        "totalSeconds": 25
-      }
+      "minutes": 0,
+      "seconds": 25,
+      "totalSeconds": 25,
+      "position": 3,
+      "isPending": false
     },
     {
+      "person": "Rowan M",
       "leaderboard": "2021-06-22",
-      "time": {
-        "minutes": 0,
-        "seconds": 41,
-        "totalSeconds": 41
-      }
+      "minutes": 0,
+      "seconds": 41,
+      "totalSeconds": 41,
+      "position": 3,
+      "isPending": false
     },
     {
+      "person": "Rowan M",
       "leaderboard": "2021-06-21",
-      "time": {
-        "minutes": 0,
-        "seconds": 53,
-        "totalSeconds": 53
-      }
+      "minutes": 0,
+      "seconds": 53,
+      "totalSeconds": 53,
+      "position": 2,
+      "isPending": false
     }
   ],
   "best": {
+    "person": "Rowan M",
     "leaderboard": "2021-06-23",
-    "time": {
-      "minutes": 0,
-      "seconds": 25,
-      "totalSeconds": 25
-    }
+    "minutes": 0,
+    "seconds": 25,
+    "totalSeconds": 25,
+    "position": 3,
+    "isPending": false
   },
   "mean": {
-    "time": {
-      "minutes": 0,
-      "seconds": 43,
-      "totalSeconds": 43
-    }
+    "person": null,
+    "leaderboard": null,
+    "minutes": 0,
+    "seconds": 43,
+    "totalSeconds": 43,
+    "position": null,
+    "isPending": false
   },
   "awards": [
     {

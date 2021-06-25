@@ -11,17 +11,14 @@ module.exports = class Awards {
 
 		// We reverse the sorting of times so that the first time an award
 		// is unlocked is counted rather than the last
-		const placements = [...this.person.placements].reverse();
 		const times = [...this.person.times].reverse();
+		const timesExcludingToday = times.slice(0, times.length - 1);
 
-		// Ignore the most recent placement, because it will change over the day
-		placements.pop();
-
-		// Group placements for streak calculation
-		const placementGroups = placements
-			.reduce((groups, {placement, leaderboard}) => {
+		// Group positions for streak calculation
+		const positionGroups = timesExcludingToday
+			.reduce((groups, {position, leaderboard}) => {
 				const group = groups.length ? groups.pop() : null;
-				if (group && group.placement === placement) {
+				if (group && group.position === position) {
 					group.leaderboards.push(leaderboard.date);
 					group.length = group.leaderboards.length;
 					groups.push(group);
@@ -30,7 +27,7 @@ module.exports = class Awards {
 						groups.push(group);
 					}
 					groups.push({
-						placement,
+						position,
 						length: 1,
 						leaderboards: [
 							leaderboard.date
@@ -42,9 +39,9 @@ module.exports = class Awards {
 
 		// Get player streaks
 		const playStreaks = times
-			.reduce((streaks, {time, leaderboard}) => {
+			.reduce((streaks, {isPending, leaderboard}) => {
 				let currentStreak = streaks.pop();
-				if (time.isPending) {
+				if (isPending) {
 					streaks.push(currentStreak);
 					currentStreak = [];
 				} else {
@@ -62,12 +59,12 @@ module.exports = class Awards {
 
 		// Get time differences
 		const timeDifferences = times
-			.filter(({time}) => !time.isPending)
-			.reduce((differences, {time, leaderboard}, index, filteredTimes) => {
+			.filter(time => !time.isPending)
+			.reduce((differences, {totalSeconds, leaderboard}, index, filteredTimes) => {
 				const previous = filteredTimes[index - 1];
 				if (previous) {
-					const from = previous.time.totalSeconds;
-					const to = time.totalSeconds;
+					const from = previous.totalSeconds;
+					const to = totalSeconds;
 					const timeDifference = to - from;
 					const timeMultiplier = Math.round((to / from) * 100) / 100;
 					differences.push({
@@ -80,7 +77,7 @@ module.exports = class Awards {
 			}, []);
 
 		// Gold
-		const gold = placements.find(({placement}) => placement === 1);
+		const gold = timesExcludingToday.find(({position}) => position === 1);
 		if (gold) {
 			awards.push({
 				type: 'gold',
@@ -88,7 +85,7 @@ module.exports = class Awards {
 				leaderboard: gold.leaderboard.date
 			});
 		}
-		const doubleGold = placementGroups.find(({placement, length}) => placement === 1 && length >= 2);
+		const doubleGold = positionGroups.find(({position, length}) => position === 1 && length >= 2);
 		if (doubleGold) {
 			awards.push({
 				type: 'double-gold',
@@ -96,7 +93,7 @@ module.exports = class Awards {
 				leaderboard: doubleGold.leaderboards[1]
 			});
 		}
-		const tripleGold = placementGroups.find(({placement, length}) => placement === 1 && length >= 3);
+		const tripleGold = positionGroups.find(({position, length}) => position === 1 && length >= 3);
 		if (tripleGold) {
 			awards.push({
 				type: 'triple-gold',
@@ -106,7 +103,7 @@ module.exports = class Awards {
 		}
 
 		// Silver
-		const silver = placements.find(({placement}) => placement === 2);
+		const silver = timesExcludingToday.find(({position}) => position === 2);
 		if (silver) {
 			awards.push({
 				type: 'silver',
@@ -114,7 +111,7 @@ module.exports = class Awards {
 				leaderboard: silver.leaderboard.date
 			});
 		}
-		const doubleSilver = placementGroups.find(({placement, length}) => placement === 2 && length >= 2);
+		const doubleSilver = positionGroups.find(({position, length}) => position === 2 && length >= 2);
 		if (doubleSilver) {
 			awards.push({
 				type: 'double-silver',
@@ -122,7 +119,7 @@ module.exports = class Awards {
 				leaderboard: doubleSilver.leaderboards[1]
 			});
 		}
-		const tripleSilver = placementGroups.find(({placement, length}) => placement === 2 && length >= 3);
+		const tripleSilver = positionGroups.find(({position, length}) => position === 2 && length >= 3);
 		if (tripleSilver) {
 			awards.push({
 				type: 'triple-silver',
@@ -132,7 +129,7 @@ module.exports = class Awards {
 		}
 
 		// Bronze
-		const bronze = placements.find(({placement}) => placement === 3);
+		const bronze = timesExcludingToday.find(({position}) => position === 3);
 		if (bronze) {
 			awards.push({
 				type: 'bronze',
@@ -140,7 +137,7 @@ module.exports = class Awards {
 				leaderboard: bronze.leaderboard.date
 			});
 		}
-		const doubleBronze = placementGroups.find(({placement, length}) => placement === 3 && length >= 2);
+		const doubleBronze = positionGroups.find(({position, length}) => position === 3 && length >= 2);
 		if (doubleBronze) {
 			awards.push({
 				type: 'double-bronze',
@@ -148,7 +145,7 @@ module.exports = class Awards {
 				leaderboard: doubleBronze.leaderboards[1]
 			});
 		}
-		const tripleBronze = placementGroups.find(({placement, length}) => placement === 3 && length >= 3);
+		const tripleBronze = positionGroups.find(({position, length}) => position === 3 && length >= 3);
 		if (tripleBronze) {
 			awards.push({
 				type: 'triple-bronze',
@@ -163,13 +160,13 @@ module.exports = class Awards {
 			awards.push({
 				type: 'podium',
 				text: 'Unlock first, second, and third place awards',
-				leaderboard: placements.filter(({placement}) => placement >= 1 || placement <= 3)[2].leaderboard.date
+				leaderboard: times.filter(({position}) => position >= 1 || position <= 3)[2].leaderboard.date
 			});
 		}
 
 		// Podium climbing
-		const placementNumbers = placements.map(({placement}) => `[${placement}]`).join('');
-		const podiumClimbing = placementNumbers.includes('[3][2][1]');
+		const positionNumbers = timesExcludingToday.map(({position}) => `[${position}]`).join('');
+		const podiumClimbing = positionNumbers.includes('[3][2][1]');
 		if (podiumClimbing) {
 			awards.push({
 				type: 'podium-climbing',
@@ -209,7 +206,7 @@ module.exports = class Awards {
 		}
 
 		// Sub-two-minutes
-		const sub120 = times.find(({time}) => time.totalSeconds !== null && time.totalSeconds < 120);
+		const sub120 = times.find(time => time.totalSeconds !== null && time.totalSeconds < 120);
 		if (sub120) {
 			awards.push({
 				type: 'sub-120',
@@ -219,7 +216,7 @@ module.exports = class Awards {
 		}
 
 		// Sub-minute
-		const sub60 = times.find(({time}) => time.totalSeconds !== null && time.totalSeconds < 60);
+		const sub60 = times.find(time => time.totalSeconds !== null && time.totalSeconds < 60);
 		if (sub60) {
 			awards.push({
 				type: 'sub-60',
@@ -229,7 +226,7 @@ module.exports = class Awards {
 		}
 
 		// Sub-45-seconds
-		const sub45 = times.find(({time}) => time.totalSeconds !== null && time.totalSeconds < 45);
+		const sub45 = times.find(time => time.totalSeconds !== null && time.totalSeconds < 45);
 		if (sub45) {
 			awards.push({
 				type: 'sub-45',
@@ -239,7 +236,7 @@ module.exports = class Awards {
 		}
 
 		// Sub-30-seconds
-		const sub30 = times.find(({time}) => time.totalSeconds !== null && time.totalSeconds < 30);
+		const sub30 = times.find(time => time.totalSeconds !== null && time.totalSeconds < 30);
 		if (sub30) {
 			awards.push({
 				type: 'sub-30',
@@ -249,7 +246,7 @@ module.exports = class Awards {
 		}
 
 		// Sub-20-seconds
-		const sub20 = times.find(({time}) => time.totalSeconds !== null && time.totalSeconds < 20);
+		const sub20 = times.find(time => time.totalSeconds !== null && time.totalSeconds < 20);
 		if (sub20) {
 			awards.push({
 				type: 'sub-20',
@@ -259,7 +256,7 @@ module.exports = class Awards {
 		}
 
 		// 5-minutes
-		const over300 = times.find(({time}) => time.totalSeconds >= 300);
+		const over300 = times.find(time => time.totalSeconds >= 300);
 		if (over300) {
 			awards.push({
 				type: 'over-300',
@@ -310,8 +307,8 @@ module.exports = class Awards {
 
 		// Arjun
 		const arjun = (
-			times.find(({time}) => time.totalSeconds === 97) ||
-			times.find(({time}) => time.totalSeconds === 137)
+			times.find(time => time.totalSeconds === 97) ||
+			times.find(time => time.totalSeconds === 137)
 		);
 		if (arjun) {
 			awards.push({
@@ -322,7 +319,7 @@ module.exports = class Awards {
 		}
 
 		// Nice
-		const nice = times.find(({time}) => time.totalSeconds === 69);
+		const nice = times.find(time => time.totalSeconds === 69);
 		if (nice) {
 			awards.push({
 				type: 'nice',
@@ -332,7 +329,7 @@ module.exports = class Awards {
 		}
 
 		// Pi
-		const pi = times.find(({time}) => time.totalSeconds === 194);
+		const pi = times.find(time => time.totalSeconds === 194);
 		if (pi) {
 			awards.push({
 				type: 'pi',
@@ -342,7 +339,7 @@ module.exports = class Awards {
 		}
 
 		// Blaze
-		const blaze = times.find(({time}) => time.totalSeconds === 260);
+		const blaze = times.find(time => time.totalSeconds === 260);
 		if (blaze) {
 			awards.push({
 				type: 'blaze',
@@ -352,7 +349,7 @@ module.exports = class Awards {
 		}
 
 		// Beast
-		const beast = placements.filter(({placement}) => placement === 6);
+		const beast = timesExcludingToday.filter(({position}) => position === 6);
 		if (beast.length >= 3) {
 			awards.push({
 				type: 'beast',

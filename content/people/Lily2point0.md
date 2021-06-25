@@ -3,60 +3,68 @@
   "name": "Lily2point0",
   "times": [
     {
+      "person": "Lily2point0",
       "leaderboard": "2021-06-25",
-      "time": {
-        "minutes": 1,
-        "seconds": 27,
-        "totalSeconds": 87
-      }
+      "minutes": 1,
+      "seconds": 27,
+      "totalSeconds": 87,
+      "position": 3,
+      "isPending": false
     },
     {
+      "person": "Lily2point0",
       "leaderboard": "2021-06-24",
-      "time": {
-        "minutes": 1,
-        "seconds": 0,
-        "totalSeconds": 60
-      }
+      "minutes": 1,
+      "seconds": 0,
+      "totalSeconds": 60,
+      "position": 5,
+      "isPending": false
     },
     {
+      "person": "Lily2point0",
       "leaderboard": "2021-06-23",
-      "time": {
-        "minutes": 0,
-        "seconds": 51,
-        "totalSeconds": 51
-      }
+      "minutes": 0,
+      "seconds": 51,
+      "totalSeconds": 51,
+      "position": 5,
+      "isPending": false
     },
     {
+      "person": "Lily2point0",
       "leaderboard": "2021-06-22",
-      "time": {
-        "minutes": 0,
-        "seconds": 39,
-        "totalSeconds": 39
-      }
+      "minutes": 0,
+      "seconds": 39,
+      "totalSeconds": 39,
+      "position": 2,
+      "isPending": false
     },
     {
+      "person": "Lily2point0",
       "leaderboard": "2021-06-21",
-      "time": {
-        "minutes": 1,
-        "seconds": 31,
-        "totalSeconds": 91
-      }
+      "minutes": 1,
+      "seconds": 31,
+      "totalSeconds": 91,
+      "position": 4,
+      "isPending": false
     }
   ],
   "best": {
+    "person": "Lily2point0",
     "leaderboard": "2021-06-22",
-    "time": {
-      "minutes": 0,
-      "seconds": 39,
-      "totalSeconds": 39
-    }
+    "minutes": 0,
+    "seconds": 39,
+    "totalSeconds": 39,
+    "position": 2,
+    "isPending": false
   },
   "mean": {
-    "time": {
-      "minutes": 1,
-      "seconds": 6,
-      "totalSeconds": 66
-    }
+    "person": null,
+    "leaderboard": null,
+    "minutes": 1,
+    "seconds": 6,
+    "totalSeconds": 66,
+    "position": null,
+    "isPending": false
   },
   "awards": [
     {

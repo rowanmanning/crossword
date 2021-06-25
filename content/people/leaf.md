@@ -3,60 +3,68 @@
   "name": "leaf",
   "times": [
     {
+      "person": "leaf",
       "leaderboard": "2021-06-25",
-      "time": {
-        "minutes": 1,
-        "seconds": 45,
-        "totalSeconds": 105
-      }
+      "minutes": 1,
+      "seconds": 45,
+      "totalSeconds": 105,
+      "position": 5,
+      "isPending": false
     },
     {
+      "person": "leaf",
       "leaderboard": "2021-06-24",
-      "time": {
-        "minutes": 1,
-        "seconds": 25,
-        "totalSeconds": 85
-      }
+      "minutes": 1,
+      "seconds": 25,
+      "totalSeconds": 85,
+      "position": 7,
+      "isPending": false
     },
     {
+      "person": "leaf",
       "leaderboard": "2021-06-23",
-      "time": {
-        "minutes": 1,
-        "seconds": 5,
-        "totalSeconds": 65
-      }
+      "minutes": 1,
+      "seconds": 5,
+      "totalSeconds": 65,
+      "position": 7,
+      "isPending": false
     },
     {
+      "person": "leaf",
       "leaderboard": "2021-06-22",
-      "time": {
-        "minutes": 1,
-        "seconds": 22,
-        "totalSeconds": 82
-      }
+      "minutes": 1,
+      "seconds": 22,
+      "totalSeconds": 82,
+      "position": 7,
+      "isPending": false
     },
     {
+      "person": "leaf",
       "leaderboard": "2021-06-21",
-      "time": {
-        "minutes": 2,
-        "seconds": 18,
-        "totalSeconds": 138
-      }
+      "minutes": 2,
+      "seconds": 18,
+      "totalSeconds": 138,
+      "position": 7,
+      "isPending": false
     }
   ],
   "best": {
+    "person": "leaf",
     "leaderboard": "2021-06-23",
-    "time": {
-      "minutes": 1,
-      "seconds": 5,
-      "totalSeconds": 65
-    }
+    "minutes": 1,
+    "seconds": 5,
+    "totalSeconds": 65,
+    "position": 7,
+    "isPending": false
   },
   "mean": {
-    "time": {
-      "minutes": 1,
-      "seconds": 35,
-      "totalSeconds": 95
-    }
+    "person": null,
+    "leaderboard": null,
+    "minutes": 1,
+    "seconds": 35,
+    "totalSeconds": 95,
+    "position": null,
+    "isPending": false
   },
   "awards": [
     {

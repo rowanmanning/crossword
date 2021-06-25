@@ -15,19 +15,19 @@
 					<tr id="person-{{ .person | urlize }}">
 						<td><a href="/people/{{ .person | urlize }}/">{{ .person }}</a></td>
 						<td>
-							{{ if .time }}
-								{{ partial "time.html" .time }}
+							{{ if not .isPending }}
+								{{ partial "time.html" . }}
 							{{ else }}
 								-
 							{{ end }}
 						</td>
 						<td class="leaderboard-table__awards-column">
-							{{ if .time }}
+							{{ if not .isPending }}
 								<ul class="leaderboard-table__awards">
-									{{ $totalSeconds := .time.totalSeconds }}
+									{{ $totalSeconds := .totalSeconds }}
 									{{ range where (where $.Site.RegularPages "Section" "people") "Title" .person }}
 										{{ $permalink := .RelPermalink }}
-										{{ if and .Params.best.time (eq .Params.best.time.totalSeconds $totalSeconds) }}
+										{{ if and .Params.best (eq .Params.best.totalSeconds $totalSeconds) }}
 											<li class="leaderboard-table__award">
 												<a href="{{ $permalink }}">
 													<img src="/icons/best.svg" alt="{{ .Title }}'s best time" class="leaderboard-table__award-icon" title="{{ .Title }}'s best time" />

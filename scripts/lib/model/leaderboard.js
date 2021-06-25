@@ -1,7 +1,5 @@
 'use strict';
 
-const Time = require('./time');
-
 module.exports = class Leaderboard {
 
 	constructor(date) {
@@ -9,34 +7,50 @@ module.exports = class Leaderboard {
 		this.times = [];
 	}
 
-	addTime(person, seconds) {
-		this.times.push({
-			person,
-			time: new Time(seconds)
-		});
+	addTime(time) {
+		this.times.push(time);
 		this.sortTimes();
 	}
 
 	sortTimes() {
-		this.times.sort((entryA, entryB) => {
-			if (entryA.time < entryB.time) {
+		this.times.sort((timeA, timeB) => {
+			if (timeA.totalSeconds === null) {
+				return 1;
+			}
+			if (timeB.totalSeconds === null) {
 				return -1;
 			}
-			if (entryA.time > entryB.time) {
+			if (timeB.totalSeconds === null && timeA.totalSeconds === null) {
+				return 0;
+			}
+			if (timeA.totalSeconds < timeB.totalSeconds) {
+				return -1;
+			}
+			if (timeA.totalSeconds > timeB.totalSeconds) {
 				return 1;
 			}
 			return 0;
 		});
+		let position = 0;
+		let previousTime;
+		for (const time of this.times) {
+			if (time.isPending) {
+				time.position = null;
+			} else if (previousTime && previousTime.totalSeconds === time.totalSeconds) {
+				time.position = position;
+			} else {
+				position += 1;
+				time.position = position;
+			}
+			previousTime = time;
+		}
 	}
 
 	toJSON() {
 		return {
 			title: this.date,
 			date: this.date,
-			times: this.times.map(({person, time}) => ({
-				person: person.name,
-				time
-			}))
+			times: this.times
 		};
 	}
 
