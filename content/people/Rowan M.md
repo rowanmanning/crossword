@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "Rowan M",
+      "leaderboard": "2021-06-26",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "Rowan M",
       "leaderboard": "2021-06-25",
       "minutes": 0,
       "seconds": 52,
@@ -68,6 +77,11 @@
   },
   "awards": [
     {
+      "type": "gold",
+      "text": "Get the fastest time for a day",
+      "leaderboard": "2021-06-25"
+    },
+    {
       "type": "silver",
       "text": "Get the second fastest time for a day",
       "leaderboard": "2021-06-21"
@@ -81,6 +95,16 @@
       "type": "double-bronze",
       "text": "Get the third fastest time two days in a row",
       "leaderboard": "2021-06-23"
+    },
+    {
+      "type": "podium",
+      "text": "Unlock first, second, and third place awards",
+      "leaderboard": "2021-06-25"
+    },
+    {
+      "type": "podium-climbing",
+      "text": "Unlock third, second, then first place awards in order",
+      "leaderboard": "2021-06-25"
     },
     {
       "type": "sub-120",

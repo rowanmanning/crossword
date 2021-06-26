@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "Oliver Turner",
+      "leaderboard": "2021-06-26",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "Oliver Turner",
       "leaderboard": "2021-06-25",
       "minutes": 0,
       "seconds": 54,
@@ -40,6 +49,11 @@
     "isPending": false
   },
   "awards": [
+    {
+      "type": "silver",
+      "text": "Get the second fastest time for a day",
+      "leaderboard": "2021-06-25"
+    },
     {
       "type": "sub-120",
       "text": "Complete a puzzle in less than two minutes",
