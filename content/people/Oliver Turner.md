@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "Oliver Turner",
+      "leaderboard": "2021-06-27",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "Oliver Turner",
       "leaderboard": "2021-06-26",
       "minutes": 1,
       "seconds": 52,
@@ -53,6 +62,11 @@
       "type": "silver",
       "text": "Get the second fastest time for a day",
       "leaderboard": "2021-06-25"
+    },
+    {
+      "type": "bronze",
+      "text": "Get the third fastest time for a day",
+      "leaderboard": "2021-06-26"
     },
     {
       "type": "double-time",

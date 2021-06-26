@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "varjmes",
+      "leaderboard": "2021-06-27",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "varjmes",
       "leaderboard": "2021-06-26",
       "minutes": 3,
       "seconds": 51,
@@ -85,6 +94,11 @@
       "type": "bronze",
       "text": "Get the third fastest time for a day",
       "leaderboard": "2021-06-24"
+    },
+    {
+      "type": "consistent-2",
+      "text": "Get the same position two days in a row",
+      "leaderboard": "2021-06-26"
     },
     {
       "type": "half-time",

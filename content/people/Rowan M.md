@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "Rowan M",
+      "leaderboard": "2021-06-27",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "Rowan M",
       "leaderboard": "2021-06-26",
       "minutes": 3,
       "seconds": 52,
@@ -99,11 +108,6 @@
     {
       "type": "podium",
       "text": "Unlock first, second, and third place awards",
-      "leaderboard": "2021-06-25"
-    },
-    {
-      "type": "podium-climbing",
-      "text": "Unlock third, second, then first place awards in order",
       "leaderboard": "2021-06-25"
     },
     {
