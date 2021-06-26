@@ -5,11 +5,11 @@
     {
       "person": "j-sheps",
       "leaderboard": "2021-06-26",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 21,
+      "totalSeconds": 81,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "j-sheps",
@@ -70,8 +70,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 48,
-    "totalSeconds": 48,
+    "seconds": 54,
+    "totalSeconds": 54,
     "position": null,
     "isPending": false
   },
