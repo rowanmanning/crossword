@@ -5,11 +5,11 @@
     {
       "person": "j-sheps",
       "leaderboard": "2021-06-27",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 0,
+      "totalSeconds": 60,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "j-sheps",
@@ -79,8 +79,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 54,
-    "totalSeconds": 54,
+    "seconds": 55,
+    "totalSeconds": 55,
     "position": null,
     "isPending": false
   },
@@ -124,6 +124,11 @@
       "type": "three-day-streak",
       "text": "Play for three days in a row",
       "leaderboard": "2021-06-23"
+    },
+    {
+      "type": "week-streak",
+      "text": "Play for a full week without breaks",
+      "leaderboard": "2021-06-27"
     },
     {
       "type": "twinning",

@@ -5,11 +5,11 @@
     {
       "person": "varjmes",
       "leaderboard": "2021-06-27",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 5,
+      "totalSeconds": 65,
+      "position": 3,
+      "isPending": false
     },
     {
       "person": "varjmes",
@@ -79,8 +79,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 45,
-    "totalSeconds": 105,
+    "seconds": 40,
+    "totalSeconds": 100,
     "position": null,
     "isPending": false
   },
@@ -134,6 +134,11 @@
       "type": "three-day-streak",
       "text": "Play for three days in a row",
       "leaderboard": "2021-06-23"
+    },
+    {
+      "type": "week-streak",
+      "text": "Play for a full week without breaks",
+      "leaderboard": "2021-06-27"
     },
     {
       "type": "twinning",
