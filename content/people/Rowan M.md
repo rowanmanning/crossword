@@ -5,11 +5,11 @@
     {
       "person": "Rowan M",
       "leaderboard": "2021-06-26",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 3,
+      "seconds": 52,
+      "totalSeconds": 232,
+      "position": 2,
+      "isPending": false
     },
     {
       "person": "Rowan M",
@@ -69,9 +69,9 @@
   "mean": {
     "person": null,
     "leaderboard": null,
-    "minutes": 0,
-    "seconds": 43,
-    "totalSeconds": 43,
+    "minutes": 1,
+    "seconds": 15,
+    "totalSeconds": 75,
     "position": null,
     "isPending": false
   },
@@ -105,6 +105,11 @@
       "type": "podium-climbing",
       "text": "Unlock third, second, then first place awards in order",
       "leaderboard": "2021-06-25"
+    },
+    {
+      "type": "double-time",
+      "text": "Double your completion time from one day to the next",
+      "leaderboard": "2021-06-26"
     },
     {
       "type": "sub-120",
