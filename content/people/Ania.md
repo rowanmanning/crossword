@@ -5,11 +5,11 @@
     {
       "person": "Ania",
       "leaderboard": "2021-06-26",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 6,
+      "seconds": 52,
+      "totalSeconds": 412,
+      "position": 5,
+      "isPending": false
     },
     {
       "person": "Ania",
@@ -69,9 +69,9 @@
   "mean": {
     "person": null,
     "leaderboard": null,
-    "minutes": 1,
-    "seconds": 36,
-    "totalSeconds": 96,
+    "minutes": 2,
+    "seconds": 40,
+    "totalSeconds": 160,
     "position": null,
     "isPending": false
   },
@@ -105,6 +105,11 @@
       "type": "sub-45",
       "text": "Complete a puzzle in less than 45 seconds",
       "leaderboard": "2021-06-22"
+    },
+    {
+      "type": "over-300",
+      "text": "Complete a puzzle in 5 minutes or more",
+      "leaderboard": "2021-06-26"
     },
     {
       "type": "three-day-streak",

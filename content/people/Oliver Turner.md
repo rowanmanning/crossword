@@ -5,11 +5,11 @@
     {
       "person": "Oliver Turner",
       "leaderboard": "2021-06-26",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 52,
+      "totalSeconds": 112,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "Oliver Turner",
@@ -42,9 +42,9 @@
   "mean": {
     "person": null,
     "leaderboard": null,
-    "minutes": 0,
-    "seconds": 56,
-    "totalSeconds": 56,
+    "minutes": 1,
+    "seconds": 15,
+    "totalSeconds": 75,
     "position": null,
     "isPending": false
   },
@@ -55,6 +55,11 @@
       "leaderboard": "2021-06-25"
     },
     {
+      "type": "double-time",
+      "text": "Double your completion time from one day to the next",
+      "leaderboard": "2021-06-26"
+    },
+    {
       "type": "sub-120",
       "text": "Complete a puzzle in less than two minutes",
       "leaderboard": "2021-06-24"
@@ -63,6 +68,11 @@
       "type": "sub-60",
       "text": "Complete a puzzle in less than a minute",
       "leaderboard": "2021-06-24"
+    },
+    {
+      "type": "three-day-streak",
+      "text": "Play for three days in a row",
+      "leaderboard": "2021-06-26"
     },
     {
       "type": "twinning",
