@@ -5,11 +5,11 @@
     {
       "person": "Lily2point0",
       "leaderboard": "2021-06-26",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 3,
+      "seconds": 32,
+      "totalSeconds": 212,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "Lily2point0",
@@ -70,8 +70,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 6,
-    "totalSeconds": 66,
+    "seconds": 30,
+    "totalSeconds": 90,
     "position": null,
     "isPending": false
   },
@@ -95,6 +95,11 @@
       "type": "half-time",
       "text": "Half your completion time from one day to the next",
       "leaderboard": "2021-06-22"
+    },
+    {
+      "type": "double-time",
+      "text": "Double your completion time from one day to the next",
+      "leaderboard": "2021-06-26"
     },
     {
       "type": "sub-120",
