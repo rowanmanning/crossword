@@ -5,11 +5,11 @@
     {
       "person": "Rowan M",
       "leaderboard": "2021-06-27",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 35,
+      "totalSeconds": 35,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "Rowan M",
@@ -79,8 +79,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 15,
-    "totalSeconds": 75,
+    "seconds": 9,
+    "totalSeconds": 69,
     "position": null,
     "isPending": false
   },
@@ -111,6 +111,16 @@
       "leaderboard": "2021-06-25"
     },
     {
+      "type": "half-time",
+      "text": "Half your completion time from one day to the next",
+      "leaderboard": "2021-06-27"
+    },
+    {
+      "type": "quarter-time",
+      "text": "Quarter your completion time from one day to the next",
+      "leaderboard": "2021-06-27"
+    },
+    {
       "type": "double-time",
       "text": "Double your completion time from one day to the next",
       "leaderboard": "2021-06-26"
@@ -139,6 +149,11 @@
       "type": "three-day-streak",
       "text": "Play for three days in a row",
       "leaderboard": "2021-06-23"
+    },
+    {
+      "type": "week-streak",
+      "text": "Play for a full week without breaks",
+      "leaderboard": "2021-06-27"
     }
   ]
 }
