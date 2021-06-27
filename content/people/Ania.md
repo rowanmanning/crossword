@@ -5,11 +5,11 @@
     {
       "person": "Ania",
       "leaderboard": "2021-06-27",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 59,
+      "totalSeconds": 59,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "Ania",
@@ -79,8 +79,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 40,
-    "totalSeconds": 160,
+    "seconds": 23,
+    "totalSeconds": 143,
     "position": null,
     "isPending": false
   },
@@ -94,6 +94,11 @@
       "type": "half-time",
       "text": "Half your completion time from one day to the next",
       "leaderboard": "2021-06-22"
+    },
+    {
+      "type": "quarter-time",
+      "text": "Quarter your completion time from one day to the next",
+      "leaderboard": "2021-06-27"
     },
     {
       "type": "double-time",
