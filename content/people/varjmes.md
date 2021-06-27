@@ -5,11 +5,11 @@
     {
       "person": "varjmes",
       "leaderboard": "2021-06-28",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 11,
+      "totalSeconds": 131,
+      "position": 2,
+      "isPending": false
     },
     {
       "person": "varjmes",
@@ -88,8 +88,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 40,
-    "totalSeconds": 100,
+    "seconds": 44,
+    "totalSeconds": 104,
     "position": null,
     "isPending": false
   },
