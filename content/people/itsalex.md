@@ -5,11 +5,11 @@
     {
       "person": "itsalex",
       "leaderboard": "2021-06-27",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 3,
+      "seconds": 58,
+      "totalSeconds": 238,
+      "position": 4,
+      "isPending": false
     },
     {
       "person": "itsalex",
@@ -51,13 +51,18 @@
   "mean": {
     "person": null,
     "leaderboard": null,
-    "minutes": 0,
-    "seconds": 57,
-    "totalSeconds": 57,
+    "minutes": 2,
+    "seconds": 28,
+    "totalSeconds": 148,
     "position": null,
     "isPending": false
   },
   "awards": [
+    {
+      "type": "double-time",
+      "text": "Double your completion time from one day to the next",
+      "leaderboard": "2021-06-27"
+    },
     {
       "type": "sub-120",
       "text": "Complete a puzzle in less than two minutes",
