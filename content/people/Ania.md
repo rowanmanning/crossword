@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "Ania",
+      "leaderboard": "2021-06-28",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "Ania",
       "leaderboard": "2021-06-27",
       "minutes": 0,
       "seconds": 59,
@@ -89,6 +98,11 @@
       "type": "gold",
       "text": "Get the fastest time for a day",
       "leaderboard": "2021-06-22"
+    },
+    {
+      "type": "bronze",
+      "text": "Get the third fastest time for a day",
+      "leaderboard": "2021-06-27"
     },
     {
       "type": "half-time",

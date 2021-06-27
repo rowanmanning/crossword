@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "varjmes",
+      "leaderboard": "2021-06-28",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "varjmes",
       "leaderboard": "2021-06-27",
       "minutes": 1,
       "seconds": 5,
@@ -101,6 +110,11 @@
       "leaderboard": "2021-06-26"
     },
     {
+      "type": "consistent-3",
+      "text": "Get the same position three days in a row",
+      "leaderboard": "2021-06-27"
+    },
+    {
       "type": "half-time",
       "text": "Half your completion time from one day to the next",
       "leaderboard": "2021-06-22"
@@ -144,6 +158,11 @@
       "type": "twinning",
       "text": "Get the same time as another person",
       "leaderboard": "2021-06-25"
+    },
+    {
+      "type": "beast",
+      "text": "His number is six hundred and sixty-six",
+      "leaderboard": "2021-06-27"
     }
   ]
 }
