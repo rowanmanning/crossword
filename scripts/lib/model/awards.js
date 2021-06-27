@@ -41,7 +41,11 @@ module.exports = class Awards {
 		// Get groups of third + second + first
 		const podiumGroups = timesExcludingToday
 			.reduce((groups, {position, leaderboard}) => {
-				const group = groups.length ? groups.pop() : [];
+				let group = groups.length ? groups.pop() : [];
+				if (group.length === 3) {
+					groups.push(group);
+					group = [];
+				}
 				if (position === 3) {
 					groups.push([leaderboard.date]);
 				} else if (group.length === 1 && position === 2) {

@@ -111,6 +111,11 @@
       "leaderboard": "2021-06-25"
     },
     {
+      "type": "podium-climbing",
+      "text": "Unlock third, second, then first place awards in order",
+      "leaderboard": "2021-06-25"
+    },
+    {
       "type": "half-time",
       "text": "Half your completion time from one day to the next",
       "leaderboard": "2021-06-27"
