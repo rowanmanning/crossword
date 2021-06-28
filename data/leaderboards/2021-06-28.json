@@ -4,6 +4,10 @@
 		"seconds": 55
 	},
 	{
+		"name": "Oliver Turner",
+		"seconds": 59
+	},
+	{
 		"name": "apaleslimghost",
 		"seconds": 68
 	},
@@ -41,10 +45,6 @@
 	},
 	{
 		"name": "leaf",
-		"seconds": null
-	},
-	{
-		"name": "Oliver Turner",
 		"seconds": null
 	}
 ]
