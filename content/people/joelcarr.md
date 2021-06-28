@@ -5,11 +5,11 @@
     {
       "person": "joelcarr",
       "leaderboard": "2021-06-28",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 5,
+      "seconds": 7,
+      "totalSeconds": 307,
+      "position": 8,
+      "isPending": false
     },
     {
       "person": "joelcarr",
@@ -88,8 +88,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 16,
-    "totalSeconds": 136,
+    "seconds": 44,
+    "totalSeconds": 164,
     "position": null,
     "isPending": false
   },
@@ -108,6 +108,11 @@
       "type": "sub-120",
       "text": "Complete a puzzle in less than two minutes",
       "leaderboard": "2021-06-21"
+    },
+    {
+      "type": "over-300",
+      "text": "Complete a puzzle in 5 minutes or more",
+      "leaderboard": "2021-06-28"
     },
     {
       "type": "three-day-streak",
