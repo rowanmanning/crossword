@@ -5,11 +5,11 @@
     {
       "person": "itsalex",
       "leaderboard": "2021-06-28",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 54,
+      "totalSeconds": 114,
+      "position": 3,
+      "isPending": false
     },
     {
       "person": "itsalex",
@@ -61,12 +61,17 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 28,
-    "totalSeconds": 148,
+    "seconds": 17,
+    "totalSeconds": 137,
     "position": null,
     "isPending": false
   },
   "awards": [
+    {
+      "type": "half-time",
+      "text": "Half your completion time from one day to the next",
+      "leaderboard": "2021-06-28"
+    },
     {
       "type": "double-time",
       "text": "Double your completion time from one day to the next",
