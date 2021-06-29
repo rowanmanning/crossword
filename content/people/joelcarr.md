@@ -5,11 +5,11 @@
     {
       "person": "joelcarr",
       "leaderboard": "2021-06-29",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 45,
+      "totalSeconds": 105,
+      "position": 8,
+      "isPending": false
     },
     {
       "person": "joelcarr",
@@ -97,8 +97,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 44,
-    "totalSeconds": 164,
+    "seconds": 36,
+    "totalSeconds": 156,
     "position": null,
     "isPending": false
   },
@@ -112,6 +112,11 @@
       "type": "consistent-2",
       "text": "Get the same position two days in a row",
       "leaderboard": "2021-06-24"
+    },
+    {
+      "type": "half-time",
+      "text": "Half your completion time from one day to the next",
+      "leaderboard": "2021-06-29"
     },
     {
       "type": "sub-120",

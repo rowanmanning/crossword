@@ -5,11 +5,11 @@
     {
       "person": "Oliver Turner",
       "leaderboard": "2021-06-29",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 20,
+      "totalSeconds": 20,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "Oliver Turner",
@@ -59,19 +59,19 @@
   ],
   "best": {
     "person": "Oliver Turner",
-    "leaderboard": "2021-06-25",
+    "leaderboard": "2021-06-29",
     "minutes": 0,
-    "seconds": 54,
-    "totalSeconds": 54,
-    "position": 2,
+    "seconds": 20,
+    "totalSeconds": 20,
+    "position": 1,
     "isPending": false
   },
   "mean": {
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 8,
-    "totalSeconds": 68,
+    "seconds": 0,
+    "totalSeconds": 60,
     "position": null,
     "isPending": false
   },
@@ -92,6 +92,11 @@
       "leaderboard": "2021-06-26"
     },
     {
+      "type": "half-time",
+      "text": "Half your completion time from one day to the next",
+      "leaderboard": "2021-06-29"
+    },
+    {
       "type": "double-time",
       "text": "Double your completion time from one day to the next",
       "leaderboard": "2021-06-26"
@@ -105,6 +110,16 @@
       "type": "sub-60",
       "text": "Complete a puzzle in less than a minute",
       "leaderboard": "2021-06-24"
+    },
+    {
+      "type": "sub-45",
+      "text": "Complete a puzzle in less than 45 seconds",
+      "leaderboard": "2021-06-29"
+    },
+    {
+      "type": "sub-30",
+      "text": "Complete a puzzle in less than 30 seconds",
+      "leaderboard": "2021-06-29"
     },
     {
       "type": "three-day-streak",
