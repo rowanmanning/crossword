@@ -5,11 +5,11 @@
     {
       "person": "Lily2point0",
       "leaderboard": "2021-06-29",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 39,
+      "totalSeconds": 39,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "Lily2point0",
@@ -86,19 +86,19 @@
   ],
   "best": {
     "person": "Lily2point0",
-    "leaderboard": "2021-06-22",
+    "leaderboard": "2021-06-29",
     "minutes": 0,
     "seconds": 39,
     "totalSeconds": 39,
-    "position": 2,
+    "position": 1,
     "isPending": false
   },
   "mean": {
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 27,
-    "totalSeconds": 87,
+    "seconds": 22,
+    "totalSeconds": 82,
     "position": null,
     "isPending": false
   },
