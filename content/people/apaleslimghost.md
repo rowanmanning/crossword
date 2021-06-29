@@ -5,11 +5,11 @@
     {
       "person": "apaleslimghost",
       "leaderboard": "2021-06-29",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 45,
+      "totalSeconds": 45,
+      "position": 5,
+      "isPending": false
     },
     {
       "person": "apaleslimghost",
@@ -77,7 +77,7 @@
   ],
   "best": {
     "person": "apaleslimghost",
-    "leaderboard": "2021-06-22",
+    "leaderboard": "2021-06-29",
     "minutes": 0,
     "seconds": 45,
     "totalSeconds": 45,
@@ -88,8 +88,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 32,
-    "totalSeconds": 92,
+    "seconds": 26,
+    "totalSeconds": 86,
     "position": null,
     "isPending": false
   },
