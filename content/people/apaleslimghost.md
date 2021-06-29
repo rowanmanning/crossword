@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "apaleslimghost",
+      "leaderboard": "2021-06-29",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "apaleslimghost",
       "leaderboard": "2021-06-28",
       "minutes": 1,
       "seconds": 8,
@@ -89,6 +98,11 @@
       "type": "silver",
       "text": "Get the second fastest time for a day",
       "leaderboard": "2021-06-26"
+    },
+    {
+      "type": "bronze",
+      "text": "Get the third fastest time for a day",
+      "leaderboard": "2021-06-28"
     },
     {
       "type": "consistent-2",

@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "Rowan M",
+      "leaderboard": "2021-06-29",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "Rowan M",
       "leaderboard": "2021-06-28",
       "minutes": 0,
       "seconds": 55,
@@ -98,6 +107,11 @@
       "type": "gold",
       "text": "Get the fastest time for a day",
       "leaderboard": "2021-06-25"
+    },
+    {
+      "type": "double-gold",
+      "text": "Get the fastest time two days in a row",
+      "leaderboard": "2021-06-28"
     },
     {
       "type": "silver",

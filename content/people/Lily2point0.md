@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "Lily2point0",
+      "leaderboard": "2021-06-29",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "Lily2point0",
       "leaderboard": "2021-06-28",
       "minutes": 1,
       "seconds": 33,
@@ -108,6 +117,11 @@
       "type": "consistent-2",
       "text": "Get the same position two days in a row",
       "leaderboard": "2021-06-24"
+    },
+    {
+      "type": "consistent-3",
+      "text": "Get the same position three days in a row",
+      "leaderboard": "2021-06-28"
     },
     {
       "type": "half-time",
