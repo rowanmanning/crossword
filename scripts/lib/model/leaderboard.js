@@ -1,5 +1,7 @@
 'use strict';
 
+const Time = require('./time');
+
 module.exports = class Leaderboard {
 
 	constructor(date) {
@@ -46,11 +48,34 @@ module.exports = class Leaderboard {
 		}
 	}
 
+	get mean() {
+		const seconds = this.times.filter(time => time < Infinity).map(time => time.totalSeconds);
+		if (!seconds.length) {
+			return new Time();
+		}
+		return new Time(Math.ceil(seconds.reduce((numA, numB) => numA + numB, 0) / seconds.length));
+	}
+
+	get best() {
+		return this.times.length ? this.times[0] : null;
+	}
+
+	get diff() {
+		const seconds = this.times.filter(time => time < Infinity).map(time => time.totalSeconds);
+		if (seconds.length <= 1) {
+			return new Time();
+		}
+		return new Time(seconds[seconds.length - 1] - seconds[0]);
+	}
+
 	toJSON() {
 		return {
 			title: this.date,
 			date: this.date,
-			times: this.times
+			times: this.times,
+			best: this.best,
+			mean: this.mean,
+			diff: this.diff
 		};
 	}
 

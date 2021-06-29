@@ -20,6 +20,7 @@ $site-base-url: "{{ "/" | relURL }}";
 
 // Components
 @import "components/award-list";
+@import "components/card";
 @import "components/content-body";
 @import "components/content-list";
 @import "components/footer";
@@ -27,5 +28,4 @@ $site-base-url: "{{ "/" | relURL }}";
 @import "components/leaderboard-table";
 @import "components/main";
 @import "components/page";
-@import "components/person-card";
 @import "components/table";

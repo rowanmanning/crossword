@@ -14,7 +14,7 @@
 			{{ range $pages }}
 				{{ $permalink := .RelPermalink }}
 				<li class="card">
-					<a href="{{ $permalink }}" class="card__name">{{ .Title }}</a>
+					<a href="{{ $permalink }}" class="card__name">{{ dateFormat "Jan 2 2006" .Date }}</a>
 					<ul class="card__meta">
 						{{ with .Params.best }}
 							<li>Best {{ partial "time.html" . }}</li>
@@ -22,14 +22,8 @@
 						{{ with .Params.mean }}
 							<li>Average {{ partial "time.html" . }}</li>
 						{{ end }}
-					</ul>
-					<ul class="card__awards">
-						{{ range .Params.awards }}
-							<li class="card__award">
-								<a href="{{ $permalink }}#award-{{ .type }}">
-									<img src="/awards/{{ .type }}.svg" alt="{{ .text }}" class="card__award-icon" title="{{ .text }}" />
-								</a>
-							</li>
+						{{ with .Params.diff }}
+							<li><abbr title="The time difference between fastest and slowest times">Diff</abbr> {{ partial "time.html" . }}</li>
 						{{ end }}
 					</ul>
 				</li>

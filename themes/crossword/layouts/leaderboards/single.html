@@ -3,7 +3,15 @@
 
 	<div class="content-body">
 		<h1>{{ dateFormat "Jan 2 2006" .Date }}</h1>
-		<p>Viewing leaderboard for {{ dateFormat "Monday, Jan 2, 2006" .Date }}.</p>
+		<p>
+			Viewing leaderboard for {{ dateFormat "Monday, Jan 2, 2006" .Date }}.
+			{{ with .Params.mean }}
+				The average time for this day is {{ partial "time.html" . }}.
+			{{ end }}
+			{{ with .Params.diff }}
+				The time difference between fastest and slowest times is {{ partial "time.html" . }}.
+			{{ end }}
+		</p>
 	</div>
 
 	{{- partial "leaderboard-times-table.html" . -}}

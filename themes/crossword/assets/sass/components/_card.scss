@@ -1,6 +1,6 @@
 
 // Person card block
-.person-card {
+.card {
 	@extend %base-typography;
 
 	a {
@@ -9,7 +9,7 @@
 }
 
 // Person card name element
-.person-card__name {
+.card__name {
 	color: inherit !important;
 	text-decoration: none;
 	font-family: var(--font-family-heading);
@@ -24,8 +24,8 @@
 }
 
 // Person card meta and awards element
-.person-card__meta,
-.person-card__awards {
+.card__meta,
+.card__awards {
 	display: flex;
 	flex-wrap: wrap;
 	list-style: none;
@@ -40,7 +40,7 @@
 }
 
 // Person card meta element
-.person-card__meta {
+.card__meta {
 	> li:not(:last-child):after {
 		content: "/";
 		display: inline-block;
@@ -50,6 +50,6 @@
 }
 
 // Person card award icon element
-.person-card__award-icon {
+.card__award-icon {
 	width: var(--spacing-line);
 }
