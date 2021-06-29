@@ -5,11 +5,11 @@
     {
       "person": "itsalex",
       "leaderboard": "2021-06-29",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 31,
+      "totalSeconds": 31,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "itsalex",
@@ -59,19 +59,19 @@
   ],
   "best": {
     "person": "itsalex",
-    "leaderboard": "2021-06-24",
+    "leaderboard": "2021-06-29",
     "minutes": 0,
-    "seconds": 57,
-    "totalSeconds": 57,
-    "position": 4,
+    "seconds": 31,
+    "totalSeconds": 31,
+    "position": 1,
     "isPending": false
   },
   "mean": {
     "person": null,
     "leaderboard": null,
-    "minutes": 2,
-    "seconds": 17,
-    "totalSeconds": 137,
+    "minutes": 1,
+    "seconds": 50,
+    "totalSeconds": 110,
     "position": null,
     "isPending": false
   },
@@ -95,6 +95,16 @@
       "type": "sub-60",
       "text": "Complete a puzzle in less than a minute",
       "leaderboard": "2021-06-24"
+    },
+    {
+      "type": "sub-45",
+      "text": "Complete a puzzle in less than 45 seconds",
+      "leaderboard": "2021-06-29"
+    },
+    {
+      "type": "three-day-streak",
+      "text": "Play for three days in a row",
+      "leaderboard": "2021-06-29"
     },
     {
       "type": "twinning",

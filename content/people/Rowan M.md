@@ -182,6 +182,11 @@
       "type": "week-streak",
       "text": "Play for a full week without breaks",
       "leaderboard": "2021-06-27"
+    },
+    {
+      "type": "twinning",
+      "text": "Get the same time as another person",
+      "leaderboard": "2021-06-29"
     }
   ]
 }
