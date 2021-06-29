@@ -5,11 +5,11 @@
     {
       "person": "j-sheps",
       "leaderboard": "2021-06-29",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 23,
+      "totalSeconds": 23,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "j-sheps",
@@ -86,19 +86,19 @@
   ],
   "best": {
     "person": "j-sheps",
-    "leaderboard": "2021-06-23",
+    "leaderboard": "2021-06-29",
     "minutes": 0,
-    "seconds": 24,
-    "totalSeconds": 24,
-    "position": 2,
+    "seconds": 23,
+    "totalSeconds": 23,
+    "position": 1,
     "isPending": false
   },
   "mean": {
     "person": null,
     "leaderboard": null,
-    "minutes": 1,
-    "seconds": 1,
-    "totalSeconds": 61,
+    "minutes": 0,
+    "seconds": 57,
+    "totalSeconds": 57,
     "position": null,
     "isPending": false
   },
@@ -112,6 +112,16 @@
       "type": "silver",
       "text": "Get the second fastest time for a day",
       "leaderboard": "2021-06-23"
+    },
+    {
+      "type": "half-time",
+      "text": "Half your completion time from one day to the next",
+      "leaderboard": "2021-06-29"
+    },
+    {
+      "type": "quarter-time",
+      "text": "Quarter your completion time from one day to the next",
+      "leaderboard": "2021-06-29"
     },
     {
       "type": "double-time",

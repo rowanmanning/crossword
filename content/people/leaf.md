@@ -5,11 +5,11 @@
     {
       "person": "leaf",
       "leaderboard": "2021-06-29",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 51,
+      "totalSeconds": 51,
+      "position": 5,
+      "isPending": false
     },
     {
       "person": "leaf",
@@ -86,19 +86,19 @@
   ],
   "best": {
     "person": "leaf",
-    "leaderboard": "2021-06-23",
-    "minutes": 1,
-    "seconds": 5,
-    "totalSeconds": 65,
-    "position": 7,
+    "leaderboard": "2021-06-29",
+    "minutes": 0,
+    "seconds": 51,
+    "totalSeconds": 51,
+    "position": 5,
     "isPending": false
   },
   "mean": {
     "person": null,
     "leaderboard": null,
-    "minutes": 2,
-    "seconds": 3,
-    "totalSeconds": 123,
+    "minutes": 1,
+    "seconds": 55,
+    "totalSeconds": 115,
     "position": null,
     "isPending": false
   },
@@ -119,9 +119,24 @@
       "leaderboard": "2021-06-24"
     },
     {
+      "type": "half-time",
+      "text": "Half your completion time from one day to the next",
+      "leaderboard": "2021-06-29"
+    },
+    {
+      "type": "quarter-time",
+      "text": "Quarter your completion time from one day to the next",
+      "leaderboard": "2021-06-29"
+    },
+    {
       "type": "sub-120",
       "text": "Complete a puzzle in less than two minutes",
       "leaderboard": "2021-06-22"
+    },
+    {
+      "type": "sub-60",
+      "text": "Complete a puzzle in less than a minute",
+      "leaderboard": "2021-06-29"
     },
     {
       "type": "three-day-streak",
