@@ -5,11 +5,11 @@
     {
       "person": "arjun137",
       "leaderboard": "2021-06-29",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 48,
+      "totalSeconds": 48,
+      "position": 7,
+      "isPending": false
     },
     {
       "person": "arjun137",
@@ -79,8 +79,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 33,
-    "totalSeconds": 93,
+    "seconds": 24,
+    "totalSeconds": 84,
     "position": null,
     "isPending": false
   },
