@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "itsalex",
+      "leaderboard": "2021-06-30",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "itsalex",
       "leaderboard": "2021-06-29",
       "minutes": 0,
       "seconds": 31,
@@ -76,6 +85,11 @@
     "isPending": false
   },
   "awards": [
+    {
+      "type": "bronze",
+      "text": "Get the third fastest time for a day",
+      "leaderboard": "2021-06-29"
+    },
     {
       "type": "half-time",
       "text": "Half your completion time from one day to the next",

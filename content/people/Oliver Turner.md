@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "Oliver Turner",
+      "leaderboard": "2021-06-30",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "Oliver Turner",
       "leaderboard": "2021-06-29",
       "minutes": 0,
       "seconds": 20,
@@ -77,6 +86,11 @@
   },
   "awards": [
     {
+      "type": "gold",
+      "text": "Get the fastest time for a day",
+      "leaderboard": "2021-06-29"
+    },
+    {
       "type": "silver",
       "text": "Get the second fastest time for a day",
       "leaderboard": "2021-06-25"
@@ -90,6 +104,11 @@
       "type": "bronze",
       "text": "Get the third fastest time for a day",
       "leaderboard": "2021-06-26"
+    },
+    {
+      "type": "podium",
+      "text": "Unlock first, second, and third place awards",
+      "leaderboard": "2021-06-29"
     },
     {
       "type": "half-time",
