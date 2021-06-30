@@ -5,11 +5,11 @@
     {
       "person": "leaf",
       "leaderboard": "2021-06-30",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 51,
+      "totalSeconds": 51,
+      "position": 4,
+      "isPending": false
     },
     {
       "person": "leaf",
@@ -95,19 +95,19 @@
   ],
   "best": {
     "person": "leaf",
-    "leaderboard": "2021-06-29",
+    "leaderboard": "2021-06-30",
     "minutes": 0,
     "seconds": 51,
     "totalSeconds": 51,
-    "position": 9,
+    "position": 4,
     "isPending": false
   },
   "mean": {
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 55,
-    "totalSeconds": 115,
+    "seconds": 48,
+    "totalSeconds": 108,
     "position": null,
     "isPending": false
   },
