@@ -5,11 +5,11 @@
     {
       "person": "Oliver Turner",
       "leaderboard": "2021-06-30",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 45,
+      "totalSeconds": 45,
+      "position": 2,
+      "isPending": false
     },
     {
       "person": "Oliver Turner",
@@ -78,9 +78,9 @@
   "mean": {
     "person": null,
     "leaderboard": null,
-    "minutes": 1,
-    "seconds": 0,
-    "totalSeconds": 60,
+    "minutes": 0,
+    "seconds": 58,
+    "totalSeconds": 58,
     "position": null,
     "isPending": false
   },
@@ -144,6 +144,11 @@
       "type": "three-day-streak",
       "text": "Play for three days in a row",
       "leaderboard": "2021-06-26"
+    },
+    {
+      "type": "week-streak",
+      "text": "Play for a full week without breaks",
+      "leaderboard": "2021-06-30"
     },
     {
       "type": "twinning",

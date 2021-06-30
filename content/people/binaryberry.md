@@ -5,11 +5,11 @@
     {
       "person": "binaryberry",
       "leaderboard": "2021-06-30",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 5,
+      "seconds": 50,
+      "totalSeconds": 350,
+      "position": 8,
+      "isPending": false
     },
     {
       "person": "binaryberry",
@@ -106,8 +106,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 0,
-    "totalSeconds": 120,
+    "seconds": 46,
+    "totalSeconds": 166,
     "position": null,
     "isPending": false
   },
@@ -118,9 +118,19 @@
       "leaderboard": "2021-06-24"
     },
     {
+      "type": "double-time",
+      "text": "Double your completion time from one day to the next",
+      "leaderboard": "2021-06-30"
+    },
+    {
       "type": "sub-120",
       "text": "Complete a puzzle in less than two minutes",
       "leaderboard": "2021-06-22"
+    },
+    {
+      "type": "over-300",
+      "text": "Complete a puzzle in 5 minutes or more",
+      "leaderboard": "2021-06-30"
     },
     {
       "type": "three-day-streak",

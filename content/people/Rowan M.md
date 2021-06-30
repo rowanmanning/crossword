@@ -5,11 +5,11 @@
     {
       "person": "Rowan M",
       "leaderboard": "2021-06-30",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 49,
+      "totalSeconds": 49,
+      "position": 3,
+      "isPending": false
     },
     {
       "person": "Rowan M",
@@ -106,8 +106,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 4,
-    "totalSeconds": 64,
+    "seconds": 2,
+    "totalSeconds": 62,
     "position": null,
     "isPending": false
   },
