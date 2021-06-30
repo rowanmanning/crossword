@@ -5,11 +5,11 @@
     {
       "person": "joelcarr",
       "leaderboard": "2021-06-30",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 5,
+      "seconds": 30,
+      "totalSeconds": 330,
+      "position": 8,
+      "isPending": false
     },
     {
       "person": "joelcarr",
@@ -106,8 +106,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 36,
-    "totalSeconds": 156,
+    "seconds": 58,
+    "totalSeconds": 178,
     "position": null,
     "isPending": false
   },
@@ -126,6 +126,11 @@
       "type": "half-time",
       "text": "Half your completion time from one day to the next",
       "leaderboard": "2021-06-29"
+    },
+    {
+      "type": "double-time",
+      "text": "Double your completion time from one day to the next",
+      "leaderboard": "2021-06-30"
     },
     {
       "type": "sub-120",
