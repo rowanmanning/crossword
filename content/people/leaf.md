@@ -120,51 +120,76 @@
     "position": null,
     "isPending": false
   },
+  "awardCount": 15,
   "awards": [
     {
       "type": "consistent-2",
       "text": "Get the same position two days in a row",
-      "leaderboard": "2021-06-22"
+      "dates": [
+        "2021-06-22"
+      ]
     },
     {
       "type": "consistent-3",
       "text": "Get the same position three days in a row",
-      "leaderboard": "2021-06-23"
+      "dates": [
+        "2021-06-23"
+      ]
     },
     {
       "type": "consistent-4",
       "text": "Get the same position four days in a row",
-      "leaderboard": "2021-06-24"
+      "dates": [
+        "2021-06-24"
+      ]
     },
     {
       "type": "half-time",
       "text": "Half your completion time from one day to the next",
-      "leaderboard": "2021-06-29"
+      "dates": [
+        "2021-06-29"
+      ]
     },
     {
       "type": "quarter-time",
       "text": "Quarter your completion time from one day to the next",
-      "leaderboard": "2021-06-29"
+      "dates": [
+        "2021-06-29"
+      ]
     },
     {
       "type": "sub-120",
       "text": "Complete a puzzle in less than two minutes",
-      "leaderboard": "2021-06-22"
+      "dates": [
+        "2021-06-22",
+        "2021-06-23",
+        "2021-06-24",
+        "2021-06-25",
+        "2021-06-29",
+        "2021-06-30"
+      ]
     },
     {
       "type": "sub-60",
       "text": "Complete a puzzle in less than a minute",
-      "leaderboard": "2021-06-29"
+      "dates": [
+        "2021-06-29",
+        "2021-06-30"
+      ]
     },
     {
       "type": "three-day-streak",
       "text": "Play for three days in a row",
-      "leaderboard": "2021-06-23"
+      "dates": [
+        "2021-06-23"
+      ]
     },
     {
       "type": "week-streak",
       "text": "Play for a full week without breaks",
-      "leaderboard": "2021-06-27"
+      "dates": [
+        "2021-06-27"
+      ]
     }
   ]
 }

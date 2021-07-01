@@ -120,46 +120,68 @@
     "position": null,
     "isPending": false
   },
+  "awardCount": 13,
   "awards": [
     {
       "type": "bronze",
       "text": "Get the third fastest time for a day",
-      "leaderboard": "2021-06-21"
+      "dates": [
+        "2021-06-21"
+      ]
     },
     {
       "type": "consistent-2",
       "text": "Get the same position two days in a row",
-      "leaderboard": "2021-06-24"
+      "dates": [
+        "2021-06-24",
+        "2021-06-29"
+      ]
     },
     {
       "type": "half-time",
       "text": "Half your completion time from one day to the next",
-      "leaderboard": "2021-06-29"
+      "dates": [
+        "2021-06-29"
+      ]
     },
     {
       "type": "double-time",
       "text": "Double your completion time from one day to the next",
-      "leaderboard": "2021-06-30"
+      "dates": [
+        "2021-06-30"
+      ]
     },
     {
       "type": "sub-120",
       "text": "Complete a puzzle in less than two minutes",
-      "leaderboard": "2021-06-21"
+      "dates": [
+        "2021-06-21",
+        "2021-06-22",
+        "2021-06-29"
+      ]
     },
     {
       "type": "over-300",
       "text": "Complete a puzzle in 5 minutes or more",
-      "leaderboard": "2021-06-28"
+      "dates": [
+        "2021-06-28",
+        "2021-06-30"
+      ]
     },
     {
       "type": "three-day-streak",
       "text": "Play for three days in a row",
-      "leaderboard": "2021-06-23"
+      "dates": [
+        "2021-06-23",
+        "2021-06-30"
+      ]
     },
     {
       "type": "arjun",
       "text": "Join us",
-      "leaderboard": "2021-06-24"
+      "dates": [
+        "2021-06-24"
+      ]
     }
   ]
 }

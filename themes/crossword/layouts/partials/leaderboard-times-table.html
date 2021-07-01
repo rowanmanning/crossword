@@ -37,12 +37,14 @@
 											</li>
 										{{ end }}
 										{{ if .Params.awards }}
-											{{ range where .Params.awards "leaderboard" $leaderboard.Title }}
-												<li class="leaderboard-table__award">
-													<a href="{{ $permalink }}#award-{{ .type }}">
-														<img src="/awards/{{ .type }}.svg" alt="{{ .text }}" class="leaderboard-table__award-icon" title="{{ .text }}" />
-													</a>
-												</li>
+											{{ range .Params.awards }}
+												{{ if eq (index .dates 0) $leaderboard.Title }}
+													<li class="leaderboard-table__award">
+														<a href="{{ $permalink }}#award-{{ .type }}">
+															<img src="/awards/{{ .type }}.svg" alt="{{ .text }}" class="leaderboard-table__award-icon" title="{{ .text }}" />
+														</a>
+													</li>
+												{{ end }}
 											{{ end }}
 										{{ end }}
 									{{ end }}

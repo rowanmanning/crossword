@@ -33,5 +33,23 @@
 // Award list award icon element
 .award-list__award-icon {
 	display: block;
+	position: relative;
 	margin-right: var(--spacing-half-line);
+
+	> img {
+		display: block;
+	}
+}
+
+// Award list count element
+.award-list__count {
+	display: block;
+	position: absolute;
+	bottom: calc(-1 * var(--spacingvalue-xs));
+	right: -2px;
+	background-color: var(--colorvalue-blue);
+	color: var(--colorvalue-white);
+	border-radius: var(--spacing-half-line);
+	padding: 0 var(--spacingvalue-xxs);
+	font-size: var(--font-size-xs);
 }

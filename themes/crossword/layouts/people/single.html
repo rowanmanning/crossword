@@ -17,16 +17,22 @@
 
 	{{ if .Params.awards }}
 		<div class="content-body">
-			<h2 id="awards">Awards</h2>
+			<h2 id="awards">Awards ({{ .Params.awardCount }})</h2>
 		</div>
 		<ul class="award-list">
 			{{ range .Params.awards }}
 				<li class="award-list__award" id="award-{{ .type }}">
-					<img src="/awards/{{ .type }}.svg" alt="{{ .text }}" class="award-list__award-icon" />
+					<span class="award-list__award-icon">
+						<img src="/awards/{{ .type }}.svg" alt="{{ .text }}" />
+						{{ if gt (len .dates) 1 }}
+							<span class="award-list__count">x{{ len .dates }}</span>
+						{{ end }}
+					</span>
 					<span>
 						{{ .text }}.
-						{{ if .leaderboard }}
-							<a href="/leaderboards/{{ .leaderboard }}/#person-{{ $.Title | urlize }}">{{ dateFormat "Jan 2 2006" .leaderboard }}</a>
+						{{ if len .dates }}
+							{{ $unlock := index .dates 0 }}
+							<a href="/leaderboards/{{ $unlock }}/#person-{{ $.Title | urlize }}">{{ dateFormat "Jan 2 2006" $unlock }}</a>
 						{{ end }}
 					</span>
 				</li>

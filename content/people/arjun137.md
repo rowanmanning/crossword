@@ -102,36 +102,53 @@
     "position": null,
     "isPending": false
   },
+  "awardCount": 10,
   "awards": [
     {
       "type": "half-time",
       "text": "Half your completion time from one day to the next",
-      "leaderboard": "2021-06-28"
+      "dates": [
+        "2021-06-28"
+      ]
     },
     {
       "type": "double-time",
       "text": "Double your completion time from one day to the next",
-      "leaderboard": "2021-06-25"
+      "dates": [
+        "2021-06-25"
+      ]
     },
     {
       "type": "sub-120",
       "text": "Complete a puzzle in less than two minutes",
-      "leaderboard": "2021-06-23"
+      "dates": [
+        "2021-06-23",
+        "2021-06-24",
+        "2021-06-28",
+        "2021-06-29"
+      ]
     },
     {
       "type": "sub-60",
       "text": "Complete a puzzle in less than a minute",
-      "leaderboard": "2021-06-23"
+      "dates": [
+        "2021-06-23",
+        "2021-06-29"
+      ]
     },
     {
       "type": "sub-45",
       "text": "Complete a puzzle in less than 45 seconds",
-      "leaderboard": "2021-06-23"
+      "dates": [
+        "2021-06-23"
+      ]
     },
     {
       "type": "three-day-streak",
       "text": "Play for three days in a row",
-      "leaderboard": "2021-06-25"
+      "dates": [
+        "2021-06-25"
+      ]
     }
   ]
 }

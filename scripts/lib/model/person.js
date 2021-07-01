@@ -43,13 +43,15 @@ module.exports = class Person {
 	}
 
 	toJSON() {
+		const awards = this.awards.toJSON();
 		return {
 			title: this.name,
 			name: this.name,
 			times: this.times,
 			best: this.best,
 			mean: this.mean,
-			awards: this.awards
+			awardCount: awards.reduce((total, {dates}) => total + dates.length, 0),
+			awards
 		};
 	}
 

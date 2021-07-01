@@ -59,6 +59,28 @@ module.exports = class Awards {
 			}, [])
 			.filter(group => group.length === 3);
 
+		// Get groups of third + second + first (unordered)
+		const podiumGroupsUnordered = timesExcludingToday
+			.reduce((groups, {position, leaderboard}) => {
+				let group = groups.length ? groups.pop() : [];
+				if (group.length === 6) {
+					groups.push(group);
+					group = [];
+				}
+				if (position >= 1 && position <= 3) {
+					if (group.includes(position)) {
+						groups.push(group);
+					} else {
+						group.push(leaderboard.date);
+						group.push(position);
+						groups.push(group);
+					}
+				}
+				return groups;
+			}, [])
+			.map(group => group.filter(item => typeof item !== 'number'))
+			.filter(group => group.length === 3);
+
 		// Get player streaks
 		const playStreaks = times
 			.reduce((streaks, {isPending, leaderboard}) => {
@@ -99,361 +121,360 @@ module.exports = class Awards {
 			}, []);
 
 		// Gold
-		const gold = timesExcludingToday.find(({position}) => position === 1);
-		if (gold) {
+		const golds = timesExcludingToday.filter(({position}) => position === 1);
+		if (golds.length) {
 			awards.push({
 				type: 'gold',
 				text: 'Get the fastest time for a day',
-				leaderboard: gold.leaderboard.date
+				dates: golds.map(({leaderboard}) => leaderboard.date)
 			});
 		}
-		const doubleGold = positionGroups.find(({position, length}) => position === 1 && length >= 2);
-		if (doubleGold) {
+		const doubleGolds = positionGroups.filter(({position, length}) => position === 1 && length >= 2);
+		if (doubleGolds.length) {
 			awards.push({
 				type: 'double-gold',
 				text: 'Get the fastest time two days in a row',
-				leaderboard: doubleGold.leaderboards[1]
+				dates: doubleGolds.map(({leaderboards}) => leaderboards[1])
 			});
 		}
-		const tripleGold = positionGroups.find(({position, length}) => position === 1 && length >= 3);
-		if (tripleGold) {
+		const tripleGolds = positionGroups.filter(({position, length}) => position === 1 && length >= 3);
+		if (tripleGolds.length) {
 			awards.push({
 				type: 'triple-gold',
 				text: 'Get the fastest time three days in a row',
-				leaderboard: tripleGold.leaderboards[2]
+				dates: tripleGolds.map(({leaderboards}) => leaderboards[2])
 			});
 		}
 
 		// Silver
-		const silver = timesExcludingToday.find(({position}) => position === 2);
-		if (silver) {
+		const silvers = timesExcludingToday.filter(({position}) => position === 2);
+		if (silvers.length) {
 			awards.push({
 				type: 'silver',
 				text: 'Get the second fastest time for a day',
-				leaderboard: silver.leaderboard.date
+				dates: silvers.map(({leaderboard}) => leaderboard.date)
 			});
 		}
-		const doubleSilver = positionGroups.find(({position, length}) => position === 2 && length >= 2);
-		if (doubleSilver) {
+		const doubleSilvers = positionGroups.filter(({position, length}) => position === 2 && length >= 2);
+		if (doubleSilvers.length) {
 			awards.push({
 				type: 'double-silver',
 				text: 'Get the second fastest time two days in a row',
-				leaderboard: doubleSilver.leaderboards[1]
+				dates: doubleSilvers.map(({leaderboards}) => leaderboards[1])
 			});
 		}
-		const tripleSilver = positionGroups.find(({position, length}) => position === 2 && length >= 3);
-		if (tripleSilver) {
+		const tripleSilvers = positionGroups.filter(({position, length}) => position === 2 && length >= 3);
+		if (tripleSilvers.length) {
 			awards.push({
 				type: 'triple-silver',
 				text: 'Get the second fastest time three days in a row',
-				leaderboard: tripleSilver.leaderboards[2]
+				dates: tripleSilvers.map(({leaderboards}) => leaderboards[2])
 			});
 		}
 
 		// Bronze
-		const bronze = timesExcludingToday.find(({position}) => position === 3);
-		if (bronze) {
+		const bronzes = timesExcludingToday.filter(({position}) => position === 3);
+		if (bronzes.length) {
 			awards.push({
 				type: 'bronze',
 				text: 'Get the third fastest time for a day',
-				leaderboard: bronze.leaderboard.date
+				dates: bronzes.map(({leaderboard}) => leaderboard.date)
 			});
 		}
-		const doubleBronze = positionGroups.find(({position, length}) => position === 3 && length >= 2);
-		if (doubleBronze) {
+		const doubleBronzes = positionGroups.filter(({position, length}) => position === 3 && length >= 2);
+		if (doubleBronzes.length) {
 			awards.push({
 				type: 'double-bronze',
 				text: 'Get the third fastest time two days in a row',
-				leaderboard: doubleBronze.leaderboards[1]
+				dates: doubleBronzes.map(({leaderboards}) => leaderboards[1])
 			});
 		}
-		const tripleBronze = positionGroups.find(({position, length}) => position === 3 && length >= 3);
-		if (tripleBronze) {
+		const tripleBronzes = positionGroups.filter(({position, length}) => position === 3 && length >= 3);
+		if (tripleBronzes.length) {
 			awards.push({
 				type: 'triple-bronze',
 				text: 'Get the third fastest time three days in a row',
-				leaderboard: tripleBronze.leaderboards[2]
+				dates: tripleBronzes.map(({leaderboards}) => leaderboards[2])
 			});
 		}
 
 		// Consistent position
-		const consistent2 = positionGroups.find(({position, length}) => position > 3 && length >= 2);
-		if (consistent2) {
+		const consistent2 = positionGroups.filter(({position, length}) => position > 3 && length >= 2);
+		if (consistent2.length) {
 			awards.push({
 				type: 'consistent-2',
 				text: 'Get the same position two days in a row',
-				leaderboard: consistent2.leaderboards[1]
+				dates: consistent2.map(({leaderboards}) => leaderboards[1])
 			});
 		}
-		const consistent3 = positionGroups.find(({position, length}) => position > 3 && length >= 3);
-		if (consistent3) {
+		const consistent3 = positionGroups.filter(({position, length}) => position > 3 && length >= 3);
+		if (consistent3.length) {
 			awards.push({
 				type: 'consistent-3',
 				text: 'Get the same position three days in a row',
-				leaderboard: consistent3.leaderboards[2]
+				dates: consistent3.map(({leaderboards}) => leaderboards[2])
 			});
 		}
-		const consistent4 = positionGroups.find(({position, length}) => position > 3 && length >= 4);
-		if (consistent4) {
+		const consistent4 = positionGroups.filter(({position, length}) => position > 3 && length >= 4);
+		if (consistent4.length) {
 			awards.push({
 				type: 'consistent-4',
 				text: 'Get the same position four days in a row',
-				leaderboard: consistent4.leaderboards[3]
+				dates: consistent4.map(({leaderboards}) => leaderboards[3])
 			});
 		}
-		const consistent5 = positionGroups.find(({position, length}) => position > 3 && length >= 5);
-		if (consistent5) {
+		const consistent5 = positionGroups.filter(({position, length}) => position > 3 && length >= 5);
+		if (consistent5.length) {
 			awards.push({
 				type: 'consistent-5',
 				text: 'Get the same position five days in a row',
-				leaderboard: consistent5.leaderboards[3]
+				dates: consistent5.map(({leaderboards}) => leaderboards[4])
 			});
 		}
 
 		// Podium
-		const podium = (gold && silver && bronze);
-		if (podium) {
+		if (podiumGroupsUnordered.length) {
 			awards.push({
 				type: 'podium',
-				text: 'Unlock first, second, and third place awards',
-				leaderboard: [gold.leaderboard.date, silver.leaderboard.date, bronze.leaderboard.date].sort().pop()
+				text: 'Unlock third, second, and first place awards',
+				dates: podiumGroupsUnordered.map(group => group[2])
 			});
 		}
 
 		// Podium climbing
-		const podiumClimbing = podiumGroups[0];
-		if (podiumClimbing) {
+		if (podiumGroups.length) {
 			awards.push({
 				type: 'podium-climbing',
 				text: 'Unlock third, second, then first place awards in order',
-				leaderboard: podiumClimbing[2]
+				dates: podiumGroups.map(group => group[2])
 			});
 		}
 
 		// Half time
-		const halfTime = timeDifferences.find(({timeMultiplier}) => timeMultiplier <= 0.5);
-		if (halfTime) {
+		const halfTimes = timeDifferences.filter(({timeMultiplier}) => timeMultiplier <= 0.5);
+		if (halfTimes.length) {
 			awards.push({
 				type: 'half-time',
 				text: 'Half your completion time from one day to the next',
-				leaderboard: halfTime.leaderboard.date
+				dates: halfTimes.map(({leaderboard}) => leaderboard.date)
 			});
 		}
 
 		// Quarter time
-		const quarterTime = timeDifferences.find(({timeMultiplier}) => timeMultiplier <= 0.25);
-		if (quarterTime) {
+		const quarterTimes = timeDifferences.filter(({timeMultiplier}) => timeMultiplier <= 0.25);
+		if (quarterTimes.length) {
 			awards.push({
 				type: 'quarter-time',
 				text: 'Quarter your completion time from one day to the next',
-				leaderboard: quarterTime.leaderboard.date
+				dates: quarterTimes.map(({leaderboard}) => leaderboard.date)
 			});
 		}
 
 		// Double time
-		const doubleTime = timeDifferences.find(({timeMultiplier}) => timeMultiplier >= 2);
-		if (doubleTime) {
+		const doubleTimes = timeDifferences.filter(({timeMultiplier}) => timeMultiplier >= 2);
+		if (doubleTimes.length) {
 			awards.push({
 				type: 'double-time',
 				text: 'Double your completion time from one day to the next',
-				leaderboard: doubleTime.leaderboard.date
+				dates: doubleTimes.map(({leaderboard}) => leaderboard.date)
 			});
 		}
 
 		// Sub-two-minutes
-		const sub120 = times.find(time => time.totalSeconds !== null && time.totalSeconds < 120);
-		if (sub120) {
+		const sub120s = times.filter(time => time.totalSeconds !== null && time.totalSeconds < 120);
+		if (sub120s.length) {
 			awards.push({
 				type: 'sub-120',
 				text: 'Complete a puzzle in less than two minutes',
-				leaderboard: sub120.leaderboard.date
+				dates: sub120s.map(({leaderboard}) => leaderboard.date)
 			});
 		}
 
 		// Sub-minute
-		const sub60 = times.find(time => time.totalSeconds !== null && time.totalSeconds < 60);
-		if (sub60) {
+		const sub60s = times.filter(time => time.totalSeconds !== null && time.totalSeconds < 60);
+		if (sub60s.length) {
 			awards.push({
 				type: 'sub-60',
 				text: 'Complete a puzzle in less than a minute',
-				leaderboard: sub60.leaderboard.date
+				dates: sub60s.map(({leaderboard}) => leaderboard.date)
 			});
 		}
 
 		// Sub-45-seconds
-		const sub45 = times.find(time => time.totalSeconds !== null && time.totalSeconds < 45);
-		if (sub45) {
+		const sub45s = times.filter(time => time.totalSeconds !== null && time.totalSeconds < 45);
+		if (sub45s.length) {
 			awards.push({
 				type: 'sub-45',
 				text: 'Complete a puzzle in less than 45 seconds',
-				leaderboard: sub45.leaderboard.date
+				dates: sub45s.map(({leaderboard}) => leaderboard.date)
 			});
 		}
 
 		// Sub-30-seconds
-		const sub30 = times.find(time => time.totalSeconds !== null && time.totalSeconds < 30);
-		if (sub30) {
+		const sub30s = times.filter(time => time.totalSeconds !== null && time.totalSeconds < 30);
+		if (sub30s.length) {
 			awards.push({
 				type: 'sub-30',
 				text: 'Complete a puzzle in less than 30 seconds',
-				leaderboard: sub30.leaderboard.date
+				dates: sub30s.map(({leaderboard}) => leaderboard.date)
 			});
 		}
 
 		// Sub-20-seconds
-		const sub20 = times.find(time => time.totalSeconds !== null && time.totalSeconds < 20);
-		if (sub20) {
+		const sub20s = times.filter(time => time.totalSeconds !== null && time.totalSeconds < 20);
+		if (sub20s.length) {
 			awards.push({
 				type: 'sub-20',
 				text: 'Complete a puzzle in less than 20 seconds',
-				leaderboard: sub20.leaderboard.date
+				dates: sub20s.map(({leaderboard}) => leaderboard.date)
 			});
 		}
 
 		// 5-minutes
-		const over300 = times.find(time => time.totalSeconds >= 300);
-		if (over300) {
+		const over300s = times.filter(time => time.totalSeconds >= 300);
+		if (over300s.length) {
 			awards.push({
 				type: 'over-300',
 				text: 'Complete a puzzle in 5 minutes or more',
-				leaderboard: over300.leaderboard.date
+				dates: over300s.map(({leaderboard}) => leaderboard.date)
 			});
 		}
 
 		// 3-day streak
-		const threeDayStreak = playStreaks.find(({length}) => length >= 3);
-		if (threeDayStreak) {
+		const threeDayStreaks = playStreaks.filter(({length}) => length >= 3);
+		if (threeDayStreaks.length) {
 			awards.push({
 				type: 'three-day-streak',
 				text: 'Play for three days in a row',
-				leaderboard: threeDayStreak.leaderboards[2]
+				dates: threeDayStreaks.map(({leaderboards}) => leaderboards[2])
 			});
 		}
 
 		// 7-day streak
-		const weekStreak = playStreaks.find(({length}) => length >= 7);
-		if (weekStreak) {
+		const weekStreaks = playStreaks.filter(({length}) => length >= 7);
+		if (weekStreaks.length) {
 			awards.push({
 				type: 'week-streak',
 				text: 'Play for a full week without breaks',
-				leaderboard: weekStreak.leaderboards[6]
+				dates: weekStreaks.map(({leaderboards}) => leaderboards[6])
 			});
 		}
 
 		// 30-day streak
-		const monthStreak = playStreaks.find(({length}) => length >= 30);
-		if (monthStreak) {
+		const monthStreaks = playStreaks.filter(({length}) => length >= 30);
+		if (monthStreaks.length) {
 			awards.push({
 				type: 'month-streak',
 				text: 'Play for a full month (30 days) without breaks',
-				leaderboard: monthStreak.leaderboards[29]
+				dates: monthStreaks.map(({leaderboards}) => leaderboards[29])
 			});
 		}
 
 		// 90-day streak
-		const quarterStreak = playStreaks.find(({length}) => length >= 90);
-		if (quarterStreak) {
+		const quarterStreaks = playStreaks.filter(({length}) => length >= 90);
+		if (quarterStreaks.length) {
 			awards.push({
 				type: 'quarter-streak',
 				text: 'Play for a full quarter, give that OKR a 1',
-				leaderboard: quarterStreak.leaderboards[89]
+				dates: quarterStreaks.map(({leaderboards}) => leaderboards[89])
 			});
 		}
 
 		// Twinning
-		const twinning = nonPendingTimes.find(time => {
+		const twinnings = nonPendingTimes.filter(time => {
 			return time.leaderboard.times.filter(({position}) => position === time.position).length >= 2;
 		});
-		if (twinning) {
+		if (twinnings.length) {
 			awards.push({
 				type: 'twinning',
 				text: 'Get the same time as another person',
-				leaderboard: twinning.leaderboard.date
+				dates: twinnings.map(({leaderboard}) => leaderboard.date)
 			});
 		}
 
-		const tripleting = nonPendingTimes.find(time => {
+		// Tripleting
+		const tripletings = nonPendingTimes.filter(time => {
 			return time.leaderboard.times.filter(({position}) => position === time.position).length >= 3;
 		});
-		if (tripleting) {
+		if (tripletings.length) {
 			awards.push({
 				type: 'tripleting',
 				text: 'Get the same time as two other people',
-				leaderboard: tripleting.leaderboard.date
+				dates: tripletings.map(({leaderboard}) => leaderboard.date)
 			});
 		}
 
-		const quadrupleting = nonPendingTimes.find(time => {
+		// Quadrupleting
+		const quadrupletings = nonPendingTimes.filter(time => {
 			return time.leaderboard.times.filter(({position}) => position === time.position).length >= 4;
 		});
-		if (quadrupleting) {
+		if (quadrupletings.length) {
 			awards.push({
 				type: 'quadrupleting',
 				text: 'Get the same time as three other people',
-				leaderboard: quadrupleting.leaderboard.date
+				dates: quadrupletings.map(({leaderboard}) => leaderboard.date)
 			});
 		}
 
-		// Arjun
-		const arjun = (
-			times.find(time => time.totalSeconds === 97) ||
-			times.find(time => time.totalSeconds === 137)
-		);
-		if (arjun) {
+		// Arjun TODO
+		const arjuns = times.filter(time => time.totalSeconds === 97 || time.totalSeconds === 137);
+		if (arjuns.length) {
 			awards.push({
 				type: 'arjun',
 				text: 'Join us',
-				leaderboard: arjun.leaderboard.date
+				dates: arjuns.map(({leaderboard}) => leaderboard.date)
 			});
 		}
 
 		// Nice
-		const nice = times.find(time => time.totalSeconds === 69);
-		if (nice) {
+		const nices = times.filter(time => time.totalSeconds === 69);
+		if (nices.length) {
 			awards.push({
 				type: 'nice',
 				text: 'Nice',
-				leaderboard: nice.leaderboard.date
+				dates: nices.map(({leaderboard}) => leaderboard.date)
 			});
 		}
 
 		// Pi
-		const pi = times.find(time => time.totalSeconds === 194);
-		if (pi) {
+		const pis = times.filter(time => time.totalSeconds === 194);
+		if (pis.length) {
 			awards.push({
 				type: 'pi',
 				text: '3.141 592 653 589 793 238 462 643…',
-				leaderboard: pi.leaderboard.date
+				dates: pis.map(({leaderboard}) => leaderboard.date)
 			});
 		}
 
 		// Blaze
-		const blaze = times.find(time => time.totalSeconds === 260);
-		if (blaze) {
+		const blazes = times.filter(time => time.totalSeconds === 260);
+		if (blazes.length) {
 			awards.push({
 				type: 'blaze',
 				text: 'That\'s illegal and I don\'t condone it',
-				leaderboard: blaze.leaderboard.date
+				dates: blazes.map(({leaderboard}) => leaderboard.date)
 			});
 		}
 
 		// Beast
-		const beast = timesExcludingToday.filter(({position}) => position === 6);
-		if (beast.length >= 3) {
+		const beasts = timesExcludingToday.filter(({position}) => position === 6);
+		if (beasts.length >= 3) {
+			const unlockDates = beasts.filter((_, index) => (index + 1) % 3 === 0);
 			awards.push({
 				type: 'beast',
 				text: 'His number is six hundred and sixty-six',
-				leaderboard: beast[2].leaderboard.date
+				dates: unlockDates.map(({leaderboard}) => leaderboard.date)
 			});
 		}
 
 		// 999
-		const emergency = timesExcludingToday.filter(({position}) => position === 9);
-		if (emergency.length >= 3) {
+		const emergencies = timesExcludingToday.filter(({position}) => position === 9);
+		if (emergencies.length >= 3) {
+			const unlockDates = emergencies.filter((_, index) => (index + 1) % 3 === 0);
 			awards.push({
 				type: 'emergency',
 				text: 'What\'s your emergency?',
-				leaderboard: emergency[2].leaderboard.date
+				leaderboard: unlockDates.map(({leaderboard}) => leaderboard.date)
 			});
 		}
 

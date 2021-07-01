@@ -120,31 +120,43 @@
     "position": null,
     "isPending": false
   },
+  "awardCount": 6,
   "awards": [
     {
       "type": "consistent-2",
       "text": "Get the same position two days in a row",
-      "leaderboard": "2021-06-24"
+      "dates": [
+        "2021-06-24"
+      ]
     },
     {
       "type": "double-time",
       "text": "Double your completion time from one day to the next",
-      "leaderboard": "2021-06-30"
+      "dates": [
+        "2021-06-30"
+      ]
     },
     {
       "type": "sub-120",
       "text": "Complete a puzzle in less than two minutes",
-      "leaderboard": "2021-06-22"
+      "dates": [
+        "2021-06-22"
+      ]
     },
     {
       "type": "over-300",
       "text": "Complete a puzzle in 5 minutes or more",
-      "leaderboard": "2021-06-30"
+      "dates": [
+        "2021-06-30",
+        "2021-07-01"
+      ]
     },
     {
       "type": "three-day-streak",
       "text": "Play for three days in a row",
-      "leaderboard": "2021-06-23"
+      "dates": [
+        "2021-06-23"
+      ]
     }
   ]
 }

@@ -120,56 +120,88 @@
     "position": null,
     "isPending": false
   },
+  "awardCount": 21,
   "awards": [
     {
       "type": "gold",
       "text": "Get the fastest time for a day",
-      "leaderboard": "2021-06-22"
+      "dates": [
+        "2021-06-22"
+      ]
     },
     {
       "type": "bronze",
       "text": "Get the third fastest time for a day",
-      "leaderboard": "2021-06-27"
+      "dates": [
+        "2021-06-27"
+      ]
     },
     {
       "type": "half-time",
       "text": "Half your completion time from one day to the next",
-      "leaderboard": "2021-06-22"
+      "dates": [
+        "2021-06-22",
+        "2021-06-27",
+        "2021-06-29"
+      ]
     },
     {
       "type": "quarter-time",
       "text": "Quarter your completion time from one day to the next",
-      "leaderboard": "2021-06-27"
+      "dates": [
+        "2021-06-27"
+      ]
     },
     {
       "type": "double-time",
       "text": "Double your completion time from one day to the next",
-      "leaderboard": "2021-06-25"
+      "dates": [
+        "2021-06-25",
+        "2021-06-26",
+        "2021-06-28",
+        "2021-06-30"
+      ]
     },
     {
       "type": "sub-120",
       "text": "Complete a puzzle in less than two minutes",
-      "leaderboard": "2021-06-22"
+      "dates": [
+        "2021-06-22",
+        "2021-06-23",
+        "2021-06-27",
+        "2021-06-29"
+      ]
     },
     {
       "type": "sub-60",
       "text": "Complete a puzzle in less than a minute",
-      "leaderboard": "2021-06-22"
+      "dates": [
+        "2021-06-22",
+        "2021-06-27",
+        "2021-06-29"
+      ]
     },
     {
       "type": "sub-45",
       "text": "Complete a puzzle in less than 45 seconds",
-      "leaderboard": "2021-06-22"
+      "dates": [
+        "2021-06-22"
+      ]
     },
     {
       "type": "over-300",
       "text": "Complete a puzzle in 5 minutes or more",
-      "leaderboard": "2021-06-26"
+      "dates": [
+        "2021-06-26"
+      ]
     },
     {
       "type": "three-day-streak",
       "text": "Play for three days in a row",
-      "leaderboard": "2021-06-23"
+      "dates": [
+        "2021-06-23",
+        "2021-06-27"
+      ]
     }
   ]
 }
