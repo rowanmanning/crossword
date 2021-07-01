@@ -5,11 +5,11 @@
     {
       "person": "cb",
       "leaderboard": "2021-07-01",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 0,
+      "totalSeconds": 60,
+      "position": 2,
+      "isPending": false
     },
     {
       "person": "cb",
@@ -43,12 +43,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 14,
-    "totalSeconds": 74,
+    "seconds": 10,
+    "totalSeconds": 70,
     "position": null,
     "isPending": false
   },
-  "awardCount": 5,
+  "awardCount": 7,
   "awards": [
     {
       "type": "double-time",
@@ -62,7 +62,8 @@
       "text": "Complete a puzzle in less than two minutes",
       "dates": [
         "2021-06-29",
-        "2021-06-30"
+        "2021-06-30",
+        "2021-07-01"
       ]
     },
     {
@@ -77,6 +78,13 @@
       "text": "Complete a puzzle in less than 45 seconds",
       "dates": [
         "2021-06-29"
+      ]
+    },
+    {
+      "type": "three-day-streak",
+      "text": "Play for three days in a row",
+      "dates": [
+        "2021-07-01"
       ]
     }
   ]
