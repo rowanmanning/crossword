@@ -5,11 +5,11 @@
     {
       "person": "apaleslimghost",
       "leaderboard": "2021-07-01",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 31,
+      "totalSeconds": 91,
+      "position": 4,
+      "isPending": false
     },
     {
       "person": "apaleslimghost",
@@ -106,12 +106,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 26,
-    "totalSeconds": 86,
+    "seconds": 27,
+    "totalSeconds": 87,
     "position": null,
     "isPending": false
   },
-  "awardCount": 16,
+  "awardCount": 18,
   "awards": [
     {
       "type": "silver",
@@ -135,6 +135,13 @@
       ]
     },
     {
+      "type": "double-time",
+      "text": "Double your completion time from one day to the next",
+      "dates": [
+        "2021-07-01"
+      ]
+    },
+    {
       "type": "sub-120",
       "text": "Complete a puzzle in less than two minutes",
       "dates": [
@@ -144,7 +151,8 @@
         "2021-06-26",
         "2021-06-27",
         "2021-06-28",
-        "2021-06-29"
+        "2021-06-29",
+        "2021-07-01"
       ]
     },
     {
