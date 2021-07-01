@@ -5,11 +5,11 @@
     {
       "person": "itsalex",
       "leaderboard": "2021-07-01",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 25,
+      "totalSeconds": 85,
+      "position": 4,
+      "isPending": false
     },
     {
       "person": "itsalex",
@@ -88,12 +88,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 55,
-    "totalSeconds": 115,
+    "seconds": 50,
+    "totalSeconds": 110,
     "position": null,
     "isPending": false
   },
-  "awardCount": 14,
+  "awardCount": 15,
   "awards": [
     {
       "type": "bronze",
@@ -124,7 +124,8 @@
       "dates": [
         "2021-06-24",
         "2021-06-28",
-        "2021-06-29"
+        "2021-06-29",
+        "2021-07-01"
       ]
     },
     {

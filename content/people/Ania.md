@@ -5,11 +5,11 @@
     {
       "person": "Ania",
       "leaderboard": "2021-07-01",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 32,
+      "totalSeconds": 152,
+      "position": 8,
+      "isPending": false
     },
     {
       "person": "Ania",
@@ -115,12 +115,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 19,
-    "totalSeconds": 139,
+    "seconds": 20,
+    "totalSeconds": 140,
     "position": null,
     "isPending": false
   },
-  "awardCount": 21,
+  "awardCount": 22,
   "awards": [
     {
       "type": "gold",
@@ -201,6 +201,13 @@
       "dates": [
         "2021-06-23",
         "2021-06-27"
+      ]
+    },
+    {
+      "type": "week-streak",
+      "text": "Play for a full week without breaks",
+      "dates": [
+        "2021-07-01"
       ]
     }
   ]
