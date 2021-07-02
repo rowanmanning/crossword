@@ -33,7 +33,7 @@
 						{{ .text }}.
 						{{ if len .dates }}
 							{{ $unlock := index .dates 0 }}
-							<a href="/leaderboards/{{ $unlock }}/#person-{{ $.Title | urlize }}">{{ dateFormat "Jan 2 2006" $unlock }}</a>
+							<a class="award-list__award-unlock" href="/leaderboards/{{ $unlock }}/#person-{{ $.Title | urlize }}">{{ dateFormat "Jan 2 2006" $unlock }}</a>
 						{{ end }}
 					</span>
 				</li>

@@ -9,6 +9,10 @@
 	display: flex;
 	flex-wrap: wrap;
 
+	@media (max-width: $layout-width-small-mobile) {
+		display: block;
+	}
+
 	a {
 		text-decoration: none;
 		color: inherit;
@@ -24,6 +28,9 @@
 
 	@media (max-width: $layout-width-mobile) {
 		width: 50%;
+	}
+	@media (max-width: $layout-width-small-mobile) {
+		width: auto;
 	}
 }
 
@@ -63,7 +70,6 @@
 .award-list__award-description {
 	a {
 		@extend %link;
-		white-space: nowrap;
 		text-decoration: underline;
 	}
 }
@@ -80,4 +86,9 @@
 	a:hover & {
 		text-decoration: underline !important;
 	}
+}
+
+// Award list unlock element
+.award-list__award-unlock {
+	white-space: nowrap;
 }
