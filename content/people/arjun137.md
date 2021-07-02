@@ -5,11 +5,11 @@
     {
       "person": "arjun137",
       "leaderboard": "2021-07-02",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 3,
+      "seconds": 41,
+      "totalSeconds": 221,
+      "position": 11,
+      "isPending": false
     },
     {
       "person": "arjun137",
@@ -106,12 +106,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 24,
-    "totalSeconds": 84,
+    "seconds": 47,
+    "totalSeconds": 107,
     "position": null,
     "isPending": false
   },
-  "awardCount": 10,
+  "awardCount": 11,
   "awards": [
     {
       "title": "Half Time",
@@ -126,7 +126,8 @@
       "type": "double-time",
       "text": "Double your completion time from one day to the next",
       "dates": [
-        "2021-06-25"
+        "2021-06-25",
+        "2021-07-02"
       ]
     },
     {
