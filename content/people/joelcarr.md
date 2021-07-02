@@ -5,11 +5,11 @@
     {
       "person": "joelcarr",
       "leaderboard": "2021-07-02",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 8,
+      "seconds": 25,
+      "totalSeconds": 505,
+      "position": 5,
+      "isPending": false
     },
     {
       "person": "joelcarr",
@@ -124,12 +124,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 3,
-    "seconds": 0,
-    "totalSeconds": 180,
+    "seconds": 32,
+    "totalSeconds": 212,
     "position": null,
     "isPending": false
   },
-  "awardCount": 13,
+  "awardCount": 15,
   "awards": [
     {
       "type": "bronze",
@@ -157,7 +157,8 @@
       "type": "double-time",
       "text": "Double your completion time from one day to the next",
       "dates": [
-        "2021-06-30"
+        "2021-06-30",
+        "2021-07-02"
       ]
     },
     {
@@ -174,7 +175,8 @@
       "text": "Complete a puzzle in 5 minutes or more",
       "dates": [
         "2021-06-28",
-        "2021-06-30"
+        "2021-06-30",
+        "2021-07-02"
       ]
     },
     {
