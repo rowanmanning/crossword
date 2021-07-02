@@ -5,11 +5,11 @@
     {
       "person": "binaryberry",
       "leaderboard": "2021-07-02",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 15,
+      "totalSeconds": 135,
+      "position": 3,
+      "isPending": false
     },
     {
       "person": "binaryberry",
@@ -124,18 +124,25 @@
     "person": null,
     "leaderboard": null,
     "minutes": 3,
-    "seconds": 39,
-    "totalSeconds": 219,
+    "seconds": 27,
+    "totalSeconds": 207,
     "position": null,
     "isPending": false
   },
-  "awardCount": 6,
+  "awardCount": 8,
   "awards": [
     {
       "type": "consistent-2",
       "text": "Get the same position two days in a row",
       "dates": [
         "2021-06-24"
+      ]
+    },
+    {
+      "type": "half-time",
+      "text": "Half your completion time from one day to the next",
+      "dates": [
+        "2021-07-02"
       ]
     },
     {
@@ -164,7 +171,8 @@
       "type": "three-day-streak",
       "text": "Play for three days in a row",
       "dates": [
-        "2021-06-23"
+        "2021-06-23",
+        "2021-07-02"
       ]
     }
   ]
