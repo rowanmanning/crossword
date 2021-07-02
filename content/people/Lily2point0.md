@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "Lily2point0",
+      "leaderboard": "2021-07-02",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "Lily2point0",
       "leaderboard": "2021-07-01",
       "minutes": 2,
       "seconds": 20,
@@ -120,7 +129,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 27,
+  "awardCount": 28,
   "awards": [
     {
       "type": "silver",
@@ -141,7 +150,8 @@
       "text": "Get the same position two days in a row",
       "dates": [
         "2021-06-24",
-        "2021-06-27"
+        "2021-06-27",
+        "2021-07-01"
       ]
     },
     {

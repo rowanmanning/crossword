@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "cb",
+      "leaderboard": "2021-07-02",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "cb",
       "leaderboard": "2021-07-01",
       "minutes": 1,
       "seconds": 0,
@@ -48,8 +57,15 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 7,
+  "awardCount": 8,
   "awards": [
+    {
+      "type": "silver",
+      "text": "Get the second fastest time for a day",
+      "dates": [
+        "2021-07-01"
+      ]
+    },
     {
       "type": "double-time",
       "text": "Double your completion time from one day to the next",
