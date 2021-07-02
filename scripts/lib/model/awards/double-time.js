@@ -4,6 +4,10 @@ const TimeDifferenceAward = require('./core/time-difference');
 
 module.exports = class DoubleTimeAward extends TimeDifferenceAward {
 
+	static get title() {
+		return 'Double Time';
+	}
+
 	static get type() {
 		return 'double-time';
 	}

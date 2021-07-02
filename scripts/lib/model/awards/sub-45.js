@@ -4,6 +4,10 @@ const LessThanTimeAward = require('./core/less-than-time');
 
 module.exports = class SubFortyFiveSecondsAward extends LessThanTimeAward {
 
+	static get title() {
+		return 'Sub 45 Seconds';
+	}
+
 	static get type() {
 		return 'sub-45';
 	}

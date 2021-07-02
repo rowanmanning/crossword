@@ -4,6 +4,10 @@ const TimeDifferenceAward = require('./core/time-difference');
 
 module.exports = class QuarterTimeAward extends TimeDifferenceAward {
 
+	static get title() {
+		return 'Quarter Time';
+	}
+
 	static get type() {
 		return 'quarter-time';
 	}

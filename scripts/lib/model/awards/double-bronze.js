@@ -4,6 +4,10 @@ const PositionStreakConsecutiveAward = require('./core/position-streak-consecuti
 
 module.exports = class DoubleBronzeAward extends PositionStreakConsecutiveAward {
 
+	static get title() {
+		return 'Double Bronze';
+	}
+
 	static get type() {
 		return 'double-bronze';
 	}

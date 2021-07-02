@@ -4,6 +4,10 @@ const TimeAward = require('./core/time');
 
 module.exports = class BlazeAward extends TimeAward {
 
+	static get title() {
+		return 'Blaze It';
+	}
+
 	static get type() {
 		return 'blaze';
 	}

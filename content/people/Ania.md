@@ -132,6 +132,7 @@
   "awardCount": 22,
   "awards": [
     {
+      "title": "Gold",
       "type": "gold",
       "text": "Get the fastest time for a day",
       "dates": [
@@ -139,6 +140,7 @@
       ]
     },
     {
+      "title": "Bronze",
       "type": "bronze",
       "text": "Get the third fastest time for a day",
       "dates": [
@@ -146,6 +148,7 @@
       ]
     },
     {
+      "title": "Half Time",
       "type": "half-time",
       "text": "Half your completion time from one day to the next",
       "dates": [
@@ -155,6 +158,7 @@
       ]
     },
     {
+      "title": "Quarter Time",
       "type": "quarter-time",
       "text": "Quarter your completion time from one day to the next",
       "dates": [
@@ -162,6 +166,7 @@
       ]
     },
     {
+      "title": "Double Time",
       "type": "double-time",
       "text": "Double your completion time from one day to the next",
       "dates": [
@@ -172,6 +177,7 @@
       ]
     },
     {
+      "title": "Sub Two Minutes",
       "type": "sub-120",
       "text": "Complete a puzzle in less than two minutes",
       "dates": [
@@ -182,6 +188,7 @@
       ]
     },
     {
+      "title": "Sub Minute",
       "type": "sub-60",
       "text": "Complete a puzzle in less than a minute",
       "dates": [
@@ -191,6 +198,7 @@
       ]
     },
     {
+      "title": "Sub 45 Seconds",
       "type": "sub-45",
       "text": "Complete a puzzle in less than 45 seconds",
       "dates": [
@@ -198,6 +206,7 @@
       ]
     },
     {
+      "title": "Over Five Minutes",
       "type": "over-300",
       "text": "Complete a puzzle in more than 5 minutes",
       "dates": [
@@ -205,6 +214,7 @@
       ]
     },
     {
+      "title": "Three Day Streak",
       "type": "three-day-streak",
       "text": "Play for three days in a row",
       "dates": [
@@ -213,6 +223,7 @@
       ]
     },
     {
+      "title": "Week-Long Streak",
       "type": "week-streak",
       "text": "Play for a full week without breaks",
       "dates": [

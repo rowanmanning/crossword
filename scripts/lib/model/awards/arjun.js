@@ -4,6 +4,10 @@ const TimeAward = require('./core/time');
 
 module.exports = class ArjunAward extends TimeAward {
 
+	static get title() {
+		return 'Arjun';
+	}
+
 	static get type() {
 		return 'arjun';
 	}

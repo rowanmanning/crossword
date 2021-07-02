@@ -6,6 +6,10 @@ module.exports = class BaseAward {
 		this.person = person;
 	}
 
+	static get title() {
+		throw new Error(`${this.name}.title must be implemented`);
+	}
+
 	static get type() {
 		throw new Error(`${this.name}.type must be implemented`);
 	}
@@ -32,6 +36,7 @@ module.exports = class BaseAward {
 
 	toJSON() {
 		return {
+			title: this.constructor.title,
 			type: this.constructor.type,
 			text: this.constructor.text,
 			dates: this.dates

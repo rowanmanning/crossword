@@ -4,6 +4,10 @@ const PositionStreakConsecutiveAward = require('./core/position-streak-consecuti
 
 module.exports = class ConsistentThreeAward extends PositionStreakConsecutiveAward {
 
+	static get title() {
+		return 'Consistent Position ×3';
+	}
+
 	static get type() {
 		return 'consistent-3';
 	}

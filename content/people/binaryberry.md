@@ -132,6 +132,7 @@
   "awardCount": 8,
   "awards": [
     {
+      "title": "Consistent Position ×2",
       "type": "consistent-2",
       "text": "Get the same position two days in a row",
       "dates": [
@@ -139,6 +140,7 @@
       ]
     },
     {
+      "title": "Half Time",
       "type": "half-time",
       "text": "Half your completion time from one day to the next",
       "dates": [
@@ -146,6 +148,7 @@
       ]
     },
     {
+      "title": "Double Time",
       "type": "double-time",
       "text": "Double your completion time from one day to the next",
       "dates": [
@@ -153,6 +156,7 @@
       ]
     },
     {
+      "title": "Sub Two Minutes",
       "type": "sub-120",
       "text": "Complete a puzzle in less than two minutes",
       "dates": [
@@ -160,6 +164,7 @@
       ]
     },
     {
+      "title": "Over Five Minutes",
       "type": "over-300",
       "text": "Complete a puzzle in more than 5 minutes",
       "dates": [
@@ -168,6 +173,7 @@
       ]
     },
     {
+      "title": "Three Day Streak",
       "type": "three-day-streak",
       "text": "Play for three days in a row",
       "dates": [

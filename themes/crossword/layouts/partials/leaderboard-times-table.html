@@ -41,7 +41,7 @@
 												{{ if eq (index .dates 0) $leaderboard.Title }}
 													<li class="leaderboard-table__award">
 														<a href="{{ $permalink }}#award-{{ .type }}">
-															<img src="/awards/{{ .type }}.svg" alt="{{ .text }}" class="leaderboard-table__award-icon" title="{{ .text }}" />
+															<img src="/awards/{{ .type }}.svg" alt="{{ .title }}: {{ .text }}" class="leaderboard-table__award-icon" title="{{ .title }}: {{ .text }}" />
 														</a>
 													</li>
 												{{ end }}

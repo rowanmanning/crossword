@@ -4,6 +4,10 @@ const BaseAward = require('./core/base');
 
 module.exports = class PodiumAward extends BaseAward {
 
+	static get title() {
+		return 'Podium';
+	}
+
 	static get type() {
 		return 'podium';
 	}

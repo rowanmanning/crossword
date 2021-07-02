@@ -4,6 +4,10 @@ const TimeAward = require('./core/time');
 
 module.exports = class PiAward extends TimeAward {
 
+	static get title() {
+		return 'Pi';
+	}
+
 	static get type() {
 		return 'pi';
 	}

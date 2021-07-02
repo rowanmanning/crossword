@@ -60,6 +60,7 @@
   "awardCount": 8,
   "awards": [
     {
+      "title": "Silver",
       "type": "silver",
       "text": "Get the second fastest time for a day",
       "dates": [
@@ -67,6 +68,7 @@
       ]
     },
     {
+      "title": "Double Time",
       "type": "double-time",
       "text": "Double your completion time from one day to the next",
       "dates": [
@@ -74,6 +76,7 @@
       ]
     },
     {
+      "title": "Sub Two Minutes",
       "type": "sub-120",
       "text": "Complete a puzzle in less than two minutes",
       "dates": [
@@ -83,6 +86,7 @@
       ]
     },
     {
+      "title": "Sub Minute",
       "type": "sub-60",
       "text": "Complete a puzzle in less than a minute",
       "dates": [
@@ -90,6 +94,7 @@
       ]
     },
     {
+      "title": "Sub 45 Seconds",
       "type": "sub-45",
       "text": "Complete a puzzle in less than 45 seconds",
       "dates": [
@@ -97,6 +102,7 @@
       ]
     },
     {
+      "title": "Three Day Streak",
       "type": "three-day-streak",
       "text": "Play for three days in a row",
       "dates": [

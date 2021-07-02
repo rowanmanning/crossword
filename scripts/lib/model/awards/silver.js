@@ -4,6 +4,10 @@ const PositionAward = require('./core/position');
 
 module.exports = class SilverAward extends PositionAward {
 
+	static get title() {
+		return 'Silver';
+	}
+
 	static get type() {
 		return 'silver';
 	}

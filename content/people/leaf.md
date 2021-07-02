@@ -132,6 +132,7 @@
   "awardCount": 15,
   "awards": [
     {
+      "title": "Consistent Position ×2",
       "type": "consistent-2",
       "text": "Get the same position two days in a row",
       "dates": [
@@ -139,6 +140,7 @@
       ]
     },
     {
+      "title": "Consistent Position ×3",
       "type": "consistent-3",
       "text": "Get the same position three days in a row",
       "dates": [
@@ -146,6 +148,7 @@
       ]
     },
     {
+      "title": "Consistent Position ×4",
       "type": "consistent-4",
       "text": "Get the same position four days in a row",
       "dates": [
@@ -153,6 +156,7 @@
       ]
     },
     {
+      "title": "Half Time",
       "type": "half-time",
       "text": "Half your completion time from one day to the next",
       "dates": [
@@ -160,6 +164,7 @@
       ]
     },
     {
+      "title": "Quarter Time",
       "type": "quarter-time",
       "text": "Quarter your completion time from one day to the next",
       "dates": [
@@ -167,6 +172,7 @@
       ]
     },
     {
+      "title": "Sub Two Minutes",
       "type": "sub-120",
       "text": "Complete a puzzle in less than two minutes",
       "dates": [
@@ -179,6 +185,7 @@
       ]
     },
     {
+      "title": "Sub Minute",
       "type": "sub-60",
       "text": "Complete a puzzle in less than a minute",
       "dates": [
@@ -187,6 +194,7 @@
       ]
     },
     {
+      "title": "Three Day Streak",
       "type": "three-day-streak",
       "text": "Play for three days in a row",
       "dates": [
@@ -194,6 +202,7 @@
       ]
     },
     {
+      "title": "Week-Long Streak",
       "type": "week-streak",
       "text": "Play for a full week without breaks",
       "dates": [

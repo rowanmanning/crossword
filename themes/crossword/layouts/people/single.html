@@ -25,10 +25,11 @@
 					<span class="award-list__award-icon">
 						<img src="/awards/{{ .type }}.svg" alt="{{ .text }}" />
 						{{ if gt (len .dates) 1 }}
-							<span class="award-list__count">x{{ len .dates }}</span>
+							<span class="award-list__count">×{{ len .dates }}</span>
 						{{ end }}
 					</span>
 					<span>
+						<strong>{{ .title }}:</strong>
 						{{ .text }}.
 						{{ if len .dates }}
 							{{ $unlock := index .dates 0 }}

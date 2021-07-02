@@ -4,6 +4,10 @@ const PlayStreakAward = require('./core/play-streak');
 
 module.exports = class QuarterStreakAward extends PlayStreakAward {
 
+	static get title() {
+		return 'Quarter-Long Streak';
+	}
+
 	static get type() {
 		return 'quarter-streak';
 	}
