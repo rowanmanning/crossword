@@ -5,11 +5,11 @@
     {
       "person": "leaf",
       "leaderboard": "2021-07-02",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 3,
+      "seconds": 23,
+      "totalSeconds": 203,
+      "position": 9,
+      "isPending": false
     },
     {
       "person": "leaf",
@@ -124,12 +124,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 48,
-    "totalSeconds": 108,
+    "seconds": 57,
+    "totalSeconds": 117,
     "position": null,
     "isPending": false
   },
-  "awardCount": 15,
+  "awardCount": 16,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -169,6 +169,14 @@
       "text": "Quarter your completion time from one day to the next",
       "dates": [
         "2021-06-29"
+      ]
+    },
+    {
+      "title": "Double Time",
+      "type": "double-time",
+      "text": "Double your completion time from one day to the next",
+      "dates": [
+        "2021-07-02"
       ]
     },
     {
