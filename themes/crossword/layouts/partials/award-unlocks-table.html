@@ -1,0 +1,25 @@
+
+{{ $leaderboard := . }}
+{{ if len .Params.unlocks }}
+	<div class="table table--wide content-body">
+		<table class="leaderboard-table table__data table--striped">
+			<thead>
+				<tr>
+					<th class="leaderboard-table__count-column">Count</th>
+					<th class="leaderboard-table__main-column">Person</th>
+					<th>First Unlocked</th>
+				</tr>
+			</thead>
+			<tbody>
+				{{ range .Params.unlocks }}
+					{{ $leaderboard := index .dates 0 }}
+					<tr id="person-{{ .person | urlize }}">
+						<td class="leaderboard-table__count-column">{{ .count }}</td>
+						<td class="leaderboard-table__main-column"><a href="/people/{{ .person | urlize }}/#award-{{ $.Params.id }}">{{ .person }}</a></td>
+						<td><a href="/leaderboards/{{ $leaderboard | urlize }}/#person-{{ .person | urlize }}">{{ dateFormat "Jan 2 2006" $leaderboard }}</a></td>
+					</tr>
+				{{ end }}
+			</tbody>
+		</table>
+	</div>
+{{ end }}

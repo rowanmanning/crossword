@@ -2,7 +2,7 @@
 title: Leaderboards
 menu:
   main:
-    name: "All leaderboards"
+    name: "Leaderboards"
     weight: 20
 sort:
   property: "Date"

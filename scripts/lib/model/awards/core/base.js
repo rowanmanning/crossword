@@ -43,4 +43,36 @@ module.exports = class BaseAward {
 		};
 	}
 
+	static getUnlocks(people) {
+		return people
+			.filter(person => person.awards.find(award => award instanceof this))
+			.map(person => person.awards.find(award => award instanceof this))
+			.map(award => ({
+				person: award.person.name,
+				count: award.dates.length,
+				dates: award.dates
+			}))
+			.sort((unlockA, unlockB) => {
+				if (unlockA.count < unlockB.count) {
+					return 1;
+				}
+				if (unlockA.count > unlockB.count) {
+					return -1;
+				}
+				if (unlockA.dates[0] > unlockB.dates[0]) {
+					return 1;
+				}
+				if (unlockA.dates[0] < unlockB.dates[0]) {
+					return -1;
+				}
+				if (unlockA.person.toLowerCase() > unlockB.person.toLowerCase()) {
+					return 1;
+				}
+				if (unlockA.person.toLowerCase() < unlockB.person.toLowerCase()) {
+					return -1;
+				}
+				return 0;
+			});
+	}
+
 };

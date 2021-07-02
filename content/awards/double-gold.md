@@ -1,0 +1,23 @@
+{
+  "title": "Double Gold",
+  "id": "double-gold",
+  "text": "Get the fastest time two days in a row",
+  "order": "11",
+  "unlocks": [
+    {
+      "person": "Rowan M",
+      "count": 1,
+      "dates": [
+        "2021-06-28"
+      ]
+    },
+    {
+      "person": "j-sheps",
+      "count": 1,
+      "dates": [
+        "2021-07-01"
+      ]
+    }
+  ],
+  "totalUnlocks": 2
+}

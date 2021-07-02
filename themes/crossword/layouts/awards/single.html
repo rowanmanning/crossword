@@ -1,0 +1,22 @@
+
+{{ define "main" }}
+
+	<div class="content-body">
+		<h1>{{ .Title }}</h1>
+		<p>
+			Viewing award "{{ .Title }}" – {{ .Params.text }}.
+		</p>
+		<img src="/awards/{{ .Params.id }}.svg" alt="{{ .Title }} Award" />
+	</div>
+
+	<div class="content-body">
+		<h2 id="unlocks">Unlocks</h2>
+		{{ if not (len .Params.unlocks) }}
+			<p>Never unlocked.</p>
+		{{ end }}
+	</div>
+	{{- partial "award-unlocks-table.html" . -}}
+
+	{{- partial "next-prev.html" . -}}
+
+{{ end }}

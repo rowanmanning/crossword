@@ -22,14 +22,14 @@
 		<ul class="award-list">
 			{{ range .Params.awards }}
 				<li class="award-list__award" id="award-{{ .type }}">
-					<span class="award-list__award-icon">
-						<img src="/awards/{{ .type }}.svg" alt="{{ .text }}" />
+					<a href="/awards/{{ .type }}/#person-{{ $.Title | urlize }}" class="award-list__award-icon">
+						<img src="/awards/{{ .type }}.svg" alt="{{ .title }} Award" />
 						{{ if gt (len .dates) 1 }}
 							<span class="award-list__count">×{{ len .dates }}</span>
 						{{ end }}
-					</span>
-					<span>
-						<strong>{{ .title }}:</strong>
+					</a>
+					<span class="award-list__award-description">
+						<strong class="award-list__award-title"><a href="/awards/{{ .type }}/#person-{{ $.Title | urlize }}">{{ .title }}:</a></strong>
 						{{ .text }}.
 						{{ if len .dates }}
 							{{ $unlock := index .dates 0 }}

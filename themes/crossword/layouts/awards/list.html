@@ -1,0 +1,33 @@
+
+{{ define "main" }}
+
+	<div class="content-body">
+		<h1>{{ .Title }}</h1>
+		{{ if .Content }}
+			{{ .Content }}
+		{{ end }}
+	</div>
+
+	{{ if len .Pages }}
+		<ul class="award-list">
+			{{ $pages := sort .Pages (.Params.sort.property | default "Title") (.Params.sort.direction | default "asc") }}
+			{{ range $pages }}
+				<li class="award-list__award">
+					<a href="{{ .RelPermalink }}" class="award-list__award-link">
+						<span class="award-list__award-icon">
+							<img src="/awards/{{ .Params.id }}.svg" alt="{{ .Title }} Award" />
+							{{ if gt .Params.totalUnlocks 0 }}
+								<span class="award-list__count" title="Unlocked {{ .Params.totalUnlocks }} times">×{{ .Params.totalUnlocks }}</span>
+							{{ end }}
+						</span>
+						<span class="award-list__award-description">
+							<strong class="award-list__award-title">{{ .Title }}:</strong>
+							{{ .Params.text }}.
+						</span>
+					</a>
+				</li>
+			{{ end }}
+		</ul>
+	{{ end }}
+
+{{ end }}

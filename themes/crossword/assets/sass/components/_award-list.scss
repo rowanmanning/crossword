@@ -10,8 +10,8 @@
 	flex-wrap: wrap;
 
 	a {
-		@extend %link;
-		white-space: nowrap;
+		text-decoration: none;
+		color: inherit;
 	}
 }
 
@@ -19,15 +19,20 @@
 .award-list__award {
 	font-size: var(--font-size-small);
 	width: 33%;
-	display: flex;
-	align-items: flex-start;
-	box-sizing: border-box;
 	padding-right: var(--spacing-line);
 	margin-bottom: var(--spacing-line);
 
 	@media (max-width: $layout-width-mobile) {
 		width: 50%;
 	}
+}
+
+// Award list link element
+.award-list__award,
+.award-list__award-link {
+	display: flex;
+	align-items: flex-start;
+	box-sizing: border-box;
 }
 
 // Award list award icon element
@@ -52,4 +57,27 @@
 	border-radius: var(--spacing-half-line);
 	padding: 0 var(--spacingvalue-xxs);
 	font-size: var(--font-size-xs);
+}
+
+// Award list description element
+.award-list__award-description {
+	a {
+		@extend %link;
+		white-space: nowrap;
+		text-decoration: underline;
+	}
+}
+
+// Award list title element
+.award-list__award-title {
+	font-weight: bold;
+
+	> a {
+		text-decoration: none !important;
+		color: inherit !important;
+	}
+	> a:hover,
+	a:hover & {
+		text-decoration: underline !important;
+	}
 }

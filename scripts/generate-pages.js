@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 'use strict';
 
+const Awards = require('./lib/model/awards');
 const fs = require('fs/promises');
 const loadAllJSON = require('./lib/utils/load-all-json');
 const Leaderboard = require('./lib/model/leaderboard');
@@ -17,6 +18,7 @@ async function generatePages() {
 	// Gather up leaderboards
 	const leaderboards = new Map();
 	const people = new Map();
+	const awards = [];
 
 	// Create leaderboard and people representations
 	for (const {name: date, data} of files) {
@@ -44,6 +46,20 @@ async function generatePages() {
 
 	}
 
+	// Create award representations
+	for (const [index, Award] of Object.entries(Object.values(Awards))) {
+		const unlocks = Award.getUnlocks([...people.values()]);
+		const totalUnlocks = unlocks.reduce((total, {dates}) => total + dates.length, 0);
+		awards.push({
+			title: Award.title,
+			id: Award.type,
+			text: Award.text,
+			order: index + 1,
+			unlocks,
+			totalUnlocks
+		});
+	}
+
 	// Save all of the leaderboard pages
 	console.log('Creating leaderboard pages');
 	for (const leaderboard of leaderboards.values()) {
@@ -59,6 +75,15 @@ async function generatePages() {
 		await fs.writeFile(
 			`${__dirname}/../content/people/${person.name}.md`,
 			JSON.stringify(person, null, 2)
+		);
+	}
+
+	// Save all of the award pages
+	console.log('Creating award pages');
+	for (const award of awards) {
+		await fs.writeFile(
+			`${__dirname}/../content/awards/${award.id}.md`,
+			JSON.stringify(award, null, 2)
 		);
 	}
 
