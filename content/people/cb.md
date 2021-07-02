@@ -5,11 +5,11 @@
     {
       "person": "cb",
       "leaderboard": "2021-07-02",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 38,
+      "totalSeconds": 38,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "cb",
@@ -52,12 +52,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 10,
-    "totalSeconds": 70,
+    "seconds": 2,
+    "totalSeconds": 62,
     "position": null,
     "isPending": false
   },
-  "awardCount": 8,
+  "awardCount": 11,
   "awards": [
     {
       "title": "Silver",
@@ -82,7 +82,8 @@
       "dates": [
         "2021-06-29",
         "2021-06-30",
-        "2021-07-01"
+        "2021-07-01",
+        "2021-07-02"
       ]
     },
     {
@@ -90,7 +91,8 @@
       "type": "sub-60",
       "text": "Complete a puzzle in less than a minute",
       "dates": [
-        "2021-06-29"
+        "2021-06-29",
+        "2021-07-02"
       ]
     },
     {
@@ -98,7 +100,8 @@
       "type": "sub-45",
       "text": "Complete a puzzle in less than 45 seconds",
       "dates": [
-        "2021-06-29"
+        "2021-06-29",
+        "2021-07-02"
       ]
     },
     {
