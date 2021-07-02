@@ -199,7 +199,7 @@
     },
     {
       "type": "over-300",
-      "text": "Complete a puzzle in 5 minutes or more",
+      "text": "Complete a puzzle in more than 5 minutes",
       "dates": [
         "2021-06-26"
       ]

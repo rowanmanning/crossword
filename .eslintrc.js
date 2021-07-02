@@ -5,6 +5,7 @@ module.exports = {
 		'@rowanmanning/eslint-config'
 	],
 	rules: {
+		'class-methods-use-this': 'off',
 		'max-len': 'off'
 	}
 };
