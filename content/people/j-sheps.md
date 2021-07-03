@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "j-sheps",
+      "leaderboard": "2021-07-04",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "j-sheps",
       "leaderboard": "2021-07-03",
       "minutes": 1,
       "seconds": 32,
@@ -138,7 +147,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 42,
+  "awardCount": 43,
   "awards": [
     {
       "title": "Gold",
@@ -167,6 +176,14 @@
       "dates": [
         "2021-06-23",
         "2021-06-29"
+      ]
+    },
+    {
+      "title": "Bronze",
+      "type": "bronze",
+      "text": "Get the third fastest time for a day",
+      "dates": [
+        "2021-07-03"
       ]
     },
     {

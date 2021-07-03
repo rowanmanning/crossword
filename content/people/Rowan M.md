@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "Rowan M",
+      "leaderboard": "2021-07-04",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "Rowan M",
       "leaderboard": "2021-07-03",
       "minutes": 1,
       "seconds": 20,
@@ -138,7 +147,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 49,
+  "awardCount": 50,
   "awards": [
     {
       "title": "Gold",
@@ -164,7 +173,8 @@
       "text": "Get the second fastest time for a day",
       "dates": [
         "2021-06-21",
-        "2021-06-24"
+        "2021-06-24",
+        "2021-07-03"
       ]
     },
     {
