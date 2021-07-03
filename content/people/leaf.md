@@ -5,11 +5,11 @@
     {
       "person": "leaf",
       "leaderboard": "2021-07-03",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 54,
+      "totalSeconds": 174,
+      "position": 5,
+      "isPending": false
     },
     {
       "person": "leaf",
@@ -132,9 +132,9 @@
   "mean": {
     "person": null,
     "leaderboard": null,
-    "minutes": 1,
-    "seconds": 57,
-    "totalSeconds": 117,
+    "minutes": 2,
+    "seconds": 2,
+    "totalSeconds": 122,
     "position": null,
     "isPending": false
   },
