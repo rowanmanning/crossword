@@ -111,7 +111,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 18,
+  "awardCount": 19,
   "awards": [
     {
       "title": "Bronze",
@@ -198,7 +198,8 @@
       "text": "Get the same time as another person",
       "dates": [
         "2021-06-24",
-        "2021-06-29"
+        "2021-06-29",
+        "2021-07-03"
       ]
     }
   ]

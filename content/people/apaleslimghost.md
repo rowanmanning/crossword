@@ -5,11 +5,11 @@
     {
       "person": "apaleslimghost",
       "leaderboard": "2021-07-03",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 15,
+      "totalSeconds": 135,
+      "position": 4,
+      "isPending": false
     },
     {
       "person": "apaleslimghost",
@@ -124,12 +124,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 27,
-    "totalSeconds": 87,
+    "seconds": 32,
+    "totalSeconds": 92,
     "position": null,
     "isPending": false
   },
-  "awardCount": 18,
+  "awardCount": 19,
   "awards": [
     {
       "title": "Silver",
@@ -209,7 +209,8 @@
       "text": "Get the same time as another person",
       "dates": [
         "2021-06-22",
-        "2021-06-25"
+        "2021-06-25",
+        "2021-07-03"
       ]
     }
   ]

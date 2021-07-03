@@ -6,18 +6,20 @@
   "unlocks": [
     {
       "person": "apaleslimghost",
-      "count": 2,
+      "count": 3,
       "dates": [
         "2021-06-22",
-        "2021-06-25"
+        "2021-06-25",
+        "2021-07-03"
       ]
     },
     {
       "person": "itsalex",
-      "count": 2,
+      "count": 3,
       "dates": [
         "2021-06-24",
-        "2021-06-29"
+        "2021-06-29",
+        "2021-07-03"
       ]
     },
     {
@@ -49,5 +51,5 @@
       ]
     }
   ],
-  "totalUnlocks": 8
+  "totalUnlocks": 10
 }
