@@ -5,11 +5,11 @@
     {
       "person": "cb",
       "leaderboard": "2021-07-03",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 52,
+      "totalSeconds": 112,
+      "position": 4,
+      "isPending": false
     },
     {
       "person": "cb",
@@ -61,12 +61,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 2,
-    "totalSeconds": 62,
+    "seconds": 12,
+    "totalSeconds": 72,
     "position": null,
     "isPending": false
   },
-  "awardCount": 12,
+  "awardCount": 14,
   "awards": [
     {
       "title": "Gold",
@@ -89,7 +89,8 @@
       "type": "double-time",
       "text": "Double your completion time from one day to the next",
       "dates": [
-        "2021-06-30"
+        "2021-06-30",
+        "2021-07-03"
       ]
     },
     {
@@ -100,7 +101,8 @@
         "2021-06-29",
         "2021-06-30",
         "2021-07-01",
-        "2021-07-02"
+        "2021-07-02",
+        "2021-07-03"
       ]
     },
     {
