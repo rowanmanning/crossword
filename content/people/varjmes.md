@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "varjmes",
+      "leaderboard": "2021-07-03",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "varjmes",
       "leaderboard": "2021-07-02",
       "minutes": 1,
       "seconds": 0,
@@ -129,7 +138,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 30,
+  "awardCount": 31,
   "awards": [
     {
       "title": "Gold",
@@ -144,7 +153,8 @@
       "type": "bronze",
       "text": "Get the third fastest time for a day",
       "dates": [
-        "2021-06-24"
+        "2021-06-24",
+        "2021-07-02"
       ]
     },
     {

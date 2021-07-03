@@ -16,17 +16,18 @@
       ]
     },
     {
+      "person": "varjmes",
+      "count": 2,
+      "dates": [
+        "2021-06-24",
+        "2021-07-02"
+      ]
+    },
+    {
       "person": "joelcarr",
       "count": 1,
       "dates": [
         "2021-06-21"
-      ]
-    },
-    {
-      "person": "varjmes",
-      "count": 1,
-      "dates": [
-        "2021-06-24"
       ]
     },
     {
@@ -65,5 +66,5 @@
       ]
     }
   ],
-  "totalUnlocks": 12
+  "totalUnlocks": 13
 }

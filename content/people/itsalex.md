@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "itsalex",
+      "leaderboard": "2021-07-03",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "itsalex",
       "leaderboard": "2021-07-02",
       "minutes": 1,
       "seconds": 32,
@@ -102,7 +111,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 16,
+  "awardCount": 17,
   "awards": [
     {
       "title": "Bronze",
@@ -110,6 +119,14 @@
       "text": "Get the third fastest time for a day",
       "dates": [
         "2021-06-29"
+      ]
+    },
+    {
+      "title": "Consistent Position ×2",
+      "type": "consistent-2",
+      "text": "Get the same position two days in a row",
+      "dates": [
+        "2021-07-02"
       ]
     },
     {
