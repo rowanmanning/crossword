@@ -26,10 +26,11 @@
     },
     {
       "person": "Oliver Turner",
-      "count": 2,
+      "count": 3,
       "dates": [
         "2021-06-29",
-        "2021-07-03"
+        "2021-07-03",
+        "2021-07-04"
       ]
     },
     {
@@ -54,5 +55,5 @@
       ]
     }
   ],
-  "totalUnlocks": 13
+  "totalUnlocks": 14
 }

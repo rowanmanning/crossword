@@ -33,6 +33,14 @@
       ]
     },
     {
+      "person": "cb",
+      "count": 2,
+      "dates": [
+        "2021-07-01",
+        "2021-07-04"
+      ]
+    },
+    {
       "person": "Lily2point0",
       "count": 1,
       "dates": [
@@ -45,14 +53,7 @@
       "dates": [
         "2021-06-26"
       ]
-    },
-    {
-      "person": "cb",
-      "count": 1,
-      "dates": [
-        "2021-07-01"
-      ]
     }
   ],
-  "totalUnlocks": 13
+  "totalUnlocks": 14
 }

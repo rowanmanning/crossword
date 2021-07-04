@@ -55,7 +55,14 @@
       "dates": [
         "2021-07-02"
       ]
+    },
+    {
+      "person": "Ania",
+      "count": 1,
+      "dates": [
+        "2021-07-04"
+      ]
     }
   ],
-  "totalUnlocks": 10
+  "totalUnlocks": 11
 }

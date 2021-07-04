@@ -17,7 +17,14 @@
       "dates": [
         "2021-07-01"
       ]
+    },
+    {
+      "person": "Oliver Turner",
+      "count": 1,
+      "dates": [
+        "2021-07-04"
+      ]
     }
   ],
-  "totalUnlocks": 2
+  "totalUnlocks": 3
 }
