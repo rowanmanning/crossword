@@ -76,6 +76,15 @@
       ]
     },
     {
+      "person": "cb",
+      "count": 3,
+      "dates": [
+        "2021-06-29",
+        "2021-07-02",
+        "2021-07-04"
+      ]
+    },
+    {
       "person": "apaleslimghost",
       "count": 2,
       "dates": [
@@ -100,14 +109,6 @@
       ]
     },
     {
-      "person": "cb",
-      "count": 2,
-      "dates": [
-        "2021-06-29",
-        "2021-07-02"
-      ]
-    },
-    {
       "person": "leaf",
       "count": 2,
       "dates": [
@@ -116,5 +117,5 @@
       ]
     }
   ],
-  "totalUnlocks": 45
+  "totalUnlocks": 46
 }

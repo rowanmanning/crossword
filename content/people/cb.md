@@ -5,11 +5,11 @@
     {
       "person": "cb",
       "leaderboard": "2021-07-04",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 51,
+      "totalSeconds": 51,
+      "position": 2,
+      "isPending": false
     },
     {
       "person": "cb",
@@ -70,12 +70,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 12,
-    "totalSeconds": 72,
+    "seconds": 9,
+    "totalSeconds": 69,
     "position": null,
     "isPending": false
   },
-  "awardCount": 14,
+  "awardCount": 17,
   "awards": [
     {
       "title": "Gold",
@@ -91,6 +91,14 @@
       "text": "Get the second fastest time for a day",
       "dates": [
         "2021-07-01"
+      ]
+    },
+    {
+      "title": "Half Time",
+      "type": "half-time",
+      "text": "Half your completion time from one day to the next",
+      "dates": [
+        "2021-07-04"
       ]
     },
     {
@@ -111,7 +119,8 @@
         "2021-06-30",
         "2021-07-01",
         "2021-07-02",
-        "2021-07-03"
+        "2021-07-03",
+        "2021-07-04"
       ]
     },
     {
@@ -120,7 +129,8 @@
       "text": "Complete a puzzle in less than a minute",
       "dates": [
         "2021-06-29",
-        "2021-07-02"
+        "2021-07-02",
+        "2021-07-04"
       ]
     },
     {
