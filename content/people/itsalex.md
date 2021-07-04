@@ -5,11 +5,11 @@
     {
       "person": "itsalex",
       "leaderboard": "2021-07-04",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 8,
+      "totalSeconds": 68,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "itsalex",
@@ -115,12 +115,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 51,
-    "totalSeconds": 111,
+    "seconds": 47,
+    "totalSeconds": 107,
     "position": null,
     "isPending": false
   },
-  "awardCount": 19,
+  "awardCount": 21,
   "awards": [
     {
       "title": "Bronze",
@@ -144,7 +144,8 @@
       "text": "Half your completion time from one day to the next",
       "dates": [
         "2021-06-28",
-        "2021-06-29"
+        "2021-06-29",
+        "2021-07-04"
       ]
     },
     {
@@ -165,7 +166,8 @@
         "2021-06-28",
         "2021-06-29",
         "2021-07-01",
-        "2021-07-02"
+        "2021-07-02",
+        "2021-07-04"
       ]
     },
     {
