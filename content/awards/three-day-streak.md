@@ -29,14 +29,15 @@
       ]
     },
     {
-      "person": "j-sheps",
-      "count": 1,
+      "person": "leaf",
+      "count": 2,
       "dates": [
-        "2021-06-23"
+        "2021-06-23",
+        "2021-07-04"
       ]
     },
     {
-      "person": "leaf",
+      "person": "j-sheps",
       "count": 1,
       "dates": [
         "2021-06-23"
@@ -99,5 +100,5 @@
       ]
     }
   ],
-  "totalUnlocks": 16
+  "totalUnlocks": 17
 }

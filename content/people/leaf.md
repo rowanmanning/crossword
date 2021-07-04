@@ -5,11 +5,11 @@
     {
       "person": "leaf",
       "leaderboard": "2021-07-04",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 44,
+      "totalSeconds": 104,
+      "position": 4,
+      "isPending": false
     },
     {
       "person": "leaf",
@@ -142,12 +142,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 2,
-    "totalSeconds": 122,
+    "seconds": 1,
+    "totalSeconds": 121,
     "position": null,
     "isPending": false
   },
-  "awardCount": 16,
+  "awardCount": 18,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -207,7 +207,8 @@
         "2021-06-24",
         "2021-06-25",
         "2021-06-29",
-        "2021-06-30"
+        "2021-06-30",
+        "2021-07-04"
       ]
     },
     {
@@ -224,7 +225,8 @@
       "type": "three-day-streak",
       "text": "Play for three days in a row",
       "dates": [
-        "2021-06-23"
+        "2021-06-23",
+        "2021-07-04"
       ]
     },
     {
