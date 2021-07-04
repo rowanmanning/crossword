@@ -16,16 +16,17 @@
       ]
     },
     {
-      "person": "Ania",
-      "count": 3,
+      "person": "Lily2point0",
+      "count": 4,
       "dates": [
         "2021-06-22",
         "2021-06-27",
-        "2021-06-29"
+        "2021-06-29",
+        "2021-07-05"
       ]
     },
     {
-      "person": "Lily2point0",
+      "person": "Ania",
       "count": 3,
       "dates": [
         "2021-06-22",
@@ -99,5 +100,5 @@
       ]
     }
   ],
-  "totalUnlocks": 22
+  "totalUnlocks": 23
 }
