@@ -5,11 +5,11 @@
     {
       "person": "Oliver Turner",
       "leaderboard": "2021-07-04",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 49,
+      "totalSeconds": 49,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "Oliver Turner",
@@ -115,12 +115,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 58,
-    "totalSeconds": 58,
+    "seconds": 57,
+    "totalSeconds": 57,
     "position": null,
     "isPending": false
   },
-  "awardCount": 34,
+  "awardCount": 37,
   "awards": [
     {
       "title": "Gold",
@@ -197,7 +197,8 @@
         "2021-06-29",
         "2021-06-30",
         "2021-07-02",
-        "2021-07-03"
+        "2021-07-03",
+        "2021-07-04"
       ]
     },
     {
@@ -211,7 +212,8 @@
         "2021-06-28",
         "2021-06-29",
         "2021-06-30",
-        "2021-07-02"
+        "2021-07-02",
+        "2021-07-04"
       ]
     },
     {
@@ -235,7 +237,8 @@
       "type": "three-day-streak",
       "text": "Play for three days in a row",
       "dates": [
-        "2021-06-26"
+        "2021-06-26",
+        "2021-07-04"
       ]
     },
     {
