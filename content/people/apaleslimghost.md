@@ -5,11 +5,11 @@
     {
       "person": "apaleslimghost",
       "leaderboard": "2021-07-05",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 30,
+      "totalSeconds": 30,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "apaleslimghost",
@@ -131,23 +131,23 @@
   ],
   "best": {
     "person": "apaleslimghost",
-    "leaderboard": "2021-06-29",
+    "leaderboard": "2021-07-05",
     "minutes": 0,
-    "seconds": 45,
-    "totalSeconds": 45,
-    "position": 6,
+    "seconds": 30,
+    "totalSeconds": 30,
+    "position": 1,
     "isPending": false
   },
   "mean": {
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 32,
-    "totalSeconds": 92,
+    "seconds": 26,
+    "totalSeconds": 86,
     "position": null,
     "isPending": false
   },
-  "awardCount": 19,
+  "awardCount": 24,
   "awards": [
     {
       "title": "Silver",
@@ -174,6 +174,22 @@
       ]
     },
     {
+      "title": "Half Time",
+      "type": "half-time",
+      "text": "Half your completion time from one day to the next",
+      "dates": [
+        "2021-07-05"
+      ]
+    },
+    {
+      "title": "Quarter Time",
+      "type": "quarter-time",
+      "text": "Quarter your completion time from one day to the next",
+      "dates": [
+        "2021-07-05"
+      ]
+    },
+    {
       "title": "Double Time",
       "type": "double-time",
       "text": "Double your completion time from one day to the next",
@@ -193,7 +209,8 @@
         "2021-06-27",
         "2021-06-28",
         "2021-06-29",
-        "2021-07-01"
+        "2021-07-01",
+        "2021-07-05"
       ]
     },
     {
@@ -202,7 +219,16 @@
       "text": "Complete a puzzle in less than a minute",
       "dates": [
         "2021-06-22",
-        "2021-06-29"
+        "2021-06-29",
+        "2021-07-05"
+      ]
+    },
+    {
+      "title": "Sub 45 Seconds",
+      "type": "sub-45",
+      "text": "Complete a puzzle in less than 45 seconds",
+      "dates": [
+        "2021-07-05"
       ]
     },
     {
