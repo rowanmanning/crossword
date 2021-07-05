@@ -5,11 +5,11 @@
     {
       "person": "binaryberry",
       "leaderboard": "2021-07-05",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 6,
+      "seconds": 10,
+      "totalSeconds": 370,
+      "position": 6,
+      "isPending": false
     },
     {
       "person": "binaryberry",
@@ -151,12 +151,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 3,
-    "seconds": 27,
-    "totalSeconds": 207,
+    "seconds": 48,
+    "totalSeconds": 228,
     "position": null,
     "isPending": false
   },
-  "awardCount": 8,
+  "awardCount": 10,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -179,7 +179,8 @@
       "type": "double-time",
       "text": "Double your completion time from one day to the next",
       "dates": [
-        "2021-06-30"
+        "2021-06-30",
+        "2021-07-05"
       ]
     },
     {
@@ -196,7 +197,8 @@
       "text": "Complete a puzzle in more than 5 minutes",
       "dates": [
         "2021-06-30",
-        "2021-07-01"
+        "2021-07-01",
+        "2021-07-05"
       ]
     },
     {

@@ -45,6 +45,14 @@
       ]
     },
     {
+      "person": "joelcarr",
+      "count": 2,
+      "dates": [
+        "2021-06-29",
+        "2021-07-05"
+      ]
+    },
+    {
       "person": "Rowan M",
       "count": 1,
       "dates": [
@@ -60,13 +68,6 @@
     },
     {
       "person": "j-sheps",
-      "count": 1,
-      "dates": [
-        "2021-06-29"
-      ]
-    },
-    {
-      "person": "joelcarr",
       "count": 1,
       "dates": [
         "2021-06-29"
@@ -101,5 +102,5 @@
       ]
     }
   ],
-  "totalUnlocks": 24
+  "totalUnlocks": 25
 }

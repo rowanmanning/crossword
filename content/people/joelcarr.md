@@ -5,11 +5,11 @@
     {
       "person": "joelcarr",
       "leaderboard": "2021-07-05",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 54,
+      "totalSeconds": 114,
+      "position": 5,
+      "isPending": false
     },
     {
       "person": "joelcarr",
@@ -151,12 +151,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 3,
-    "seconds": 32,
-    "totalSeconds": 212,
+    "seconds": 24,
+    "totalSeconds": 204,
     "position": null,
     "isPending": false
   },
-  "awardCount": 15,
+  "awardCount": 18,
   "awards": [
     {
       "title": "Bronze",
@@ -180,7 +180,16 @@
       "type": "half-time",
       "text": "Half your completion time from one day to the next",
       "dates": [
-        "2021-06-29"
+        "2021-06-29",
+        "2021-07-05"
+      ]
+    },
+    {
+      "title": "Quarter Time",
+      "type": "quarter-time",
+      "text": "Quarter your completion time from one day to the next",
+      "dates": [
+        "2021-07-05"
       ]
     },
     {
@@ -199,7 +208,8 @@
       "dates": [
         "2021-06-21",
         "2021-06-22",
-        "2021-06-29"
+        "2021-06-29",
+        "2021-07-05"
       ]
     },
     {
