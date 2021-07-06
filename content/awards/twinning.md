@@ -5,20 +5,21 @@
   "order": "281",
   "unlocks": [
     {
+      "person": "itsalex",
+      "count": 4,
+      "dates": [
+        "2021-06-24",
+        "2021-06-29",
+        "2021-07-03",
+        "2021-07-06"
+      ]
+    },
+    {
       "person": "apaleslimghost",
       "count": 3,
       "dates": [
         "2021-06-22",
         "2021-06-25",
-        "2021-07-03"
-      ]
-    },
-    {
-      "person": "itsalex",
-      "count": 3,
-      "dates": [
-        "2021-06-24",
-        "2021-06-29",
         "2021-07-03"
       ]
     },
@@ -51,7 +52,14 @@
       "dates": [
         "2021-06-29"
       ]
+    },
+    {
+      "person": "leaf",
+      "count": 1,
+      "dates": [
+        "2021-07-06"
+      ]
     }
   ],
-  "totalUnlocks": 12
+  "totalUnlocks": 14
 }

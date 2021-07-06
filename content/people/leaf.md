@@ -5,11 +5,11 @@
     {
       "person": "leaf",
       "leaderboard": "2021-07-06",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 21,
+      "totalSeconds": 81,
+      "position": 7,
+      "isPending": false
     },
     {
       "person": "leaf",
@@ -160,12 +160,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 59,
-    "totalSeconds": 119,
+    "seconds": 57,
+    "totalSeconds": 117,
     "position": null,
     "isPending": false
   },
-  "awardCount": 19,
+  "awardCount": 21,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -227,7 +227,8 @@
         "2021-06-29",
         "2021-06-30",
         "2021-07-04",
-        "2021-07-05"
+        "2021-07-05",
+        "2021-07-06"
       ]
     },
     {
@@ -254,6 +255,14 @@
       "text": "Play for a full week without breaks",
       "dates": [
         "2021-06-27"
+      ]
+    },
+    {
+      "title": "Twinning",
+      "type": "twinning",
+      "text": "Get the same time as another person",
+      "dates": [
+        "2021-07-06"
       ]
     }
   ]

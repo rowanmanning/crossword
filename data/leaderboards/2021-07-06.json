@@ -32,6 +32,10 @@
 		"seconds": 81
 	},
 	{
+		"name": "leaf",
+		"seconds": 81
+	},
+	{
 		"name": "binaryberry",
 		"seconds": 147
 	},
@@ -45,10 +49,6 @@
 	},
 	{
 		"name": "arjun137",
-		"seconds": null
-	},
-	{
-		"name": "leaf",
 		"seconds": null
 	}
 ]
