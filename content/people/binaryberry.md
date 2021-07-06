@@ -5,11 +5,11 @@
     {
       "person": "binaryberry",
       "leaderboard": "2021-07-06",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 27,
+      "totalSeconds": 147,
+      "position": 4,
+      "isPending": false
     },
     {
       "person": "binaryberry",
@@ -160,12 +160,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 3,
-    "seconds": 48,
-    "totalSeconds": 228,
+    "seconds": 39,
+    "totalSeconds": 219,
     "position": null,
     "isPending": false
   },
-  "awardCount": 10,
+  "awardCount": 11,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -180,7 +180,8 @@
       "type": "half-time",
       "text": "Half your completion time from one day to the next",
       "dates": [
-        "2021-07-02"
+        "2021-07-02",
+        "2021-07-06"
       ]
     },
     {

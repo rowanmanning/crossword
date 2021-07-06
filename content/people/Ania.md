@@ -5,11 +5,11 @@
     {
       "person": "Ania",
       "leaderboard": "2021-07-06",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 40,
+      "totalSeconds": 40,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "Ania",
@@ -160,12 +160,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 20,
-    "totalSeconds": 140,
+    "seconds": 13,
+    "totalSeconds": 133,
     "position": null,
     "isPending": false
   },
-  "awardCount": 29,
+  "awardCount": 32,
   "awards": [
     {
       "title": "Gold",
@@ -231,7 +231,8 @@
         "2021-06-23",
         "2021-06-27",
         "2021-06-29",
-        "2021-07-05"
+        "2021-07-05",
+        "2021-07-06"
       ]
     },
     {
@@ -242,7 +243,8 @@
         "2021-06-22",
         "2021-06-27",
         "2021-06-29",
-        "2021-07-05"
+        "2021-07-05",
+        "2021-07-06"
       ]
     },
     {
@@ -251,7 +253,8 @@
       "text": "Complete a puzzle in less than 45 seconds",
       "dates": [
         "2021-06-22",
-        "2021-07-05"
+        "2021-07-05",
+        "2021-07-06"
       ]
     },
     {
