@@ -5,11 +5,11 @@
     {
       "person": "cb",
       "leaderboard": "2021-07-06",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 24,
+      "totalSeconds": 24,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "cb",
@@ -77,23 +77,23 @@
   ],
   "best": {
     "person": "cb",
-    "leaderboard": "2021-06-29",
+    "leaderboard": "2021-07-06",
     "minutes": 0,
-    "seconds": 32,
-    "totalSeconds": 32,
-    "position": 4,
+    "seconds": 24,
+    "totalSeconds": 24,
+    "position": 1,
     "isPending": false
   },
   "mean": {
     "person": null,
     "leaderboard": null,
-    "minutes": 1,
-    "seconds": 4,
-    "totalSeconds": 64,
+    "minutes": 0,
+    "seconds": 59,
+    "totalSeconds": 59,
     "position": null,
     "isPending": false
   },
-  "awardCount": 24,
+  "awardCount": 28,
   "awards": [
     {
       "title": "Gold",
@@ -149,7 +149,8 @@
         "2021-07-02",
         "2021-07-03",
         "2021-07-04",
-        "2021-07-05"
+        "2021-07-05",
+        "2021-07-06"
       ]
     },
     {
@@ -160,7 +161,8 @@
         "2021-06-29",
         "2021-07-02",
         "2021-07-04",
-        "2021-07-05"
+        "2021-07-05",
+        "2021-07-06"
       ]
     },
     {
@@ -170,7 +172,16 @@
       "dates": [
         "2021-06-29",
         "2021-07-02",
-        "2021-07-05"
+        "2021-07-05",
+        "2021-07-06"
+      ]
+    },
+    {
+      "title": "Sub 30 Seconds",
+      "type": "sub-30",
+      "text": "Complete a puzzle in less than 30 seconds",
+      "dates": [
+        "2021-07-06"
       ]
     },
     {
