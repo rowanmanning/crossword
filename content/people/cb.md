@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "cb",
+      "leaderboard": "2021-07-06",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "cb",
       "leaderboard": "2021-07-05",
       "minutes": 0,
       "seconds": 34,
@@ -84,7 +93,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 22,
+  "awardCount": 24,
   "awards": [
     {
       "title": "Gold",
@@ -100,7 +109,16 @@
       "text": "Get the second fastest time for a day",
       "dates": [
         "2021-07-01",
-        "2021-07-04"
+        "2021-07-04",
+        "2021-07-05"
+      ]
+    },
+    {
+      "title": "Double Silver",
+      "type": "double-silver",
+      "text": "Get the second fastest time two days in a row",
+      "dates": [
+        "2021-07-05"
       ]
     },
     {
