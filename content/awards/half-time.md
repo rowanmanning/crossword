@@ -45,11 +45,27 @@
       ]
     },
     {
+      "person": "j-sheps",
+      "count": 2,
+      "dates": [
+        "2021-06-29",
+        "2021-07-06"
+      ]
+    },
+    {
       "person": "joelcarr",
       "count": 2,
       "dates": [
         "2021-06-29",
         "2021-07-05"
+      ]
+    },
+    {
+      "person": "Oliver Turner",
+      "count": 2,
+      "dates": [
+        "2021-06-29",
+        "2021-07-06"
       ]
     },
     {
@@ -75,21 +91,7 @@
       ]
     },
     {
-      "person": "j-sheps",
-      "count": 1,
-      "dates": [
-        "2021-06-29"
-      ]
-    },
-    {
       "person": "leaf",
-      "count": 1,
-      "dates": [
-        "2021-06-29"
-      ]
-    },
-    {
-      "person": "Oliver Turner",
       "count": 1,
       "dates": [
         "2021-06-29"
@@ -110,5 +112,5 @@
       ]
     }
   ],
-  "totalUnlocks": 27
+  "totalUnlocks": 29
 }

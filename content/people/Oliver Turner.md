@@ -5,11 +5,11 @@
     {
       "person": "Oliver Turner",
       "leaderboard": "2021-07-06",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 32,
+      "totalSeconds": 32,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "Oliver Turner",
@@ -133,12 +133,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 59,
-    "totalSeconds": 59,
+    "seconds": 57,
+    "totalSeconds": 57,
     "position": null,
     "isPending": false
   },
-  "awardCount": 40,
+  "awardCount": 45,
   "awards": [
     {
       "title": "Gold",
@@ -199,7 +199,8 @@
       "type": "half-time",
       "text": "Half your completion time from one day to the next",
       "dates": [
-        "2021-06-29"
+        "2021-06-29",
+        "2021-07-06"
       ]
     },
     {
@@ -226,7 +227,8 @@
         "2021-07-02",
         "2021-07-03",
         "2021-07-04",
-        "2021-07-05"
+        "2021-07-05",
+        "2021-07-06"
       ]
     },
     {
@@ -241,7 +243,8 @@
         "2021-06-29",
         "2021-06-30",
         "2021-07-02",
-        "2021-07-04"
+        "2021-07-04",
+        "2021-07-06"
       ]
     },
     {
@@ -249,7 +252,8 @@
       "type": "sub-45",
       "text": "Complete a puzzle in less than 45 seconds",
       "dates": [
-        "2021-06-29"
+        "2021-06-29",
+        "2021-07-06"
       ]
     },
     {
@@ -282,7 +286,8 @@
       "type": "twinning",
       "text": "Get the same time as another person",
       "dates": [
-        "2021-06-24"
+        "2021-06-24",
+        "2021-07-06"
       ]
     }
   ]

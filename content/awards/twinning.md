@@ -24,16 +24,18 @@
     },
     {
       "person": "j-sheps",
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2021-06-22"
+        "2021-06-22",
+        "2021-07-06"
       ]
     },
     {
       "person": "Oliver Turner",
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2021-06-24"
+        "2021-06-24",
+        "2021-07-06"
       ]
     },
     {
@@ -51,5 +53,5 @@
       ]
     }
   ],
-  "totalUnlocks": 10
+  "totalUnlocks": 12
 }
