@@ -1,4 +1,9 @@
 
 {{- if .Site.Params.analytics.fathomSiteId -}}
-	<script src="https://cdn.usefathom.com/script.js" data-site="{{ .Site.Params.analytics.fathomSiteId }}" honor-dnt="true" defer></script>
+	<script
+		src="https://{{ .Site.Params.analytics.fathomSiteHostname | default "cdn.usefathom.com" }}/script.js"
+		data-site="{{ .Site.Params.analytics.fathomSiteId }}"
+		honor-dnt="true"
+		defer
+	></script>
 {{- end -}}
