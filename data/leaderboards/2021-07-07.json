@@ -32,6 +32,10 @@
 		"seconds": 55
 	},
 	{
+		"name": "cb",
+		"seconds": 58
+	},
+	{
 		"name": "itsalex",
 		"seconds": 71
 	},
@@ -45,10 +49,6 @@
 	},
 	{
 		"name": "arjun137",
-		"seconds": null
-	},
-	{
-		"name": "cb",
 		"seconds": null
 	}
 ]
