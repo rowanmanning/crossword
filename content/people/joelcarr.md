@@ -5,11 +5,11 @@
     {
       "person": "joelcarr",
       "leaderboard": "2021-07-07",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 45,
+      "totalSeconds": 105,
+      "position": 3,
+      "isPending": false
     },
     {
       "person": "joelcarr",
@@ -169,12 +169,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 3,
-    "seconds": 21,
-    "totalSeconds": 201,
+    "seconds": 14,
+    "totalSeconds": 194,
     "position": null,
     "isPending": false
   },
-  "awardCount": 19,
+  "awardCount": 21,
   "awards": [
     {
       "title": "Bronze",
@@ -227,7 +227,8 @@
         "2021-06-21",
         "2021-06-22",
         "2021-06-29",
-        "2021-07-05"
+        "2021-07-05",
+        "2021-07-07"
       ]
     },
     {
@@ -246,7 +247,8 @@
       "text": "Play for three days in a row",
       "dates": [
         "2021-06-23",
-        "2021-06-30"
+        "2021-06-30",
+        "2021-07-07"
       ]
     },
     {
