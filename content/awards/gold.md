@@ -34,6 +34,14 @@
       ]
     },
     {
+      "person": "cb",
+      "count": 2,
+      "dates": [
+        "2021-07-02",
+        "2021-07-06"
+      ]
+    },
+    {
       "person": "Ania",
       "count": 1,
       "dates": [
@@ -48,13 +56,6 @@
       ]
     },
     {
-      "person": "cb",
-      "count": 1,
-      "dates": [
-        "2021-07-02"
-      ]
-    },
-    {
       "person": "apaleslimghost",
       "count": 1,
       "dates": [
@@ -62,5 +63,5 @@
       ]
     }
   ],
-  "totalUnlocks": 15
+  "totalUnlocks": 16
 }

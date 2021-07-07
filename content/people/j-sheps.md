@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "j-sheps",
+      "leaderboard": "2021-07-07",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "j-sheps",
       "leaderboard": "2021-07-06",
       "minutes": 0,
       "seconds": 32,
@@ -165,7 +174,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 50,
+  "awardCount": 51,
   "awards": [
     {
       "title": "Gold",
@@ -193,7 +202,8 @@
       "text": "Get the second fastest time for a day",
       "dates": [
         "2021-06-23",
-        "2021-06-29"
+        "2021-06-29",
+        "2021-07-06"
       ]
     },
     {

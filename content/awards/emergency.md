@@ -10,7 +10,14 @@
       "dates": [
         "2021-07-03"
       ]
+    },
+    {
+      "person": "joelcarr",
+      "count": 1,
+      "dates": [
+        "2021-07-06"
+      ]
     }
   ],
-  "totalUnlocks": 1
+  "totalUnlocks": 2
 }
