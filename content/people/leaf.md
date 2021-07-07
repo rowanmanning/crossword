@@ -5,11 +5,11 @@
     {
       "person": "leaf",
       "leaderboard": "2021-07-07",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 55,
+      "totalSeconds": 55,
+      "position": 8,
+      "isPending": false
     },
     {
       "person": "leaf",
@@ -169,12 +169,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 57,
-    "totalSeconds": 117,
+    "seconds": 53,
+    "totalSeconds": 113,
     "position": null,
     "isPending": false
   },
-  "awardCount": 21,
+  "awardCount": 23,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -237,7 +237,8 @@
         "2021-06-30",
         "2021-07-04",
         "2021-07-05",
-        "2021-07-06"
+        "2021-07-06",
+        "2021-07-07"
       ]
     },
     {
@@ -246,7 +247,8 @@
       "text": "Complete a puzzle in less than a minute",
       "dates": [
         "2021-06-29",
-        "2021-06-30"
+        "2021-06-30",
+        "2021-07-07"
       ]
     },
     {

@@ -28,6 +28,10 @@
 		"seconds": 53
 	},
 	{
+		"name": "leaf",
+		"seconds": 55
+	},
+	{
 		"name": "itsalex",
 		"seconds": 71
 	},
@@ -45,10 +49,6 @@
 	},
 	{
 		"name": "cb",
-		"seconds": null
-	},
-	{
-		"name": "leaf",
 		"seconds": null
 	}
 ]
