@@ -5,11 +5,11 @@
     {
       "person": "binaryberry",
       "leaderboard": "2021-07-07",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 40,
+      "totalSeconds": 160,
+      "position": 8,
+      "isPending": false
     },
     {
       "person": "binaryberry",
@@ -169,12 +169,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 3,
-    "seconds": 39,
-    "totalSeconds": 219,
+    "seconds": 33,
+    "totalSeconds": 213,
     "position": null,
     "isPending": false
   },
-  "awardCount": 11,
+  "awardCount": 12,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -226,7 +226,8 @@
       "text": "Play for three days in a row",
       "dates": [
         "2021-06-23",
-        "2021-07-02"
+        "2021-07-02",
+        "2021-07-07"
       ]
     }
   ]
