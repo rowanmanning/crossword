@@ -183,7 +183,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 37,
+  "awardCount": 38,
   "awards": [
     {
       "title": "Gold",
@@ -303,6 +303,14 @@
       "text": "Play for a full week without breaks",
       "dates": [
         "2021-07-01"
+      ]
+    },
+    {
+      "title": "Twinning",
+      "type": "twinning",
+      "text": "Get the same time as another person",
+      "dates": [
+        "2021-07-08"
       ]
     },
     {
