@@ -6,10 +6,11 @@
   "unlocks": [
     {
       "person": "j-sheps",
-      "count": 2,
+      "count": 3,
       "dates": [
         "2021-06-23",
-        "2021-06-29"
+        "2021-06-29",
+        "2021-07-08"
       ]
     },
     {
@@ -41,5 +42,5 @@
       ]
     }
   ],
-  "totalUnlocks": 6
+  "totalUnlocks": 7
 }
