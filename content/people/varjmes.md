@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "varjmes",
+      "leaderboard": "2021-07-08",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "varjmes",
       "leaderboard": "2021-07-07",
       "minutes": 0,
       "seconds": 38,
@@ -174,7 +183,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 43,
+  "awardCount": 44,
   "awards": [
     {
       "title": "Gold",
@@ -182,6 +191,14 @@
       "text": "Get the fastest time for a day",
       "dates": [
         "2021-06-23"
+      ]
+    },
+    {
+      "title": "Silver",
+      "type": "silver",
+      "text": "Get the second fastest time for a day",
+      "dates": [
+        "2021-07-07"
       ]
     },
     {
