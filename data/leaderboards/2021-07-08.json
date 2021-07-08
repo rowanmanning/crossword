@@ -4,6 +4,10 @@
 		"seconds": 26
 	},
 	{
+		"name": "Oliver Turner",
+		"seconds": 34
+	},
+	{
 		"name": "varjmes",
 		"seconds": 38
 	},
@@ -24,6 +28,10 @@
 		"seconds": 57
 	},
 	{
+		"name": "binaryberry",
+		"seconds": 69
+	},
+	{
 		"name": "itsalex",
 		"seconds": 87
 	},
@@ -40,15 +48,7 @@
 		"seconds": null
 	},
 	{
-		"name": "binaryberry",
-		"seconds": null
-	},
-	{
 		"name": "cb",
-		"seconds": null
-	},
-	{
-		"name": "Oliver Turner",
 		"seconds": null
 	}
 ]

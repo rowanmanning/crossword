@@ -5,11 +5,11 @@
     {
       "person": "binaryberry",
       "leaderboard": "2021-07-08",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 9,
+      "totalSeconds": 69,
+      "position": 8,
+      "isPending": false
     },
     {
       "person": "binaryberry",
@@ -167,10 +167,10 @@
   ],
   "best": {
     "person": "binaryberry",
-    "leaderboard": "2021-06-22",
+    "leaderboard": "2021-07-08",
     "minutes": 1,
-    "seconds": 29,
-    "totalSeconds": 89,
+    "seconds": 9,
+    "totalSeconds": 69,
     "position": 8,
     "isPending": false
   },
@@ -178,12 +178,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 3,
-    "seconds": 33,
-    "totalSeconds": 213,
+    "seconds": 20,
+    "totalSeconds": 200,
     "position": null,
     "isPending": false
   },
-  "awardCount": 12,
+  "awardCount": 15,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -199,7 +199,8 @@
       "text": "Half your completion time from one day to the next",
       "dates": [
         "2021-07-02",
-        "2021-07-06"
+        "2021-07-06",
+        "2021-07-08"
       ]
     },
     {
@@ -216,7 +217,8 @@
       "type": "sub-120",
       "text": "Complete a puzzle in less than two minutes",
       "dates": [
-        "2021-06-22"
+        "2021-06-22",
+        "2021-07-08"
       ]
     },
     {
@@ -237,6 +239,14 @@
         "2021-06-23",
         "2021-07-02",
         "2021-07-07"
+      ]
+    },
+    {
+      "title": "Nice",
+      "type": "nice",
+      "text": "Nice…",
+      "dates": [
+        "2021-07-08"
       ]
     }
   ]

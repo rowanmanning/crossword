@@ -5,11 +5,11 @@
     {
       "person": "Oliver Turner",
       "leaderboard": "2021-07-08",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 34,
+      "totalSeconds": 34,
+      "position": 2,
+      "isPending": false
     },
     {
       "person": "Oliver Turner",
@@ -151,12 +151,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 55,
-    "totalSeconds": 55,
+    "seconds": 54,
+    "totalSeconds": 54,
     "position": null,
     "isPending": false
   },
-  "awardCount": 50,
+  "awardCount": 54,
   "awards": [
     {
       "title": "Gold",
@@ -249,7 +249,8 @@
         "2021-07-04",
         "2021-07-05",
         "2021-07-06",
-        "2021-07-07"
+        "2021-07-07",
+        "2021-07-08"
       ]
     },
     {
@@ -266,7 +267,8 @@
         "2021-07-02",
         "2021-07-04",
         "2021-07-06",
-        "2021-07-07"
+        "2021-07-07",
+        "2021-07-08"
       ]
     },
     {
@@ -276,7 +278,8 @@
       "dates": [
         "2021-06-29",
         "2021-07-06",
-        "2021-07-07"
+        "2021-07-07",
+        "2021-07-08"
       ]
     },
     {
@@ -301,7 +304,8 @@
       "type": "week-streak",
       "text": "Play for a full week without breaks",
       "dates": [
-        "2021-06-30"
+        "2021-06-30",
+        "2021-07-08"
       ]
     },
     {

@@ -3,6 +3,14 @@
   "id": "nice",
   "text": "Nice…",
   "order": "321",
-  "unlocks": [],
-  "totalUnlocks": 0
+  "unlocks": [
+    {
+      "person": "binaryberry",
+      "count": 1,
+      "dates": [
+        "2021-07-08"
+      ]
+    }
+  ],
+  "totalUnlocks": 1
 }
