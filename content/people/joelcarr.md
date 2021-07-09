@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "joelcarr",
+      "leaderboard": "2021-07-09",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "joelcarr",
       "leaderboard": "2021-07-08",
       "minutes": 2,
       "seconds": 1,
@@ -183,7 +192,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 21,
+  "awardCount": 22,
   "awards": [
     {
       "title": "Bronze",
@@ -199,7 +208,8 @@
       "text": "Get the same position two days in a row",
       "dates": [
         "2021-06-24",
-        "2021-06-29"
+        "2021-06-29",
+        "2021-07-08"
       ]
     },
     {

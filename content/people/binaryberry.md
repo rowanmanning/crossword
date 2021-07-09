@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "binaryberry",
+      "leaderboard": "2021-07-09",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "binaryberry",
       "leaderboard": "2021-07-08",
       "minutes": 1,
       "seconds": 9,
@@ -183,7 +192,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 15,
+  "awardCount": 16,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -245,6 +254,14 @@
       "title": "Nice",
       "type": "nice",
       "text": "Nice…",
+      "dates": [
+        "2021-07-08"
+      ]
+    },
+    {
+      "title": "999",
+      "type": "emergency",
+      "text": "What's your emergency?",
       "dates": [
         "2021-07-08"
       ]

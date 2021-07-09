@@ -17,7 +17,14 @@
       "dates": [
         "2021-07-06"
       ]
+    },
+    {
+      "person": "binaryberry",
+      "count": 1,
+      "dates": [
+        "2021-07-08"
+      ]
     }
   ],
-  "totalUnlocks": 2
+  "totalUnlocks": 3
 }

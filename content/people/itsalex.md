@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "itsalex",
+      "leaderboard": "2021-07-09",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "itsalex",
       "leaderboard": "2021-07-08",
       "minutes": 1,
       "seconds": 27,
@@ -156,7 +165,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 26,
+  "awardCount": 27,
   "awards": [
     {
       "title": "Bronze",
@@ -171,7 +180,8 @@
       "type": "consistent-2",
       "text": "Get the same position two days in a row",
       "dates": [
-        "2021-07-02"
+        "2021-07-02",
+        "2021-07-08"
       ]
     },
     {

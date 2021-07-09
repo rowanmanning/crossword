@@ -5,6 +5,15 @@
   "order": "91",
   "unlocks": [
     {
+      "person": "joelcarr",
+      "count": 3,
+      "dates": [
+        "2021-06-24",
+        "2021-06-29",
+        "2021-07-08"
+      ]
+    },
+    {
       "person": "Lily2point0",
       "count": 3,
       "dates": [
@@ -14,18 +23,19 @@
       ]
     },
     {
-      "person": "joelcarr",
+      "person": "leaf",
       "count": 2,
       "dates": [
-        "2021-06-24",
-        "2021-06-29"
+        "2021-06-22",
+        "2021-07-08"
       ]
     },
     {
-      "person": "leaf",
-      "count": 1,
+      "person": "itsalex",
+      "count": 2,
       "dates": [
-        "2021-06-22"
+        "2021-07-02",
+        "2021-07-08"
       ]
     },
     {
@@ -50,13 +60,6 @@
       ]
     },
     {
-      "person": "itsalex",
-      "count": 1,
-      "dates": [
-        "2021-07-02"
-      ]
-    },
-    {
       "person": "Ania",
       "count": 1,
       "dates": [
@@ -64,5 +67,5 @@
       ]
     }
   ],
-  "totalUnlocks": 11
+  "totalUnlocks": 14
 }
