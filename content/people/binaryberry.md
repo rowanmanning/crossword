@@ -5,11 +5,11 @@
     {
       "person": "binaryberry",
       "leaderboard": "2021-07-09",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 51,
+      "totalSeconds": 171,
+      "position": 10,
+      "isPending": false
     },
     {
       "person": "binaryberry",
@@ -187,12 +187,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 3,
-    "seconds": 20,
-    "totalSeconds": 200,
+    "seconds": 17,
+    "totalSeconds": 197,
     "position": null,
     "isPending": false
   },
-  "awardCount": 16,
+  "awardCount": 17,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -218,7 +218,8 @@
       "text": "Double your completion time from one day to the next",
       "dates": [
         "2021-06-30",
-        "2021-07-05"
+        "2021-07-05",
+        "2021-07-09"
       ]
     },
     {

@@ -1,7 +1,23 @@
 [
 	{
+		"name": "itsalex",
+		"seconds": 23
+	},
+	{
+		"name": "Oliver Turner",
+		"seconds": 48
+	},
+	{
+		"name": "Rowan M",
+		"seconds": 73
+	},
+	{
 		"name": "j-sheps",
 		"seconds": 101
+	},
+	{
+		"name": "varjmes",
+		"seconds": 103
 	},
 	{
 		"name": "apaleslimghost",
@@ -20,11 +36,11 @@
 		"seconds": 161
 	},
 	{
-		"name": "arjun137",
-		"seconds": null
+		"name": "binaryberry",
+		"seconds": 171
 	},
 	{
-		"name": "binaryberry",
+		"name": "arjun137",
 		"seconds": null
 	},
 	{
@@ -32,23 +48,7 @@
 		"seconds": null
 	},
 	{
-		"name": "itsalex",
-		"seconds": null
-	},
-	{
 		"name": "leaf",
-		"seconds": null
-	},
-	{
-		"name": "Oliver Turner",
-		"seconds": null
-	},
-	{
-		"name": "Rowan M",
-		"seconds": null
-	},
-	{
-		"name": "varjmes",
 		"seconds": null
 	}
 ]

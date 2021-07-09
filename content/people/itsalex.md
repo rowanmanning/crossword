@@ -5,11 +5,11 @@
     {
       "person": "itsalex",
       "leaderboard": "2021-07-09",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 23,
+      "totalSeconds": 23,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "itsalex",
@@ -149,23 +149,23 @@
   ],
   "best": {
     "person": "itsalex",
-    "leaderboard": "2021-06-29",
+    "leaderboard": "2021-07-09",
     "minutes": 0,
-    "seconds": 31,
-    "totalSeconds": 31,
-    "position": 3,
+    "seconds": 23,
+    "totalSeconds": 23,
+    "position": 1,
     "isPending": false
   },
   "mean": {
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 37,
-    "totalSeconds": 97,
+    "seconds": 32,
+    "totalSeconds": 92,
     "position": null,
     "isPending": false
   },
-  "awardCount": 27,
+  "awardCount": 32,
   "awards": [
     {
       "title": "Bronze",
@@ -191,7 +191,8 @@
       "dates": [
         "2021-06-28",
         "2021-06-29",
-        "2021-07-04"
+        "2021-07-04",
+        "2021-07-09"
       ]
     },
     {
@@ -217,7 +218,8 @@
         "2021-07-05",
         "2021-07-06",
         "2021-07-07",
-        "2021-07-08"
+        "2021-07-08",
+        "2021-07-09"
       ]
     },
     {
@@ -226,7 +228,8 @@
       "text": "Complete a puzzle in less than a minute",
       "dates": [
         "2021-06-24",
-        "2021-06-29"
+        "2021-06-29",
+        "2021-07-09"
       ]
     },
     {
@@ -234,7 +237,16 @@
       "type": "sub-45",
       "text": "Complete a puzzle in less than 45 seconds",
       "dates": [
-        "2021-06-29"
+        "2021-06-29",
+        "2021-07-09"
+      ]
+    },
+    {
+      "title": "Sub 30 Seconds",
+      "type": "sub-30",
+      "text": "Complete a puzzle in less than 30 seconds",
+      "dates": [
+        "2021-07-09"
       ]
     },
     {
