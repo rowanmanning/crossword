@@ -5,11 +5,11 @@
     {
       "person": "apaleslimghost",
       "leaderboard": "2021-07-09",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 51,
+      "totalSeconds": 111,
+      "position": 2,
+      "isPending": false
     },
     {
       "person": "apaleslimghost",
@@ -178,12 +178,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 20,
-    "totalSeconds": 80,
+    "seconds": 23,
+    "totalSeconds": 83,
     "position": null,
     "isPending": false
   },
-  "awardCount": 30,
+  "awardCount": 33,
   "awards": [
     {
       "title": "Gold",
@@ -238,7 +238,8 @@
       "type": "double-time",
       "text": "Double your completion time from one day to the next",
       "dates": [
-        "2021-07-01"
+        "2021-07-01",
+        "2021-07-09"
       ]
     },
     {
@@ -256,7 +257,8 @@
         "2021-07-01",
         "2021-07-05",
         "2021-07-07",
-        "2021-07-08"
+        "2021-07-08",
+        "2021-07-09"
       ]
     },
     {
@@ -285,7 +287,8 @@
       "type": "three-day-streak",
       "text": "Play for three days in a row",
       "dates": [
-        "2021-06-24"
+        "2021-06-24",
+        "2021-07-09"
       ]
     },
     {

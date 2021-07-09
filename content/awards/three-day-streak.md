@@ -39,6 +39,14 @@
       ]
     },
     {
+      "person": "apaleslimghost",
+      "count": 2,
+      "dates": [
+        "2021-06-24",
+        "2021-07-09"
+      ]
+    },
+    {
       "person": "Oliver Turner",
       "count": 2,
       "dates": [
@@ -75,13 +83,6 @@
       ]
     },
     {
-      "person": "apaleslimghost",
-      "count": 1,
-      "dates": [
-        "2021-06-24"
-      ]
-    },
-    {
       "person": "arjun137",
       "count": 1,
       "dates": [
@@ -103,5 +104,5 @@
       ]
     }
   ],
-  "totalUnlocks": 20
+  "totalUnlocks": 21
 }

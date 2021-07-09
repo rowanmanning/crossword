@@ -26,6 +26,15 @@
       ]
     },
     {
+      "person": "j-sheps",
+      "count": 3,
+      "dates": [
+        "2021-06-25",
+        "2021-07-02",
+        "2021-07-09"
+      ]
+    },
+    {
       "person": "Lily2point0",
       "count": 3,
       "dates": [
@@ -45,14 +54,6 @@
     },
     {
       "person": "arjun137",
-      "count": 2,
-      "dates": [
-        "2021-06-25",
-        "2021-07-02"
-      ]
-    },
-    {
-      "person": "j-sheps",
       "count": 2,
       "dates": [
         "2021-06-25",
@@ -92,17 +93,18 @@
       ]
     },
     {
+      "person": "apaleslimghost",
+      "count": 2,
+      "dates": [
+        "2021-07-01",
+        "2021-07-09"
+      ]
+    },
+    {
       "person": "Rowan M",
       "count": 1,
       "dates": [
         "2021-06-26"
-      ]
-    },
-    {
-      "person": "apaleslimghost",
-      "count": 1,
-      "dates": [
-        "2021-07-01"
       ]
     },
     {
@@ -113,5 +115,5 @@
       ]
     }
   ],
-  "totalUnlocks": 30
+  "totalUnlocks": 32
 }

@@ -5,11 +5,11 @@
     {
       "person": "j-sheps",
       "leaderboard": "2021-07-09",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 41,
+      "totalSeconds": 101,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "j-sheps",
@@ -187,12 +187,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 1,
-    "totalSeconds": 61,
+    "seconds": 3,
+    "totalSeconds": 63,
     "position": null,
     "isPending": false
   },
-  "awardCount": 59,
+  "awardCount": 61,
   "awards": [
     {
       "title": "Gold",
@@ -256,7 +256,8 @@
       "text": "Double your completion time from one day to the next",
       "dates": [
         "2021-06-25",
-        "2021-07-02"
+        "2021-07-02",
+        "2021-07-09"
       ]
     },
     {
@@ -281,7 +282,8 @@
         "2021-07-05",
         "2021-07-06",
         "2021-07-07",
-        "2021-07-08"
+        "2021-07-08",
+        "2021-07-09"
       ]
     },
     {
