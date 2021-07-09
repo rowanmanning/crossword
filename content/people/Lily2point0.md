@@ -5,11 +5,11 @@
     {
       "person": "Lily2point0",
       "leaderboard": "2021-07-09",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 29,
+      "totalSeconds": 149,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "Lily2point0",
@@ -187,12 +187,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 34,
-    "totalSeconds": 94,
+    "seconds": 37,
+    "totalSeconds": 97,
     "position": null,
     "isPending": false
   },
-  "awardCount": 36,
+  "awardCount": 37,
   "awards": [
     {
       "title": "Silver",
@@ -253,7 +253,8 @@
       "text": "Double your completion time from one day to the next",
       "dates": [
         "2021-06-26",
-        "2021-06-30"
+        "2021-06-30",
+        "2021-07-09"
       ]
     },
     {
