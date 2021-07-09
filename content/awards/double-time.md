@@ -104,19 +104,20 @@
       ]
     },
     {
+      "person": "leaf",
+      "count": 2,
+      "dates": [
+        "2021-07-02",
+        "2021-07-09"
+      ]
+    },
+    {
       "person": "Rowan M",
       "count": 1,
       "dates": [
         "2021-06-26"
       ]
-    },
-    {
-      "person": "leaf",
-      "count": 1,
-      "dates": [
-        "2021-07-02"
-      ]
     }
   ],
-  "totalUnlocks": 35
+  "totalUnlocks": 36
 }
