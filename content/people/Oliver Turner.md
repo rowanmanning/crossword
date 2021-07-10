@@ -5,11 +5,11 @@
     {
       "person": "Oliver Turner",
       "leaderboard": "2021-07-10",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 32,
+      "totalSeconds": 152,
+      "position": 5,
+      "isPending": false
     },
     {
       "person": "Oliver Turner",
@@ -168,13 +168,13 @@
   "mean": {
     "person": null,
     "leaderboard": null,
-    "minutes": 0,
-    "seconds": 54,
-    "totalSeconds": 54,
+    "minutes": 1,
+    "seconds": 0,
+    "totalSeconds": 60,
     "position": null,
     "isPending": false
   },
-  "awardCount": 59,
+  "awardCount": 60,
   "awards": [
     {
       "title": "Gold",
@@ -250,7 +250,8 @@
       "text": "Double your completion time from one day to the next",
       "dates": [
         "2021-06-26",
-        "2021-06-30"
+        "2021-06-30",
+        "2021-07-10"
       ]
     },
     {
