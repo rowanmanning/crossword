@@ -5,11 +5,11 @@
     {
       "person": "apaleslimghost",
       "leaderboard": "2021-07-10",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 14,
+      "totalSeconds": 134,
+      "position": 4,
+      "isPending": false
     },
     {
       "person": "apaleslimghost",
@@ -187,8 +187,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 23,
-    "totalSeconds": 83,
+    "seconds": 26,
+    "totalSeconds": 86,
     "position": null,
     "isPending": false
   },
