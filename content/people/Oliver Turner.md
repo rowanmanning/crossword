@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "Oliver Turner",
+      "leaderboard": "2021-07-10",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "Oliver Turner",
       "leaderboard": "2021-07-09",
       "minutes": 0,
       "seconds": 48,
@@ -165,7 +174,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 57,
+  "awardCount": 59,
   "awards": [
     {
       "title": "Gold",
@@ -197,7 +206,8 @@
         "2021-06-30",
         "2021-07-02",
         "2021-07-06",
-        "2021-07-08"
+        "2021-07-08",
+        "2021-07-09"
       ]
     },
     {
@@ -205,7 +215,8 @@
       "type": "double-silver",
       "text": "Get the second fastest time two days in a row",
       "dates": [
-        "2021-06-28"
+        "2021-06-28",
+        "2021-07-09"
       ]
     },
     {

@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "cb",
+      "leaderboard": "2021-07-10",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "cb",
       "leaderboard": "2021-07-09",
       "minutes": 1,
       "seconds": 39,
@@ -120,7 +129,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 38,
+  "awardCount": 39,
   "awards": [
     {
       "title": "Gold",
@@ -147,6 +156,14 @@
       "text": "Get the second fastest time two days in a row",
       "dates": [
         "2021-07-05"
+      ]
+    },
+    {
+      "title": "Consistent Position ×2",
+      "type": "consistent-2",
+      "text": "Get the same position two days in a row",
+      "dates": [
+        "2021-07-09"
       ]
     },
     {

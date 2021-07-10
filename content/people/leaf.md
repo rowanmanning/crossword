@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "leaf",
+      "leaderboard": "2021-07-10",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "leaf",
       "leaderboard": "2021-07-09",
       "minutes": 2,
       "seconds": 6,
@@ -192,7 +201,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 28,
+  "awardCount": 29,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -208,7 +217,8 @@
       "type": "consistent-3",
       "text": "Get the same position three days in a row",
       "dates": [
-        "2021-06-23"
+        "2021-06-23",
+        "2021-07-09"
       ]
     },
     {

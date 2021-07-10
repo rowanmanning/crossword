@@ -6,9 +6,10 @@
   "unlocks": [
     {
       "person": "leaf",
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2021-06-23"
+        "2021-06-23",
+        "2021-07-09"
       ]
     },
     {
@@ -24,7 +25,14 @@
       "dates": [
         "2021-06-28"
       ]
+    },
+    {
+      "person": "joelcarr",
+      "count": 1,
+      "dates": [
+        "2021-07-09"
+      ]
     }
   ],
-  "totalUnlocks": 3
+  "totalUnlocks": 5
 }

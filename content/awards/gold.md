@@ -63,7 +63,14 @@
       "dates": [
         "2021-07-05"
       ]
+    },
+    {
+      "person": "itsalex",
+      "count": 1,
+      "dates": [
+        "2021-07-09"
+      ]
     }
   ],
-  "totalUnlocks": 18
+  "totalUnlocks": 19
 }

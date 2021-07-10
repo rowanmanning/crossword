@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "joelcarr",
+      "leaderboard": "2021-07-10",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "joelcarr",
       "leaderboard": "2021-07-09",
       "minutes": 2,
       "seconds": 41,
@@ -192,7 +201,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 22,
+  "awardCount": 23,
   "awards": [
     {
       "title": "Bronze",
@@ -210,6 +219,14 @@
         "2021-06-24",
         "2021-06-29",
         "2021-07-08"
+      ]
+    },
+    {
+      "title": "Consistent Position ×3",
+      "type": "consistent-3",
+      "text": "Get the same position three days in a row",
+      "dates": [
+        "2021-07-09"
       ]
     },
     {
