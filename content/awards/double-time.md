@@ -57,6 +57,15 @@
       ]
     },
     {
+      "person": "itsalex",
+      "count": 3,
+      "dates": [
+        "2021-06-27",
+        "2021-06-30",
+        "2021-07-10"
+      ]
+    },
+    {
       "person": "binaryberry",
       "count": 3,
       "dates": [
@@ -78,14 +87,6 @@
       "count": 2,
       "dates": [
         "2021-06-26",
-        "2021-06-30"
-      ]
-    },
-    {
-      "person": "itsalex",
-      "count": 2,
-      "dates": [
-        "2021-06-27",
         "2021-06-30"
       ]
     },
@@ -121,5 +122,5 @@
       ]
     }
   ],
-  "totalUnlocks": 38
+  "totalUnlocks": 39
 }

@@ -5,11 +5,11 @@
     {
       "person": "itsalex",
       "leaderboard": "2021-07-10",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 19,
+      "totalSeconds": 79,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "itsalex",
@@ -169,12 +169,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 32,
-    "totalSeconds": 92,
+    "seconds": 31,
+    "totalSeconds": 91,
     "position": null,
     "isPending": false
   },
-  "awardCount": 33,
+  "awardCount": 35,
   "awards": [
     {
       "title": "Gold",
@@ -218,7 +218,8 @@
       "text": "Double your completion time from one day to the next",
       "dates": [
         "2021-06-27",
-        "2021-06-30"
+        "2021-06-30",
+        "2021-07-10"
       ]
     },
     {
@@ -236,7 +237,8 @@
         "2021-07-06",
         "2021-07-07",
         "2021-07-08",
-        "2021-07-09"
+        "2021-07-09",
+        "2021-07-10"
       ]
     },
     {
