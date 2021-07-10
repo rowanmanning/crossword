@@ -5,11 +5,11 @@
     {
       "person": "Ania",
       "leaderboard": "2021-07-10",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 39,
+      "totalSeconds": 159,
+      "position": 2,
+      "isPending": false
     },
     {
       "person": "Ania",
@@ -196,8 +196,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 5,
-    "totalSeconds": 125,
+    "seconds": 7,
+    "totalSeconds": 127,
     "position": null,
     "isPending": false
   },
