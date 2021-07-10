@@ -77,7 +77,14 @@
       "dates": [
         "2021-07-03"
       ]
+    },
+    {
+      "person": "cb",
+      "count": 1,
+      "dates": [
+        "2021-07-10"
+      ]
     }
   ],
-  "totalUnlocks": 20
+  "totalUnlocks": 21
 }

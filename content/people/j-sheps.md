@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "j-sheps",
+      "leaderboard": "2021-07-11",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "j-sheps",
       "leaderboard": "2021-07-10",
       "minutes": 1,
       "seconds": 48,
@@ -201,7 +210,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 62,
+  "awardCount": 63,
   "awards": [
     {
       "title": "Gold",
@@ -231,7 +240,8 @@
       "dates": [
         "2021-06-23",
         "2021-06-29",
-        "2021-07-06"
+        "2021-07-06",
+        "2021-07-10"
       ]
     },
     {

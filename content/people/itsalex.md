@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "itsalex",
+      "leaderboard": "2021-07-11",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "itsalex",
       "leaderboard": "2021-07-10",
       "minutes": 1,
       "seconds": 19,
@@ -174,14 +183,23 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 35,
+  "awardCount": 37,
   "awards": [
     {
       "title": "Gold",
       "type": "gold",
       "text": "Get the fastest time for a day",
       "dates": [
-        "2021-07-09"
+        "2021-07-09",
+        "2021-07-10"
+      ]
+    },
+    {
+      "title": "Double Gold",
+      "type": "double-gold",
+      "text": "Get the fastest time two days in a row",
+      "dates": [
+        "2021-07-10"
       ]
     },
     {
