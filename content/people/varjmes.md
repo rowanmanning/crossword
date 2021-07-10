@@ -5,11 +5,11 @@
     {
       "person": "varjmes",
       "leaderboard": "2021-07-11",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 6,
+      "totalSeconds": 66,
+      "position": 2,
+      "isPending": false
     },
     {
       "person": "varjmes",
@@ -205,12 +205,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 40,
-    "totalSeconds": 100,
+    "seconds": 38,
+    "totalSeconds": 98,
     "position": null,
     "isPending": false
   },
-  "awardCount": 51,
+  "awardCount": 54,
   "awards": [
     {
       "title": "Gold",
@@ -264,7 +264,16 @@
         "2021-06-27",
         "2021-06-29",
         "2021-07-02",
-        "2021-07-04"
+        "2021-07-04",
+        "2021-07-11"
+      ]
+    },
+    {
+      "title": "Quarter Time",
+      "type": "quarter-time",
+      "text": "Quarter your completion time from one day to the next",
+      "dates": [
+        "2021-07-11"
       ]
     },
     {
@@ -298,7 +307,8 @@
         "2021-07-06",
         "2021-07-07",
         "2021-07-08",
-        "2021-07-09"
+        "2021-07-09",
+        "2021-07-11"
       ]
     },
     {
