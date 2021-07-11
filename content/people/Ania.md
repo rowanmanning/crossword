@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "Ania",
+      "leaderboard": "2021-07-12",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "Ania",
       "leaderboard": "2021-07-11",
       "minutes": 0,
       "seconds": 34,
@@ -210,7 +219,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 44,
+  "awardCount": 45,
   "awards": [
     {
       "title": "Gold",
@@ -226,7 +235,8 @@
       "text": "Get the third fastest time for a day",
       "dates": [
         "2021-06-27",
-        "2021-07-05"
+        "2021-07-05",
+        "2021-07-11"
       ]
     },
     {
