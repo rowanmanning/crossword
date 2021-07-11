@@ -82,6 +82,14 @@
       ]
     },
     {
+      "person": "leaf",
+      "count": 2,
+      "dates": [
+        "2021-06-29",
+        "2021-07-11"
+      ]
+    },
+    {
       "person": "Oliver Turner",
       "count": 2,
       "dates": [
@@ -105,13 +113,6 @@
       ]
     },
     {
-      "person": "leaf",
-      "count": 1,
-      "dates": [
-        "2021-06-29"
-      ]
-    },
-    {
       "person": "cb",
       "count": 1,
       "dates": [
@@ -119,5 +120,5 @@
       ]
     }
   ],
-  "totalUnlocks": 36
+  "totalUnlocks": 37
 }
