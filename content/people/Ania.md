@@ -5,11 +5,11 @@
     {
       "person": "Ania",
       "leaderboard": "2021-07-11",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 34,
+      "totalSeconds": 34,
+      "position": 2,
+      "isPending": false
     },
     {
       "person": "Ania",
@@ -194,23 +194,23 @@
   ],
   "best": {
     "person": "Ania",
-    "leaderboard": "2021-06-22",
+    "leaderboard": "2021-07-11",
     "minutes": 0,
-    "seconds": 35,
-    "totalSeconds": 35,
-    "position": 1,
+    "seconds": 34,
+    "totalSeconds": 34,
+    "position": 2,
     "isPending": false
   },
   "mean": {
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 7,
-    "totalSeconds": 127,
+    "seconds": 2,
+    "totalSeconds": 122,
     "position": null,
     "isPending": false
   },
-  "awardCount": 39,
+  "awardCount": 44,
   "awards": [
     {
       "title": "Gold",
@@ -245,7 +245,8 @@
         "2021-06-22",
         "2021-06-27",
         "2021-06-29",
-        "2021-07-05"
+        "2021-07-05",
+        "2021-07-11"
       ]
     },
     {
@@ -253,7 +254,8 @@
       "type": "quarter-time",
       "text": "Quarter your completion time from one day to the next",
       "dates": [
-        "2021-06-27"
+        "2021-06-27",
+        "2021-07-11"
       ]
     },
     {
@@ -280,7 +282,8 @@
         "2021-07-05",
         "2021-07-06",
         "2021-07-07",
-        "2021-07-08"
+        "2021-07-08",
+        "2021-07-11"
       ]
     },
     {
@@ -294,7 +297,8 @@
         "2021-07-05",
         "2021-07-06",
         "2021-07-07",
-        "2021-07-08"
+        "2021-07-08",
+        "2021-07-11"
       ]
     },
     {
@@ -305,7 +309,8 @@
         "2021-06-22",
         "2021-07-05",
         "2021-07-06",
-        "2021-07-08"
+        "2021-07-08",
+        "2021-07-11"
       ]
     },
     {
