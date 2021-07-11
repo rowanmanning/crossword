@@ -76,6 +76,15 @@
       ]
     },
     {
+      "person": "apaleslimghost",
+      "count": 3,
+      "dates": [
+        "2021-07-05",
+        "2021-07-08",
+        "2021-07-11"
+      ]
+    },
+    {
       "person": "Lily2point0",
       "count": 2,
       "dates": [
@@ -92,14 +101,6 @@
       ]
     },
     {
-      "person": "apaleslimghost",
-      "count": 2,
-      "dates": [
-        "2021-07-05",
-        "2021-07-08"
-      ]
-    },
-    {
       "person": "arjun137",
       "count": 1,
       "dates": [
@@ -107,5 +108,5 @@
       ]
     }
   ],
-  "totalUnlocks": 42
+  "totalUnlocks": 43
 }
