@@ -5,14 +5,15 @@
   "order": "161",
   "unlocks": [
     {
-      "person": "Ania",
-      "count": 1,
+      "person": "Rowan M",
+      "count": 2,
       "dates": [
-        "2021-06-27"
+        "2021-06-27",
+        "2021-07-11"
       ]
     },
     {
-      "person": "Rowan M",
+      "person": "Ania",
       "count": 1,
       "dates": [
         "2021-06-27"
@@ -54,5 +55,5 @@
       ]
     }
   ],
-  "totalUnlocks": 7
+  "totalUnlocks": 8
 }
