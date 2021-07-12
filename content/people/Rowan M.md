@@ -5,11 +5,11 @@
     {
       "person": "Rowan M",
       "leaderboard": "2021-07-12",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 27,
+      "totalSeconds": 87,
+      "position": 3,
+      "isPending": false
     },
     {
       "person": "Rowan M",
@@ -214,12 +214,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 7,
-    "totalSeconds": 67,
+    "seconds": 8,
+    "totalSeconds": 68,
     "position": null,
     "isPending": false
   },
-  "awardCount": 73,
+  "awardCount": 75,
   "awards": [
     {
       "title": "Gold",
@@ -322,7 +322,8 @@
       "text": "Double your completion time from one day to the next",
       "dates": [
         "2021-06-26",
-        "2021-07-10"
+        "2021-07-10",
+        "2021-07-12"
       ]
     },
     {
@@ -348,7 +349,8 @@
         "2021-07-07",
         "2021-07-08",
         "2021-07-09",
-        "2021-07-11"
+        "2021-07-11",
+        "2021-07-12"
       ]
     },
     {
