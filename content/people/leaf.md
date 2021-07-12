@@ -5,11 +5,11 @@
     {
       "person": "leaf",
       "leaderboard": "2021-07-12",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 3,
+      "seconds": 3,
+      "totalSeconds": 183,
+      "position": 6,
+      "isPending": false
     },
     {
       "person": "leaf",
@@ -214,12 +214,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 50,
-    "totalSeconds": 110,
+    "seconds": 53,
+    "totalSeconds": 113,
     "position": null,
     "isPending": false
   },
-  "awardCount": 34,
+  "awardCount": 35,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -271,7 +271,8 @@
       "text": "Double your completion time from one day to the next",
       "dates": [
         "2021-07-02",
-        "2021-07-09"
+        "2021-07-09",
+        "2021-07-12"
       ]
     },
     {
