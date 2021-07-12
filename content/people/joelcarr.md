@@ -5,11 +5,11 @@
     {
       "person": "joelcarr",
       "leaderboard": "2021-07-12",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 3,
+      "seconds": 21,
+      "totalSeconds": 201,
+      "position": 5,
+      "isPending": false
     },
     {
       "person": "joelcarr",
@@ -214,8 +214,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 3,
-    "seconds": 7,
-    "totalSeconds": 187,
+    "seconds": 8,
+    "totalSeconds": 188,
     "position": null,
     "isPending": false
   },
