@@ -5,11 +5,11 @@
     {
       "person": "cb",
       "leaderboard": "2021-07-12",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 47,
+      "totalSeconds": 47,
+      "position": 2,
+      "isPending": false
     },
     {
       "person": "cb",
@@ -142,12 +142,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 6,
-    "totalSeconds": 66,
+    "seconds": 4,
+    "totalSeconds": 64,
     "position": null,
     "isPending": false
   },
-  "awardCount": 41,
+  "awardCount": 44,
   "awards": [
     {
       "title": "Gold",
@@ -197,7 +197,8 @@
       "type": "half-time",
       "text": "Half your completion time from one day to the next",
       "dates": [
-        "2021-07-04"
+        "2021-07-04",
+        "2021-07-12"
       ]
     },
     {
@@ -227,7 +228,8 @@
         "2021-07-07",
         "2021-07-08",
         "2021-07-09",
-        "2021-07-10"
+        "2021-07-10",
+        "2021-07-12"
       ]
     },
     {
@@ -241,7 +243,8 @@
         "2021-07-05",
         "2021-07-06",
         "2021-07-07",
-        "2021-07-08"
+        "2021-07-08",
+        "2021-07-12"
       ]
     },
     {
