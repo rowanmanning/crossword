@@ -5,11 +5,11 @@
     {
       "person": "Rowan M",
       "leaderboard": "2021-07-13",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 37,
+      "totalSeconds": 97,
+      "position": 4,
+      "isPending": false
     },
     {
       "person": "Rowan M",
@@ -223,12 +223,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 8,
-    "totalSeconds": 68,
+    "seconds": 10,
+    "totalSeconds": 70,
     "position": null,
     "isPending": false
   },
-  "awardCount": 75,
+  "awardCount": 77,
   "awards": [
     {
       "title": "Gold",
@@ -359,7 +359,8 @@
         "2021-07-08",
         "2021-07-09",
         "2021-07-11",
-        "2021-07-12"
+        "2021-07-12",
+        "2021-07-13"
       ]
     },
     {
@@ -429,6 +430,14 @@
       "text": "Get the same time as another person",
       "dates": [
         "2021-06-29"
+      ]
+    },
+    {
+      "title": "Arjun",
+      "type": "arjun",
+      "text": "Join us",
+      "dates": [
+        "2021-07-13"
       ]
     }
   ]
