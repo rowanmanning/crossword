@@ -5,11 +5,11 @@
     {
       "person": "Lily2point0",
       "leaderboard": "2021-07-13",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 47,
+      "totalSeconds": 47,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "Lily2point0",
@@ -223,12 +223,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 39,
-    "totalSeconds": 99,
+    "seconds": 36,
+    "totalSeconds": 96,
     "position": null,
     "isPending": false
   },
-  "awardCount": 42,
+  "awardCount": 45,
   "awards": [
     {
       "title": "Silver",
@@ -281,7 +281,8 @@
         "2021-06-27",
         "2021-06-29",
         "2021-07-05",
-        "2021-07-11"
+        "2021-07-11",
+        "2021-07-13"
       ]
     },
     {
@@ -313,7 +314,8 @@
         "2021-07-06",
         "2021-07-07",
         "2021-07-08",
-        "2021-07-11"
+        "2021-07-11",
+        "2021-07-13"
       ]
     },
     {
@@ -327,7 +329,8 @@
         "2021-07-06",
         "2021-07-07",
         "2021-07-08",
-        "2021-07-11"
+        "2021-07-11",
+        "2021-07-13"
       ]
     },
     {
