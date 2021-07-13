@@ -5,11 +5,11 @@
     {
       "person": "cb",
       "leaderboard": "2021-07-13",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 0,
+      "totalSeconds": 60,
+      "position": 6,
+      "isPending": false
     },
     {
       "person": "cb",
@@ -156,7 +156,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 45,
+  "awardCount": 46,
   "awards": [
     {
       "title": "Gold",
@@ -239,7 +239,8 @@
         "2021-07-08",
         "2021-07-09",
         "2021-07-10",
-        "2021-07-12"
+        "2021-07-12",
+        "2021-07-13"
       ]
     },
     {
