@@ -5,11 +5,11 @@
     {
       "person": "j-sheps",
       "leaderboard": "2021-07-13",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 30,
+      "totalSeconds": 30,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "j-sheps",
@@ -223,12 +223,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 7,
-    "totalSeconds": 67,
+    "seconds": 5,
+    "totalSeconds": 65,
     "position": null,
     "isPending": false
   },
-  "awardCount": 66,
+  "awardCount": 70,
   "awards": [
     {
       "title": "Gold",
@@ -277,7 +277,8 @@
       "text": "Half your completion time from one day to the next",
       "dates": [
         "2021-06-29",
-        "2021-07-06"
+        "2021-07-06",
+        "2021-07-13"
       ]
     },
     {
@@ -324,7 +325,8 @@
         "2021-07-09",
         "2021-07-10",
         "2021-07-11",
-        "2021-07-12"
+        "2021-07-12",
+        "2021-07-13"
       ]
     },
     {
@@ -341,7 +343,8 @@
         "2021-07-01",
         "2021-07-06",
         "2021-07-07",
-        "2021-07-08"
+        "2021-07-08",
+        "2021-07-13"
       ]
     },
     {
@@ -356,7 +359,8 @@
         "2021-07-01",
         "2021-07-06",
         "2021-07-07",
-        "2021-07-08"
+        "2021-07-08",
+        "2021-07-13"
       ]
     },
     {
