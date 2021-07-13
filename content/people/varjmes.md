@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "varjmes",
+      "leaderboard": "2021-07-13",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "varjmes",
       "leaderboard": "2021-07-12",
       "minutes": 2,
       "seconds": 40,
@@ -219,7 +228,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 55,
+  "awardCount": 56,
   "awards": [
     {
       "title": "Gold",
@@ -385,7 +394,8 @@
       "type": "beast",
       "text": "His number is six hundred and sixty-six",
       "dates": [
-        "2021-06-27"
+        "2021-06-27",
+        "2021-07-12"
       ]
     }
   ]
