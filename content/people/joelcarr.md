@@ -5,11 +5,11 @@
     {
       "person": "joelcarr",
       "leaderboard": "2021-07-13",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 14,
+      "totalSeconds": 74,
+      "position": 3,
+      "isPending": false
     },
     {
       "person": "joelcarr",
@@ -212,23 +212,23 @@
   ],
   "best": {
     "person": "joelcarr",
-    "leaderboard": "2021-06-22",
+    "leaderboard": "2021-07-13",
     "minutes": 1,
     "seconds": 14,
     "totalSeconds": 74,
-    "position": 6,
+    "position": 3,
     "isPending": false
   },
   "mean": {
     "person": null,
     "leaderboard": null,
     "minutes": 3,
-    "seconds": 8,
-    "totalSeconds": 188,
+    "seconds": 1,
+    "totalSeconds": 181,
     "position": null,
     "isPending": false
   },
-  "awardCount": 23,
+  "awardCount": 25,
   "awards": [
     {
       "title": "Bronze",
@@ -262,7 +262,8 @@
       "text": "Half your completion time from one day to the next",
       "dates": [
         "2021-06-29",
-        "2021-07-05"
+        "2021-07-05",
+        "2021-07-13"
       ]
     },
     {
@@ -291,7 +292,8 @@
         "2021-06-22",
         "2021-06-29",
         "2021-07-05",
-        "2021-07-07"
+        "2021-07-07",
+        "2021-07-13"
       ]
     },
     {
