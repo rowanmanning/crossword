@@ -29,6 +29,14 @@
       ]
     },
     {
+      "person": "varjmes",
+      "count": 2,
+      "dates": [
+        "2021-07-11",
+        "2021-07-13"
+      ]
+    },
+    {
       "person": "j-sheps",
       "count": 1,
       "dates": [
@@ -50,13 +58,6 @@
       ]
     },
     {
-      "person": "varjmes",
-      "count": 1,
-      "dates": [
-        "2021-07-11"
-      ]
-    },
-    {
       "person": "arjun137",
       "count": 1,
       "dates": [
@@ -64,5 +65,5 @@
       ]
     }
   ],
-  "totalUnlocks": 11
+  "totalUnlocks": 12
 }
