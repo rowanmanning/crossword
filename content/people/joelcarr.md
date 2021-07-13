@@ -228,7 +228,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 25,
+  "awardCount": 26,
   "awards": [
     {
       "title": "Bronze",
@@ -314,6 +314,14 @@
         "2021-06-23",
         "2021-06-30",
         "2021-07-07"
+      ]
+    },
+    {
+      "title": "Twinning",
+      "type": "twinning",
+      "text": "Get the same time as another person",
+      "dates": [
+        "2021-07-13"
       ]
     },
     {

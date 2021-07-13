@@ -5,11 +5,11 @@
     {
       "person": "leaf",
       "leaderboard": "2021-07-13",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 14,
+      "totalSeconds": 74,
+      "position": 5,
+      "isPending": false
     },
     {
       "person": "leaf",
@@ -223,12 +223,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 53,
-    "totalSeconds": 113,
+    "seconds": 52,
+    "totalSeconds": 112,
     "position": null,
     "isPending": false
   },
-  "awardCount": 35,
+  "awardCount": 38,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -263,7 +263,8 @@
       "text": "Half your completion time from one day to the next",
       "dates": [
         "2021-06-29",
-        "2021-07-11"
+        "2021-07-11",
+        "2021-07-13"
       ]
     },
     {
@@ -300,7 +301,8 @@
         "2021-07-06",
         "2021-07-07",
         "2021-07-08",
-        "2021-07-11"
+        "2021-07-11",
+        "2021-07-13"
       ]
     },
     {
@@ -339,7 +341,8 @@
       "text": "Get the same time as another person",
       "dates": [
         "2021-07-06",
-        "2021-07-10"
+        "2021-07-10",
+        "2021-07-13"
       ]
     }
   ]
