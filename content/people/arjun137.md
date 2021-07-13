@@ -5,11 +5,11 @@
     {
       "person": "arjun137",
       "leaderboard": "2021-07-13",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 42,
+      "totalSeconds": 42,
+      "position": 2,
+      "isPending": false
     },
     {
       "person": "arjun137",
@@ -205,19 +205,28 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 47,
-    "totalSeconds": 107,
+    "seconds": 38,
+    "totalSeconds": 98,
     "position": null,
     "isPending": false
   },
-  "awardCount": 11,
+  "awardCount": 16,
   "awards": [
     {
       "title": "Half Time",
       "type": "half-time",
       "text": "Half your completion time from one day to the next",
       "dates": [
-        "2021-06-28"
+        "2021-06-28",
+        "2021-07-13"
+      ]
+    },
+    {
+      "title": "Quarter Time",
+      "type": "quarter-time",
+      "text": "Quarter your completion time from one day to the next",
+      "dates": [
+        "2021-07-13"
       ]
     },
     {
@@ -237,7 +246,8 @@
         "2021-06-23",
         "2021-06-24",
         "2021-06-28",
-        "2021-06-29"
+        "2021-06-29",
+        "2021-07-13"
       ]
     },
     {
@@ -246,7 +256,8 @@
       "text": "Complete a puzzle in less than a minute",
       "dates": [
         "2021-06-23",
-        "2021-06-29"
+        "2021-06-29",
+        "2021-07-13"
       ]
     },
     {
@@ -254,7 +265,8 @@
       "type": "sub-45",
       "text": "Complete a puzzle in less than 45 seconds",
       "dates": [
-        "2021-06-23"
+        "2021-06-23",
+        "2021-07-13"
       ]
     },
     {
