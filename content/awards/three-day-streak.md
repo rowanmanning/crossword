@@ -57,6 +57,14 @@
       ]
     },
     {
+      "person": "cb",
+      "count": 2,
+      "dates": [
+        "2021-07-01",
+        "2021-07-14"
+      ]
+    },
+    {
       "person": "j-sheps",
       "count": 1,
       "dates": [
@@ -97,14 +105,7 @@
       "dates": [
         "2021-06-29"
       ]
-    },
-    {
-      "person": "cb",
-      "count": 1,
-      "dates": [
-        "2021-07-01"
-      ]
     }
   ],
-  "totalUnlocks": 23
+  "totalUnlocks": 24
 }
