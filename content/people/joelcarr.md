@@ -5,11 +5,11 @@
     {
       "person": "joelcarr",
       "leaderboard": "2021-07-14",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 4,
+      "seconds": 8,
+      "totalSeconds": 248,
+      "position": 7,
+      "isPending": false
     },
     {
       "person": "joelcarr",
@@ -232,12 +232,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 3,
-    "seconds": 1,
-    "totalSeconds": 181,
+    "seconds": 5,
+    "totalSeconds": 185,
     "position": null,
     "isPending": false
   },
-  "awardCount": 26,
+  "awardCount": 28,
   "awards": [
     {
       "title": "Bronze",
@@ -289,7 +289,8 @@
       "text": "Double your completion time from one day to the next",
       "dates": [
         "2021-06-30",
-        "2021-07-02"
+        "2021-07-02",
+        "2021-07-14"
       ]
     },
     {
@@ -322,7 +323,8 @@
       "dates": [
         "2021-06-23",
         "2021-06-30",
-        "2021-07-07"
+        "2021-07-07",
+        "2021-07-14"
       ]
     },
     {
