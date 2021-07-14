@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "Ania",
+      "leaderboard": "2021-07-14",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "Ania",
       "leaderboard": "2021-07-13",
       "minutes": 0,
       "seconds": 56,
@@ -228,7 +237,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 49,
+  "awardCount": 50,
   "awards": [
     {
       "title": "Gold",
@@ -367,6 +376,14 @@
       "text": "Get the same time as another person",
       "dates": [
         "2021-07-08"
+      ]
+    },
+    {
+      "title": "The Number of The Beast",
+      "type": "beast",
+      "text": "His number is six hundred and sixty-six",
+      "dates": [
+        "2021-07-13"
       ]
     },
     {
