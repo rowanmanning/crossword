@@ -5,11 +5,11 @@
     {
       "person": "apaleslimghost",
       "leaderboard": "2021-07-15",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 37,
+      "totalSeconds": 97,
+      "position": 3,
+      "isPending": false
     },
     {
       "person": "apaleslimghost",
@@ -232,12 +232,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 18,
-    "totalSeconds": 78,
+    "seconds": 19,
+    "totalSeconds": 79,
     "position": null,
     "isPending": false
   },
-  "awardCount": 47,
+  "awardCount": 50,
   "awards": [
     {
       "title": "Gold",
@@ -328,7 +328,8 @@
         "2021-07-09",
         "2021-07-11",
         "2021-07-13",
-        "2021-07-14"
+        "2021-07-14",
+        "2021-07-15"
       ]
     },
     {
@@ -370,7 +371,8 @@
       "text": "Play for three days in a row",
       "dates": [
         "2021-06-24",
-        "2021-07-09"
+        "2021-07-09",
+        "2021-07-15"
       ]
     },
     {
@@ -389,6 +391,14 @@
         "2021-06-22",
         "2021-06-25",
         "2021-07-03"
+      ]
+    },
+    {
+      "title": "Arjun",
+      "type": "arjun",
+      "text": "Join us",
+      "dates": [
+        "2021-07-15"
       ]
     }
   ]

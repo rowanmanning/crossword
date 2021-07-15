@@ -25,6 +25,15 @@
       ]
     },
     {
+      "person": "apaleslimghost",
+      "count": 3,
+      "dates": [
+        "2021-06-24",
+        "2021-07-09",
+        "2021-07-15"
+      ]
+    },
+    {
       "person": "Ania",
       "count": 2,
       "dates": [
@@ -38,14 +47,6 @@
       "dates": [
         "2021-06-23",
         "2021-07-04"
-      ]
-    },
-    {
-      "person": "apaleslimghost",
-      "count": 2,
-      "dates": [
-        "2021-06-24",
-        "2021-07-09"
       ]
     },
     {
@@ -107,5 +108,5 @@
       ]
     }
   ],
-  "totalUnlocks": 24
+  "totalUnlocks": 25
 }

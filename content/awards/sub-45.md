@@ -68,6 +68,16 @@
       ]
     },
     {
+      "person": "itsalex",
+      "count": 4,
+      "dates": [
+        "2021-06-29",
+        "2021-07-09",
+        "2021-07-12",
+        "2021-07-15"
+      ]
+    },
+    {
       "person": "Oliver Turner",
       "count": 4,
       "dates": [
@@ -88,15 +98,6 @@
       ]
     },
     {
-      "person": "itsalex",
-      "count": 3,
-      "dates": [
-        "2021-06-29",
-        "2021-07-09",
-        "2021-07-12"
-      ]
-    },
-    {
       "person": "Lily2point0",
       "count": 2,
       "dates": [
@@ -113,5 +114,5 @@
       ]
     }
   ],
-  "totalUnlocks": 48
+  "totalUnlocks": 49
 }
