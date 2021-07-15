@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "Lily2point0",
+      "leaderboard": "2021-07-15",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "Lily2point0",
       "leaderboard": "2021-07-14",
       "minutes": 1,
       "seconds": 25,
@@ -237,7 +246,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 47,
+  "awardCount": 48,
   "awards": [
     {
       "title": "Silver",
@@ -271,7 +280,8 @@
       "type": "consistent-3",
       "text": "Get the same position three days in a row",
       "dates": [
-        "2021-06-28"
+        "2021-06-28",
+        "2021-07-14"
       ]
     },
     {

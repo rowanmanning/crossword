@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "apaleslimghost",
+      "leaderboard": "2021-07-15",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "apaleslimghost",
       "leaderboard": "2021-07-14",
       "minutes": 1,
       "seconds": 0,
@@ -228,7 +237,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 45,
+  "awardCount": 47,
   "awards": [
     {
       "title": "Gold",
@@ -253,7 +262,16 @@
       "text": "Get the third fastest time for a day",
       "dates": [
         "2021-06-28",
-        "2021-07-13"
+        "2021-07-13",
+        "2021-07-14"
+      ]
+    },
+    {
+      "title": "Double Bronze",
+      "type": "double-bronze",
+      "text": "Get the third fastest time two days in a row",
+      "dates": [
+        "2021-07-14"
       ]
     },
     {

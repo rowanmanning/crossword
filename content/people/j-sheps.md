@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "j-sheps",
+      "leaderboard": "2021-07-15",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "j-sheps",
       "leaderboard": "2021-07-14",
       "minutes": 0,
       "seconds": 59,
@@ -237,7 +246,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 73,
+  "awardCount": 75,
   "awards": [
     {
       "title": "Gold",
@@ -269,7 +278,8 @@
         "2021-06-23",
         "2021-06-29",
         "2021-07-06",
-        "2021-07-10"
+        "2021-07-10",
+        "2021-07-14"
       ]
     },
     {
@@ -279,6 +289,14 @@
       "dates": [
         "2021-07-03",
         "2021-07-12"
+      ]
+    },
+    {
+      "title": "Podium",
+      "type": "podium",
+      "text": "Unlock third, second, and first place awards",
+      "dates": [
+        "2021-07-14"
       ]
     },
     {
