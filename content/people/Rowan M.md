@@ -5,11 +5,11 @@
     {
       "person": "Rowan M",
       "leaderboard": "2021-07-16",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 30,
+      "totalSeconds": 30,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "Rowan M",
@@ -250,12 +250,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 9,
-    "totalSeconds": 69,
+    "seconds": 7,
+    "totalSeconds": 67,
     "position": null,
     "isPending": false
   },
-  "awardCount": 83,
+  "awardCount": 87,
   "awards": [
     {
       "title": "Gold",
@@ -342,7 +342,8 @@
       "text": "Half your completion time from one day to the next",
       "dates": [
         "2021-06-27",
-        "2021-07-11"
+        "2021-07-11",
+        "2021-07-16"
       ]
     },
     {
@@ -391,7 +392,8 @@
         "2021-07-12",
         "2021-07-13",
         "2021-07-14",
-        "2021-07-15"
+        "2021-07-15",
+        "2021-07-16"
       ]
     },
     {
@@ -414,7 +416,8 @@
         "2021-07-07",
         "2021-07-08",
         "2021-07-11",
-        "2021-07-14"
+        "2021-07-14",
+        "2021-07-16"
       ]
     },
     {
@@ -429,7 +432,8 @@
         "2021-06-29",
         "2021-07-06",
         "2021-07-07",
-        "2021-07-11"
+        "2021-07-11",
+        "2021-07-16"
       ]
     },
     {
