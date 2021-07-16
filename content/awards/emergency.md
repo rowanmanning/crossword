@@ -6,9 +6,10 @@
   "unlocks": [
     {
       "person": "Ania",
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2021-07-03"
+        "2021-07-03",
+        "2021-07-15"
       ]
     },
     {
@@ -26,5 +27,5 @@
       ]
     }
   ],
-  "totalUnlocks": 3
+  "totalUnlocks": 4
 }

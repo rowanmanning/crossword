@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "Ania",
+      "leaderboard": "2021-07-16",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "Ania",
       "leaderboard": "2021-07-15",
       "minutes": 2,
       "seconds": 33,
@@ -246,7 +255,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 51,
+  "awardCount": 53,
   "awards": [
     {
       "title": "Gold",
@@ -271,7 +280,8 @@
       "type": "consistent-2",
       "text": "Get the same position two days in a row",
       "dates": [
-        "2021-07-04"
+        "2021-07-04",
+        "2021-07-15"
       ]
     },
     {
@@ -401,7 +411,8 @@
       "type": "emergency",
       "text": "What's your emergency?",
       "dates": [
-        "2021-07-03"
+        "2021-07-03",
+        "2021-07-15"
       ]
     }
   ]
