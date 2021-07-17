@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "Ania",
+      "leaderboard": "2021-07-17",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "Ania",
       "leaderboard": "2021-07-16",
       "minutes": 1,
       "seconds": 48,
@@ -255,7 +264,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 54,
+  "awardCount": 55,
   "awards": [
     {
       "title": "Gold",
@@ -282,6 +291,14 @@
       "dates": [
         "2021-07-04",
         "2021-07-15"
+      ]
+    },
+    {
+      "title": "Consistent Position ×3",
+      "type": "consistent-3",
+      "text": "Get the same position three days in a row",
+      "dates": [
+        "2021-07-16"
       ]
     },
     {

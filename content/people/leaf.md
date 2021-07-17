@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "leaf",
+      "leaderboard": "2021-07-17",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "leaf",
       "leaderboard": "2021-07-16",
       "minutes": 2,
       "seconds": 7,
@@ -255,7 +264,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 40,
+  "awardCount": 41,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -265,7 +274,8 @@
         "2021-06-22",
         "2021-07-08",
         "2021-07-11",
-        "2021-07-14"
+        "2021-07-14",
+        "2021-07-16"
       ]
     },
     {
