@@ -5,11 +5,11 @@
     {
       "person": "j-sheps",
       "leaderboard": "2021-07-18",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 35,
+      "totalSeconds": 35,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "j-sheps",
@@ -268,12 +268,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 6,
-    "totalSeconds": 66,
+    "seconds": 5,
+    "totalSeconds": 65,
     "position": null,
     "isPending": false
   },
-  "awardCount": 84,
+  "awardCount": 88,
   "awards": [
     {
       "title": "Gold",
@@ -336,7 +336,8 @@
         "2021-06-29",
         "2021-07-06",
         "2021-07-13",
-        "2021-07-16"
+        "2021-07-16",
+        "2021-07-18"
       ]
     },
     {
@@ -389,7 +390,8 @@
         "2021-07-14",
         "2021-07-15",
         "2021-07-16",
-        "2021-07-17"
+        "2021-07-17",
+        "2021-07-18"
       ]
     },
     {
@@ -409,7 +411,8 @@
         "2021-07-08",
         "2021-07-13",
         "2021-07-14",
-        "2021-07-16"
+        "2021-07-16",
+        "2021-07-18"
       ]
     },
     {
@@ -426,7 +429,8 @@
         "2021-07-07",
         "2021-07-08",
         "2021-07-13",
-        "2021-07-16"
+        "2021-07-16",
+        "2021-07-18"
       ]
     },
     {

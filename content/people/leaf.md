@@ -5,11 +5,11 @@
     {
       "person": "leaf",
       "leaderboard": "2021-07-18",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 52,
+      "totalSeconds": 52,
+      "position": 3,
+      "isPending": false
     },
     {
       "person": "leaf",
@@ -268,12 +268,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 59,
-    "totalSeconds": 119,
+    "seconds": 56,
+    "totalSeconds": 116,
     "position": null,
     "isPending": false
   },
-  "awardCount": 41,
+  "awardCount": 44,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -311,7 +311,8 @@
       "dates": [
         "2021-06-29",
         "2021-07-11",
-        "2021-07-13"
+        "2021-07-13",
+        "2021-07-18"
       ]
     },
     {
@@ -350,7 +351,8 @@
         "2021-07-07",
         "2021-07-08",
         "2021-07-11",
-        "2021-07-13"
+        "2021-07-13",
+        "2021-07-18"
       ]
     },
     {
@@ -362,7 +364,8 @@
         "2021-06-30",
         "2021-07-07",
         "2021-07-08",
-        "2021-07-11"
+        "2021-07-11",
+        "2021-07-18"
       ]
     },
     {
