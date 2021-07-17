@@ -5,18 +5,19 @@
   "order": "11",
   "unlocks": [
     {
+      "person": "Rowan M",
+      "count": 2,
+      "dates": [
+        "2021-06-28",
+        "2021-07-17"
+      ]
+    },
+    {
       "person": "itsalex",
       "count": 2,
       "dates": [
         "2021-07-10",
         "2021-07-15"
-      ]
-    },
-    {
-      "person": "Rowan M",
-      "count": 1,
-      "dates": [
-        "2021-06-28"
       ]
     },
     {
@@ -34,5 +35,5 @@
       ]
     }
   ],
-  "totalUnlocks": 5
+  "totalUnlocks": 6
 }
