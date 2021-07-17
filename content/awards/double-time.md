@@ -56,6 +56,16 @@
       ]
     },
     {
+      "person": "j-sheps",
+      "count": 4,
+      "dates": [
+        "2021-06-25",
+        "2021-07-02",
+        "2021-07-09",
+        "2021-07-17"
+      ]
+    },
+    {
       "person": "Lily2point0",
       "count": 4,
       "dates": [
@@ -95,15 +105,6 @@
       ]
     },
     {
-      "person": "j-sheps",
-      "count": 3,
-      "dates": [
-        "2021-06-25",
-        "2021-07-02",
-        "2021-07-09"
-      ]
-    },
-    {
       "person": "Oliver Turner",
       "count": 3,
       "dates": [
@@ -139,5 +140,5 @@
       ]
     }
   ],
-  "totalUnlocks": 56
+  "totalUnlocks": 57
 }
