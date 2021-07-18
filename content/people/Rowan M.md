@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "Rowan M",
+      "leaderboard": "2021-07-19",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "Rowan M",
       "leaderboard": "2021-07-18",
       "minutes": 0,
       "seconds": 48,
@@ -273,7 +282,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 95,
+  "awardCount": 96,
   "awards": [
     {
       "title": "Gold",
@@ -501,6 +510,14 @@
       "text": "Join us",
       "dates": [
         "2021-07-13"
+      ]
+    },
+    {
+      "title": "The Number of The Beast",
+      "type": "beast",
+      "text": "His number is six hundred and sixty-six",
+      "dates": [
+        "2021-07-18"
       ]
     }
   ]
