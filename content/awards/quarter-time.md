@@ -5,6 +5,15 @@
   "order": "161",
   "unlocks": [
     {
+      "person": "varjmes",
+      "count": 3,
+      "dates": [
+        "2021-07-11",
+        "2021-07-13",
+        "2021-07-18"
+      ]
+    },
+    {
       "person": "Ania",
       "count": 2,
       "dates": [
@@ -26,14 +35,6 @@
       "dates": [
         "2021-07-05",
         "2021-07-11"
-      ]
-    },
-    {
-      "person": "varjmes",
-      "count": 2,
-      "dates": [
-        "2021-07-11",
-        "2021-07-13"
       ]
     },
     {
@@ -65,5 +66,5 @@
       ]
     }
   ],
-  "totalUnlocks": 12
+  "totalUnlocks": 13
 }
