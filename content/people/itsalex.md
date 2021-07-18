@@ -5,11 +5,11 @@
     {
       "person": "itsalex",
       "leaderboard": "2021-07-18",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 21,
+      "totalSeconds": 21,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "itsalex",
@@ -230,10 +230,10 @@
   ],
   "best": {
     "person": "itsalex",
-    "leaderboard": "2021-07-09",
+    "leaderboard": "2021-07-18",
     "minutes": 0,
-    "seconds": 23,
-    "totalSeconds": 23,
+    "seconds": 21,
+    "totalSeconds": 21,
     "position": 1,
     "isPending": false
   },
@@ -241,12 +241,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 38,
-    "totalSeconds": 98,
+    "seconds": 35,
+    "totalSeconds": 95,
     "position": null,
     "isPending": false
   },
-  "awardCount": 58,
+  "awardCount": 64,
   "awards": [
     {
       "title": "Gold",
@@ -295,7 +295,16 @@
         "2021-06-29",
         "2021-07-04",
         "2021-07-09",
-        "2021-07-14"
+        "2021-07-14",
+        "2021-07-18"
+      ]
+    },
+    {
+      "title": "Quarter Time",
+      "type": "quarter-time",
+      "text": "Quarter your completion time from one day to the next",
+      "dates": [
+        "2021-07-18"
       ]
     },
     {
@@ -331,7 +340,8 @@
         "2021-07-12",
         "2021-07-14",
         "2021-07-15",
-        "2021-07-16"
+        "2021-07-16",
+        "2021-07-18"
       ]
     },
     {
@@ -345,7 +355,8 @@
         "2021-07-12",
         "2021-07-14",
         "2021-07-15",
-        "2021-07-16"
+        "2021-07-16",
+        "2021-07-18"
       ]
     },
     {
@@ -356,7 +367,8 @@
         "2021-06-29",
         "2021-07-09",
         "2021-07-12",
-        "2021-07-15"
+        "2021-07-15",
+        "2021-07-18"
       ]
     },
     {
@@ -364,7 +376,8 @@
       "type": "sub-30",
       "text": "Complete a puzzle in less than 30 seconds",
       "dates": [
-        "2021-07-09"
+        "2021-07-09",
+        "2021-07-18"
       ]
     },
     {

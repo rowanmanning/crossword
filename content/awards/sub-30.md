@@ -14,6 +14,14 @@
       ]
     },
     {
+      "person": "itsalex",
+      "count": 2,
+      "dates": [
+        "2021-07-09",
+        "2021-07-18"
+      ]
+    },
+    {
       "person": "Rowan M",
       "count": 1,
       "dates": [
@@ -42,13 +50,6 @@
       ]
     },
     {
-      "person": "itsalex",
-      "count": 1,
-      "dates": [
-        "2021-07-09"
-      ]
-    },
-    {
       "person": "apaleslimghost",
       "count": 1,
       "dates": [
@@ -56,5 +57,5 @@
       ]
     }
   ],
-  "totalUnlocks": 9
+  "totalUnlocks": 10
 }
