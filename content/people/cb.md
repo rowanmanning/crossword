@@ -5,11 +5,11 @@
     {
       "person": "cb",
       "leaderboard": "2021-07-18",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 29,
+      "totalSeconds": 29,
+      "position": 2,
+      "isPending": false
     },
     {
       "person": "cb",
@@ -196,12 +196,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 4,
-    "totalSeconds": 64,
+    "seconds": 2,
+    "totalSeconds": 62,
     "position": null,
     "isPending": false
   },
-  "awardCount": 58,
+  "awardCount": 64,
   "awards": [
     {
       "title": "Gold",
@@ -256,7 +256,8 @@
       "text": "Half your completion time from one day to the next",
       "dates": [
         "2021-07-04",
-        "2021-07-12"
+        "2021-07-12",
+        "2021-07-18"
       ]
     },
     {
@@ -293,7 +294,8 @@
         "2021-07-14",
         "2021-07-15",
         "2021-07-16",
-        "2021-07-17"
+        "2021-07-17",
+        "2021-07-18"
       ]
     },
     {
@@ -310,7 +312,8 @@
         "2021-07-08",
         "2021-07-12",
         "2021-07-15",
-        "2021-07-16"
+        "2021-07-16",
+        "2021-07-18"
       ]
     },
     {
@@ -323,7 +326,8 @@
         "2021-07-05",
         "2021-07-06",
         "2021-07-08",
-        "2021-07-16"
+        "2021-07-16",
+        "2021-07-18"
       ]
     },
     {
@@ -331,7 +335,8 @@
       "type": "sub-30",
       "text": "Complete a puzzle in less than 30 seconds",
       "dates": [
-        "2021-07-06"
+        "2021-07-06",
+        "2021-07-18"
       ]
     },
     {
@@ -348,7 +353,8 @@
       "type": "week-streak",
       "text": "Play for a full week without breaks",
       "dates": [
-        "2021-07-05"
+        "2021-07-05",
+        "2021-07-18"
       ]
     },
     {
