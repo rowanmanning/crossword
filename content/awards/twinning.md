@@ -25,6 +25,15 @@
       ]
     },
     {
+      "person": "Rowan M",
+      "count": 3,
+      "dates": [
+        "2021-06-29",
+        "2021-07-14",
+        "2021-07-18"
+      ]
+    },
+    {
       "person": "leaf",
       "count": 3,
       "dates": [
@@ -50,11 +59,11 @@
       ]
     },
     {
-      "person": "Rowan M",
+      "person": "Lily2point0",
       "count": 2,
       "dates": [
-        "2021-06-29",
-        "2021-07-14"
+        "2021-07-10",
+        "2021-07-18"
       ]
     },
     {
@@ -79,13 +88,6 @@
       ]
     },
     {
-      "person": "Lily2point0",
-      "count": 1,
-      "dates": [
-        "2021-07-10"
-      ]
-    },
-    {
       "person": "joelcarr",
       "count": 1,
       "dates": [
@@ -93,5 +95,5 @@
       ]
     }
   ],
-  "totalUnlocks": 22
+  "totalUnlocks": 24
 }

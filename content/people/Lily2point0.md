@@ -273,7 +273,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 52,
+  "awardCount": 53,
   "awards": [
     {
       "title": "Silver",
@@ -415,7 +415,8 @@
       "type": "twinning",
       "text": "Get the same time as another person",
       "dates": [
-        "2021-07-10"
+        "2021-07-10",
+        "2021-07-18"
       ]
     }
   ]
