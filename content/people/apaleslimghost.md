@@ -5,11 +5,11 @@
     {
       "person": "apaleslimghost",
       "leaderboard": "2021-07-18",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 45,
+      "totalSeconds": 45,
+      "position": 4,
+      "isPending": false
     },
     {
       "person": "apaleslimghost",
@@ -259,12 +259,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 20,
-    "totalSeconds": 80,
+    "seconds": 18,
+    "totalSeconds": 78,
     "position": null,
     "isPending": false
   },
-  "awardCount": 51,
+  "awardCount": 54,
   "awards": [
     {
       "title": "Gold",
@@ -315,7 +315,8 @@
       "text": "Half your completion time from one day to the next",
       "dates": [
         "2021-07-05",
-        "2021-07-11"
+        "2021-07-11",
+        "2021-07-18"
       ]
     },
     {
@@ -357,7 +358,8 @@
         "2021-07-13",
         "2021-07-14",
         "2021-07-15",
-        "2021-07-16"
+        "2021-07-16",
+        "2021-07-18"
       ]
     },
     {
@@ -371,7 +373,8 @@
         "2021-07-07",
         "2021-07-08",
         "2021-07-11",
-        "2021-07-13"
+        "2021-07-13",
+        "2021-07-18"
       ]
     },
     {
