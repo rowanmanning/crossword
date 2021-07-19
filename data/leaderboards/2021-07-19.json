@@ -1,5 +1,9 @@
 [
 	{
+		"name": "itsalex",
+		"seconds": 30
+	},
+	{
 		"name": "apaleslimghost",
 		"seconds": 47
 	},
@@ -33,10 +37,6 @@
 	},
 	{
 		"name": "cb",
-		"seconds": null
-	},
-	{
-		"name": "itsalex",
 		"seconds": null
 	},
 	{
