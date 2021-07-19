@@ -282,7 +282,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 46,
+  "awardCount": 47,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -404,7 +404,8 @@
       "dates": [
         "2021-07-06",
         "2021-07-10",
-        "2021-07-13"
+        "2021-07-13",
+        "2021-07-19"
       ]
     }
   ]
