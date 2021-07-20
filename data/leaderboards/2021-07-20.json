@@ -16,6 +16,10 @@
 		"seconds": 55
 	},
 	{
+		"name": "itsalex",
+		"seconds": 66
+	},
+	{
 		"name": "apaleslimghost",
 		"seconds": 71
 	},
@@ -45,10 +49,6 @@
 	},
 	{
 		"name": "cb",
-		"seconds": null
-	},
-	{
-		"name": "itsalex",
 		"seconds": null
 	}
 ]
