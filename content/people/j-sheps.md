@@ -5,11 +5,11 @@
     {
       "person": "j-sheps",
       "leaderboard": "2021-07-20",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 38,
+      "totalSeconds": 38,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "j-sheps",
@@ -286,12 +286,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 8,
-    "totalSeconds": 68,
+    "seconds": 7,
+    "totalSeconds": 67,
     "position": null,
     "isPending": false
   },
-  "awardCount": 91,
+  "awardCount": 97,
   "awards": [
     {
       "title": "Gold",
@@ -364,7 +364,8 @@
         "2021-07-06",
         "2021-07-13",
         "2021-07-16",
-        "2021-07-18"
+        "2021-07-18",
+        "2021-07-20"
       ]
     },
     {
@@ -372,7 +373,8 @@
       "type": "quarter-time",
       "text": "Quarter your completion time from one day to the next",
       "dates": [
-        "2021-06-29"
+        "2021-06-29",
+        "2021-07-20"
       ]
     },
     {
@@ -419,7 +421,8 @@
         "2021-07-15",
         "2021-07-16",
         "2021-07-17",
-        "2021-07-18"
+        "2021-07-18",
+        "2021-07-20"
       ]
     },
     {
@@ -440,7 +443,8 @@
         "2021-07-13",
         "2021-07-14",
         "2021-07-16",
-        "2021-07-18"
+        "2021-07-18",
+        "2021-07-20"
       ]
     },
     {
@@ -458,7 +462,8 @@
         "2021-07-08",
         "2021-07-13",
         "2021-07-16",
-        "2021-07-18"
+        "2021-07-18",
+        "2021-07-20"
       ]
     },
     {
@@ -485,6 +490,14 @@
       "text": "Play for a full week without breaks",
       "dates": [
         "2021-06-27"
+      ]
+    },
+    {
+      "title": "Month-Long Streak",
+      "type": "month-streak",
+      "text": "Play for a full month (30 days) without breaks",
+      "dates": [
+        "2021-07-20"
       ]
     },
     {
