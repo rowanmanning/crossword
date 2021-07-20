@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "apaleslimghost",
+      "leaderboard": "2021-07-20",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "apaleslimghost",
       "leaderboard": "2021-07-19",
       "minutes": 0,
       "seconds": 47,
@@ -273,7 +282,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 56,
+  "awardCount": 57,
   "awards": [
     {
       "title": "Gold",
@@ -289,7 +298,8 @@
       "type": "silver",
       "text": "Get the second fastest time for a day",
       "dates": [
-        "2021-06-26"
+        "2021-06-26",
+        "2021-07-19"
       ]
     },
     {
