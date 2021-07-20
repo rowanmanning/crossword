@@ -17,7 +17,7 @@ module.exports = class QuarterStreakAward extends PlayStreakAward {
 	}
 
 	get streakLength() {
-		return 30;
+		return 90;
 	}
 
 };

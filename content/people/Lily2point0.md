@@ -8,7 +8,7 @@
       "minutes": 3,
       "seconds": 9,
       "totalSeconds": 189,
-      "position": 2,
+      "position": 4,
       "isPending": false
     },
     {
@@ -291,7 +291,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 56,
+  "awardCount": 55,
   "awards": [
     {
       "title": "Silver",
@@ -433,14 +433,6 @@
       "title": "Month-Long Streak",
       "type": "month-streak",
       "text": "Play for a full month (30 days) without breaks",
-      "dates": [
-        "2021-07-20"
-      ]
-    },
-    {
-      "title": "Quarter-Long Streak",
-      "type": "quarter-streak",
-      "text": "Play for a full quarter, give that OKR a 1",
       "dates": [
         "2021-07-20"
       ]

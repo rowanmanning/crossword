@@ -12,6 +12,13 @@
       ]
     },
     {
+      "person": "Rowan M",
+      "count": 1,
+      "dates": [
+        "2021-07-20"
+      ]
+    },
+    {
       "person": "varjmes",
       "count": 1,
       "dates": [
@@ -19,5 +26,5 @@
       ]
     }
   ],
-  "totalUnlocks": 2
+  "totalUnlocks": 3
 }

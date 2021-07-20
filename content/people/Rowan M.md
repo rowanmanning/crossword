@@ -5,11 +5,11 @@
     {
       "person": "Rowan M",
       "leaderboard": "2021-07-20",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 52,
+      "totalSeconds": 52,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "Rowan M",
@@ -286,12 +286,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 7,
-    "totalSeconds": 67,
+    "seconds": 6,
+    "totalSeconds": 66,
     "position": null,
     "isPending": false
   },
-  "awardCount": 99,
+  "awardCount": 102,
   "awards": [
     {
       "title": "Gold",
@@ -436,7 +436,8 @@
         "2021-07-16",
         "2021-07-17",
         "2021-07-18",
-        "2021-07-19"
+        "2021-07-19",
+        "2021-07-20"
       ]
     },
     {
@@ -462,7 +463,8 @@
         "2021-07-14",
         "2021-07-16",
         "2021-07-18",
-        "2021-07-19"
+        "2021-07-19",
+        "2021-07-20"
       ]
     },
     {
@@ -503,6 +505,14 @@
       "text": "Play for a full week without breaks",
       "dates": [
         "2021-06-27"
+      ]
+    },
+    {
+      "title": "Month-Long Streak",
+      "type": "month-streak",
+      "text": "Play for a full month (30 days) without breaks",
+      "dates": [
+        "2021-07-20"
       ]
     },
     {
