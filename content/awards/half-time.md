@@ -90,6 +90,16 @@
       ]
     },
     {
+      "person": "cb",
+      "count": 4,
+      "dates": [
+        "2021-07-04",
+        "2021-07-12",
+        "2021-07-18",
+        "2021-07-20"
+      ]
+    },
+    {
       "person": "Rowan M",
       "count": 3,
       "dates": [
@@ -117,15 +127,6 @@
       ]
     },
     {
-      "person": "cb",
-      "count": 3,
-      "dates": [
-        "2021-07-04",
-        "2021-07-12",
-        "2021-07-18"
-      ]
-    },
-    {
       "person": "apaleslimghost",
       "count": 3,
       "dates": [
@@ -143,5 +144,5 @@
       ]
     }
   ],
-  "totalUnlocks": 60
+  "totalUnlocks": 61
 }

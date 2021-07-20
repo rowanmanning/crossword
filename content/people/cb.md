@@ -5,11 +5,11 @@
     {
       "person": "cb",
       "leaderboard": "2021-07-20",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 22,
+      "totalSeconds": 22,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "cb",
@@ -203,10 +203,10 @@
   ],
   "best": {
     "person": "cb",
-    "leaderboard": "2021-07-06",
+    "leaderboard": "2021-07-20",
     "minutes": 0,
-    "seconds": 24,
-    "totalSeconds": 24,
+    "seconds": 22,
+    "totalSeconds": 22,
     "position": 1,
     "isPending": false
   },
@@ -214,12 +214,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 2,
-    "totalSeconds": 62,
+    "seconds": 0,
+    "totalSeconds": 60,
     "position": null,
     "isPending": false
   },
-  "awardCount": 68,
+  "awardCount": 73,
   "awards": [
     {
       "title": "Gold",
@@ -277,7 +277,8 @@
       "dates": [
         "2021-07-04",
         "2021-07-12",
-        "2021-07-18"
+        "2021-07-18",
+        "2021-07-20"
       ]
     },
     {
@@ -316,7 +317,8 @@
         "2021-07-16",
         "2021-07-17",
         "2021-07-18",
-        "2021-07-19"
+        "2021-07-19",
+        "2021-07-20"
       ]
     },
     {
@@ -335,7 +337,8 @@
         "2021-07-15",
         "2021-07-16",
         "2021-07-18",
-        "2021-07-19"
+        "2021-07-19",
+        "2021-07-20"
       ]
     },
     {
@@ -349,7 +352,8 @@
         "2021-07-06",
         "2021-07-08",
         "2021-07-16",
-        "2021-07-18"
+        "2021-07-18",
+        "2021-07-20"
       ]
     },
     {
@@ -358,7 +362,8 @@
       "text": "Complete a puzzle in less than 30 seconds",
       "dates": [
         "2021-07-06",
-        "2021-07-18"
+        "2021-07-18",
+        "2021-07-20"
       ]
     },
     {
