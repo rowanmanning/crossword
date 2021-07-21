@@ -6,13 +6,14 @@
   "unlocks": [
     {
       "person": "itsalex",
-      "count": 5,
+      "count": 6,
       "dates": [
         "2021-06-24",
         "2021-06-29",
         "2021-07-03",
         "2021-07-06",
-        "2021-07-14"
+        "2021-07-14",
+        "2021-07-21"
       ]
     },
     {
@@ -61,6 +62,14 @@
       ]
     },
     {
+      "person": "cb",
+      "count": 2,
+      "dates": [
+        "2021-07-08",
+        "2021-07-21"
+      ]
+    },
+    {
       "person": "Lily2point0",
       "count": 2,
       "dates": [
@@ -83,13 +92,6 @@
       ]
     },
     {
-      "person": "cb",
-      "count": 1,
-      "dates": [
-        "2021-07-08"
-      ]
-    },
-    {
       "person": "joelcarr",
       "count": 1,
       "dates": [
@@ -97,5 +99,5 @@
       ]
     }
   ],
-  "totalUnlocks": 26
+  "totalUnlocks": 28
 }
