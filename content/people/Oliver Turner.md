@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "Oliver Turner",
+      "leaderboard": "2021-07-21",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "Oliver Turner",
       "leaderboard": "2021-07-20",
       "minutes": 0,
       "seconds": 40,
@@ -264,7 +273,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 70,
+  "awardCount": 72,
   "awards": [
     {
       "title": "Gold",
@@ -315,7 +324,16 @@
       "text": "Get the third fastest time for a day",
       "dates": [
         "2021-06-26",
-        "2021-07-19"
+        "2021-07-19",
+        "2021-07-20"
+      ]
+    },
+    {
+      "title": "Double Bronze",
+      "type": "double-bronze",
+      "text": "Get the third fastest time two days in a row",
+      "dates": [
+        "2021-07-20"
       ]
     },
     {
