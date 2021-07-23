@@ -12,6 +12,10 @@
 		"seconds": 51
 	},
 	{
+		"name": "leaf",
+		"seconds": 59
+	},
+	{
 		"name": "varjmes",
 		"seconds": 67
 	},
@@ -45,10 +49,6 @@
 	},
 	{
 		"name": "itsalex",
-		"seconds": null
-	},
-	{
-		"name": "leaf",
 		"seconds": null
 	}
 ]
