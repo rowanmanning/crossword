@@ -14,11 +14,11 @@
     {
       "person": "cb",
       "leaderboard": "2021-07-22",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 57,
+      "totalSeconds": 57,
+      "position": 5,
+      "isPending": false
     },
     {
       "person": "cb",
@@ -113,11 +113,11 @@
     {
       "person": "cb",
       "leaderboard": "2021-07-11",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 22,
+      "totalSeconds": 22,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "cb",
@@ -241,12 +241,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 59,
-    "totalSeconds": 59,
+    "seconds": 57,
+    "totalSeconds": 57,
     "position": null,
     "isPending": false
   },
-  "awardCount": 79,
+  "awardCount": 87,
   "awards": [
     {
       "title": "Gold",
@@ -255,6 +255,7 @@
       "dates": [
         "2021-07-02",
         "2021-07-06",
+        "2021-07-11",
         "2021-07-20"
       ]
     },
@@ -300,14 +301,30 @@
       ]
     },
     {
+      "title": "Podium",
+      "type": "podium",
+      "text": "Unlock third, second, and first place awards",
+      "dates": [
+        "2021-07-12"
+      ]
+    },
+    {
       "title": "Half Time",
       "type": "half-time",
       "text": "Half your completion time from one day to the next",
       "dates": [
         "2021-07-04",
-        "2021-07-12",
+        "2021-07-11",
         "2021-07-18",
         "2021-07-20"
+      ]
+    },
+    {
+      "title": "Quarter Time",
+      "type": "quarter-time",
+      "text": "Quarter your completion time from one day to the next",
+      "dates": [
+        "2021-07-11"
       ]
     },
     {
@@ -319,6 +336,7 @@
         "2021-07-03",
         "2021-07-07",
         "2021-07-09",
+        "2021-07-12",
         "2021-07-17"
       ]
     },
@@ -339,6 +357,7 @@
         "2021-07-08",
         "2021-07-09",
         "2021-07-10",
+        "2021-07-11",
         "2021-07-12",
         "2021-07-13",
         "2021-07-14",
@@ -348,7 +367,8 @@
         "2021-07-18",
         "2021-07-19",
         "2021-07-20",
-        "2021-07-21"
+        "2021-07-21",
+        "2021-07-22"
       ]
     },
     {
@@ -363,13 +383,15 @@
         "2021-07-06",
         "2021-07-07",
         "2021-07-08",
+        "2021-07-11",
         "2021-07-12",
         "2021-07-15",
         "2021-07-16",
         "2021-07-18",
         "2021-07-19",
         "2021-07-20",
-        "2021-07-21"
+        "2021-07-21",
+        "2021-07-22"
       ]
     },
     {
@@ -382,6 +404,7 @@
         "2021-07-05",
         "2021-07-06",
         "2021-07-08",
+        "2021-07-11",
         "2021-07-16",
         "2021-07-18",
         "2021-07-20",
@@ -394,6 +417,7 @@
       "text": "Complete a puzzle in less than 30 seconds",
       "dates": [
         "2021-07-06",
+        "2021-07-11",
         "2021-07-18",
         "2021-07-20"
       ]
@@ -403,8 +427,7 @@
       "type": "three-day-streak",
       "text": "Play for three days in a row",
       "dates": [
-        "2021-07-01",
-        "2021-07-14"
+        "2021-07-01"
       ]
     },
     {
@@ -412,8 +435,7 @@
       "type": "week-streak",
       "text": "Play for a full week without breaks",
       "dates": [
-        "2021-07-05",
-        "2021-07-18"
+        "2021-07-05"
       ]
     },
     {

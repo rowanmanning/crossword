@@ -17,7 +17,7 @@
       "minutes": 1,
       "seconds": 37,
       "totalSeconds": 97,
-      "position": 7,
+      "position": 8,
       "isPending": false
     },
     {
@@ -116,7 +116,7 @@
       "minutes": 0,
       "seconds": 47,
       "totalSeconds": 47,
-      "position": 4,
+      "position": 5,
       "isPending": false
     },
     {
@@ -318,7 +318,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 61,
+  "awardCount": 63,
   "awards": [
     {
       "title": "Silver",
@@ -344,7 +344,7 @@
         "2021-06-24",
         "2021-06-27",
         "2021-07-01",
-        "2021-07-13"
+        "2021-07-11"
       ]
     },
     {
@@ -353,7 +353,7 @@
       "text": "Get the same position three days in a row",
       "dates": [
         "2021-06-28",
-        "2021-07-14"
+        "2021-07-12"
       ]
     },
     {
@@ -361,7 +361,16 @@
       "type": "consistent-4",
       "text": "Get the same position four days in a row",
       "dates": [
-        "2021-06-29"
+        "2021-06-29",
+        "2021-07-13"
+      ]
+    },
+    {
+      "title": "Consistent Position ×5",
+      "type": "consistent-5",
+      "text": "Get the same position five days in a row",
+      "dates": [
+        "2021-07-14"
       ]
     },
     {

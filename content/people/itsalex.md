@@ -116,7 +116,7 @@
       "minutes": 1,
       "seconds": 1,
       "totalSeconds": 61,
-      "position": 6,
+      "position": 7,
       "isPending": false
     },
     {
@@ -491,7 +491,7 @@
       "type": "beast",
       "text": "His number is six hundred and sixty-six",
       "dates": [
-        "2021-07-16"
+        "2021-07-20"
       ]
     }
   ]

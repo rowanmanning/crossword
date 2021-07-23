@@ -116,7 +116,7 @@
       "minutes": 0,
       "seconds": 24,
       "totalSeconds": 24,
-      "position": 1,
+      "position": 2,
       "isPending": false
     },
     {
@@ -297,7 +297,7 @@
     "minutes": 0,
     "seconds": 24,
     "totalSeconds": 24,
-    "position": 1,
+    "position": 2,
     "isPending": false
   },
   "mean": {
@@ -316,8 +316,7 @@
       "type": "gold",
       "text": "Get the fastest time for a day",
       "dates": [
-        "2021-07-05",
-        "2021-07-11"
+        "2021-07-05"
       ]
     },
     {
@@ -326,6 +325,7 @@
       "text": "Get the second fastest time for a day",
       "dates": [
         "2021-06-26",
+        "2021-07-11",
         "2021-07-19"
       ]
     },

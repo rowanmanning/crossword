@@ -17,7 +17,7 @@
       "minutes": 2,
       "seconds": 49,
       "totalSeconds": 169,
-      "position": 8,
+      "position": 9,
       "isPending": false
     },
     {
@@ -116,7 +116,7 @@
       "minutes": 0,
       "seconds": 34,
       "totalSeconds": 34,
-      "position": 3,
+      "position": 4,
       "isPending": false
     },
     {
@@ -306,7 +306,7 @@
     "minutes": 0,
     "seconds": 34,
     "totalSeconds": 34,
-    "position": 3,
+    "position": 4,
     "isPending": false
   },
   "mean": {
@@ -334,8 +334,7 @@
       "text": "Get the third fastest time for a day",
       "dates": [
         "2021-06-27",
-        "2021-07-05",
-        "2021-07-11"
+        "2021-07-05"
       ]
     },
     {
@@ -492,7 +491,8 @@
       "text": "What's your emergency?",
       "dates": [
         "2021-07-03",
-        "2021-07-15"
+        "2021-07-15",
+        "2021-07-22"
       ]
     }
   ]

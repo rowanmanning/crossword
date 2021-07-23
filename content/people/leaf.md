@@ -17,7 +17,7 @@
       "minutes": 1,
       "seconds": 16,
       "totalSeconds": 76,
-      "position": 5,
+      "position": 6,
       "isPending": false
     },
     {
@@ -116,7 +116,7 @@
       "minutes": 0,
       "seconds": 58,
       "totalSeconds": 58,
-      "position": 5,
+      "position": 6,
       "isPending": false
     },
     {
@@ -318,7 +318,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 53,
+  "awardCount": 52,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -327,10 +327,8 @@
       "dates": [
         "2021-06-22",
         "2021-07-08",
-        "2021-07-11",
         "2021-07-14",
-        "2021-07-16",
-        "2021-07-22"
+        "2021-07-16"
       ]
     },
     {
@@ -448,6 +446,14 @@
         "2021-07-10",
         "2021-07-13",
         "2021-07-19"
+      ]
+    },
+    {
+      "title": "The Number of The Beast",
+      "type": "beast",
+      "text": "His number is six hundred and sixty-six",
+      "dates": [
+        "2021-07-17"
       ]
     }
   ]

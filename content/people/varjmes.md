@@ -17,7 +17,7 @@
       "minutes": 1,
       "seconds": 30,
       "totalSeconds": 90,
-      "position": 6,
+      "position": 7,
       "isPending": false
     },
     {
@@ -116,7 +116,7 @@
       "minutes": 1,
       "seconds": 6,
       "totalSeconds": 66,
-      "position": 7,
+      "position": 8,
       "isPending": false
     },
     {
@@ -318,7 +318,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 80,
+  "awardCount": 81,
   "awards": [
     {
       "title": "Gold",
@@ -353,7 +353,8 @@
       "type": "consistent-2",
       "text": "Get the same position two days in a row",
       "dates": [
-        "2021-06-26"
+        "2021-06-26",
+        "2021-07-22"
       ]
     },
     {

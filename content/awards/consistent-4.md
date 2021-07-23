@@ -5,19 +5,20 @@
   "order": "111",
   "unlocks": [
     {
+      "person": "Lily2point0",
+      "count": 2,
+      "dates": [
+        "2021-06-29",
+        "2021-07-13"
+      ]
+    },
+    {
       "person": "leaf",
       "count": 1,
       "dates": [
         "2021-06-24"
       ]
-    },
-    {
-      "person": "Lily2point0",
-      "count": 1,
-      "dates": [
-        "2021-06-29"
-      ]
     }
   ],
-  "totalUnlocks": 2
+  "totalUnlocks": 3
 }

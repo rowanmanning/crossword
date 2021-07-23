@@ -17,7 +17,7 @@
       "minutes": 3,
       "seconds": 45,
       "totalSeconds": 225,
-      "position": 9,
+      "position": 10,
       "isPending": false
     },
     {
@@ -318,7 +318,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 37,
+  "awardCount": 35,
   "awards": [
     {
       "title": "Bronze",
@@ -335,8 +335,7 @@
       "dates": [
         "2021-06-24",
         "2021-06-29",
-        "2021-07-08",
-        "2021-07-22"
+        "2021-07-08"
       ]
     },
     {
@@ -437,8 +436,7 @@
       "type": "emergency",
       "text": "What's your emergency?",
       "dates": [
-        "2021-07-06",
-        "2021-07-22"
+        "2021-07-06"
       ]
     }
   ]
