@@ -1,5 +1,9 @@
 [
 	{
+		"name": "itsalex",
+		"seconds": 32
+	},
+	{
 		"name": "Oliver Turner",
 		"seconds": 36
 	},
@@ -45,10 +49,6 @@
 	},
 	{
 		"name": "cb",
-		"seconds": null
-	},
-	{
-		"name": "itsalex",
 		"seconds": null
 	}
 ]
