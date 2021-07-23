@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "joelcarr",
+      "leaderboard": "2021-07-23",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "joelcarr",
       "leaderboard": "2021-07-22",
       "minutes": 3,
       "seconds": 45,
@@ -309,7 +318,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 33,
+  "awardCount": 35,
   "awards": [
     {
       "title": "Bronze",
@@ -326,7 +335,8 @@
       "dates": [
         "2021-06-24",
         "2021-06-29",
-        "2021-07-08"
+        "2021-07-08",
+        "2021-07-22"
       ]
     },
     {
@@ -425,7 +435,8 @@
       "type": "emergency",
       "text": "What's your emergency?",
       "dates": [
-        "2021-07-06"
+        "2021-07-06",
+        "2021-07-22"
       ]
     }
   ]
