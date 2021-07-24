@@ -6,10 +6,11 @@
   "unlocks": [
     {
       "person": "Oliver Turner",
-      "count": 2,
+      "count": 3,
       "dates": [
         "2021-06-28",
-        "2021-07-09"
+        "2021-07-09",
+        "2021-07-23"
       ]
     },
     {
@@ -21,5 +22,5 @@
       ]
     }
   ],
-  "totalUnlocks": 4
+  "totalUnlocks": 5
 }

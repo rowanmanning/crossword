@@ -15,9 +15,10 @@
     },
     {
       "person": "joelcarr",
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2021-07-06"
+        "2021-07-06",
+        "2021-07-23"
       ]
     },
     {
@@ -28,5 +29,5 @@
       ]
     }
   ],
-  "totalUnlocks": 5
+  "totalUnlocks": 6
 }
