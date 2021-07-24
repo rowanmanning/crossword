@@ -5,11 +5,11 @@
     {
       "person": "Ania",
       "leaderboard": "2021-07-24",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 4,
+      "seconds": 50,
+      "totalSeconds": 290,
+      "position": 6,
+      "isPending": false
     },
     {
       "person": "Ania",
@@ -322,12 +322,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 2,
-    "totalSeconds": 122,
+    "seconds": 7,
+    "totalSeconds": 127,
     "position": null,
     "isPending": false
   },
-  "awardCount": 63,
+  "awardCount": 65,
   "awards": [
     {
       "title": "Gold",
@@ -399,7 +399,8 @@
         "2021-07-09",
         "2021-07-12",
         "2021-07-14",
-        "2021-07-22"
+        "2021-07-22",
+        "2021-07-24"
       ]
     },
     {
@@ -476,6 +477,14 @@
       "text": "Play for a full week without breaks",
       "dates": [
         "2021-07-01"
+      ]
+    },
+    {
+      "title": "Month-Long Streak",
+      "type": "month-streak",
+      "text": "Play for a full month (30 days) without breaks",
+      "dates": [
+        "2021-07-24"
       ]
     },
     {
