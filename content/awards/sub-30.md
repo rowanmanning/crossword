@@ -24,6 +24,14 @@
       ]
     },
     {
+      "person": "varjmes",
+      "count": 2,
+      "dates": [
+        "2021-06-23",
+        "2021-07-25"
+      ]
+    },
+    {
       "person": "itsalex",
       "count": 2,
       "dates": [
@@ -33,13 +41,6 @@
     },
     {
       "person": "Rowan M",
-      "count": 1,
-      "dates": [
-        "2021-06-23"
-      ]
-    },
-    {
-      "person": "varjmes",
       "count": 1,
       "dates": [
         "2021-06-23"
@@ -60,5 +61,5 @@
       ]
     }
   ],
-  "totalUnlocks": 13
+  "totalUnlocks": 14
 }

@@ -1,5 +1,17 @@
 [
 	{
+		"name": "varjmes",
+		"seconds": 28
+	},
+	{
+		"name": "leaf",
+		"seconds": 71
+	},
+	{
+		"name": "Lily2point0",
+		"seconds": 97
+	},
+	{
 		"name": "Ania",
 		"seconds": null
 	},
@@ -32,23 +44,11 @@
 		"seconds": null
 	},
 	{
-		"name": "leaf",
-		"seconds": null
-	},
-	{
-		"name": "Lily2point0",
-		"seconds": null
-	},
-	{
 		"name": "Oliver Turner",
 		"seconds": null
 	},
 	{
 		"name": "Rowan M",
-		"seconds": null
-	},
-	{
-		"name": "varjmes",
 		"seconds": null
 	}
 ]

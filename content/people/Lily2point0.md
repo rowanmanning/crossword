@@ -5,11 +5,11 @@
     {
       "person": "Lily2point0",
       "leaderboard": "2021-07-25",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 37,
+      "totalSeconds": 97,
+      "position": 3,
+      "isPending": false
     },
     {
       "person": "Lily2point0",
@@ -336,7 +336,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 66,
+  "awardCount": 69,
   "awards": [
     {
       "title": "Silver",
@@ -404,7 +404,8 @@
         "2021-07-11",
         "2021-07-13",
         "2021-07-18",
-        "2021-07-21"
+        "2021-07-21",
+        "2021-07-25"
       ]
     },
     {
@@ -445,7 +446,8 @@
         "2021-07-18",
         "2021-07-21",
         "2021-07-22",
-        "2021-07-23"
+        "2021-07-23",
+        "2021-07-25"
       ]
     },
     {
@@ -512,7 +514,8 @@
       "type": "arjun",
       "text": "Join us",
       "dates": [
-        "2021-07-22"
+        "2021-07-22",
+        "2021-07-25"
       ]
     },
     {
