@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "Lily2point0",
+      "leaderboard": "2021-07-25",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "Lily2point0",
       "leaderboard": "2021-07-24",
       "minutes": 3,
       "seconds": 45,
@@ -327,7 +336,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 65,
+  "awardCount": 66,
   "awards": [
     {
       "title": "Silver",
@@ -504,6 +513,14 @@
       "text": "Join us",
       "dates": [
         "2021-07-22"
+      ]
+    },
+    {
+      "title": "The Number of The Beast",
+      "type": "beast",
+      "text": "His number is six hundred and sixty-six",
+      "dates": [
+        "2021-07-24"
       ]
     }
   ]

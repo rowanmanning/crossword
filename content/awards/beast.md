@@ -39,7 +39,14 @@
       "dates": [
         "2021-07-20"
       ]
+    },
+    {
+      "person": "Lily2point0",
+      "count": 1,
+      "dates": [
+        "2021-07-24"
+      ]
     }
   ],
-  "totalUnlocks": 6
+  "totalUnlocks": 7
 }

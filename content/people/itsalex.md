@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "itsalex",
+      "leaderboard": "2021-07-25",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "itsalex",
       "leaderboard": "2021-07-24",
       "minutes": 1,
       "seconds": 51,
@@ -300,7 +309,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 89,
+  "awardCount": 90,
   "awards": [
     {
       "title": "Gold",
@@ -334,7 +343,8 @@
       "type": "silver",
       "text": "Get the second fastest time for a day",
       "dates": [
-        "2021-07-21"
+        "2021-07-21",
+        "2021-07-24"
       ]
     },
     {

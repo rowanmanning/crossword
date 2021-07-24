@@ -74,19 +74,20 @@
       ]
     },
     {
+      "person": "itsalex",
+      "count": 2,
+      "dates": [
+        "2021-07-21",
+        "2021-07-24"
+      ]
+    },
+    {
       "person": "Lily2point0",
       "count": 1,
       "dates": [
         "2021-06-22"
       ]
-    },
-    {
-      "person": "itsalex",
-      "count": 1,
-      "dates": [
-        "2021-07-21"
-      ]
     }
   ],
-  "totalUnlocks": 35
+  "totalUnlocks": 36
 }
