@@ -5,11 +5,11 @@
     {
       "person": "apaleslimghost",
       "leaderboard": "2021-07-25",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 23,
+      "totalSeconds": 23,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "apaleslimghost",
@@ -311,23 +311,23 @@
   ],
   "best": {
     "person": "apaleslimghost",
-    "leaderboard": "2021-07-11",
+    "leaderboard": "2021-07-25",
     "minutes": 0,
-    "seconds": 24,
-    "totalSeconds": 24,
-    "position": 2,
+    "seconds": 23,
+    "totalSeconds": 23,
+    "position": 1,
     "isPending": false
   },
   "mean": {
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 15,
-    "totalSeconds": 75,
+    "seconds": 13,
+    "totalSeconds": 73,
     "position": null,
     "isPending": false
   },
-  "awardCount": 62,
+  "awardCount": 66,
   "awards": [
     {
       "title": "Gold",
@@ -426,7 +426,8 @@
         "2021-07-18",
         "2021-07-19",
         "2021-07-20",
-        "2021-07-22"
+        "2021-07-22",
+        "2021-07-25"
       ]
     },
     {
@@ -443,7 +444,8 @@
         "2021-07-13",
         "2021-07-18",
         "2021-07-19",
-        "2021-07-22"
+        "2021-07-22",
+        "2021-07-25"
       ]
     },
     {
@@ -455,7 +457,8 @@
         "2021-07-08",
         "2021-07-11",
         "2021-07-13",
-        "2021-07-22"
+        "2021-07-22",
+        "2021-07-25"
       ]
     },
     {
@@ -463,7 +466,8 @@
       "type": "sub-30",
       "text": "Complete a puzzle in less than 30 seconds",
       "dates": [
-        "2021-07-11"
+        "2021-07-11",
+        "2021-07-25"
       ]
     },
     {
