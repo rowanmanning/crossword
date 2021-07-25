@@ -12,6 +12,10 @@
 		"seconds": 42
 	},
 	{
+		"name": "Rowan M",
+		"seconds": 42
+	},
+	{
 		"name": "Ania",
 		"seconds": 53
 	},
@@ -45,10 +49,6 @@
 	},
 	{
 		"name": "Oliver Turner",
-		"seconds": null
-	},
-	{
-		"name": "Rowan M",
 		"seconds": null
 	}
 ]
