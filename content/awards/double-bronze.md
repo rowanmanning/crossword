@@ -33,7 +33,14 @@
       "dates": [
         "2021-07-20"
       ]
+    },
+    {
+      "person": "varjmes",
+      "count": 1,
+      "dates": [
+        "2021-07-25"
+      ]
     }
   ],
-  "totalUnlocks": 6
+  "totalUnlocks": 7
 }
