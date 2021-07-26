@@ -46,6 +46,15 @@
 													</li>
 												{{ end }}
 											{{ end }}
+											{{ range .Params.awards }}
+												{{ if and (in .dates $leaderboard.Title) (ne (index .dates 0) $leaderboard.Title) }}
+													<li class="leaderboard-table__award leaderboard-table__award--duplicate">
+														<a href="{{ $permalink }}#award-{{ .type }}">
+															<img src="/awards/{{ .type }}.svg" alt="{{ .title }}: {{ .text }}" class="leaderboard-table__award-icon" title="{{ .title }}: {{ .text }}" />
+														</a>
+													</li>
+												{{ end }}
+											{{ end }}
 										{{ end }}
 									{{ end }}
 								</ul>

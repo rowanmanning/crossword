@@ -44,6 +44,11 @@
 	}
 }
 
+// Leaderboard table award element, "duplicate" modifier
+.leaderboard-table__award--duplicate {
+	opacity: 0.2;
+}
+
 // Leaderboard table award icon element
 .leaderboard-table__award-icon {
 	width: var(--spacing-line);
