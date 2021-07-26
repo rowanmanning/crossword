@@ -6,7 +6,7 @@ menu:
     weight: 20
 sort:
   property: "Date"
-  direction: "asc"
+  direction: "desc"
 ---
 
 All leaderboards by date.
