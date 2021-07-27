@@ -5,11 +5,11 @@
     {
       "person": "apaleslimghost",
       "leaderboard": "2021-07-27",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 3,
+      "totalSeconds": 63,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "apaleslimghost",
@@ -345,7 +345,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 67,
+  "awardCount": 69,
   "awards": [
     {
       "title": "Gold",
@@ -417,7 +417,8 @@
       "text": "Double your completion time from one day to the next",
       "dates": [
         "2021-07-01",
-        "2021-07-09"
+        "2021-07-09",
+        "2021-07-27"
       ]
     },
     {
@@ -446,7 +447,8 @@
         "2021-07-19",
         "2021-07-20",
         "2021-07-22",
-        "2021-07-25"
+        "2021-07-25",
+        "2021-07-27"
       ]
     },
     {
