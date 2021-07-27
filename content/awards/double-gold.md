@@ -36,7 +36,14 @@
       "dates": [
         "2021-07-04"
       ]
+    },
+    {
+      "person": "cb",
+      "count": 1,
+      "dates": [
+        "2021-07-26"
+      ]
     }
   ],
-  "totalUnlocks": 9
+  "totalUnlocks": 10
 }
