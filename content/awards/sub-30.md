@@ -33,6 +33,14 @@
       ]
     },
     {
+      "person": "Oliver Turner",
+      "count": 2,
+      "dates": [
+        "2021-06-29",
+        "2021-07-27"
+      ]
+    },
+    {
       "person": "itsalex",
       "count": 2,
       "dates": [
@@ -54,14 +62,7 @@
       "dates": [
         "2021-06-23"
       ]
-    },
-    {
-      "person": "Oliver Turner",
-      "count": 1,
-      "dates": [
-        "2021-06-29"
-      ]
     }
   ],
-  "totalUnlocks": 16
+  "totalUnlocks": 17
 }

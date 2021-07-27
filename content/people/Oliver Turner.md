@@ -5,11 +5,11 @@
     {
       "person": "Oliver Turner",
       "leaderboard": "2021-07-27",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 27,
+      "totalSeconds": 27,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "Oliver Turner",
@@ -322,12 +322,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 58,
-    "totalSeconds": 58,
+    "seconds": 57,
+    "totalSeconds": 57,
     "position": null,
     "isPending": false
   },
-  "awardCount": 85,
+  "awardCount": 89,
   "awards": [
     {
       "title": "Gold",
@@ -447,7 +447,8 @@
         "2021-07-20",
         "2021-07-22",
         "2021-07-23",
-        "2021-07-26"
+        "2021-07-26",
+        "2021-07-27"
       ]
     },
     {
@@ -472,7 +473,8 @@
         "2021-07-20",
         "2021-07-22",
         "2021-07-23",
-        "2021-07-26"
+        "2021-07-26",
+        "2021-07-27"
       ]
     },
     {
@@ -488,7 +490,8 @@
         "2021-07-20",
         "2021-07-22",
         "2021-07-23",
-        "2021-07-26"
+        "2021-07-26",
+        "2021-07-27"
       ]
     },
     {
@@ -496,7 +499,8 @@
       "type": "sub-30",
       "text": "Complete a puzzle in less than 30 seconds",
       "dates": [
-        "2021-06-29"
+        "2021-06-29",
+        "2021-07-27"
       ]
     },
     {
