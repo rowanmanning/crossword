@@ -5,11 +5,11 @@
     {
       "person": "cb",
       "leaderboard": "2021-07-27",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 59,
+      "totalSeconds": 119,
+      "position": 8,
+      "isPending": false
     },
     {
       "person": "cb",
@@ -277,12 +277,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 55,
-    "totalSeconds": 55,
+    "seconds": 58,
+    "totalSeconds": 58,
     "position": null,
     "isPending": false
   },
-  "awardCount": 98,
+  "awardCount": 101,
   "awards": [
     {
       "title": "Gold",
@@ -384,7 +384,8 @@
         "2021-07-07",
         "2021-07-09",
         "2021-07-12",
-        "2021-07-17"
+        "2021-07-17",
+        "2021-07-27"
       ]
     },
     {
@@ -417,7 +418,8 @@
         "2021-07-21",
         "2021-07-22",
         "2021-07-25",
-        "2021-07-26"
+        "2021-07-26",
+        "2021-07-27"
       ]
     },
     {
@@ -481,7 +483,8 @@
       "type": "three-day-streak",
       "text": "Play for three days in a row",
       "dates": [
-        "2021-07-01"
+        "2021-07-01",
+        "2021-07-27"
       ]
     },
     {
