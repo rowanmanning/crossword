@@ -66,6 +66,14 @@
       ]
     },
     {
+      "person": "varjmes",
+      "count": 2,
+      "dates": [
+        "2021-06-25",
+        "2021-07-28"
+      ]
+    },
+    {
       "person": "cb",
       "count": 2,
       "dates": [
@@ -82,13 +90,6 @@
       ]
     },
     {
-      "person": "varjmes",
-      "count": 1,
-      "dates": [
-        "2021-06-25"
-      ]
-    },
-    {
       "person": "Ania",
       "count": 1,
       "dates": [
@@ -101,7 +102,14 @@
       "dates": [
         "2021-07-13"
       ]
+    },
+    {
+      "person": "Emma L",
+      "count": 1,
+      "dates": [
+        "2021-07-28"
+      ]
     }
   ],
-  "totalUnlocks": 32
+  "totalUnlocks": 34
 }

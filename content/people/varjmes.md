@@ -5,11 +5,11 @@
     {
       "person": "varjmes",
       "leaderboard": "2021-07-28",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 1,
+      "totalSeconds": 61,
+      "position": 4,
+      "isPending": false
     },
     {
       "person": "varjmes",
@@ -358,12 +358,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 36,
-    "totalSeconds": 96,
+    "seconds": 35,
+    "totalSeconds": 95,
     "position": null,
     "isPending": false
   },
-  "awardCount": 95,
+  "awardCount": 97,
   "awards": [
     {
       "title": "Gold",
@@ -498,7 +498,8 @@
         "2021-07-23",
         "2021-07-25",
         "2021-07-26",
-        "2021-07-27"
+        "2021-07-27",
+        "2021-07-28"
       ]
     },
     {
@@ -574,7 +575,8 @@
       "type": "twinning",
       "text": "Get the same time as another person",
       "dates": [
-        "2021-06-25"
+        "2021-06-25",
+        "2021-07-28"
       ]
     },
     {

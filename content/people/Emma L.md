@@ -5,11 +5,11 @@
     {
       "person": "Emma L",
       "leaderboard": "2021-07-28",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 1,
+      "totalSeconds": 61,
+      "position": 4,
+      "isPending": false
     },
     {
       "person": "Emma L",
@@ -43,12 +43,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 6,
-    "totalSeconds": 66,
+    "seconds": 4,
+    "totalSeconds": 64,
     "position": null,
     "isPending": false
   },
-  "awardCount": 3,
+  "awardCount": 6,
   "awards": [
     {
       "title": "Sub Two Minutes",
@@ -56,7 +56,8 @@
       "text": "Complete a puzzle in less than two minutes",
       "dates": [
         "2021-07-26",
-        "2021-07-27"
+        "2021-07-27",
+        "2021-07-28"
       ]
     },
     {
@@ -65,6 +66,22 @@
       "text": "Complete a puzzle in less than a minute",
       "dates": [
         "2021-07-27"
+      ]
+    },
+    {
+      "title": "Three Day Streak",
+      "type": "three-day-streak",
+      "text": "Play for three days in a row",
+      "dates": [
+        "2021-07-28"
+      ]
+    },
+    {
+      "title": "Twinning",
+      "type": "twinning",
+      "text": "Get the same time as another person",
+      "dates": [
+        "2021-07-28"
       ]
     }
   ]
