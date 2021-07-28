@@ -68,19 +68,20 @@
       ]
     },
     {
+      "person": "itsalex",
+      "count": 3,
+      "dates": [
+        "2021-07-21",
+        "2021-07-24",
+        "2021-07-27"
+      ]
+    },
+    {
       "person": "varjmes",
       "count": 2,
       "dates": [
         "2021-07-07",
         "2021-07-13"
-      ]
-    },
-    {
-      "person": "itsalex",
-      "count": 2,
-      "dates": [
-        "2021-07-21",
-        "2021-07-24"
       ]
     },
     {
@@ -91,5 +92,5 @@
       ]
     }
   ],
-  "totalUnlocks": 38
+  "totalUnlocks": 39
 }
