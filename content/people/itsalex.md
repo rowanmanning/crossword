@@ -5,11 +5,11 @@
     {
       "person": "itsalex",
       "leaderboard": "2021-07-28",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 15,
+      "totalSeconds": 15,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "itsalex",
@@ -320,10 +320,10 @@
   ],
   "best": {
     "person": "itsalex",
-    "leaderboard": "2021-07-18",
+    "leaderboard": "2021-07-28",
     "minutes": 0,
-    "seconds": 21,
-    "totalSeconds": 21,
+    "seconds": 15,
+    "totalSeconds": 15,
     "position": 1,
     "isPending": false
   },
@@ -331,12 +331,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 22,
-    "totalSeconds": 82,
+    "seconds": 20,
+    "totalSeconds": 80,
     "position": null,
     "isPending": false
   },
-  "awardCount": 104,
+  "awardCount": 110,
   "awards": [
     {
       "title": "Gold",
@@ -404,7 +404,8 @@
         "2021-07-09",
         "2021-07-14",
         "2021-07-18",
-        "2021-07-25"
+        "2021-07-25",
+        "2021-07-28"
       ]
     },
     {
@@ -460,7 +461,8 @@
         "2021-07-24",
         "2021-07-25",
         "2021-07-26",
-        "2021-07-27"
+        "2021-07-27",
+        "2021-07-28"
       ]
     },
     {
@@ -482,7 +484,8 @@
         "2021-07-23",
         "2021-07-25",
         "2021-07-26",
-        "2021-07-27"
+        "2021-07-27",
+        "2021-07-28"
       ]
     },
     {
@@ -501,7 +504,8 @@
         "2021-07-23",
         "2021-07-25",
         "2021-07-26",
-        "2021-07-27"
+        "2021-07-27",
+        "2021-07-28"
       ]
     },
     {
@@ -510,7 +514,16 @@
       "text": "Complete a puzzle in less than 30 seconds",
       "dates": [
         "2021-07-09",
-        "2021-07-18"
+        "2021-07-18",
+        "2021-07-28"
+      ]
+    },
+    {
+      "title": "Sub 20 Seconds",
+      "type": "sub-20",
+      "text": "Complete a puzzle in less than 20 seconds",
+      "dates": [
+        "2021-07-28"
       ]
     },
     {
