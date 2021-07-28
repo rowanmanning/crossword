@@ -5,11 +5,11 @@
     {
       "person": "joelcarr",
       "leaderboard": "2021-07-28",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 3,
+      "seconds": 14,
+      "totalSeconds": 194,
+      "position": 4,
+      "isPending": false
     },
     {
       "person": "joelcarr",
@@ -363,7 +363,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 36,
+  "awardCount": 37,
   "awards": [
     {
       "title": "Bronze",
@@ -474,6 +474,14 @@
       "text": "Join us",
       "dates": [
         "2021-06-24"
+      ]
+    },
+    {
+      "title": "Pi",
+      "type": "pi",
+      "text": "3.141 592 653 589 793 238 462 643…",
+      "dates": [
+        "2021-07-28"
       ]
     },
     {
