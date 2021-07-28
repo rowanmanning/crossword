@@ -5,11 +5,11 @@
     {
       "person": "j-sheps",
       "leaderboard": "2021-07-28",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 3,
+      "totalSeconds": 63,
+      "position": 6,
+      "isPending": false
     },
     {
       "person": "j-sheps",
@@ -363,7 +363,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 116,
+  "awardCount": 118,
   "awards": [
     {
       "title": "Gold",
@@ -514,7 +514,8 @@
         "2021-07-22",
         "2021-07-23",
         "2021-07-25",
-        "2021-07-26"
+        "2021-07-26",
+        "2021-07-28"
       ]
     },
     {
@@ -604,7 +605,8 @@
       "text": "Get the same time as another person",
       "dates": [
         "2021-06-22",
-        "2021-07-06"
+        "2021-07-06",
+        "2021-07-28"
       ]
     }
   ]

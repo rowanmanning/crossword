@@ -8,7 +8,7 @@
       "minutes": 1,
       "seconds": 3,
       "totalSeconds": 63,
-      "position": 5,
+      "position": 6,
       "isPending": false
     },
     {
@@ -363,7 +363,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 75,
+  "awardCount": 76,
   "awards": [
     {
       "title": "Gold",
@@ -537,7 +537,8 @@
       "type": "twinning",
       "text": "Get the same time as another person",
       "dates": [
-        "2021-07-08"
+        "2021-07-08",
+        "2021-07-28"
       ]
     },
     {
