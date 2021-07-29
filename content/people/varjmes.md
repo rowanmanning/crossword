@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "varjmes",
+      "leaderboard": "2021-07-29",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "varjmes",
       "leaderboard": "2021-07-28",
       "minutes": 1,
       "seconds": 1,
@@ -363,7 +372,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 97,
+  "awardCount": 98,
   "awards": [
     {
       "title": "Gold",
@@ -585,7 +594,8 @@
       "text": "His number is six hundred and sixty-six",
       "dates": [
         "2021-06-27",
-        "2021-07-12"
+        "2021-07-12",
+        "2021-07-28"
       ]
     }
   ]

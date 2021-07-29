@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "leaf",
+      "leaderboard": "2021-07-29",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "leaf",
       "leaderboard": "2021-07-28",
       "minutes": 0,
       "seconds": 52,
@@ -363,8 +372,16 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 63,
+  "awardCount": 64,
   "awards": [
+    {
+      "title": "Bronze",
+      "type": "bronze",
+      "text": "Get the third fastest time for a day",
+      "dates": [
+        "2021-07-28"
+      ]
+    },
     {
       "title": "Consistent Position ×2",
       "type": "consistent-2",
