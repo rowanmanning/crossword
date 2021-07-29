@@ -5,11 +5,11 @@
     {
       "person": "Emma L",
       "leaderboard": "2021-07-29",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 31,
+      "totalSeconds": 31,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "Emma L",
@@ -41,23 +41,23 @@
   ],
   "best": {
     "person": "Emma L",
-    "leaderboard": "2021-07-27",
+    "leaderboard": "2021-07-29",
     "minutes": 0,
-    "seconds": 59,
-    "totalSeconds": 59,
-    "position": 4,
+    "seconds": 31,
+    "totalSeconds": 31,
+    "position": 1,
     "isPending": false
   },
   "mean": {
     "person": null,
     "leaderboard": null,
-    "minutes": 1,
-    "seconds": 4,
-    "totalSeconds": 64,
+    "minutes": 0,
+    "seconds": 56,
+    "totalSeconds": 56,
     "position": null,
     "isPending": false
   },
-  "awardCount": 6,
+  "awardCount": 9,
   "awards": [
     {
       "title": "Sub Two Minutes",
@@ -66,7 +66,8 @@
       "dates": [
         "2021-07-26",
         "2021-07-27",
-        "2021-07-28"
+        "2021-07-28",
+        "2021-07-29"
       ]
     },
     {
@@ -74,7 +75,16 @@
       "type": "sub-60",
       "text": "Complete a puzzle in less than a minute",
       "dates": [
-        "2021-07-27"
+        "2021-07-27",
+        "2021-07-29"
+      ]
+    },
+    {
+      "title": "Sub 45 Seconds",
+      "type": "sub-45",
+      "text": "Complete a puzzle in less than 45 seconds",
+      "dates": [
+        "2021-07-29"
       ]
     },
     {
