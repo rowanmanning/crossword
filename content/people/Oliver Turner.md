@@ -5,11 +5,11 @@
     {
       "person": "Oliver Turner",
       "leaderboard": "2021-07-29",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 33,
+      "totalSeconds": 33,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "Oliver Turner",
@@ -340,12 +340,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 57,
-    "totalSeconds": 57,
+    "seconds": 56,
+    "totalSeconds": 56,
     "position": null,
     "isPending": false
   },
-  "awardCount": 90,
+  "awardCount": 93,
   "awards": [
     {
       "title": "Gold",
@@ -467,7 +467,8 @@
         "2021-07-22",
         "2021-07-23",
         "2021-07-26",
-        "2021-07-27"
+        "2021-07-27",
+        "2021-07-29"
       ]
     },
     {
@@ -493,7 +494,8 @@
         "2021-07-22",
         "2021-07-23",
         "2021-07-26",
-        "2021-07-27"
+        "2021-07-27",
+        "2021-07-29"
       ]
     },
     {
@@ -510,7 +512,8 @@
         "2021-07-22",
         "2021-07-23",
         "2021-07-26",
-        "2021-07-27"
+        "2021-07-27",
+        "2021-07-29"
       ]
     },
     {
