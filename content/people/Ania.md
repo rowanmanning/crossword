@@ -5,11 +5,11 @@
     {
       "person": "Ania",
       "leaderboard": "2021-07-30",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 42,
+      "totalSeconds": 42,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "Ania",
@@ -375,13 +375,13 @@
   "mean": {
     "person": null,
     "leaderboard": null,
-    "minutes": 2,
-    "seconds": 0,
-    "totalSeconds": 120,
+    "minutes": 1,
+    "seconds": 58,
+    "totalSeconds": 118,
     "position": null,
     "isPending": false
   },
-  "awardCount": 78,
+  "awardCount": 82,
   "awards": [
     {
       "title": "Gold",
@@ -485,7 +485,8 @@
         "2021-07-25",
         "2021-07-26",
         "2021-07-28",
-        "2021-07-29"
+        "2021-07-29",
+        "2021-07-30"
       ]
     },
     {
@@ -504,7 +505,8 @@
         "2021-07-13",
         "2021-07-21",
         "2021-07-25",
-        "2021-07-29"
+        "2021-07-29",
+        "2021-07-30"
       ]
     },
     {
@@ -516,7 +518,8 @@
         "2021-07-05",
         "2021-07-06",
         "2021-07-08",
-        "2021-07-11"
+        "2021-07-11",
+        "2021-07-30"
       ]
     },
     {
@@ -558,7 +561,8 @@
       "text": "Get the same time as another person",
       "dates": [
         "2021-07-08",
-        "2021-07-28"
+        "2021-07-28",
+        "2021-07-30"
       ]
     },
     {
