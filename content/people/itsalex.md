@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "itsalex",
+      "leaderboard": "2021-07-30",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "itsalex",
       "leaderboard": "2021-07-29",
       "minutes": 0,
       "seconds": 38,
@@ -345,7 +354,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 117,
+  "awardCount": 118,
   "awards": [
     {
       "title": "Gold",
@@ -391,7 +400,8 @@
       "text": "Get the third fastest time for a day",
       "dates": [
         "2021-06-29",
-        "2021-07-26"
+        "2021-07-26",
+        "2021-07-29"
       ]
     },
     {
