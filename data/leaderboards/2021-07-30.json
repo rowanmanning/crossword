@@ -1,11 +1,19 @@
 [
 	{
+		"name": "Rowan M",
+		"seconds": 29
+	},
+	{
 		"name": "Ania",
 		"seconds": 42
 	},
 	{
 		"name": "Oliver Turner",
 		"seconds": 42
+	},
+	{
+		"name": "j-sheps",
+		"seconds": 45
 	},
 	{
 		"name": "itsalex",
@@ -44,15 +52,7 @@
 		"seconds": null
 	},
 	{
-		"name": "j-sheps",
-		"seconds": null
-	},
-	{
 		"name": "leaf",
-		"seconds": null
-	},
-	{
-		"name": "Rowan M",
 		"seconds": null
 	}
 ]

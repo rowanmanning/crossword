@@ -5,11 +5,11 @@
     {
       "person": "j-sheps",
       "leaderboard": "2021-07-30",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 45,
+      "totalSeconds": 45,
+      "position": 3,
+      "isPending": false
     },
     {
       "person": "j-sheps",
@@ -376,12 +376,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 9,
-    "totalSeconds": 69,
+    "seconds": 8,
+    "totalSeconds": 68,
     "position": null,
     "isPending": false
   },
-  "awardCount": 119,
+  "awardCount": 122,
   "awards": [
     {
       "title": "Gold",
@@ -534,7 +534,8 @@
         "2021-07-25",
         "2021-07-26",
         "2021-07-28",
-        "2021-07-29"
+        "2021-07-29",
+        "2021-07-30"
       ]
     },
     {
@@ -560,7 +561,8 @@
         "2021-07-21",
         "2021-07-22",
         "2021-07-23",
-        "2021-07-26"
+        "2021-07-26",
+        "2021-07-30"
       ]
     },
     {
@@ -599,7 +601,8 @@
       "type": "three-day-streak",
       "text": "Play for three days in a row",
       "dates": [
-        "2021-06-23"
+        "2021-06-23",
+        "2021-07-30"
       ]
     },
     {

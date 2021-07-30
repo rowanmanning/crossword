@@ -5,11 +5,11 @@
     {
       "person": "Rowan M",
       "leaderboard": "2021-07-30",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 29,
+      "totalSeconds": 29,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "Rowan M",
@@ -376,12 +376,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 4,
-    "totalSeconds": 64,
+    "seconds": 3,
+    "totalSeconds": 63,
     "position": null,
     "isPending": false
   },
-  "awardCount": 127,
+  "awardCount": 132,
   "awards": [
     {
       "title": "Gold",
@@ -485,7 +485,8 @@
         "2021-06-27",
         "2021-07-11",
         "2021-07-16",
-        "2021-07-25"
+        "2021-07-25",
+        "2021-07-30"
       ]
     },
     {
@@ -549,7 +550,8 @@
         "2021-07-26",
         "2021-07-27",
         "2021-07-28",
-        "2021-07-29"
+        "2021-07-29",
+        "2021-07-30"
       ]
     },
     {
@@ -581,7 +583,8 @@
         "2021-07-22",
         "2021-07-23",
         "2021-07-25",
-        "2021-07-26"
+        "2021-07-26",
+        "2021-07-30"
       ]
     },
     {
@@ -600,7 +603,8 @@
         "2021-07-16",
         "2021-07-21",
         "2021-07-22",
-        "2021-07-25"
+        "2021-07-25",
+        "2021-07-30"
       ]
     },
     {
@@ -608,7 +612,8 @@
       "type": "sub-30",
       "text": "Complete a puzzle in less than 30 seconds",
       "dates": [
-        "2021-06-23"
+        "2021-06-23",
+        "2021-07-30"
       ]
     },
     {
