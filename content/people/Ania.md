@@ -5,11 +5,11 @@
     {
       "person": "Ania",
       "leaderboard": "2021-07-31",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 7,
+      "seconds": 31,
+      "totalSeconds": 451,
+      "position": 2,
+      "isPending": false
     },
     {
       "person": "Ania",
@@ -384,13 +384,13 @@
   "mean": {
     "person": null,
     "leaderboard": null,
-    "minutes": 1,
-    "seconds": 58,
-    "totalSeconds": 118,
+    "minutes": 2,
+    "seconds": 7,
+    "totalSeconds": 127,
     "position": null,
     "isPending": false
   },
-  "awardCount": 83,
+  "awardCount": 85,
   "awards": [
     {
       "title": "Gold",
@@ -469,7 +469,8 @@
         "2021-07-14",
         "2021-07-22",
         "2021-07-24",
-        "2021-07-27"
+        "2021-07-27",
+        "2021-07-31"
       ]
     },
     {
@@ -537,7 +538,8 @@
       "type": "over-300",
       "text": "Complete a puzzle in more than 5 minutes",
       "dates": [
-        "2021-06-26"
+        "2021-06-26",
+        "2021-07-31"
       ]
     },
     {
