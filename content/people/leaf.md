@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "leaf",
+      "leaderboard": "2021-07-31",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "leaf",
       "leaderboard": "2021-07-30",
       "minutes": 0,
       "seconds": 56,
@@ -381,7 +390,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 67,
+  "awardCount": 68,
   "awards": [
     {
       "title": "Bronze",
@@ -545,7 +554,8 @@
       "type": "beast",
       "text": "His number is six hundred and sixty-six",
       "dates": [
-        "2021-07-17"
+        "2021-07-17",
+        "2021-07-30"
       ]
     }
   ]
