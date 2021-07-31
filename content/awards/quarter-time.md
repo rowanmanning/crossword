@@ -88,7 +88,14 @@
       "dates": [
         "2021-07-21"
       ]
+    },
+    {
+      "person": "Lily2point0",
+      "count": 1,
+      "dates": [
+        "2021-08-01"
+      ]
     }
   ],
-  "totalUnlocks": 19
+  "totalUnlocks": 20
 }
