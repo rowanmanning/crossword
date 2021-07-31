@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "apaleslimghost",
+      "leaderboard": "2021-08-01",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "apaleslimghost",
       "leaderboard": "2021-07-31",
       "minutes": 5,
       "seconds": 49,
@@ -381,7 +390,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 77,
+  "awardCount": 78,
   "awards": [
     {
       "title": "Gold",
@@ -577,6 +586,14 @@
       "text": "Join us",
       "dates": [
         "2021-07-15"
+      ]
+    },
+    {
+      "title": "The Number of The Beast",
+      "type": "beast",
+      "text": "His number is six hundred and sixty-six",
+      "dates": [
+        "2021-07-31"
       ]
     }
   ]

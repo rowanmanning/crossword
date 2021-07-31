@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "Lily2point0",
+      "leaderboard": "2021-08-01",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "Lily2point0",
       "leaderboard": "2021-07-31",
       "minutes": 3,
       "seconds": 51,
@@ -390,14 +399,15 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 78,
+  "awardCount": 79,
   "awards": [
     {
       "title": "Silver",
       "type": "silver",
       "text": "Get the second fastest time for a day",
       "dates": [
-        "2021-06-22"
+        "2021-06-22",
+        "2021-07-31"
       ]
     },
     {

@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "leaf",
+      "leaderboard": "2021-08-01",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "leaf",
       "leaderboard": "2021-07-31",
       "minutes": 3,
       "seconds": 51,
@@ -390,8 +399,16 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 71,
+  "awardCount": 72,
   "awards": [
+    {
+      "title": "Silver",
+      "type": "silver",
+      "text": "Get the second fastest time for a day",
+      "dates": [
+        "2021-07-31"
+      ]
+    },
     {
       "title": "Bronze",
       "type": "bronze",

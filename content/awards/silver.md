@@ -80,6 +80,14 @@
       ]
     },
     {
+      "person": "Lily2point0",
+      "count": 2,
+      "dates": [
+        "2021-06-22",
+        "2021-07-31"
+      ]
+    },
+    {
       "person": "varjmes",
       "count": 2,
       "dates": [
@@ -88,12 +96,12 @@
       ]
     },
     {
-      "person": "Lily2point0",
+      "person": "leaf",
       "count": 1,
       "dates": [
-        "2021-06-22"
+        "2021-07-31"
       ]
     }
   ],
-  "totalUnlocks": 42
+  "totalUnlocks": 44
 }

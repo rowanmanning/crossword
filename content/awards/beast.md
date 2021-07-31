@@ -49,7 +49,14 @@
       "dates": [
         "2021-07-24"
       ]
+    },
+    {
+      "person": "apaleslimghost",
+      "count": 1,
+      "dates": [
+        "2021-07-31"
+      ]
     }
   ],
-  "totalUnlocks": 10
+  "totalUnlocks": 11
 }
