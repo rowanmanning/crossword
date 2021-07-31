@@ -5,11 +5,11 @@
     {
       "person": "apaleslimghost",
       "leaderboard": "2021-07-31",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 5,
+      "seconds": 49,
+      "totalSeconds": 349,
+      "position": 6,
+      "isPending": false
     },
     {
       "person": "apaleslimghost",
@@ -376,12 +376,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 11,
-    "totalSeconds": 71,
+    "seconds": 21,
+    "totalSeconds": 81,
     "position": null,
     "isPending": false
   },
-  "awardCount": 75,
+  "awardCount": 77,
   "awards": [
     {
       "title": "Gold",
@@ -455,7 +455,8 @@
       "dates": [
         "2021-07-01",
         "2021-07-09",
-        "2021-07-27"
+        "2021-07-27",
+        "2021-07-31"
       ]
     },
     {
@@ -530,6 +531,14 @@
       "dates": [
         "2021-07-11",
         "2021-07-25"
+      ]
+    },
+    {
+      "title": "Over Five Minutes",
+      "type": "over-300",
+      "text": "Complete a puzzle in more than 5 minutes",
+      "dates": [
+        "2021-07-31"
       ]
     },
     {

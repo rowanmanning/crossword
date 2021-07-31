@@ -35,9 +35,17 @@
     },
     {
       "person": "itsalex",
+      "count": 2,
+      "dates": [
+        "2021-07-17",
+        "2021-07-31"
+      ]
+    },
+    {
+      "person": "apaleslimghost",
       "count": 1,
       "dates": [
-        "2021-07-17"
+        "2021-07-31"
       ]
     },
     {
@@ -55,5 +63,5 @@
       ]
     }
   ],
-  "totalUnlocks": 14
+  "totalUnlocks": 16
 }
