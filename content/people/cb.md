@@ -5,11 +5,11 @@
     {
       "person": "cb",
       "leaderboard": "2021-07-31",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 5,
+      "seconds": 9,
+      "totalSeconds": 309,
+      "position": 4,
+      "isPending": false
     },
     {
       "person": "cb",
@@ -312,13 +312,13 @@
   "mean": {
     "person": null,
     "leaderboard": null,
-    "minutes": 0,
-    "seconds": 57,
-    "totalSeconds": 57,
+    "minutes": 1,
+    "seconds": 5,
+    "totalSeconds": 65,
     "position": null,
     "isPending": false
   },
-  "awardCount": 111,
+  "awardCount": 114,
   "awards": [
     {
       "title": "Gold",
@@ -424,7 +424,8 @@
         "2021-07-09",
         "2021-07-12",
         "2021-07-17",
-        "2021-07-27"
+        "2021-07-27",
+        "2021-07-31"
       ]
     },
     {
@@ -525,6 +526,14 @@
       ]
     },
     {
+      "title": "Over Five Minutes",
+      "type": "over-300",
+      "text": "Complete a puzzle in more than 5 minutes",
+      "dates": [
+        "2021-07-31"
+      ]
+    },
+    {
       "title": "Three Day Streak",
       "type": "three-day-streak",
       "text": "Play for three days in a row",
@@ -538,7 +547,8 @@
       "type": "week-streak",
       "text": "Play for a full week without breaks",
       "dates": [
-        "2021-07-05"
+        "2021-07-05",
+        "2021-07-31"
       ]
     },
     {

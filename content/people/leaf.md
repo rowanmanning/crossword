@@ -5,11 +5,11 @@
     {
       "person": "leaf",
       "leaderboard": "2021-07-31",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 3,
+      "seconds": 51,
+      "totalSeconds": 231,
+      "position": 2,
+      "isPending": false
     },
     {
       "person": "leaf",
@@ -385,12 +385,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 46,
-    "totalSeconds": 106,
+    "seconds": 49,
+    "totalSeconds": 109,
     "position": null,
     "isPending": false
   },
-  "awardCount": 68,
+  "awardCount": 71,
   "awards": [
     {
       "title": "Bronze",
@@ -459,7 +459,8 @@
         "2021-07-09",
         "2021-07-12",
         "2021-07-14",
-        "2021-07-24"
+        "2021-07-24",
+        "2021-07-31"
       ]
     },
     {
@@ -531,6 +532,14 @@
       ]
     },
     {
+      "title": "Month-Long Streak",
+      "type": "month-streak",
+      "text": "Play for a full month (30 days) without breaks",
+      "dates": [
+        "2021-07-31"
+      ]
+    },
+    {
       "title": "Twinning",
       "type": "twinning",
       "text": "Get the same time as another person",
@@ -538,7 +547,8 @@
         "2021-07-06",
         "2021-07-10",
         "2021-07-13",
-        "2021-07-19"
+        "2021-07-19",
+        "2021-07-31"
       ]
     },
     {

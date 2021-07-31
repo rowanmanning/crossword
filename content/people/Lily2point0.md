@@ -8,7 +8,7 @@
       "minutes": 3,
       "seconds": 51,
       "totalSeconds": 231,
-      "position": 1,
+      "position": 2,
       "isPending": false
     },
     {
@@ -390,7 +390,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 77,
+  "awardCount": 78,
   "awards": [
     {
       "title": "Silver",
@@ -567,7 +567,8 @@
       "text": "Get the same time as another person",
       "dates": [
         "2021-07-10",
-        "2021-07-18"
+        "2021-07-18",
+        "2021-07-31"
       ]
     },
     {
