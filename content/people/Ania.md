@@ -399,7 +399,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 89,
+  "awardCount": 90,
   "awards": [
     {
       "title": "Gold",
@@ -587,7 +587,8 @@
       "dates": [
         "2021-07-08",
         "2021-07-28",
-        "2021-07-30"
+        "2021-07-30",
+        "2021-08-01"
       ]
     },
     {
