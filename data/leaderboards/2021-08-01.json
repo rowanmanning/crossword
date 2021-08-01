@@ -8,6 +8,10 @@
 		"seconds": 34
 	},
 	{
+		"name": "cb",
+		"seconds": 40
+	},
+	{
 		"name": "Ania",
 		"seconds": 47
 	},
@@ -37,10 +41,6 @@
 	},
 	{
 		"name": "binaryberry",
-		"seconds": null
-	},
-	{
-		"name": "cb",
 		"seconds": null
 	},
 	{
