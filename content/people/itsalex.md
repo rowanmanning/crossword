@@ -5,11 +5,11 @@
     {
       "person": "itsalex",
       "leaderboard": "2021-08-01",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 34,
+      "totalSeconds": 34,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "itsalex",
@@ -367,12 +367,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 26,
-    "totalSeconds": 86,
+    "seconds": 24,
+    "totalSeconds": 84,
     "position": null,
     "isPending": false
   },
-  "awardCount": 122,
+  "awardCount": 127,
   "awards": [
     {
       "title": "Gold",
@@ -459,7 +459,8 @@
         "2021-07-14",
         "2021-07-18",
         "2021-07-25",
-        "2021-07-28"
+        "2021-07-28",
+        "2021-08-01"
       ]
     },
     {
@@ -467,7 +468,8 @@
       "type": "quarter-time",
       "text": "Quarter your completion time from one day to the next",
       "dates": [
-        "2021-07-18"
+        "2021-07-18",
+        "2021-08-01"
       ]
     },
     {
@@ -521,7 +523,8 @@
         "2021-07-27",
         "2021-07-28",
         "2021-07-29",
-        "2021-07-30"
+        "2021-07-30",
+        "2021-08-01"
       ]
     },
     {
@@ -545,7 +548,8 @@
         "2021-07-26",
         "2021-07-27",
         "2021-07-28",
-        "2021-07-29"
+        "2021-07-29",
+        "2021-08-01"
       ]
     },
     {
@@ -566,7 +570,8 @@
         "2021-07-26",
         "2021-07-27",
         "2021-07-28",
-        "2021-07-29"
+        "2021-07-29",
+        "2021-08-01"
       ]
     },
     {
