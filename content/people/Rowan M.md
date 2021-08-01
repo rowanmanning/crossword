@@ -5,11 +5,11 @@
     {
       "person": "Rowan M",
       "leaderboard": "2021-08-01",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 28,
+      "totalSeconds": 28,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "Rowan M",
@@ -394,12 +394,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 7,
-    "totalSeconds": 67,
+    "seconds": 6,
+    "totalSeconds": 66,
     "position": null,
     "isPending": false
   },
-  "awardCount": 135,
+  "awardCount": 141,
   "awards": [
     {
       "title": "Gold",
@@ -506,7 +506,8 @@
         "2021-07-11",
         "2021-07-16",
         "2021-07-25",
-        "2021-07-30"
+        "2021-07-30",
+        "2021-08-01"
       ]
     },
     {
@@ -515,7 +516,8 @@
       "text": "Quarter your completion time from one day to the next",
       "dates": [
         "2021-06-27",
-        "2021-07-11"
+        "2021-07-11",
+        "2021-08-01"
       ]
     },
     {
@@ -572,7 +574,8 @@
         "2021-07-27",
         "2021-07-28",
         "2021-07-29",
-        "2021-07-30"
+        "2021-07-30",
+        "2021-08-01"
       ]
     },
     {
@@ -605,7 +608,8 @@
         "2021-07-23",
         "2021-07-25",
         "2021-07-26",
-        "2021-07-30"
+        "2021-07-30",
+        "2021-08-01"
       ]
     },
     {
@@ -625,7 +629,8 @@
         "2021-07-21",
         "2021-07-22",
         "2021-07-25",
-        "2021-07-30"
+        "2021-07-30",
+        "2021-08-01"
       ]
     },
     {
@@ -634,7 +639,8 @@
       "text": "Complete a puzzle in less than 30 seconds",
       "dates": [
         "2021-06-23",
-        "2021-07-30"
+        "2021-07-30",
+        "2021-08-01"
       ]
     },
     {
