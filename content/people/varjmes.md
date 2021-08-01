@@ -5,11 +5,11 @@
     {
       "person": "varjmes",
       "leaderboard": "2021-08-01",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 56,
+      "totalSeconds": 56,
+      "position": 2,
+      "isPending": false
     },
     {
       "person": "varjmes",
@@ -394,12 +394,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 40,
-    "totalSeconds": 100,
+    "seconds": 39,
+    "totalSeconds": 99,
     "position": null,
     "isPending": false
   },
-  "awardCount": 101,
+  "awardCount": 106,
   "awards": [
     {
       "title": "Gold",
@@ -473,7 +473,8 @@
         "2021-07-16",
         "2021-07-18",
         "2021-07-20",
-        "2021-07-25"
+        "2021-07-25",
+        "2021-08-01"
       ]
     },
     {
@@ -484,7 +485,8 @@
         "2021-07-11",
         "2021-07-13",
         "2021-07-18",
-        "2021-07-25"
+        "2021-07-25",
+        "2021-08-01"
       ]
     },
     {
@@ -538,7 +540,8 @@
         "2021-07-26",
         "2021-07-27",
         "2021-07-28",
-        "2021-07-29"
+        "2021-07-29",
+        "2021-08-01"
       ]
     },
     {
@@ -559,7 +562,8 @@
         "2021-07-18",
         "2021-07-20",
         "2021-07-25",
-        "2021-07-27"
+        "2021-07-27",
+        "2021-08-01"
       ]
     },
     {
@@ -615,7 +619,8 @@
       "text": "Get the same time as another person",
       "dates": [
         "2021-06-25",
-        "2021-07-28"
+        "2021-07-28",
+        "2021-08-01"
       ]
     },
     {
