@@ -5,11 +5,11 @@
     {
       "person": "apaleslimghost",
       "leaderboard": "2021-08-01",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 48,
+      "totalSeconds": 48,
+      "position": 2,
+      "isPending": false
     },
     {
       "person": "apaleslimghost",
@@ -385,12 +385,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 21,
-    "totalSeconds": 81,
+    "seconds": 20,
+    "totalSeconds": 80,
     "position": null,
     "isPending": false
   },
-  "awardCount": 78,
+  "awardCount": 82,
   "awards": [
     {
       "title": "Gold",
@@ -445,7 +445,8 @@
       "dates": [
         "2021-07-05",
         "2021-07-11",
-        "2021-07-18"
+        "2021-07-18",
+        "2021-08-01"
       ]
     },
     {
@@ -454,7 +455,8 @@
       "text": "Quarter your completion time from one day to the next",
       "dates": [
         "2021-07-05",
-        "2021-07-11"
+        "2021-07-11",
+        "2021-08-01"
       ]
     },
     {
@@ -497,7 +499,8 @@
         "2021-07-25",
         "2021-07-27",
         "2021-07-28",
-        "2021-07-29"
+        "2021-07-29",
+        "2021-08-01"
       ]
     },
     {
@@ -517,7 +520,8 @@
         "2021-07-22",
         "2021-07-25",
         "2021-07-28",
-        "2021-07-29"
+        "2021-07-29",
+        "2021-08-01"
       ]
     },
     {
