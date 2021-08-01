@@ -5,11 +5,11 @@
     {
       "person": "j-sheps",
       "leaderboard": "2021-08-01",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 56,
+      "totalSeconds": 56,
+      "position": 2,
+      "isPending": false
     },
     {
       "person": "j-sheps",
@@ -394,12 +394,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 16,
-    "totalSeconds": 76,
+    "seconds": 15,
+    "totalSeconds": 75,
     "position": null,
     "isPending": false
   },
-  "awardCount": 124,
+  "awardCount": 128,
   "awards": [
     {
       "title": "Gold",
@@ -487,7 +487,8 @@
         "2021-07-16",
         "2021-07-18",
         "2021-07-20",
-        "2021-07-25"
+        "2021-07-25",
+        "2021-08-01"
       ]
     },
     {
@@ -496,7 +497,8 @@
       "text": "Quarter your completion time from one day to the next",
       "dates": [
         "2021-06-29",
-        "2021-07-20"
+        "2021-07-20",
+        "2021-08-01"
       ]
     },
     {
@@ -554,7 +556,8 @@
         "2021-07-26",
         "2021-07-28",
         "2021-07-29",
-        "2021-07-30"
+        "2021-07-30",
+        "2021-08-01"
       ]
     },
     {
@@ -581,7 +584,8 @@
         "2021-07-22",
         "2021-07-23",
         "2021-07-26",
-        "2021-07-30"
+        "2021-07-30",
+        "2021-08-01"
       ]
     },
     {
