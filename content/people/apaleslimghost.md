@@ -5,11 +5,11 @@
     {
       "person": "apaleslimghost",
       "leaderboard": "2021-08-02",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 22,
+      "totalSeconds": 22,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "apaleslimghost",
@@ -383,23 +383,23 @@
   ],
   "best": {
     "person": "apaleslimghost",
-    "leaderboard": "2021-07-25",
+    "leaderboard": "2021-08-02",
     "minutes": 0,
-    "seconds": 23,
-    "totalSeconds": 23,
-    "position": 2,
+    "seconds": 22,
+    "totalSeconds": 22,
+    "position": 1,
     "isPending": false
   },
   "mean": {
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 20,
-    "totalSeconds": 80,
+    "seconds": 18,
+    "totalSeconds": 78,
     "position": null,
     "isPending": false
   },
-  "awardCount": 82,
+  "awardCount": 88,
   "awards": [
     {
       "title": "Gold",
@@ -455,7 +455,8 @@
         "2021-07-05",
         "2021-07-11",
         "2021-07-18",
-        "2021-08-01"
+        "2021-08-01",
+        "2021-08-02"
       ]
     },
     {
@@ -509,7 +510,8 @@
         "2021-07-27",
         "2021-07-28",
         "2021-07-29",
-        "2021-08-01"
+        "2021-08-01",
+        "2021-08-02"
       ]
     },
     {
@@ -530,7 +532,8 @@
         "2021-07-25",
         "2021-07-28",
         "2021-07-29",
-        "2021-08-01"
+        "2021-08-01",
+        "2021-08-02"
       ]
     },
     {
@@ -543,7 +546,8 @@
         "2021-07-11",
         "2021-07-13",
         "2021-07-22",
-        "2021-07-25"
+        "2021-07-25",
+        "2021-08-02"
       ]
     },
     {
@@ -552,7 +556,8 @@
       "text": "Complete a puzzle in less than 30 seconds",
       "dates": [
         "2021-07-11",
-        "2021-07-25"
+        "2021-07-25",
+        "2021-08-02"
       ]
     },
     {
@@ -572,7 +577,8 @@
         "2021-07-09",
         "2021-07-15",
         "2021-07-20",
-        "2021-07-29"
+        "2021-07-29",
+        "2021-08-02"
       ]
     },
     {
