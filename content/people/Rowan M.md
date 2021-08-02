@@ -5,11 +5,11 @@
     {
       "person": "Rowan M",
       "leaderboard": "2021-08-02",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 15,
+      "totalSeconds": 15,
+      "position": 2,
+      "isPending": false
     },
     {
       "person": "Rowan M",
@@ -392,23 +392,23 @@
   ],
   "best": {
     "person": "Rowan M",
-    "leaderboard": "2021-06-23",
+    "leaderboard": "2021-08-02",
     "minutes": 0,
-    "seconds": 25,
-    "totalSeconds": 25,
-    "position": 3,
+    "seconds": 15,
+    "totalSeconds": 15,
+    "position": 2,
     "isPending": false
   },
   "mean": {
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 6,
-    "totalSeconds": 66,
+    "seconds": 5,
+    "totalSeconds": 65,
     "position": null,
     "isPending": false
   },
-  "awardCount": 143,
+  "awardCount": 148,
   "awards": [
     {
       "title": "Gold",
@@ -586,7 +586,8 @@
         "2021-07-28",
         "2021-07-29",
         "2021-07-30",
-        "2021-08-01"
+        "2021-08-01",
+        "2021-08-02"
       ]
     },
     {
@@ -620,7 +621,8 @@
         "2021-07-25",
         "2021-07-26",
         "2021-07-30",
-        "2021-08-01"
+        "2021-08-01",
+        "2021-08-02"
       ]
     },
     {
@@ -641,7 +643,8 @@
         "2021-07-22",
         "2021-07-25",
         "2021-07-30",
-        "2021-08-01"
+        "2021-08-01",
+        "2021-08-02"
       ]
     },
     {
@@ -651,7 +654,16 @@
       "dates": [
         "2021-06-23",
         "2021-07-30",
-        "2021-08-01"
+        "2021-08-01",
+        "2021-08-02"
+      ]
+    },
+    {
+      "title": "Sub 20 Seconds",
+      "type": "sub-20",
+      "text": "Complete a puzzle in less than 20 seconds",
+      "dates": [
+        "2021-08-02"
       ]
     },
     {
