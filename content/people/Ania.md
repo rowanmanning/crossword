@@ -5,11 +5,11 @@
     {
       "person": "Ania",
       "leaderboard": "2021-08-02",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 14,
+      "totalSeconds": 14,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "Ania",
@@ -392,23 +392,23 @@
   ],
   "best": {
     "person": "Ania",
-    "leaderboard": "2021-07-11",
+    "leaderboard": "2021-08-02",
     "minutes": 0,
-    "seconds": 34,
-    "totalSeconds": 34,
-    "position": 4,
+    "seconds": 14,
+    "totalSeconds": 14,
+    "position": 1,
     "isPending": false
   },
   "mean": {
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 5,
-    "totalSeconds": 125,
+    "seconds": 2,
+    "totalSeconds": 122,
     "position": null,
     "isPending": false
   },
-  "awardCount": 90,
+  "awardCount": 96,
   "awards": [
     {
       "title": "Gold",
@@ -461,7 +461,8 @@
         "2021-07-23",
         "2021-07-25",
         "2021-07-28",
-        "2021-08-01"
+        "2021-08-01",
+        "2021-08-02"
       ]
     },
     {
@@ -518,7 +519,8 @@
         "2021-07-28",
         "2021-07-29",
         "2021-07-30",
-        "2021-08-01"
+        "2021-08-01",
+        "2021-08-02"
       ]
     },
     {
@@ -539,7 +541,8 @@
         "2021-07-25",
         "2021-07-29",
         "2021-07-30",
-        "2021-08-01"
+        "2021-08-01",
+        "2021-08-02"
       ]
     },
     {
@@ -552,7 +555,24 @@
         "2021-07-06",
         "2021-07-08",
         "2021-07-11",
-        "2021-07-30"
+        "2021-07-30",
+        "2021-08-02"
+      ]
+    },
+    {
+      "title": "Sub 30 Seconds",
+      "type": "sub-30",
+      "text": "Complete a puzzle in less than 30 seconds",
+      "dates": [
+        "2021-08-02"
+      ]
+    },
+    {
+      "title": "Sub 20 Seconds",
+      "type": "sub-20",
+      "text": "Complete a puzzle in less than 20 seconds",
+      "dates": [
+        "2021-08-02"
       ]
     },
     {

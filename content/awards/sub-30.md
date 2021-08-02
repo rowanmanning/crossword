@@ -67,7 +67,14 @@
         "2021-06-29",
         "2021-07-27"
       ]
+    },
+    {
+      "person": "Ania",
+      "count": 1,
+      "dates": [
+        "2021-08-02"
+      ]
     }
   ],
-  "totalUnlocks": 22
+  "totalUnlocks": 23
 }
