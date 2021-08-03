@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "joelcarr",
+      "leaderboard": "2021-08-03",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "joelcarr",
       "leaderboard": "2021-08-02",
       "minutes": 2,
       "seconds": 50,
