@@ -4,6 +4,10 @@
 		"seconds": 23
 	},
 	{
+		"name": "cb",
+		"seconds": 26
+	},
+	{
 		"name": "itsalex",
 		"seconds": 36
 	},
@@ -18,6 +22,10 @@
 	{
 		"name": "Ania",
 		"seconds": 50
+	},
+	{
+		"name": "Rowan M",
+		"seconds": 52
 	},
 	{
 		"name": "leaf",
@@ -44,15 +52,7 @@
 		"seconds": null
 	},
 	{
-		"name": "cb",
-		"seconds": null
-	},
-	{
 		"name": "Oliver Turner",
-		"seconds": null
-	},
-	{
-		"name": "Rowan M",
 		"seconds": null
 	}
 ]
