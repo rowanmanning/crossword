@@ -5,6 +5,14 @@
   "order": "251",
   "unlocks": [
     {
+      "person": "j-sheps",
+      "count": 2,
+      "dates": [
+        "2021-06-27",
+        "2021-08-03"
+      ]
+    },
+    {
       "person": "leaf",
       "count": 2,
       "dates": [
@@ -26,13 +34,6 @@
       "dates": [
         "2021-07-05",
         "2021-07-31"
-      ]
-    },
-    {
-      "person": "j-sheps",
-      "count": 1,
-      "dates": [
-        "2021-06-27"
       ]
     },
     {
@@ -78,5 +79,5 @@
       ]
     }
   ],
-  "totalUnlocks": 13
+  "totalUnlocks": 14
 }

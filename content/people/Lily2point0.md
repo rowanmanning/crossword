@@ -5,11 +5,11 @@
     {
       "person": "Lily2point0",
       "leaderboard": "2021-08-03",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 44,
+      "totalSeconds": 44,
+      "position": 3,
+      "isPending": false
     },
     {
       "person": "Lily2point0",
@@ -412,12 +412,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 41,
-    "totalSeconds": 101,
+    "seconds": 40,
+    "totalSeconds": 100,
     "position": null,
     "isPending": false
   },
-  "awardCount": 84,
+  "awardCount": 88,
   "awards": [
     {
       "title": "Silver",
@@ -488,7 +488,8 @@
         "2021-07-18",
         "2021-07-21",
         "2021-07-25",
-        "2021-08-01"
+        "2021-08-01",
+        "2021-08-03"
       ]
     },
     {
@@ -546,7 +547,8 @@
         "2021-07-29",
         "2021-07-30",
         "2021-08-01",
-        "2021-08-02"
+        "2021-08-02",
+        "2021-08-03"
       ]
     },
     {
@@ -565,7 +567,8 @@
         "2021-07-18",
         "2021-07-21",
         "2021-07-28",
-        "2021-08-01"
+        "2021-08-01",
+        "2021-08-03"
       ]
     },
     {
@@ -574,7 +577,8 @@
       "text": "Complete a puzzle in less than 45 seconds",
       "dates": [
         "2021-06-22",
-        "2021-06-29"
+        "2021-06-29",
+        "2021-08-03"
       ]
     },
     {

@@ -5,11 +5,11 @@
     {
       "person": "j-sheps",
       "leaderboard": "2021-08-03",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 23,
+      "totalSeconds": 23,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "j-sheps",
@@ -401,23 +401,23 @@
   ],
   "best": {
     "person": "j-sheps",
-    "leaderboard": "2021-06-29",
+    "leaderboard": "2021-08-03",
     "minutes": 0,
     "seconds": 23,
     "totalSeconds": 23,
-    "position": 2,
+    "position": 1,
     "isPending": false
   },
   "mean": {
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 15,
-    "totalSeconds": 75,
+    "seconds": 14,
+    "totalSeconds": 74,
     "position": null,
     "isPending": false
   },
-  "awardCount": 131,
+  "awardCount": 137,
   "awards": [
     {
       "title": "Gold",
@@ -514,7 +514,8 @@
         "2021-07-18",
         "2021-07-20",
         "2021-07-25",
-        "2021-08-01"
+        "2021-08-01",
+        "2021-08-03"
       ]
     },
     {
@@ -584,7 +585,8 @@
         "2021-07-29",
         "2021-07-30",
         "2021-08-01",
-        "2021-08-02"
+        "2021-08-02",
+        "2021-08-03"
       ]
     },
     {
@@ -612,7 +614,8 @@
         "2021-07-23",
         "2021-07-26",
         "2021-07-30",
-        "2021-08-01"
+        "2021-08-01",
+        "2021-08-03"
       ]
     },
     {
@@ -633,7 +636,8 @@
         "2021-07-18",
         "2021-07-20",
         "2021-07-22",
-        "2021-07-23"
+        "2021-07-23",
+        "2021-08-03"
       ]
     },
     {
@@ -643,7 +647,8 @@
       "dates": [
         "2021-06-23",
         "2021-06-29",
-        "2021-07-08"
+        "2021-07-08",
+        "2021-08-03"
       ]
     },
     {
@@ -668,7 +673,8 @@
       "type": "week-streak",
       "text": "Play for a full week without breaks",
       "dates": [
-        "2021-06-27"
+        "2021-06-27",
+        "2021-08-03"
       ]
     },
     {
