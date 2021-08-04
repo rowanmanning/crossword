@@ -5,11 +5,11 @@
     {
       "person": "Emma L",
       "leaderboard": "2021-08-04",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 27,
+      "totalSeconds": 27,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "Emma L",
@@ -95,10 +95,10 @@
   ],
   "best": {
     "person": "Emma L",
-    "leaderboard": "2021-07-29",
+    "leaderboard": "2021-08-04",
     "minutes": 0,
-    "seconds": 31,
-    "totalSeconds": 31,
+    "seconds": 27,
+    "totalSeconds": 27,
     "position": 1,
     "isPending": false
   },
@@ -106,12 +106,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 50,
-    "totalSeconds": 50,
+    "seconds": 48,
+    "totalSeconds": 48,
     "position": null,
     "isPending": false
   },
-  "awardCount": 18,
+  "awardCount": 23,
   "awards": [
     {
       "title": "Gold",
@@ -132,7 +132,8 @@
         "2021-07-29",
         "2021-07-30",
         "2021-08-02",
-        "2021-08-03"
+        "2021-08-03",
+        "2021-08-04"
       ]
     },
     {
@@ -144,7 +145,8 @@
         "2021-07-29",
         "2021-07-30",
         "2021-08-02",
-        "2021-08-03"
+        "2021-08-03",
+        "2021-08-04"
       ]
     },
     {
@@ -154,7 +156,16 @@
       "dates": [
         "2021-07-29",
         "2021-08-02",
-        "2021-08-03"
+        "2021-08-03",
+        "2021-08-04"
+      ]
+    },
+    {
+      "title": "Sub 30 Seconds",
+      "type": "sub-30",
+      "text": "Complete a puzzle in less than 30 seconds",
+      "dates": [
+        "2021-08-04"
       ]
     },
     {
@@ -162,7 +173,8 @@
       "type": "three-day-streak",
       "text": "Play for three days in a row",
       "dates": [
-        "2021-07-28"
+        "2021-07-28",
+        "2021-08-04"
       ]
     },
     {

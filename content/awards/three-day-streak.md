@@ -81,6 +81,14 @@
       ]
     },
     {
+      "person": "Emma L",
+      "count": 2,
+      "dates": [
+        "2021-07-28",
+        "2021-08-04"
+      ]
+    },
+    {
       "person": "Lily2point0",
       "count": 1,
       "dates": [
@@ -114,14 +122,7 @@
       "dates": [
         "2021-06-29"
       ]
-    },
-    {
-      "person": "Emma L",
-      "count": 1,
-      "dates": [
-        "2021-07-28"
-      ]
     }
   ],
-  "totalUnlocks": 34
+  "totalUnlocks": 35
 }
