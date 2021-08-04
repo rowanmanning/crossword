@@ -41,7 +41,14 @@
       "dates": [
         "2021-08-02"
       ]
+    },
+    {
+      "person": "varjmes",
+      "count": 1,
+      "dates": [
+        "2021-08-03"
+      ]
     }
   ],
-  "totalUnlocks": 8
+  "totalUnlocks": 9
 }
