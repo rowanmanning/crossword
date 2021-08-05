@@ -12,6 +12,10 @@
 		"seconds": 59
 	},
 	{
+		"name": "leaf",
+		"seconds": 60
+	},
+	{
 		"name": "itsalex",
 		"seconds": 61
 	},
@@ -28,11 +32,11 @@
 		"seconds": 134
 	},
 	{
-		"name": "arjun137",
-		"seconds": null
+		"name": "binaryberry",
+		"seconds": 216
 	},
 	{
-		"name": "binaryberry",
+		"name": "arjun137",
 		"seconds": null
 	},
 	{
@@ -41,10 +45,6 @@
 	},
 	{
 		"name": "j-sheps",
-		"seconds": null
-	},
-	{
-		"name": "leaf",
 		"seconds": null
 	},
 	{
