@@ -8,7 +8,7 @@
       "minutes": 1,
       "seconds": 18,
       "totalSeconds": 78,
-      "position": 8,
+      "position": 10,
       "isPending": false
     },
     {
