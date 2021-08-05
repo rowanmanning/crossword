@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "j-sheps",
+      "leaderboard": "2021-08-05",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "j-sheps",
       "leaderboard": "2021-08-04",
       "minutes": 0,
       "seconds": 48,
@@ -426,7 +435,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 141,
+  "awardCount": 142,
   "awards": [
     {
       "title": "Gold",
@@ -707,6 +716,14 @@
         "2021-07-06",
         "2021-07-28",
         "2021-08-01"
+      ]
+    },
+    {
+      "title": "The Number of The Beast",
+      "type": "beast",
+      "text": "His number is six hundred and sixty-six",
+      "dates": [
+        "2021-08-04"
       ]
     }
   ]
