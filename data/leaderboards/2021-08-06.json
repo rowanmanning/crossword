@@ -4,6 +4,14 @@
 		"seconds": 55
 	},
 	{
+		"name": "leaf",
+		"seconds": 69
+	},
+	{
+		"name": "Rowan M",
+		"seconds": 72
+	},
+	{
 		"name": "itsalex",
 		"seconds": 80
 	},
@@ -44,15 +52,7 @@
 		"seconds": null
 	},
 	{
-		"name": "leaf",
-		"seconds": null
-	},
-	{
 		"name": "Oliver Turner",
-		"seconds": null
-	},
-	{
-		"name": "Rowan M",
 		"seconds": null
 	}
 ]
