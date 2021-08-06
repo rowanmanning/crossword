@@ -84,6 +84,14 @@
       ]
     },
     {
+      "person": "apaleslimghost",
+      "count": 2,
+      "dates": [
+        "2021-07-05",
+        "2021-08-05"
+      ]
+    },
+    {
       "person": "Emma L",
       "count": 2,
       "dates": [
@@ -97,14 +105,7 @@
       "dates": [
         "2021-06-23"
       ]
-    },
-    {
-      "person": "apaleslimghost",
-      "count": 1,
-      "dates": [
-        "2021-07-05"
-      ]
     }
   ],
-  "totalUnlocks": 47
+  "totalUnlocks": 48
 }

@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "Emma L",
+      "leaderboard": "2021-08-06",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "Emma L",
       "leaderboard": "2021-08-05",
       "minutes": 0,
       "seconds": 37,
@@ -120,7 +129,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 27,
+  "awardCount": 28,
   "awards": [
     {
       "title": "Gold",
@@ -129,6 +138,14 @@
       "dates": [
         "2021-07-29",
         "2021-08-04"
+      ]
+    },
+    {
+      "title": "Silver",
+      "type": "silver",
+      "text": "Get the second fastest time for a day",
+      "dates": [
+        "2021-08-05"
       ]
     },
     {
