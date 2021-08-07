@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "varjmes",
+      "leaderboard": "2021-08-07",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "varjmes",
       "leaderboard": "2021-08-06",
       "minutes": 2,
       "seconds": 24,
@@ -444,7 +453,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 114,
+  "awardCount": 115,
   "awards": [
     {
       "title": "Gold",
@@ -492,7 +501,8 @@
       "text": "Get the same position two days in a row",
       "dates": [
         "2021-06-26",
-        "2021-07-22"
+        "2021-07-22",
+        "2021-08-06"
       ]
     },
     {
