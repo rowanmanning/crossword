@@ -5,11 +5,11 @@
     {
       "person": "Emma L",
       "leaderboard": "2021-08-07",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 4,
+      "seconds": 7,
+      "totalSeconds": 247,
+      "position": 2,
+      "isPending": false
     },
     {
       "person": "Emma L",
@@ -132,13 +132,13 @@
   "mean": {
     "person": null,
     "leaderboard": null,
-    "minutes": 0,
-    "seconds": 47,
-    "totalSeconds": 47,
+    "minutes": 1,
+    "seconds": 6,
+    "totalSeconds": 66,
     "position": null,
     "isPending": false
   },
-  "awardCount": 32,
+  "awardCount": 33,
   "awards": [
     {
       "title": "Gold",
@@ -156,6 +156,14 @@
       "text": "Get the second fastest time for a day",
       "dates": [
         "2021-08-05"
+      ]
+    },
+    {
+      "title": "Double Time",
+      "type": "double-time",
+      "text": "Double your completion time from one day to the next",
+      "dates": [
+        "2021-08-07"
       ]
     },
     {
