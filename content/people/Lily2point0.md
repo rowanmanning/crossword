@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "Lily2point0",
+      "leaderboard": "2021-08-08",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "Lily2point0",
       "leaderboard": "2021-08-07",
       "minutes": 3,
       "seconds": 31,
@@ -453,7 +462,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 91,
+  "awardCount": 93,
   "awards": [
     {
       "title": "Silver",
@@ -481,7 +490,8 @@
         "2021-06-27",
         "2021-07-01",
         "2021-07-11",
-        "2021-07-23"
+        "2021-07-23",
+        "2021-08-07"
       ]
     },
     {
@@ -668,7 +678,8 @@
       "type": "beast",
       "text": "His number is six hundred and sixty-six",
       "dates": [
-        "2021-07-24"
+        "2021-07-24",
+        "2021-08-07"
       ]
     },
     {
