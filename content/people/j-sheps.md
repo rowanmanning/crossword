@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "j-sheps",
+      "leaderboard": "2021-08-09",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "j-sheps",
       "leaderboard": "2021-08-08",
       "minutes": 0,
       "seconds": 55,
@@ -462,7 +471,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 148,
+  "awardCount": 149,
   "awards": [
     {
       "title": "Gold",
@@ -537,7 +546,8 @@
       "type": "consistent-2",
       "text": "Get the same position two days in a row",
       "dates": [
-        "2021-08-01"
+        "2021-08-01",
+        "2021-08-08"
       ]
     },
     {

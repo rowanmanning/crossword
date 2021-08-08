@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "Rowan M",
+      "leaderboard": "2021-08-09",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "Rowan M",
       "leaderboard": "2021-08-08",
       "minutes": 1,
       "seconds": 8,
@@ -462,7 +471,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 167,
+  "awardCount": 168,
   "awards": [
     {
       "title": "Gold",
@@ -789,7 +798,8 @@
       "type": "beast",
       "text": "His number is six hundred and sixty-six",
       "dates": [
-        "2021-07-18"
+        "2021-07-18",
+        "2021-08-08"
       ]
     }
   ]

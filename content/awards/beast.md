@@ -30,18 +30,19 @@
       ]
     },
     {
+      "person": "Rowan M",
+      "count": 2,
+      "dates": [
+        "2021-07-18",
+        "2021-08-08"
+      ]
+    },
+    {
       "person": "Lily2point0",
       "count": 2,
       "dates": [
         "2021-07-24",
         "2021-08-07"
-      ]
-    },
-    {
-      "person": "Rowan M",
-      "count": 1,
-      "dates": [
-        "2021-07-18"
       ]
     },
     {
@@ -66,5 +67,5 @@
       ]
     }
   ],
-  "totalUnlocks": 13
+  "totalUnlocks": 14
 }
