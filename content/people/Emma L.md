@@ -5,11 +5,11 @@
     {
       "person": "Emma L",
       "leaderboard": "2021-08-08",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 32,
+      "totalSeconds": 32,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "Emma L",
@@ -142,12 +142,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 6,
-    "totalSeconds": 66,
+    "seconds": 3,
+    "totalSeconds": 63,
     "position": null,
     "isPending": false
   },
-  "awardCount": 33,
+  "awardCount": 39,
   "awards": [
     {
       "title": "Gold",
@@ -165,6 +165,22 @@
       "text": "Get the second fastest time for a day",
       "dates": [
         "2021-08-05"
+      ]
+    },
+    {
+      "title": "Half Time",
+      "type": "half-time",
+      "text": "Half your completion time from one day to the next",
+      "dates": [
+        "2021-08-08"
+      ]
+    },
+    {
+      "title": "Quarter Time",
+      "type": "quarter-time",
+      "text": "Quarter your completion time from one day to the next",
+      "dates": [
+        "2021-08-08"
       ]
     },
     {
@@ -189,7 +205,8 @@
         "2021-08-03",
         "2021-08-04",
         "2021-08-05",
-        "2021-08-06"
+        "2021-08-06",
+        "2021-08-08"
       ]
     },
     {
@@ -204,7 +221,8 @@
         "2021-08-03",
         "2021-08-04",
         "2021-08-05",
-        "2021-08-06"
+        "2021-08-06",
+        "2021-08-08"
       ]
     },
     {
@@ -216,7 +234,8 @@
         "2021-08-02",
         "2021-08-03",
         "2021-08-04",
-        "2021-08-05"
+        "2021-08-05",
+        "2021-08-08"
       ]
     },
     {
@@ -234,6 +253,14 @@
       "dates": [
         "2021-07-28",
         "2021-08-04"
+      ]
+    },
+    {
+      "title": "Week-Long Streak",
+      "type": "week-streak",
+      "text": "Play for a full week without breaks",
+      "dates": [
+        "2021-08-08"
       ]
     },
     {
