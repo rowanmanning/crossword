@@ -16,6 +16,10 @@
 		"seconds": 40
 	},
 	{
+		"name": "itsalex",
+		"seconds": 41
+	},
+	{
 		"name": "Lily2point0",
 		"seconds": 41
 	},
@@ -32,6 +36,10 @@
 		"seconds": 50
 	},
 	{
+		"name": "binaryberry",
+		"seconds": 87
+	},
+	{
 		"name": "joelcarr",
 		"seconds": 240
 	},
@@ -44,15 +52,7 @@
 		"seconds": null
 	},
 	{
-		"name": "binaryberry",
-		"seconds": null
-	},
-	{
 		"name": "cb",
-		"seconds": null
-	},
-	{
-		"name": "itsalex",
 		"seconds": null
 	}
 ]

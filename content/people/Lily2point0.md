@@ -471,7 +471,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 100,
+  "awardCount": 101,
   "awards": [
     {
       "title": "Silver",
@@ -677,7 +677,8 @@
       "dates": [
         "2021-07-10",
         "2021-07-18",
-        "2021-07-31"
+        "2021-07-31",
+        "2021-08-09"
       ]
     },
     {
