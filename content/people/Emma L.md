@@ -156,7 +156,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 43,
+  "awardCount": 44,
   "awards": [
     {
       "title": "Gold",
@@ -282,7 +282,8 @@
       "text": "Get the same time as another person",
       "dates": [
         "2021-07-28",
-        "2021-08-06"
+        "2021-08-06",
+        "2021-08-09"
       ]
     }
   ]

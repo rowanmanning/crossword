@@ -5,11 +5,11 @@
     {
       "person": "Ania",
       "leaderboard": "2021-08-09",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 38,
+      "totalSeconds": 38,
+      "position": 2,
+      "isPending": false
     },
     {
       "person": "Ania",
@@ -465,13 +465,13 @@
   "mean": {
     "person": null,
     "leaderboard": null,
-    "minutes": 2,
-    "seconds": 1,
-    "totalSeconds": 121,
+    "minutes": 1,
+    "seconds": 59,
+    "totalSeconds": 119,
     "position": null,
     "isPending": false
   },
-  "awardCount": 103,
+  "awardCount": 107,
   "awards": [
     {
       "title": "Gold",
@@ -526,7 +526,8 @@
         "2021-07-25",
         "2021-07-28",
         "2021-08-01",
-        "2021-08-02"
+        "2021-08-02",
+        "2021-08-09"
       ]
     },
     {
@@ -589,7 +590,8 @@
         "2021-08-02",
         "2021-08-03",
         "2021-08-04",
-        "2021-08-05"
+        "2021-08-05",
+        "2021-08-09"
       ]
     },
     {
@@ -612,7 +614,8 @@
         "2021-07-30",
         "2021-08-01",
         "2021-08-02",
-        "2021-08-03"
+        "2021-08-03",
+        "2021-08-09"
       ]
     },
     {
@@ -626,7 +629,8 @@
         "2021-07-08",
         "2021-07-11",
         "2021-07-30",
-        "2021-08-02"
+        "2021-08-02",
+        "2021-08-09"
       ]
     },
     {
