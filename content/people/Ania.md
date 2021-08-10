@@ -5,11 +5,11 @@
     {
       "person": "Ania",
       "leaderboard": "2021-08-10",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 32,
+      "totalSeconds": 32,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "Ania",
@@ -475,12 +475,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 59,
-    "totalSeconds": 119,
+    "seconds": 57,
+    "totalSeconds": 117,
     "position": null,
     "isPending": false
   },
-  "awardCount": 108,
+  "awardCount": 112,
   "awards": [
     {
       "title": "Gold",
@@ -601,7 +601,8 @@
         "2021-08-03",
         "2021-08-04",
         "2021-08-05",
-        "2021-08-09"
+        "2021-08-09",
+        "2021-08-10"
       ]
     },
     {
@@ -625,7 +626,8 @@
         "2021-08-01",
         "2021-08-02",
         "2021-08-03",
-        "2021-08-09"
+        "2021-08-09",
+        "2021-08-10"
       ]
     },
     {
@@ -640,7 +642,8 @@
         "2021-07-11",
         "2021-07-30",
         "2021-08-02",
-        "2021-08-09"
+        "2021-08-09",
+        "2021-08-10"
       ]
     },
     {
@@ -674,7 +677,8 @@
       "text": "Play for three days in a row",
       "dates": [
         "2021-06-23",
-        "2021-06-27"
+        "2021-06-27",
+        "2021-08-10"
       ]
     },
     {
