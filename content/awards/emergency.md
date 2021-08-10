@@ -23,9 +23,10 @@
     },
     {
       "person": "binaryberry",
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2021-07-08"
+        "2021-07-08",
+        "2021-08-09"
       ]
     },
     {
@@ -50,5 +51,5 @@
       ]
     }
   ],
-  "totalUnlocks": 9
+  "totalUnlocks": 10
 }

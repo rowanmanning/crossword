@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "binaryberry",
+      "leaderboard": "2021-08-10",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "binaryberry",
       "leaderboard": "2021-08-09",
       "minutes": 1,
       "seconds": 27,
@@ -471,7 +480,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 30,
+  "awardCount": 31,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -563,7 +572,8 @@
       "type": "emergency",
       "text": "What's your emergency?",
       "dates": [
-        "2021-07-08"
+        "2021-07-08",
+        "2021-08-09"
       ]
     }
   ]

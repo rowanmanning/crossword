@@ -40,11 +40,12 @@
     },
     {
       "person": "varjmes",
-      "count": 3,
+      "count": 4,
       "dates": [
         "2021-06-26",
         "2021-07-22",
-        "2021-08-06"
+        "2021-08-06",
+        "2021-08-09"
       ]
     },
     {
@@ -73,6 +74,14 @@
       ]
     },
     {
+      "person": "Rowan M",
+      "count": 2,
+      "dates": [
+        "2021-07-26",
+        "2021-08-09"
+      ]
+    },
+    {
       "person": "j-sheps",
       "count": 2,
       "dates": [
@@ -93,14 +102,7 @@
       "dates": [
         "2021-07-09"
       ]
-    },
-    {
-      "person": "Rowan M",
-      "count": 1,
-      "dates": [
-        "2021-07-26"
-      ]
     }
   ],
-  "totalUnlocks": 31
+  "totalUnlocks": 33
 }
