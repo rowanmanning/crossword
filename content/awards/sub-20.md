@@ -6,9 +6,10 @@
   "unlocks": [
     {
       "person": "itsalex",
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2021-07-28"
+        "2021-07-28",
+        "2021-08-11"
       ]
     },
     {
@@ -26,5 +27,5 @@
       ]
     }
   ],
-  "totalUnlocks": 3
+  "totalUnlocks": 4
 }
