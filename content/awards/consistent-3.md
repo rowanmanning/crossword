@@ -21,17 +21,18 @@
       ]
     },
     {
+      "person": "joelcarr",
+      "count": 2,
+      "dates": [
+        "2021-07-09",
+        "2021-08-11"
+      ]
+    },
+    {
       "person": "varjmes",
       "count": 1,
       "dates": [
         "2021-06-27"
-      ]
-    },
-    {
-      "person": "joelcarr",
-      "count": 1,
-      "dates": [
-        "2021-07-09"
       ]
     },
     {
@@ -42,5 +43,5 @@
       ]
     }
   ],
-  "totalUnlocks": 7
+  "totalUnlocks": 8
 }
