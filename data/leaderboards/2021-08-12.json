@@ -4,6 +4,10 @@
 		"seconds": 28
 	},
 	{
+		"name": "cb",
+		"seconds": 43
+	},
+	{
 		"name": "j-sheps",
 		"seconds": 57
 	},
@@ -45,10 +49,6 @@
 	},
 	{
 		"name": "binaryberry",
-		"seconds": null
-	},
-	{
-		"name": "cb",
 		"seconds": null
 	},
 	{
