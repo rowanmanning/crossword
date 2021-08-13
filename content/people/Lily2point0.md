@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "Lily2point0",
+      "leaderboard": "2021-08-13",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "Lily2point0",
       "leaderboard": "2021-08-12",
       "minutes": 1,
       "seconds": 47,
@@ -498,7 +507,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 105,
+  "awardCount": 106,
   "awards": [
     {
       "title": "Silver",
@@ -527,7 +536,8 @@
         "2021-07-01",
         "2021-07-11",
         "2021-07-23",
-        "2021-08-07"
+        "2021-08-07",
+        "2021-08-12"
       ]
     },
     {
