@@ -31,9 +31,10 @@
     },
     {
       "person": "Lily2point0",
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2021-07-26"
+        "2021-07-26",
+        "2021-08-14"
       ]
     },
     {
@@ -51,5 +52,5 @@
       ]
     }
   ],
-  "totalUnlocks": 10
+  "totalUnlocks": 11
 }

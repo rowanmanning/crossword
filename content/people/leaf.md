@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "leaf",
+      "leaderboard": "2021-08-15",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "leaf",
       "leaderboard": "2021-08-14",
       "minutes": 1,
       "seconds": 49,
@@ -516,7 +525,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 97,
+  "awardCount": 99,
   "awards": [
     {
       "title": "Silver",
@@ -546,7 +555,8 @@
         "2021-07-14",
         "2021-07-16",
         "2021-07-24",
-        "2021-08-04"
+        "2021-08-04",
+        "2021-08-14"
       ]
     },
     {
@@ -723,7 +733,8 @@
       "text": "His number is six hundred and sixty-six",
       "dates": [
         "2021-07-17",
-        "2021-07-30"
+        "2021-07-30",
+        "2021-08-14"
       ]
     },
     {

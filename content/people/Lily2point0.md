@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "Lily2point0",
+      "leaderboard": "2021-08-15",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "Lily2point0",
       "leaderboard": "2021-08-14",
       "minutes": 2,
       "seconds": 22,
@@ -516,7 +525,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 111,
+  "awardCount": 112,
   "awards": [
     {
       "title": "Silver",
@@ -759,7 +768,8 @@
       "type": "emergency",
       "text": "What's your emergency?",
       "dates": [
-        "2021-07-26"
+        "2021-07-26",
+        "2021-08-14"
       ]
     }
   ]
