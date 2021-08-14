@@ -14,6 +14,15 @@
       ]
     },
     {
+      "person": "Lily2point0",
+      "count": 3,
+      "dates": [
+        "2021-07-24",
+        "2021-08-07",
+        "2021-08-13"
+      ]
+    },
+    {
       "person": "Ania",
       "count": 2,
       "dates": [
@@ -38,14 +47,6 @@
       ]
     },
     {
-      "person": "Lily2point0",
-      "count": 2,
-      "dates": [
-        "2021-07-24",
-        "2021-08-07"
-      ]
-    },
-    {
       "person": "itsalex",
       "count": 1,
       "dates": [
@@ -67,5 +68,5 @@
       ]
     }
   ],
-  "totalUnlocks": 14
+  "totalUnlocks": 15
 }
