@@ -29,6 +29,14 @@
       ]
     },
     {
+      "person": "Ania",
+      "count": 2,
+      "dates": [
+        "2021-07-01",
+        "2021-08-14"
+      ]
+    },
+    {
       "person": "cb",
       "count": 2,
       "dates": [
@@ -65,13 +73,6 @@
       ]
     },
     {
-      "person": "Ania",
-      "count": 1,
-      "dates": [
-        "2021-07-01"
-      ]
-    },
-    {
       "person": "itsalex",
       "count": 1,
       "dates": [
@@ -86,5 +87,5 @@
       ]
     }
   ],
-  "totalUnlocks": 15
+  "totalUnlocks": 16
 }

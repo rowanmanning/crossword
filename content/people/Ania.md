@@ -5,11 +5,11 @@
     {
       "person": "Ania",
       "leaderboard": "2021-08-14",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 15,
+      "totalSeconds": 135,
+      "position": 7,
+      "isPending": false
     },
     {
       "person": "Ania",
@@ -516,7 +516,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 117,
+  "awardCount": 118,
   "awards": [
     {
       "title": "Gold",
@@ -734,7 +734,8 @@
       "type": "week-streak",
       "text": "Play for a full week without breaks",
       "dates": [
-        "2021-07-01"
+        "2021-07-01",
+        "2021-08-14"
       ]
     },
     {
