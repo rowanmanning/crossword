@@ -5,11 +5,11 @@
     {
       "person": "Emma L",
       "leaderboard": "2021-08-15",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 38,
+      "totalSeconds": 38,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "Emma L",
@@ -205,12 +205,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 58,
-    "totalSeconds": 58,
+    "seconds": 57,
+    "totalSeconds": 57,
     "position": null,
     "isPending": false
   },
-  "awardCount": 60,
+  "awardCount": 64,
   "awards": [
     {
       "title": "Gold",
@@ -246,7 +246,8 @@
       "type": "half-time",
       "text": "Half your completion time from one day to the next",
       "dates": [
-        "2021-08-08"
+        "2021-08-08",
+        "2021-08-15"
       ]
     },
     {
@@ -287,7 +288,8 @@
         "2021-08-11",
         "2021-08-12",
         "2021-08-13",
-        "2021-08-14"
+        "2021-08-14",
+        "2021-08-15"
       ]
     },
     {
@@ -307,7 +309,8 @@
         "2021-08-09",
         "2021-08-10",
         "2021-08-11",
-        "2021-08-13"
+        "2021-08-13",
+        "2021-08-15"
       ]
     },
     {
@@ -324,7 +327,8 @@
         "2021-08-09",
         "2021-08-10",
         "2021-08-11",
-        "2021-08-13"
+        "2021-08-13",
+        "2021-08-15"
       ]
     },
     {
