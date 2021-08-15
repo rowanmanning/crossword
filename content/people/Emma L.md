@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "Emma L",
+      "leaderboard": "2021-08-16",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "Emma L",
       "leaderboard": "2021-08-15",
       "minutes": 0,
       "seconds": 38,
@@ -210,7 +219,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 64,
+  "awardCount": 65,
   "awards": [
     {
       "title": "Gold",
@@ -238,7 +247,8 @@
       "type": "bronze",
       "text": "Get the third fastest time for a day",
       "dates": [
-        "2021-08-11"
+        "2021-08-11",
+        "2021-08-15"
       ]
     },
     {

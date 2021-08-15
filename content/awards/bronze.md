@@ -114,6 +114,14 @@
       ]
     },
     {
+      "person": "Emma L",
+      "count": 2,
+      "dates": [
+        "2021-08-11",
+        "2021-08-15"
+      ]
+    },
+    {
       "person": "joelcarr",
       "count": 1,
       "dates": [
@@ -126,14 +134,7 @@
       "dates": [
         "2021-06-25"
       ]
-    },
-    {
-      "person": "Emma L",
-      "count": 1,
-      "dates": [
-        "2021-08-11"
-      ]
     }
   ],
-  "totalUnlocks": 58
+  "totalUnlocks": 59
 }
