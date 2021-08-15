@@ -5,11 +5,11 @@
     {
       "person": "varjmes",
       "leaderboard": "2021-08-15",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 43,
+      "totalSeconds": 43,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "varjmes",
@@ -520,12 +520,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 38,
-    "totalSeconds": 98,
+    "seconds": 37,
+    "totalSeconds": 97,
     "position": null,
     "isPending": false
   },
-  "awardCount": 130,
+  "awardCount": 134,
   "awards": [
     {
       "title": "Gold",
@@ -605,7 +605,8 @@
         "2021-07-25",
         "2021-08-01",
         "2021-08-08",
-        "2021-08-09"
+        "2021-08-09",
+        "2021-08-15"
       ]
     },
     {
@@ -684,7 +685,8 @@
         "2021-08-11",
         "2021-08-12",
         "2021-08-13",
-        "2021-08-14"
+        "2021-08-14",
+        "2021-08-15"
       ]
     },
     {
@@ -711,7 +713,8 @@
         "2021-08-05",
         "2021-08-09",
         "2021-08-10",
-        "2021-08-11"
+        "2021-08-11",
+        "2021-08-15"
       ]
     },
     {
@@ -726,7 +729,8 @@
         "2021-07-08",
         "2021-07-13",
         "2021-07-25",
-        "2021-08-10"
+        "2021-08-10",
+        "2021-08-15"
       ]
     },
     {
