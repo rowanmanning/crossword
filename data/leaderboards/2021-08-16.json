@@ -4,6 +4,10 @@
 		"seconds": 24
 	},
 	{
+		"name": "cb",
+		"seconds": 40
+	},
+	{
 		"name": "j-sheps",
 		"seconds": 40
 	},
@@ -41,10 +45,6 @@
 	},
 	{
 		"name": "arjun137",
-		"seconds": null
-	},
-	{
-		"name": "cb",
 		"seconds": null
 	},
 	{
