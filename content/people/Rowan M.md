@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "Rowan M",
+      "leaderboard": "2021-08-17",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "Rowan M",
       "leaderboard": "2021-08-16",
       "minutes": 0,
       "seconds": 24,
@@ -534,7 +543,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 205,
+  "awardCount": 207,
   "awards": [
     {
       "title": "Gold",
@@ -553,7 +562,8 @@
         "2021-07-31",
         "2021-08-01",
         "2021-08-12",
-        "2021-08-13"
+        "2021-08-13",
+        "2021-08-16"
       ]
     },
     {
@@ -655,7 +665,8 @@
       "type": "podium-climbing",
       "text": "Unlock third, second, then first place awards in order",
       "dates": [
-        "2021-06-25"
+        "2021-06-25",
+        "2021-08-16"
       ]
     },
     {
