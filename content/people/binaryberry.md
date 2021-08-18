@@ -5,11 +5,11 @@
     {
       "person": "binaryberry",
       "leaderboard": "2021-08-18",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 36,
+      "totalSeconds": 96,
+      "position": 5,
+      "isPending": false
     },
     {
       "person": "binaryberry",
@@ -547,12 +547,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 3,
-    "seconds": 22,
-    "totalSeconds": 202,
+    "seconds": 19,
+    "totalSeconds": 199,
     "position": null,
     "isPending": false
   },
-  "awardCount": 32,
+  "awardCount": 34,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -604,7 +604,8 @@
         "2021-07-08",
         "2021-07-21",
         "2021-07-30",
-        "2021-08-09"
+        "2021-08-09",
+        "2021-08-18"
       ]
     },
     {
@@ -629,7 +630,8 @@
         "2021-07-07",
         "2021-07-14",
         "2021-07-21",
-        "2021-07-30"
+        "2021-07-30",
+        "2021-08-18"
       ]
     },
     {
