@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "cb",
+      "leaderboard": "2021-08-19",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "cb",
       "leaderboard": "2021-08-18",
       "minutes": 1,
       "seconds": 49,
@@ -480,7 +489,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 181,
+  "awardCount": 182,
   "awards": [
     {
       "title": "Gold",
@@ -787,6 +796,14 @@
         "2021-08-06",
         "2021-08-11",
         "2021-08-16"
+      ]
+    },
+    {
+      "title": "The Number of The Beast",
+      "type": "beast",
+      "text": "His number is six hundred and sixty-six",
+      "dates": [
+        "2021-08-18"
       ]
     }
   ]

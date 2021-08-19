@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "apaleslimghost",
+      "leaderboard": "2021-08-19",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "apaleslimghost",
       "leaderboard": "2021-08-18",
       "minutes": 1,
       "seconds": 12,
@@ -543,7 +552,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 107,
+  "awardCount": 108,
   "awards": [
     {
       "title": "Gold",
@@ -551,7 +560,8 @@
       "text": "Get the fastest time for a day",
       "dates": [
         "2021-07-05",
-        "2021-08-05"
+        "2021-08-05",
+        "2021-08-18"
       ]
     },
     {
