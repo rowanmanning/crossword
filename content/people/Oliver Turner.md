@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "Oliver Turner",
+      "leaderboard": "2021-08-20",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "Oliver Turner",
       "leaderboard": "2021-08-19",
       "minutes": 0,
       "seconds": 27,
@@ -534,7 +543,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 122,
+  "awardCount": 123,
   "awards": [
     {
       "title": "Gold",
@@ -545,7 +554,8 @@
         "2021-07-03",
         "2021-07-04",
         "2021-07-07",
-        "2021-07-27"
+        "2021-07-27",
+        "2021-08-19"
       ]
     },
     {

@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "itsalex",
+      "leaderboard": "2021-08-20",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "itsalex",
       "leaderboard": "2021-08-19",
       "minutes": 0,
       "seconds": 32,
@@ -534,7 +543,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 186,
+  "awardCount": 188,
   "awards": [
     {
       "title": "Gold",
@@ -577,7 +586,8 @@
         "2021-07-24",
         "2021-07-27",
         "2021-08-01",
-        "2021-08-04"
+        "2021-08-04",
+        "2021-08-19"
       ]
     },
     {
@@ -609,7 +619,8 @@
       "type": "podium",
       "text": "Unlock third, second, and first place awards",
       "dates": [
-        "2021-07-28"
+        "2021-07-28",
+        "2021-08-19"
       ]
     },
     {
