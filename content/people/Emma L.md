@@ -5,11 +5,11 @@
     {
       "person": "Emma L",
       "leaderboard": "2021-08-20",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 24,
+      "totalSeconds": 24,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "Emma L",
@@ -239,10 +239,10 @@
   ],
   "best": {
     "person": "Emma L",
-    "leaderboard": "2021-08-04",
+    "leaderboard": "2021-08-20",
     "minutes": 0,
-    "seconds": 27,
-    "totalSeconds": 27,
+    "seconds": 24,
+    "totalSeconds": 24,
     "position": 1,
     "isPending": false
   },
@@ -250,12 +250,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 58,
-    "totalSeconds": 58,
+    "seconds": 57,
+    "totalSeconds": 57,
     "position": null,
     "isPending": false
   },
-  "awardCount": 74,
+  "awardCount": 79,
   "awards": [
     {
       "title": "Gold",
@@ -303,7 +303,8 @@
       "text": "Half your completion time from one day to the next",
       "dates": [
         "2021-08-08",
-        "2021-08-15"
+        "2021-08-15",
+        "2021-08-20"
       ]
     },
     {
@@ -349,7 +350,8 @@
         "2021-08-16",
         "2021-08-17",
         "2021-08-18",
-        "2021-08-19"
+        "2021-08-19",
+        "2021-08-20"
       ]
     },
     {
@@ -372,7 +374,8 @@
         "2021-08-13",
         "2021-08-15",
         "2021-08-16",
-        "2021-08-19"
+        "2021-08-19",
+        "2021-08-20"
       ]
     },
     {
@@ -390,7 +393,8 @@
         "2021-08-10",
         "2021-08-11",
         "2021-08-13",
-        "2021-08-15"
+        "2021-08-15",
+        "2021-08-20"
       ]
     },
     {
@@ -398,7 +402,8 @@
       "type": "sub-30",
       "text": "Complete a puzzle in less than 30 seconds",
       "dates": [
-        "2021-08-04"
+        "2021-08-04",
+        "2021-08-20"
       ]
     },
     {
