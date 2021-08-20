@@ -350,7 +350,14 @@
         "2021-06-29",
         "2021-07-13"
       ]
+    },
+    {
+      "person": "binaryberry",
+      "count": 1,
+      "dates": [
+        "2021-08-20"
+      ]
     }
   ],
-  "totalUnlocks": 275
+  "totalUnlocks": 276
 }

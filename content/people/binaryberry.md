@@ -5,11 +5,11 @@
     {
       "person": "binaryberry",
       "leaderboard": "2021-08-20",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 55,
+      "totalSeconds": 55,
+      "position": 6,
+      "isPending": false
     },
     {
       "person": "binaryberry",
@@ -554,23 +554,23 @@
   ],
   "best": {
     "person": "binaryberry",
-    "leaderboard": "2021-07-08",
-    "minutes": 1,
-    "seconds": 9,
-    "totalSeconds": 69,
-    "position": 9,
+    "leaderboard": "2021-08-20",
+    "minutes": 0,
+    "seconds": 55,
+    "totalSeconds": 55,
+    "position": 6,
     "isPending": false
   },
   "mean": {
     "person": null,
     "leaderboard": null,
     "minutes": 3,
-    "seconds": 26,
-    "totalSeconds": 206,
+    "seconds": 21,
+    "totalSeconds": 201,
     "position": null,
     "isPending": false
   },
-  "awardCount": 36,
+  "awardCount": 40,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -590,7 +590,8 @@
         "2021-07-06",
         "2021-07-08",
         "2021-07-21",
-        "2021-08-09"
+        "2021-08-09",
+        "2021-08-20"
       ]
     },
     {
@@ -598,7 +599,8 @@
       "type": "quarter-time",
       "text": "Quarter your completion time from one day to the next",
       "dates": [
-        "2021-07-21"
+        "2021-07-21",
+        "2021-08-20"
       ]
     },
     {
@@ -624,7 +626,16 @@
         "2021-07-21",
         "2021-07-30",
         "2021-08-09",
-        "2021-08-18"
+        "2021-08-18",
+        "2021-08-20"
+      ]
+    },
+    {
+      "title": "Sub Minute",
+      "type": "sub-60",
+      "text": "Complete a puzzle in less than a minute",
+      "dates": [
+        "2021-08-20"
       ]
     },
     {
