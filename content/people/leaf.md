@@ -5,11 +5,11 @@
     {
       "person": "leaf",
       "leaderboard": "2021-08-20",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 1,
+      "totalSeconds": 61,
+      "position": 11,
+      "isPending": false
     },
     {
       "person": "leaf",
@@ -565,12 +565,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 40,
-    "totalSeconds": 100,
+    "seconds": 39,
+    "totalSeconds": 99,
     "position": null,
     "isPending": false
   },
-  "awardCount": 105,
+  "awardCount": 106,
   "awards": [
     {
       "title": "Silver",
@@ -704,7 +704,8 @@
         "2021-08-15",
         "2021-08-17",
         "2021-08-18",
-        "2021-08-19"
+        "2021-08-19",
+        "2021-08-20"
       ]
     },
     {
