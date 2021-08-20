@@ -8,7 +8,7 @@
       "minutes": 0,
       "seconds": 55,
       "totalSeconds": 55,
-      "position": 6,
+      "position": 10,
       "isPending": false
     },
     {
@@ -558,7 +558,7 @@
     "minutes": 0,
     "seconds": 55,
     "totalSeconds": 55,
-    "position": 6,
+    "position": 10,
     "isPending": false
   },
   "mean": {
