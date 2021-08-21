@@ -118,11 +118,12 @@
     },
     {
       "person": "varjmes",
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2021-06-23"
+        "2021-06-23",
+        "2021-08-21"
       ]
     }
   ],
-  "totalUnlocks": 65
+  "totalUnlocks": 66
 }
