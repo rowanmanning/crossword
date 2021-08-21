@@ -5,11 +5,11 @@
     {
       "person": "Emma L",
       "leaderboard": "2021-08-21",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 29,
+      "totalSeconds": 89,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "Emma L",
@@ -259,12 +259,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 57,
-    "totalSeconds": 57,
+    "seconds": 58,
+    "totalSeconds": 58,
     "position": null,
     "isPending": false
   },
-  "awardCount": 80,
+  "awardCount": 82,
   "awards": [
     {
       "title": "Gold",
@@ -331,7 +331,8 @@
       "text": "Double your completion time from one day to the next",
       "dates": [
         "2021-08-07",
-        "2021-08-14"
+        "2021-08-14",
+        "2021-08-21"
       ]
     },
     {
@@ -361,7 +362,8 @@
         "2021-08-17",
         "2021-08-18",
         "2021-08-19",
-        "2021-08-20"
+        "2021-08-20",
+        "2021-08-21"
       ]
     },
     {

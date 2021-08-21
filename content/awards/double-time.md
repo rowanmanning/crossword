@@ -196,12 +196,13 @@
     },
     {
       "person": "Emma L",
-      "count": 2,
+      "count": 3,
       "dates": [
         "2021-08-07",
-        "2021-08-14"
+        "2021-08-14",
+        "2021-08-21"
       ]
     }
   ],
-  "totalUnlocks": 114
+  "totalUnlocks": 115
 }
