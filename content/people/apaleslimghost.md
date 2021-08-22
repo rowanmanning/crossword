@@ -5,11 +5,11 @@
     {
       "person": "apaleslimghost",
       "leaderboard": "2021-08-22",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 21,
+      "totalSeconds": 81,
+      "position": 6,
+      "isPending": false
     },
     {
       "person": "apaleslimghost",
@@ -579,7 +579,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 116,
+  "awardCount": 118,
   "awards": [
     {
       "title": "Gold",
@@ -706,7 +706,8 @@
         "2021-08-17",
         "2021-08-18",
         "2021-08-19",
-        "2021-08-20"
+        "2021-08-20",
+        "2021-08-22"
       ]
     },
     {
@@ -790,7 +791,8 @@
       "type": "week-streak",
       "text": "Play for a full week without breaks",
       "dates": [
-        "2021-06-28"
+        "2021-06-28",
+        "2021-08-22"
       ]
     },
     {
