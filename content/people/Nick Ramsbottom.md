@@ -5,11 +5,11 @@
     {
       "person": "Nick Ramsbottom",
       "leaderboard": "2021-08-22",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 3,
+      "seconds": 54,
+      "totalSeconds": 234,
+      "position": 5,
+      "isPending": false
     },
     {
       "person": "Nick Ramsbottom",
@@ -43,12 +43,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 4,
-    "seconds": 45,
-    "totalSeconds": 285,
+    "seconds": 28,
+    "totalSeconds": 268,
     "position": null,
     "isPending": false
   },
-  "awardCount": 2,
+  "awardCount": 3,
   "awards": [
     {
       "title": "Double Time",
@@ -64,6 +64,14 @@
       "text": "Complete a puzzle in more than 5 minutes",
       "dates": [
         "2021-08-21"
+      ]
+    },
+    {
+      "title": "Three Day Streak",
+      "type": "three-day-streak",
+      "text": "Play for three days in a row",
+      "dates": [
+        "2021-08-22"
       ]
     }
   ]
