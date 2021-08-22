@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "Emma L",
+      "leaderboard": "2021-08-23",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "Emma L",
       "leaderboard": "2021-08-22",
       "minutes": 1,
       "seconds": 7,
@@ -273,7 +282,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 85,
+  "awardCount": 86,
   "awards": [
     {
       "title": "Gold",
@@ -455,6 +464,14 @@
         "2021-08-06",
         "2021-08-09",
         "2021-08-10",
+        "2021-08-22"
+      ]
+    },
+    {
+      "title": "The Number of The Beast",
+      "type": "beast",
+      "text": "His number is six hundred and sixty-six",
+      "dates": [
         "2021-08-22"
       ]
     }

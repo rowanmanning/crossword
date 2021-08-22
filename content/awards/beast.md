@@ -48,6 +48,14 @@
       ]
     },
     {
+      "person": "j-sheps",
+      "count": 2,
+      "dates": [
+        "2021-08-04",
+        "2021-08-22"
+      ]
+    },
+    {
       "person": "itsalex",
       "count": 1,
       "dates": [
@@ -62,19 +70,19 @@
       ]
     },
     {
-      "person": "j-sheps",
-      "count": 1,
-      "dates": [
-        "2021-08-04"
-      ]
-    },
-    {
       "person": "cb",
       "count": 1,
       "dates": [
         "2021-08-18"
       ]
+    },
+    {
+      "person": "Emma L",
+      "count": 1,
+      "dates": [
+        "2021-08-22"
+      ]
     }
   ],
-  "totalUnlocks": 17
+  "totalUnlocks": 19
 }
