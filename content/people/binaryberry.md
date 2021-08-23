@@ -5,11 +5,11 @@
     {
       "person": "binaryberry",
       "leaderboard": "2021-08-23",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 48,
+      "totalSeconds": 48,
+      "position": 4,
+      "isPending": false
     },
     {
       "person": "binaryberry",
@@ -581,23 +581,23 @@
   ],
   "best": {
     "person": "binaryberry",
-    "leaderboard": "2021-08-20",
+    "leaderboard": "2021-08-23",
     "minutes": 0,
-    "seconds": 55,
-    "totalSeconds": 55,
-    "position": 11,
+    "seconds": 48,
+    "totalSeconds": 48,
+    "position": 4,
     "isPending": false
   },
   "mean": {
     "person": null,
     "leaderboard": null,
     "minutes": 3,
-    "seconds": 21,
-    "totalSeconds": 201,
+    "seconds": 17,
+    "totalSeconds": 197,
     "position": null,
     "isPending": false
   },
-  "awardCount": 40,
+  "awardCount": 42,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -654,7 +654,8 @@
         "2021-07-30",
         "2021-08-09",
         "2021-08-18",
-        "2021-08-20"
+        "2021-08-20",
+        "2021-08-23"
       ]
     },
     {
@@ -662,7 +663,8 @@
       "type": "sub-60",
       "text": "Complete a puzzle in less than a minute",
       "dates": [
-        "2021-08-20"
+        "2021-08-20",
+        "2021-08-23"
       ]
     },
     {
