@@ -5,11 +5,11 @@
     {
       "person": "Ania",
       "leaderboard": "2021-08-23",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 37,
+      "totalSeconds": 37,
+      "position": 4,
+      "isPending": false
     },
     {
       "person": "Ania",
@@ -592,12 +592,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 52,
-    "totalSeconds": 112,
+    "seconds": 51,
+    "totalSeconds": 111,
     "position": null,
     "isPending": false
   },
-  "awardCount": 130,
+  "awardCount": 135,
   "awards": [
     {
       "title": "Gold",
@@ -741,7 +741,8 @@
         "2021-08-17",
         "2021-08-19",
         "2021-08-20",
-        "2021-08-22"
+        "2021-08-22",
+        "2021-08-23"
       ]
     },
     {
@@ -767,7 +768,8 @@
         "2021-08-03",
         "2021-08-09",
         "2021-08-10",
-        "2021-08-20"
+        "2021-08-20",
+        "2021-08-23"
       ]
     },
     {
@@ -784,7 +786,8 @@
         "2021-08-02",
         "2021-08-09",
         "2021-08-10",
-        "2021-08-20"
+        "2021-08-20",
+        "2021-08-23"
       ]
     },
     {
@@ -847,7 +850,16 @@
         "2021-07-08",
         "2021-07-28",
         "2021-07-30",
-        "2021-08-01"
+        "2021-08-01",
+        "2021-08-23"
+      ]
+    },
+    {
+      "title": "Tripleting",
+      "type": "tripleting",
+      "text": "Get the same time as two other people",
+      "dates": [
+        "2021-08-23"
       ]
     },
     {
