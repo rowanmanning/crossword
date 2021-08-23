@@ -5,11 +5,11 @@
     {
       "person": "cb",
       "leaderboard": "2021-08-23",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 22,
+      "totalSeconds": 22,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "cb",
@@ -519,13 +519,13 @@
   "mean": {
     "person": null,
     "leaderboard": null,
-    "minutes": 1,
-    "seconds": 0,
-    "totalSeconds": 60,
+    "minutes": 0,
+    "seconds": 59,
+    "totalSeconds": 59,
     "position": null,
     "isPending": false
   },
-  "awardCount": 194,
+  "awardCount": 200,
   "awards": [
     {
       "title": "Gold",
@@ -626,7 +626,8 @@
         "2021-08-01",
         "2021-08-08",
         "2021-08-19",
-        "2021-08-22"
+        "2021-08-22",
+        "2021-08-23"
       ]
     },
     {
@@ -711,7 +712,8 @@
         "2021-08-18",
         "2021-08-19",
         "2021-08-20",
-        "2021-08-22"
+        "2021-08-22",
+        "2021-08-23"
       ]
     },
     {
@@ -756,7 +758,8 @@
         "2021-08-17",
         "2021-08-19",
         "2021-08-20",
-        "2021-08-22"
+        "2021-08-22",
+        "2021-08-23"
       ]
     },
     {
@@ -787,7 +790,8 @@
         "2021-08-15",
         "2021-08-16",
         "2021-08-17",
-        "2021-08-20"
+        "2021-08-20",
+        "2021-08-23"
       ]
     },
     {
@@ -804,7 +808,8 @@
         "2021-08-02",
         "2021-08-03",
         "2021-08-09",
-        "2021-08-10"
+        "2021-08-10",
+        "2021-08-23"
       ]
     },
     {
@@ -831,6 +836,14 @@
       "dates": [
         "2021-07-05",
         "2021-07-31"
+      ]
+    },
+    {
+      "title": "Month-Long Streak",
+      "type": "month-streak",
+      "text": "Play for a full month (30 days) without breaks",
+      "dates": [
+        "2021-08-23"
       ]
     },
     {
