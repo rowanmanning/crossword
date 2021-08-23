@@ -186,6 +186,16 @@
       ]
     },
     {
+      "person": "Emma L",
+      "count": 4,
+      "dates": [
+        "2021-08-08",
+        "2021-08-15",
+        "2021-08-20",
+        "2021-08-23"
+      ]
+    },
+    {
       "person": "Oliver Turner",
       "count": 3,
       "dates": [
@@ -195,22 +205,20 @@
       ]
     },
     {
-      "person": "Emma L",
-      "count": 3,
-      "dates": [
-        "2021-08-08",
-        "2021-08-15",
-        "2021-08-20"
-      ]
-    },
-    {
       "person": "arjun137",
       "count": 2,
       "dates": [
         "2021-06-28",
         "2021-07-13"
       ]
+    },
+    {
+      "person": "Nick Ramsbottom",
+      "count": 1,
+      "dates": [
+        "2021-08-23"
+      ]
     }
   ],
-  "totalUnlocks": 123
+  "totalUnlocks": 125
 }

@@ -5,11 +5,11 @@
     {
       "person": "Emma L",
       "leaderboard": "2021-08-23",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 29,
+      "totalSeconds": 29,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "Emma L",
@@ -277,12 +277,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 58,
-    "totalSeconds": 58,
+    "seconds": 57,
+    "totalSeconds": 57,
     "position": null,
     "isPending": false
   },
-  "awardCount": 86,
+  "awardCount": 91,
   "awards": [
     {
       "title": "Gold",
@@ -333,7 +333,8 @@
       "dates": [
         "2021-08-08",
         "2021-08-15",
-        "2021-08-20"
+        "2021-08-20",
+        "2021-08-23"
       ]
     },
     {
@@ -383,7 +384,8 @@
         "2021-08-19",
         "2021-08-20",
         "2021-08-21",
-        "2021-08-22"
+        "2021-08-22",
+        "2021-08-23"
       ]
     },
     {
@@ -407,7 +409,8 @@
         "2021-08-15",
         "2021-08-16",
         "2021-08-19",
-        "2021-08-20"
+        "2021-08-20",
+        "2021-08-23"
       ]
     },
     {
@@ -426,7 +429,8 @@
         "2021-08-11",
         "2021-08-13",
         "2021-08-15",
-        "2021-08-20"
+        "2021-08-20",
+        "2021-08-23"
       ]
     },
     {
@@ -435,7 +439,8 @@
       "text": "Complete a puzzle in less than 30 seconds",
       "dates": [
         "2021-08-04",
-        "2021-08-20"
+        "2021-08-20",
+        "2021-08-23"
       ]
     },
     {
