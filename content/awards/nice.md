@@ -13,19 +13,20 @@
       ]
     },
     {
+      "person": "apaleslimghost",
+      "count": 2,
+      "dates": [
+        "2021-08-19",
+        "2021-08-24"
+      ]
+    },
+    {
       "person": "binaryberry",
       "count": 1,
       "dates": [
         "2021-07-08"
       ]
-    },
-    {
-      "person": "apaleslimghost",
-      "count": 1,
-      "dates": [
-        "2021-08-19"
-      ]
     }
   ],
-  "totalUnlocks": 4
+  "totalUnlocks": 5
 }
