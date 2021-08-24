@@ -23,9 +23,10 @@
     },
     {
       "person": "Rowan M",
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2021-08-11"
+        "2021-08-11",
+        "2021-08-23"
       ]
     },
     {
@@ -36,5 +37,5 @@
       ]
     }
   ],
-  "totalUnlocks": 7
+  "totalUnlocks": 8
 }

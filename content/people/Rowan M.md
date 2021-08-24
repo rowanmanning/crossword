@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "Rowan M",
+      "leaderboard": "2021-08-24",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "Rowan M",
       "leaderboard": "2021-08-23",
       "minutes": 0,
       "seconds": 23,
@@ -597,7 +606,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 231,
+  "awardCount": 233,
   "awards": [
     {
       "title": "Gold",
@@ -647,7 +656,8 @@
         "2021-08-11",
         "2021-08-15",
         "2021-08-18",
-        "2021-08-22"
+        "2021-08-22",
+        "2021-08-23"
       ]
     },
     {
@@ -655,7 +665,8 @@
       "type": "double-silver",
       "text": "Get the second fastest time two days in a row",
       "dates": [
-        "2021-08-11"
+        "2021-08-11",
+        "2021-08-23"
       ]
     },
     {

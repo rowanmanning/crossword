@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "Ania",
+      "leaderboard": "2021-08-24",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "Ania",
       "leaderboard": "2021-08-23",
       "minutes": 0,
       "seconds": 37,
@@ -597,7 +606,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 135,
+  "awardCount": 136,
   "awards": [
     {
       "title": "Gold",
@@ -868,7 +877,8 @@
       "text": "His number is six hundred and sixty-six",
       "dates": [
         "2021-07-13",
-        "2021-07-26"
+        "2021-07-26",
+        "2021-08-23"
       ]
     },
     {
