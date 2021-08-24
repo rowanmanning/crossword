@@ -5,11 +5,11 @@
     {
       "person": "itsalex",
       "leaderboard": "2021-08-24",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 45,
+      "totalSeconds": 45,
+      "position": 2,
+      "isPending": false
     },
     {
       "person": "itsalex",
@@ -579,7 +579,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 204,
+  "awardCount": 207,
   "awards": [
     {
       "title": "Gold",
@@ -777,7 +777,8 @@
         "2021-08-19",
         "2021-08-20",
         "2021-08-22",
-        "2021-08-23"
+        "2021-08-23",
+        "2021-08-24"
       ]
     },
     {
@@ -818,7 +819,8 @@
         "2021-08-19",
         "2021-08-20",
         "2021-08-22",
-        "2021-08-23"
+        "2021-08-23",
+        "2021-08-24"
       ]
     },
     {
@@ -892,7 +894,8 @@
       "text": "Play for three days in a row",
       "dates": [
         "2021-06-29",
-        "2021-08-19"
+        "2021-08-19",
+        "2021-08-24"
       ]
     },
     {
