@@ -5,11 +5,11 @@
     {
       "person": "Nick Ramsbottom",
       "leaderboard": "2021-08-24",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 35,
+      "totalSeconds": 95,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "Nick Ramsbottom",
@@ -50,23 +50,23 @@
   ],
   "best": {
     "person": "Nick Ramsbottom",
-    "leaderboard": "2021-08-23",
+    "leaderboard": "2021-08-24",
     "minutes": 1,
-    "seconds": 50,
-    "totalSeconds": 110,
-    "position": 10,
+    "seconds": 35,
+    "totalSeconds": 95,
+    "position": 1,
     "isPending": false
   },
   "mean": {
     "person": null,
     "leaderboard": null,
     "minutes": 3,
-    "seconds": 49,
-    "totalSeconds": 229,
+    "seconds": 22,
+    "totalSeconds": 202,
     "position": null,
     "isPending": false
   },
-  "awardCount": 7,
+  "awardCount": 8,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -105,7 +105,8 @@
       "type": "sub-120",
       "text": "Complete a puzzle in less than two minutes",
       "dates": [
-        "2021-08-23"
+        "2021-08-23",
+        "2021-08-24"
       ]
     },
     {
