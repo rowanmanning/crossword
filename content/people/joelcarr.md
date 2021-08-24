@@ -5,11 +5,11 @@
     {
       "person": "joelcarr",
       "leaderboard": "2021-08-24",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 35,
+      "totalSeconds": 95,
+      "position": 4,
+      "isPending": false
     },
     {
       "person": "joelcarr",
@@ -601,12 +601,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 3,
-    "seconds": 9,
-    "totalSeconds": 189,
+    "seconds": 6,
+    "totalSeconds": 186,
     "position": null,
     "isPending": false
   },
-  "awardCount": 54,
+  "awardCount": 56,
   "awards": [
     {
       "title": "Bronze",
@@ -704,7 +704,8 @@
         "2021-07-23",
         "2021-08-10",
         "2021-08-11",
-        "2021-08-16"
+        "2021-08-16",
+        "2021-08-24"
       ]
     },
     {
@@ -739,7 +740,8 @@
       "type": "twinning",
       "text": "Get the same time as another person",
       "dates": [
-        "2021-07-13"
+        "2021-07-13",
+        "2021-08-24"
       ]
     },
     {

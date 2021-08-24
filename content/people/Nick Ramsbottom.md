@@ -8,7 +8,7 @@
       "minutes": 1,
       "seconds": 35,
       "totalSeconds": 95,
-      "position": 2,
+      "position": 4,
       "isPending": false
     },
     {
@@ -54,7 +54,7 @@
     "minutes": 1,
     "seconds": 35,
     "totalSeconds": 95,
-    "position": 2,
+    "position": 4,
     "isPending": false
   },
   "mean": {
@@ -66,7 +66,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 8,
+  "awardCount": 9,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -123,6 +123,14 @@
       "text": "Play for three days in a row",
       "dates": [
         "2021-08-22"
+      ]
+    },
+    {
+      "title": "Twinning",
+      "type": "twinning",
+      "text": "Get the same time as another person",
+      "dates": [
+        "2021-08-24"
       ]
     }
   ]

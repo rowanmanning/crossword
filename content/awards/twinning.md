@@ -142,11 +142,19 @@
     },
     {
       "person": "joelcarr",
+      "count": 2,
+      "dates": [
+        "2021-07-13",
+        "2021-08-24"
+      ]
+    },
+    {
+      "person": "Nick Ramsbottom",
       "count": 1,
       "dates": [
-        "2021-07-13"
+        "2021-08-24"
       ]
     }
   ],
-  "totalUnlocks": 71
+  "totalUnlocks": 73
 }
