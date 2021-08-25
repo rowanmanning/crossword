@@ -5,11 +5,11 @@
     {
       "person": "varjmes",
       "leaderboard": "2021-08-25",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 25,
+      "totalSeconds": 25,
+      "position": 4,
+      "isPending": false
     },
     {
       "person": "varjmes",
@@ -610,12 +610,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 35,
-    "totalSeconds": 95,
+    "seconds": 34,
+    "totalSeconds": 94,
     "position": null,
     "isPending": false
   },
-  "awardCount": 153,
+  "awardCount": 158,
   "awards": [
     {
       "title": "Gold",
@@ -700,7 +700,8 @@
         "2021-08-09",
         "2021-08-15",
         "2021-08-19",
-        "2021-08-23"
+        "2021-08-23",
+        "2021-08-25"
       ]
     },
     {
@@ -791,7 +792,8 @@
         "2021-08-20",
         "2021-08-21",
         "2021-08-23",
-        "2021-08-24"
+        "2021-08-24",
+        "2021-08-25"
       ]
     },
     {
@@ -822,7 +824,8 @@
         "2021-08-15",
         "2021-08-16",
         "2021-08-20",
-        "2021-08-23"
+        "2021-08-23",
+        "2021-08-25"
       ]
     },
     {
@@ -839,7 +842,8 @@
         "2021-07-25",
         "2021-08-10",
         "2021-08-15",
-        "2021-08-23"
+        "2021-08-23",
+        "2021-08-25"
       ]
     },
     {
@@ -848,7 +852,8 @@
       "text": "Complete a puzzle in less than 30 seconds",
       "dates": [
         "2021-06-23",
-        "2021-07-25"
+        "2021-07-25",
+        "2021-08-25"
       ]
     },
     {
