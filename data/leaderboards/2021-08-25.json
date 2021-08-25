@@ -1,5 +1,17 @@
 [
 	{
+		"name": "Oliver Turner",
+		"seconds": 41
+	},
+	{
+		"name": "Emma L",
+		"seconds": 43
+	},
+	{
+		"name": "Lily2point0",
+		"seconds": 46
+	},
+	{
 		"name": "Nick Ramsbottom",
 		"seconds": 126
 	},
@@ -24,10 +36,6 @@
 		"seconds": null
 	},
 	{
-		"name": "Emma L",
-		"seconds": null
-	},
-	{
 		"name": "itsalex",
 		"seconds": null
 	},
@@ -41,14 +49,6 @@
 	},
 	{
 		"name": "leaf",
-		"seconds": null
-	},
-	{
-		"name": "Lily2point0",
-		"seconds": null
-	},
-	{
-		"name": "Oliver Turner",
 		"seconds": null
 	},
 	{
