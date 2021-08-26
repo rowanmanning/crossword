@@ -5,11 +5,11 @@
     {
       "person": "Nick Ramsbottom",
       "leaderboard": "2021-08-26",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 39,
+      "totalSeconds": 99,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "Nick Ramsbottom",
@@ -78,13 +78,13 @@
   "mean": {
     "person": null,
     "leaderboard": null,
-    "minutes": 3,
-    "seconds": 10,
-    "totalSeconds": 190,
+    "minutes": 2,
+    "seconds": 57,
+    "totalSeconds": 177,
     "position": null,
     "isPending": false
   },
-  "awardCount": 10,
+  "awardCount": 12,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -132,7 +132,8 @@
       "text": "Complete a puzzle in less than two minutes",
       "dates": [
         "2021-08-23",
-        "2021-08-24"
+        "2021-08-24",
+        "2021-08-26"
       ]
     },
     {
@@ -149,6 +150,14 @@
       "text": "Play for three days in a row",
       "dates": [
         "2021-08-22"
+      ]
+    },
+    {
+      "title": "Week-Long Streak",
+      "type": "week-streak",
+      "text": "Play for a full week without breaks",
+      "dates": [
+        "2021-08-26"
       ]
     },
     {
