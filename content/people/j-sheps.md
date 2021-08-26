@@ -5,11 +5,11 @@
     {
       "person": "j-sheps",
       "leaderboard": "2021-08-26",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 3,
+      "seconds": 16,
+      "totalSeconds": 196,
+      "position": 8,
+      "isPending": false
     },
     {
       "person": "j-sheps",
@@ -619,12 +619,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 14,
-    "totalSeconds": 74,
+    "seconds": 16,
+    "totalSeconds": 76,
     "position": null,
     "isPending": false
   },
-  "awardCount": 195,
+  "awardCount": 197,
   "awards": [
     {
       "title": "Gold",
@@ -761,7 +761,8 @@
         "2021-08-06",
         "2021-08-14",
         "2021-08-18",
-        "2021-08-21"
+        "2021-08-21",
+        "2021-08-26"
       ]
     },
     {
@@ -938,7 +939,8 @@
       "type": "month-streak",
       "text": "Play for a full month (30 days) without breaks",
       "dates": [
-        "2021-07-20"
+        "2021-07-20",
+        "2021-08-26"
       ]
     },
     {
