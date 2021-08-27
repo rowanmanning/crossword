@@ -85,20 +85,21 @@
       ]
     },
     {
+      "person": "binaryberry",
+      "count": 3,
+      "dates": [
+        "2021-06-24",
+        "2021-08-05",
+        "2021-08-26"
+      ]
+    },
+    {
       "person": "Rowan M",
       "count": 3,
       "dates": [
         "2021-07-26",
         "2021-08-09",
         "2021-08-21"
-      ]
-    },
-    {
-      "person": "binaryberry",
-      "count": 2,
-      "dates": [
-        "2021-06-24",
-        "2021-08-05"
       ]
     },
     {
@@ -123,5 +124,5 @@
       ]
     }
   ],
-  "totalUnlocks": 46
+  "totalUnlocks": 47
 }

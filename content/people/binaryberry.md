@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "binaryberry",
+      "leaderboard": "2021-08-27",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "binaryberry",
       "leaderboard": "2021-08-26",
       "minutes": 4,
       "seconds": 37,
@@ -624,7 +633,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 47,
+  "awardCount": 48,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -632,7 +641,8 @@
       "text": "Get the same position two days in a row",
       "dates": [
         "2021-06-24",
-        "2021-08-05"
+        "2021-08-05",
+        "2021-08-26"
       ]
     },
     {
