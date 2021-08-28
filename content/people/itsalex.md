@@ -5,11 +5,11 @@
     {
       "person": "itsalex",
       "leaderboard": "2021-08-28",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 3,
+      "totalSeconds": 123,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "itsalex",
@@ -610,12 +610,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 9,
-    "totalSeconds": 69,
+    "seconds": 10,
+    "totalSeconds": 70,
     "position": null,
     "isPending": false
   },
-  "awardCount": 222,
+  "awardCount": 224,
   "awards": [
     {
       "title": "Gold",
@@ -762,7 +762,8 @@
         "2021-07-31",
         "2021-08-05",
         "2021-08-12",
-        "2021-08-26"
+        "2021-08-26",
+        "2021-08-28"
       ]
     },
     {
@@ -954,7 +955,8 @@
       "type": "week-streak",
       "text": "Play for a full week without breaks",
       "dates": [
-        "2021-07-03"
+        "2021-07-03",
+        "2021-08-28"
       ]
     },
     {

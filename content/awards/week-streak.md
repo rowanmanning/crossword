@@ -45,6 +45,14 @@
       ]
     },
     {
+      "person": "itsalex",
+      "count": 2,
+      "dates": [
+        "2021-07-03",
+        "2021-08-28"
+      ]
+    },
+    {
       "person": "cb",
       "count": 2,
       "dates": [
@@ -74,13 +82,6 @@
       ]
     },
     {
-      "person": "itsalex",
-      "count": 1,
-      "dates": [
-        "2021-07-03"
-      ]
-    },
-    {
       "person": "Emma L",
       "count": 1,
       "dates": [
@@ -95,5 +96,5 @@
       ]
     }
   ],
-  "totalUnlocks": 18
+  "totalUnlocks": 19
 }
