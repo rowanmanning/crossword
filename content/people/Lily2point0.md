@@ -5,11 +5,11 @@
     {
       "person": "Lily2point0",
       "leaderboard": "2021-08-29",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 56,
+      "totalSeconds": 56,
+      "position": 3,
+      "isPending": false
     },
     {
       "person": "Lily2point0",
@@ -646,12 +646,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 43,
-    "totalSeconds": 103,
+    "seconds": 42,
+    "totalSeconds": 102,
     "position": null,
     "isPending": false
   },
-  "awardCount": 132,
+  "awardCount": 136,
   "awards": [
     {
       "title": "Silver",
@@ -730,7 +730,8 @@
         "2021-08-08",
         "2021-08-20",
         "2021-08-23",
-        "2021-08-25"
+        "2021-08-25",
+        "2021-08-29"
       ]
     },
     {
@@ -739,7 +740,8 @@
       "text": "Quarter your completion time from one day to the next",
       "dates": [
         "2021-08-01",
-        "2021-08-08"
+        "2021-08-08",
+        "2021-08-29"
       ]
     },
     {
@@ -812,7 +814,8 @@
         "2021-08-23",
         "2021-08-24",
         "2021-08-25",
-        "2021-08-26"
+        "2021-08-26",
+        "2021-08-29"
       ]
     },
     {
@@ -837,7 +840,8 @@
         "2021-08-09",
         "2021-08-20",
         "2021-08-23",
-        "2021-08-25"
+        "2021-08-25",
+        "2021-08-29"
       ]
     },
     {
