@@ -5,11 +5,11 @@
     {
       "person": "Lily2point0",
       "leaderboard": "2021-08-28",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 4,
+      "seconds": 0,
+      "totalSeconds": 240,
+      "position": 3,
+      "isPending": false
     },
     {
       "person": "Lily2point0",
@@ -637,8 +637,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 41,
-    "totalSeconds": 101,
+    "seconds": 43,
+    "totalSeconds": 103,
     "position": null,
     "isPending": false
   },
