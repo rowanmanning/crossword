@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "apaleslimghost",
+      "leaderboard": "2021-08-28",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "apaleslimghost",
       "leaderboard": "2021-08-27",
       "minutes": 0,
       "seconds": 57,
@@ -624,7 +633,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 137,
+  "awardCount": 138,
   "awards": [
     {
       "title": "Gold",
@@ -893,7 +902,8 @@
       "type": "beast",
       "text": "His number is six hundred and sixty-six",
       "dates": [
-        "2021-07-31"
+        "2021-07-31",
+        "2021-08-27"
       ]
     }
   ]
