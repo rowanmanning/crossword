@@ -5,11 +5,11 @@
     {
       "person": "Nick Ramsbottom",
       "leaderboard": "2021-08-29",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 49,
+      "totalSeconds": 109,
+      "position": 5,
+      "isPending": false
     },
     {
       "person": "Nick Ramsbottom",
@@ -105,13 +105,13 @@
   "mean": {
     "person": null,
     "leaderboard": null,
-    "minutes": 3,
-    "seconds": 4,
-    "totalSeconds": 184,
+    "minutes": 2,
+    "seconds": 56,
+    "totalSeconds": 176,
     "position": null,
     "isPending": false
   },
-  "awardCount": 13,
+  "awardCount": 15,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -142,7 +142,8 @@
       "type": "half-time",
       "text": "Half your completion time from one day to the next",
       "dates": [
-        "2021-08-23"
+        "2021-08-23",
+        "2021-08-29"
       ]
     },
     {
@@ -161,7 +162,8 @@
       "dates": [
         "2021-08-23",
         "2021-08-24",
-        "2021-08-26"
+        "2021-08-26",
+        "2021-08-29"
       ]
     },
     {
