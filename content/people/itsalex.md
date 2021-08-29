@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "itsalex",
+      "leaderboard": "2021-08-30",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "itsalex",
       "leaderboard": "2021-08-29",
       "minutes": 1,
       "seconds": 9,
@@ -624,7 +633,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 227,
+  "awardCount": 228,
   "awards": [
     {
       "title": "Gold",
@@ -1018,7 +1027,8 @@
       "type": "beast",
       "text": "His number is six hundred and sixty-six",
       "dates": [
-        "2021-07-20"
+        "2021-07-20",
+        "2021-08-29"
       ]
     }
   ]
