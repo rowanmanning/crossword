@@ -5,11 +5,11 @@
     {
       "person": "itsalex",
       "leaderboard": "2021-08-29",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 9,
+      "totalSeconds": 69,
+      "position": 5,
+      "isPending": false
     },
     {
       "person": "itsalex",
@@ -624,7 +624,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 225,
+  "awardCount": 227,
   "awards": [
     {
       "title": "Gold",
@@ -834,7 +834,8 @@
         "2021-08-24",
         "2021-08-25",
         "2021-08-26",
-        "2021-08-27"
+        "2021-08-27",
+        "2021-08-29"
       ]
     },
     {
@@ -1002,6 +1003,14 @@
       "text": "Get the same time as two other people",
       "dates": [
         "2021-08-23"
+      ]
+    },
+    {
+      "title": "Nice",
+      "type": "nice",
+      "text": "Nice…",
+      "dates": [
+        "2021-08-29"
       ]
     },
     {

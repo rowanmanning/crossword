@@ -16,6 +16,14 @@
 		"seconds": 64
 	},
 	{
+		"name": "itsalex",
+		"seconds": 69
+	},
+	{
+		"name": "Rowan M",
+		"seconds": 86
+	},
+	{
 		"name": "Nick Ramsbottom",
 		"seconds": 109
 	},
@@ -40,10 +48,6 @@
 		"seconds": null
 	},
 	{
-		"name": "itsalex",
-		"seconds": null
-	},
-	{
 		"name": "joelcarr",
 		"seconds": null
 	},
@@ -53,10 +57,6 @@
 	},
 	{
 		"name": "Oliver Turner",
-		"seconds": null
-	},
-	{
-		"name": "Rowan M",
 		"seconds": null
 	}
 ]
