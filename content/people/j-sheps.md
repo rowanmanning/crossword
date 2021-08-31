@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "j-sheps",
+      "leaderboard": "2021-08-31",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "j-sheps",
       "leaderboard": "2021-08-30",
       "minutes": 0,
       "seconds": 31,
@@ -660,7 +669,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 207,
+  "awardCount": 209,
   "awards": [
     {
       "title": "Gold",
@@ -675,7 +684,8 @@
         "2021-07-08",
         "2021-07-13",
         "2021-08-03",
-        "2021-08-29"
+        "2021-08-29",
+        "2021-08-30"
       ]
     },
     {
@@ -683,7 +693,8 @@
       "type": "double-gold",
       "text": "Get the fastest time two days in a row",
       "dates": [
-        "2021-07-01"
+        "2021-07-01",
+        "2021-08-30"
       ]
     },
     {

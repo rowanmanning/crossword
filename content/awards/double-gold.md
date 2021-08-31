@@ -36,9 +36,10 @@
     },
     {
       "person": "j-sheps",
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2021-07-01"
+        "2021-07-01",
+        "2021-08-30"
       ]
     },
     {
@@ -49,5 +50,5 @@
       ]
     }
   ],
-  "totalUnlocks": 14
+  "totalUnlocks": 15
 }
