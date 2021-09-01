@@ -14,20 +14,20 @@
     {
       "person": "Emma L",
       "leaderboard": "2021-08-31",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 37,
+      "totalSeconds": 37,
+      "position": 4,
+      "isPending": false
     },
     {
       "person": "Emma L",
       "leaderboard": "2021-08-30",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 34,
+      "totalSeconds": 34,
+      "position": 3,
+      "isPending": false
     },
     {
       "person": "Emma L",
@@ -358,12 +358,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 58,
-    "totalSeconds": 58,
+    "seconds": 56,
+    "totalSeconds": 56,
     "position": null,
     "isPending": false
   },
-  "awardCount": 110,
+  "awardCount": 120,
   "awards": [
     {
       "title": "Gold",
@@ -400,7 +400,8 @@
         "2021-08-15",
         "2021-08-16",
         "2021-08-18",
-        "2021-08-28"
+        "2021-08-28",
+        "2021-08-30"
       ]
     },
     {
@@ -477,7 +478,9 @@
         "2021-08-25",
         "2021-08-26",
         "2021-08-27",
-        "2021-08-29"
+        "2021-08-29",
+        "2021-08-30",
+        "2021-08-31"
       ]
     },
     {
@@ -506,7 +509,9 @@
         "2021-08-24",
         "2021-08-25",
         "2021-08-27",
-        "2021-08-29"
+        "2021-08-29",
+        "2021-08-30",
+        "2021-08-31"
       ]
     },
     {
@@ -529,7 +534,9 @@
         "2021-08-23",
         "2021-08-24",
         "2021-08-25",
-        "2021-08-27"
+        "2021-08-27",
+        "2021-08-30",
+        "2021-08-31"
       ]
     },
     {
@@ -560,6 +567,14 @@
       ]
     },
     {
+      "title": "Month-Long Streak",
+      "type": "month-streak",
+      "text": "Play for a full month (30 days) without breaks",
+      "dates": [
+        "2021-08-31"
+      ]
+    },
+    {
       "title": "Twinning",
       "type": "twinning",
       "text": "Get the same time as another person",
@@ -569,7 +584,9 @@
         "2021-08-09",
         "2021-08-10",
         "2021-08-22",
-        "2021-08-29"
+        "2021-08-29",
+        "2021-08-30",
+        "2021-08-31"
       ]
     },
     {
