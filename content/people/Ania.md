@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "Ania",
+      "leaderboard": "2021-09-02",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "Ania",
       "leaderboard": "2021-09-01",
       "minutes": 0,
       "seconds": 44,
@@ -678,7 +687,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 164,
+  "awardCount": 166,
   "awards": [
     {
       "title": "Gold",
@@ -686,7 +695,8 @@
       "text": "Get the fastest time for a day",
       "dates": [
         "2021-06-22",
-        "2021-08-02"
+        "2021-08-02",
+        "2021-09-01"
       ]
     },
     {
@@ -737,6 +747,14 @@
       "text": "Get the same position three days in a row",
       "dates": [
         "2021-07-16"
+      ]
+    },
+    {
+      "title": "Podium",
+      "type": "podium",
+      "text": "Unlock third, second, and first place awards",
+      "dates": [
+        "2021-09-01"
       ]
     },
     {
