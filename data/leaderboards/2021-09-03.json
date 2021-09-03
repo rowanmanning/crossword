@@ -1,5 +1,9 @@
 [
 	{
+		"name": "j-sheps",
+		"seconds": 32
+	},
+	{
 		"name": "Emma L",
 		"seconds": 35
 	},
@@ -45,10 +49,6 @@
 	},
 	{
 		"name": "cb",
-		"seconds": null
-	},
-	{
-		"name": "j-sheps",
 		"seconds": null
 	},
 	{
