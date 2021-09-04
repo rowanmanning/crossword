@@ -91,6 +91,14 @@
       ]
     },
     {
+      "person": "Emma L",
+      "count": 2,
+      "dates": [
+        "2021-08-08",
+        "2021-09-05"
+      ]
+    },
+    {
       "person": "leaf",
       "count": 1,
       "dates": [
@@ -110,14 +118,7 @@
       "dates": [
         "2021-07-13"
       ]
-    },
-    {
-      "person": "Emma L",
-      "count": 1,
-      "dates": [
-        "2021-08-08"
-      ]
     }
   ],
-  "totalUnlocks": 36
+  "totalUnlocks": 37
 }

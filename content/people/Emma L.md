@@ -5,11 +5,11 @@
     {
       "person": "Emma L",
       "leaderboard": "2021-09-05",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 35,
+      "totalSeconds": 35,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "Emma L",
@@ -394,12 +394,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 58,
-    "totalSeconds": 58,
+    "seconds": 57,
+    "totalSeconds": 57,
     "position": null,
     "isPending": false
   },
-  "awardCount": 130,
+  "awardCount": 135,
   "awards": [
     {
       "title": "Gold",
@@ -459,7 +459,8 @@
         "2021-08-15",
         "2021-08-20",
         "2021-08-23",
-        "2021-08-29"
+        "2021-08-29",
+        "2021-09-05"
       ]
     },
     {
@@ -467,7 +468,8 @@
       "type": "quarter-time",
       "text": "Quarter your completion time from one day to the next",
       "dates": [
-        "2021-08-08"
+        "2021-08-08",
+        "2021-09-05"
       ]
     },
     {
@@ -522,7 +524,8 @@
         "2021-08-31",
         "2021-09-01",
         "2021-09-02",
-        "2021-09-03"
+        "2021-09-03",
+        "2021-09-05"
       ]
     },
     {
@@ -556,7 +559,8 @@
         "2021-08-31",
         "2021-09-01",
         "2021-09-02",
-        "2021-09-03"
+        "2021-09-03",
+        "2021-09-05"
       ]
     },
     {
@@ -582,7 +586,8 @@
         "2021-08-27",
         "2021-08-30",
         "2021-08-31",
-        "2021-09-03"
+        "2021-09-03",
+        "2021-09-05"
       ]
     },
     {
