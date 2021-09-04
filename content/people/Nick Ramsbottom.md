@@ -5,11 +5,11 @@
     {
       "person": "Nick Ramsbottom",
       "leaderboard": "2021-09-04",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 3,
+      "seconds": 11,
+      "totalSeconds": 191,
+      "position": 2,
+      "isPending": false
     },
     {
       "person": "Nick Ramsbottom",
@@ -160,12 +160,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 33,
-    "totalSeconds": 153,
+    "seconds": 36,
+    "totalSeconds": 156,
     "position": null,
     "isPending": false
   },
-  "awardCount": 20,
+  "awardCount": 21,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -206,7 +206,8 @@
       "text": "Double your completion time from one day to the next",
       "dates": [
         "2021-08-21",
-        "2021-08-28"
+        "2021-08-28",
+        "2021-09-04"
       ]
     },
     {
