@@ -5,11 +5,11 @@
     {
       "person": "Ania",
       "leaderboard": "2021-09-05",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 8,
+      "totalSeconds": 68,
+      "position": 4,
+      "isPending": false
     },
     {
       "person": "Ania",
@@ -714,7 +714,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 171,
+  "awardCount": 173,
   "awards": [
     {
       "title": "Gold",
@@ -806,7 +806,8 @@
         "2021-08-22",
         "2021-08-25",
         "2021-08-27",
-        "2021-08-29"
+        "2021-08-29",
+        "2021-09-05"
       ]
     },
     {
@@ -895,7 +896,8 @@
         "2021-08-31",
         "2021-09-01",
         "2021-09-02",
-        "2021-09-03"
+        "2021-09-03",
+        "2021-09-05"
       ]
     },
     {
