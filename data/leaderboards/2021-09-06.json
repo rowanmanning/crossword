@@ -24,6 +24,10 @@
 		"seconds": 61
 	},
 	{
+		"name": "varjmes",
+		"seconds": 61
+	},
+	{
 		"name": "Lily2point0",
 		"seconds": 65
 	},
@@ -53,10 +57,6 @@
 	},
 	{
 		"name": "Rowan M",
-		"seconds": null
-	},
-	{
-		"name": "varjmes",
 		"seconds": null
 	}
 ]
