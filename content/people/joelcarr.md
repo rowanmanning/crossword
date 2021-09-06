@@ -5,11 +5,11 @@
     {
       "person": "joelcarr",
       "leaderboard": "2021-09-06",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 53,
+      "totalSeconds": 53,
+      "position": 5,
+      "isPending": false
     },
     {
       "person": "joelcarr",
@@ -707,23 +707,23 @@
   ],
   "best": {
     "person": "joelcarr",
-    "leaderboard": "2021-08-25",
-    "minutes": 1,
-    "seconds": 4,
-    "totalSeconds": 64,
-    "position": 11,
+    "leaderboard": "2021-09-06",
+    "minutes": 0,
+    "seconds": 53,
+    "totalSeconds": 53,
+    "position": 5,
     "isPending": false
   },
   "mean": {
     "person": null,
     "leaderboard": null,
     "minutes": 3,
-    "seconds": 2,
-    "totalSeconds": 182,
+    "seconds": 0,
+    "totalSeconds": 180,
     "position": null,
     "isPending": false
   },
-  "awardCount": 62,
+  "awardCount": 65,
   "awards": [
     {
       "title": "Bronze",
@@ -782,7 +782,8 @@
         "2021-07-23",
         "2021-08-10",
         "2021-08-16",
-        "2021-09-03"
+        "2021-09-03",
+        "2021-09-06"
       ]
     },
     {
@@ -826,7 +827,16 @@
         "2021-08-24",
         "2021-08-25",
         "2021-08-26",
-        "2021-09-03"
+        "2021-09-03",
+        "2021-09-06"
+      ]
+    },
+    {
+      "title": "Sub Minute",
+      "type": "sub-60",
+      "text": "Complete a puzzle in less than a minute",
+      "dates": [
+        "2021-09-06"
       ]
     },
     {
