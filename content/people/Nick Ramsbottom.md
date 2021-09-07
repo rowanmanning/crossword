@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "Nick Ramsbottom",
+      "leaderboard": "2021-09-07",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "Nick Ramsbottom",
       "leaderboard": "2021-09-06",
       "minutes": 1,
       "seconds": 40,
@@ -183,14 +192,15 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 22,
+  "awardCount": 24,
   "awards": [
     {
       "title": "Consistent Position ×2",
       "type": "consistent-2",
       "text": "Get the same position two days in a row",
       "dates": [
-        "2021-08-22"
+        "2021-08-22",
+        "2021-09-06"
       ]
     },
     {
@@ -281,7 +291,8 @@
       "type": "emergency",
       "text": "What's your emergency?",
       "dates": [
-        "2021-08-31"
+        "2021-08-31",
+        "2021-09-06"
       ]
     }
   ]

@@ -47,6 +47,14 @@
       ]
     },
     {
+      "person": "Nick Ramsbottom",
+      "count": 2,
+      "dates": [
+        "2021-08-31",
+        "2021-09-06"
+      ]
+    },
+    {
       "person": "varjmes",
       "count": 1,
       "dates": [
@@ -66,14 +74,7 @@
       "dates": [
         "2021-08-21"
       ]
-    },
-    {
-      "person": "Nick Ramsbottom",
-      "count": 1,
-      "dates": [
-        "2021-08-31"
-      ]
     }
   ],
-  "totalUnlocks": 16
+  "totalUnlocks": 17
 }

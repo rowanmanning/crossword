@@ -6,7 +6,7 @@
   "unlocks": [
     {
       "person": "leaf",
-      "count": 9,
+      "count": 10,
       "dates": [
         "2021-06-22",
         "2021-07-08",
@@ -16,7 +16,8 @@
         "2021-08-04",
         "2021-08-14",
         "2021-08-24",
-        "2021-09-01"
+        "2021-09-01",
+        "2021-09-06"
       ]
     },
     {
@@ -106,6 +107,14 @@
       ]
     },
     {
+      "person": "Nick Ramsbottom",
+      "count": 2,
+      "dates": [
+        "2021-08-22",
+        "2021-09-06"
+      ]
+    },
+    {
       "person": "apaleslimghost",
       "count": 1,
       "dates": [
@@ -118,14 +127,7 @@
       "dates": [
         "2021-07-09"
       ]
-    },
-    {
-      "person": "Nick Ramsbottom",
-      "count": 1,
-      "dates": [
-        "2021-08-22"
-      ]
     }
   ],
-  "totalUnlocks": 50
+  "totalUnlocks": 52
 }
