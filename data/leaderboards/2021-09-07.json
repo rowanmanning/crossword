@@ -16,6 +16,14 @@
 		"seconds": 53
 	},
 	{
+		"name": "varjmes",
+		"seconds": 56
+	},
+	{
+		"name": "apaleslimghost",
+		"seconds": 60
+	},
+	{
 		"name": "leaf",
 		"seconds": 67
 	},
@@ -24,16 +32,12 @@
 		"seconds": 132
 	},
 	{
+		"name": "Ania",
+		"seconds": 133
+	},
+	{
 		"name": "joelcarr",
 		"seconds": 158
-	},
-	{
-		"name": "Ania",
-		"seconds": null
-	},
-	{
-		"name": "apaleslimghost",
-		"seconds": null
 	},
 	{
 		"name": "arjun137",
@@ -53,10 +57,6 @@
 	},
 	{
 		"name": "Rowan M",
-		"seconds": null
-	},
-	{
-		"name": "varjmes",
 		"seconds": null
 	}
 ]
