@@ -8,16 +8,20 @@
 		"seconds": 81
 	},
 	{
+		"name": "varjmes",
+		"seconds": 101
+	},
+	{
+		"name": "Ania",
+		"seconds": 123
+	},
+	{
 		"name": "Nick Ramsbottom",
 		"seconds": 136
 	},
 	{
 		"name": "j-sheps",
 		"seconds": 154
-	},
-	{
-		"name": "Ania",
-		"seconds": null
 	},
 	{
 		"name": "apaleslimghost",
@@ -53,10 +57,6 @@
 	},
 	{
 		"name": "Rowan M",
-		"seconds": null
-	},
-	{
-		"name": "varjmes",
 		"seconds": null
 	}
 ]
