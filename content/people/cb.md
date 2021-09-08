@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "cb",
+      "leaderboard": "2021-09-08",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "cb",
       "leaderboard": "2021-09-07",
       "minutes": 0,
       "seconds": 30,
@@ -669,7 +678,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 255,
+  "awardCount": 257,
   "awards": [
     {
       "title": "Gold",
@@ -724,7 +733,8 @@
         "2021-08-29",
         "2021-08-31",
         "2021-09-02",
-        "2021-09-06"
+        "2021-09-06",
+        "2021-09-07"
       ]
     },
     {
@@ -733,7 +743,8 @@
       "text": "Get the second fastest time two days in a row",
       "dates": [
         "2021-07-05",
-        "2021-07-18"
+        "2021-07-18",
+        "2021-09-07"
       ]
     },
     {
