@@ -282,11 +282,12 @@
     },
     {
       "person": "leaf",
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2021-09-03"
+        "2021-09-03",
+        "2021-09-08"
       ]
     }
   ],
-  "totalUnlocks": 211
+  "totalUnlocks": 212
 }

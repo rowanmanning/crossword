@@ -5,11 +5,11 @@
     {
       "person": "leaf",
       "leaderboard": "2021-09-08",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 18,
+      "totalSeconds": 18,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "leaf",
@@ -725,23 +725,23 @@
   ],
   "best": {
     "person": "leaf",
-    "leaderboard": "2021-09-03",
+    "leaderboard": "2021-09-08",
     "minutes": 0,
-    "seconds": 42,
-    "totalSeconds": 42,
-    "position": 4,
+    "seconds": 18,
+    "totalSeconds": 18,
+    "position": 1,
     "isPending": false
   },
   "mean": {
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 35,
-    "totalSeconds": 95,
+    "seconds": 34,
+    "totalSeconds": 94,
     "position": null,
     "isPending": false
   },
-  "awardCount": 144,
+  "awardCount": 150,
   "awards": [
     {
       "title": "Silver",
@@ -812,7 +812,8 @@
         "2021-08-08",
         "2021-08-22",
         "2021-08-29",
-        "2021-08-30"
+        "2021-08-30",
+        "2021-09-08"
       ]
     },
     {
@@ -902,7 +903,8 @@
         "2021-09-04",
         "2021-09-05",
         "2021-09-06",
-        "2021-09-07"
+        "2021-09-07",
+        "2021-09-08"
       ]
     },
     {
@@ -931,7 +933,8 @@
         "2021-08-31",
         "2021-09-02",
         "2021-09-03",
-        "2021-09-06"
+        "2021-09-06",
+        "2021-09-08"
       ]
     },
     {
@@ -939,7 +942,24 @@
       "type": "sub-45",
       "text": "Complete a puzzle in less than 45 seconds",
       "dates": [
-        "2021-09-03"
+        "2021-09-03",
+        "2021-09-08"
+      ]
+    },
+    {
+      "title": "Sub 30 Seconds",
+      "type": "sub-30",
+      "text": "Complete a puzzle in less than 30 seconds",
+      "dates": [
+        "2021-09-08"
+      ]
+    },
+    {
+      "title": "Sub 20 Seconds",
+      "type": "sub-20",
+      "text": "Complete a puzzle in less than 20 seconds",
+      "dates": [
+        "2021-09-08"
       ]
     },
     {
