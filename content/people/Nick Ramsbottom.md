@@ -5,11 +5,11 @@
     {
       "person": "Nick Ramsbottom",
       "leaderboard": "2021-09-09",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 56,
+      "totalSeconds": 56,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "Nick Ramsbottom",
@@ -194,23 +194,23 @@
   ],
   "best": {
     "person": "Nick Ramsbottom",
-    "leaderboard": "2021-08-31",
-    "minutes": 1,
-    "seconds": 10,
-    "totalSeconds": 70,
-    "position": 9,
+    "leaderboard": "2021-09-09",
+    "minutes": 0,
+    "seconds": 56,
+    "totalSeconds": 56,
+    "position": 1,
     "isPending": false
   },
   "mean": {
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 30,
-    "totalSeconds": 150,
+    "seconds": 25,
+    "totalSeconds": 145,
     "position": null,
     "isPending": false
   },
-  "awardCount": 24,
+  "awardCount": 27,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -243,7 +243,8 @@
       "text": "Half your completion time from one day to the next",
       "dates": [
         "2021-08-23",
-        "2021-08-29"
+        "2021-08-29",
+        "2021-09-09"
       ]
     },
     {
@@ -269,7 +270,16 @@
         "2021-08-31",
         "2021-09-01",
         "2021-09-03",
-        "2021-09-06"
+        "2021-09-06",
+        "2021-09-09"
+      ]
+    },
+    {
+      "title": "Sub Minute",
+      "type": "sub-60",
+      "text": "Complete a puzzle in less than a minute",
+      "dates": [
+        "2021-09-09"
       ]
     },
     {
