@@ -5,11 +5,11 @@
     {
       "person": "Emma L",
       "leaderboard": "2021-09-09",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 33,
+      "totalSeconds": 33,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "Emma L",
@@ -430,12 +430,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 57,
-    "totalSeconds": 57,
+    "seconds": 56,
+    "totalSeconds": 56,
     "position": null,
     "isPending": false
   },
-  "awardCount": 150,
+  "awardCount": 154,
   "awards": [
     {
       "title": "Gold",
@@ -515,7 +515,8 @@
         "2021-08-20",
         "2021-08-23",
         "2021-08-29",
-        "2021-09-05"
+        "2021-09-05",
+        "2021-09-09"
       ]
     },
     {
@@ -584,7 +585,8 @@
         "2021-09-05",
         "2021-09-06",
         "2021-09-07",
-        "2021-09-08"
+        "2021-09-08",
+        "2021-09-09"
       ]
     },
     {
@@ -621,7 +623,8 @@
         "2021-09-03",
         "2021-09-05",
         "2021-09-06",
-        "2021-09-07"
+        "2021-09-07",
+        "2021-09-09"
       ]
     },
     {
@@ -650,7 +653,8 @@
         "2021-09-03",
         "2021-09-05",
         "2021-09-06",
-        "2021-09-07"
+        "2021-09-07",
+        "2021-09-09"
       ]
     },
     {

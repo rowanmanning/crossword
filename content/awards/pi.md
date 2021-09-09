@@ -6,11 +6,12 @@
   "unlocks": [
     {
       "person": "joelcarr",
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2021-07-28"
+        "2021-07-28",
+        "2021-09-09"
       ]
     }
   ],
-  "totalUnlocks": 1
+  "totalUnlocks": 2
 }

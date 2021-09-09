@@ -5,11 +5,11 @@
     {
       "person": "leaf",
       "leaderboard": "2021-09-09",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 39,
+      "totalSeconds": 39,
+      "position": 3,
+      "isPending": false
     },
     {
       "person": "leaf",
@@ -750,7 +750,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 151,
+  "awardCount": 155,
   "awards": [
     {
       "title": "Gold",
@@ -854,7 +854,8 @@
         "2021-07-31",
         "2021-08-16",
         "2021-08-28",
-        "2021-09-04"
+        "2021-09-04",
+        "2021-09-09"
       ]
     },
     {
@@ -921,7 +922,8 @@
         "2021-09-05",
         "2021-09-06",
         "2021-09-07",
-        "2021-09-08"
+        "2021-09-08",
+        "2021-09-09"
       ]
     },
     {
@@ -951,7 +953,8 @@
         "2021-09-02",
         "2021-09-03",
         "2021-09-06",
-        "2021-09-08"
+        "2021-09-08",
+        "2021-09-09"
       ]
     },
     {
@@ -960,7 +963,8 @@
       "text": "Complete a puzzle in less than 45 seconds",
       "dates": [
         "2021-09-03",
-        "2021-09-08"
+        "2021-09-08",
+        "2021-09-09"
       ]
     },
     {
