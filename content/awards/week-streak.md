@@ -5,6 +5,15 @@
   "order": "251",
   "unlocks": [
     {
+      "person": "cb",
+      "count": 3,
+      "dates": [
+        "2021-07-05",
+        "2021-07-31",
+        "2021-09-11"
+      ]
+    },
+    {
       "person": "j-sheps",
       "count": 2,
       "dates": [
@@ -53,14 +62,6 @@
       ]
     },
     {
-      "person": "cb",
-      "count": 2,
-      "dates": [
-        "2021-07-05",
-        "2021-07-31"
-      ]
-    },
-    {
       "person": "Lily2point0",
       "count": 1,
       "dates": [
@@ -96,5 +97,5 @@
       ]
     }
   ],
-  "totalUnlocks": 19
+  "totalUnlocks": 20
 }

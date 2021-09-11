@@ -5,11 +5,11 @@
     {
       "person": "cb",
       "leaderboard": "2021-09-11",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 54,
+      "totalSeconds": 174,
+      "position": 6,
+      "isPending": false
     },
     {
       "person": "cb",
@@ -699,13 +699,13 @@
   "mean": {
     "person": null,
     "leaderboard": null,
-    "minutes": 0,
-    "seconds": 59,
-    "totalSeconds": 59,
+    "minutes": 1,
+    "seconds": 0,
+    "totalSeconds": 60,
     "position": null,
     "isPending": false
   },
-  "awardCount": 266,
+  "awardCount": 268,
   "awards": [
     {
       "title": "Gold",
@@ -857,7 +857,8 @@
         "2021-08-28",
         "2021-09-05",
         "2021-09-08",
-        "2021-09-10"
+        "2021-09-10",
+        "2021-09-11"
       ]
     },
     {
@@ -1078,7 +1079,8 @@
       "text": "Play for a full week without breaks",
       "dates": [
         "2021-07-05",
-        "2021-07-31"
+        "2021-07-31",
+        "2021-09-11"
       ]
     },
     {
