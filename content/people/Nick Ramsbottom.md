@@ -5,11 +5,11 @@
     {
       "person": "Nick Ramsbottom",
       "leaderboard": "2021-09-14",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 56,
+      "totalSeconds": 116,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "Nick Ramsbottom",
@@ -250,12 +250,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 20,
-    "totalSeconds": 140,
+    "seconds": 19,
+    "totalSeconds": 139,
     "position": null,
     "isPending": false
   },
-  "awardCount": 30,
+  "awardCount": 32,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -319,7 +319,8 @@
         "2021-09-06",
         "2021-09-09",
         "2021-09-10",
-        "2021-09-12"
+        "2021-09-12",
+        "2021-09-14"
       ]
     },
     {
@@ -343,7 +344,8 @@
       "type": "three-day-streak",
       "text": "Play for three days in a row",
       "dates": [
-        "2021-08-22"
+        "2021-08-22",
+        "2021-09-14"
       ]
     },
     {
