@@ -68,6 +68,19 @@ module.exports = class Leaderboard {
 		return new Time(seconds[seconds.length - 1] - seconds[0]);
 	}
 
+	get day() {
+		const days = [
+			'Sunday',
+			'Monday',
+			'Tuesday',
+			'Wednesday',
+			'Thursday',
+			'Friday',
+			'Saturday'
+		];
+		return days[new Date(this.date).getDay()];
+	}
+
 	toJSON() {
 		return {
 			title: this.date,
