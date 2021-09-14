@@ -768,7 +768,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 269,
+  "awardCount": 274,
   "awards": [
     {
       "title": "Gold",
@@ -1142,6 +1142,15 @@
       ]
     },
     {
+      "title": "Nice Try, Joel",
+      "type": "nice-try-joel",
+      "text": "Complete a puzzle in less than a minute on a Saturday",
+      "dates": [
+        "2021-08-07",
+        "2021-08-14"
+      ]
+    },
+    {
       "title": "Three Day Streak",
       "type": "three-day-streak",
       "text": "Play for three days in a row",
@@ -1195,6 +1204,16 @@
       "text": "Get the same time as two other people",
       "dates": [
         "2021-08-23"
+      ]
+    },
+    {
+      "title": "Twinning In Gold",
+      "type": "twinning-in-gold",
+      "text": "Get the twinning award and the fastest time for a day",
+      "dates": [
+        "2021-07-14",
+        "2021-07-22",
+        "2021-08-18"
       ]
     },
     {

@@ -2,7 +2,7 @@
   "title": "Over Five Minutes",
   "id": "over-300",
   "text": "Complete a puzzle in more than 5 minutes",
-  "order": "231",
+  "order": "271",
   "unlocks": [
     {
       "person": "binaryberry",

@@ -2,7 +2,7 @@
   "title": "Bronze",
   "id": "bronze",
   "text": "Get the third fastest time for a day",
-  "order": "61",
+  "order": "81",
   "unlocks": [
     {
       "person": "Rowan M",

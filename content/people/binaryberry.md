@@ -795,7 +795,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 48,
+  "awardCount": 50,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -899,6 +899,14 @@
       ]
     },
     {
+      "title": "Holiday",
+      "type": "holiday",
+      "text": "Come back to the crossword after a week off",
+      "dates": [
+        "2021-09-13"
+      ]
+    },
+    {
       "title": "Nice",
       "type": "nice",
       "text": "Nice…",
@@ -913,6 +921,14 @@
       "dates": [
         "2021-07-08",
         "2021-08-09"
+      ]
+    },
+    {
+      "title": "Unlucky for Some",
+      "type": "unlucky",
+      "text": "Come 13th three times",
+      "dates": [
+        "2021-08-25"
       ]
     }
   ]

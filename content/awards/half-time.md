@@ -2,7 +2,7 @@
   "title": "Half Time",
   "id": "half-time",
   "text": "Half your completion time from one day to the next",
-  "order": "151",
+  "order": "191",
   "unlocks": [
     {
       "person": "varjmes",

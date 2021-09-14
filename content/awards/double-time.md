@@ -2,7 +2,7 @@
   "title": "Double Time",
   "id": "double-time",
   "text": "Double your completion time from one day to the next",
-  "order": "171",
+  "order": "211",
   "unlocks": [
     {
       "person": "varjmes",

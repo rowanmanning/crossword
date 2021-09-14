@@ -2,7 +2,7 @@
   "title": "Sub 45 Seconds",
   "id": "sub-45",
   "text": "Complete a puzzle in less than 45 seconds",
-  "order": "201",
+  "order": "241",
   "unlocks": [
     {
       "person": "Rowan M",

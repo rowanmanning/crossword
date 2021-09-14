@@ -795,7 +795,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 198,
+  "awardCount": 199,
   "awards": [
     {
       "title": "Gold",
@@ -1107,6 +1107,14 @@
         "2021-08-30",
         "2021-09-06",
         "2021-09-10"
+      ]
+    },
+    {
+      "title": "1 Friday Street",
+      "type": "friday-street",
+      "text": "Get a time of exactly 1:00 on a Friday",
+      "dates": [
+        "2021-07-02"
       ]
     },
     {

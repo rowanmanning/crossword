@@ -777,7 +777,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 17,
+  "awardCount": 18,
   "awards": [
     {
       "title": "Half Time",
@@ -843,6 +843,14 @@
       "text": "Play for three days in a row",
       "dates": [
         "2021-06-25"
+      ]
+    },
+    {
+      "title": "Holiday",
+      "type": "holiday",
+      "text": "Come back to the crossword after a week off",
+      "dates": [
+        "2021-07-13"
       ]
     }
   ]

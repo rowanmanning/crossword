@@ -2,7 +2,7 @@
   "title": "Double Bronze",
   "id": "double-bronze",
   "text": "Get the third fastest time two days in a row",
-  "order": "71",
+  "order": "91",
   "unlocks": [
     {
       "person": "Rowan M",

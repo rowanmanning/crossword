@@ -786,7 +786,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 168,
+  "awardCount": 170,
   "awards": [
     {
       "title": "Gold",
@@ -1049,6 +1049,14 @@
       ]
     },
     {
+      "title": "Holiday",
+      "type": "holiday",
+      "text": "Come back to the crossword after a week off",
+      "dates": [
+        "2021-08-13"
+      ]
+    },
+    {
       "title": "Twinning",
       "type": "twinning",
       "text": "Get the same time as another person",
@@ -1061,6 +1069,14 @@
         "2021-08-21",
         "2021-09-01",
         "2021-09-10"
+      ]
+    },
+    {
+      "title": "Twinning In Gold",
+      "type": "twinning-in-gold",
+      "text": "Get the twinning award and the fastest time for a day",
+      "dates": [
+        "2021-08-18"
       ]
     },
     {

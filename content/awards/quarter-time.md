@@ -2,7 +2,7 @@
   "title": "Quarter Time",
   "id": "quarter-time",
   "text": "Quarter your completion time from one day to the next",
-  "order": "161",
+  "order": "201",
   "unlocks": [
     {
       "person": "varjmes",

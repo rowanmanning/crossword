@@ -2,7 +2,7 @@
   "title": "Sub Minute",
   "id": "sub-60",
   "text": "Complete a puzzle in less than a minute",
-  "order": "191",
+  "order": "231",
   "unlocks": [
     {
       "person": "Rowan M",

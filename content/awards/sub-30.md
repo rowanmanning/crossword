@@ -2,7 +2,7 @@
   "title": "Sub 30 Seconds",
   "id": "sub-30",
   "text": "Complete a puzzle in less than 30 seconds",
-  "order": "211",
+  "order": "251",
   "unlocks": [
     {
       "person": "cb",

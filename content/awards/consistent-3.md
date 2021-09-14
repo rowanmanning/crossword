@@ -2,7 +2,7 @@
   "title": "Consistent Position ×3",
   "id": "consistent-3",
   "text": "Get the same position three days in a row",
-  "order": "101",
+  "order": "131",
   "unlocks": [
     {
       "person": "Lily2point0",

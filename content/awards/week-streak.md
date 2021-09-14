@@ -2,7 +2,7 @@
   "title": "Week-Long Streak",
   "id": "week-streak",
   "text": "Play for a full week without breaks",
-  "order": "251",
+  "order": "301",
   "unlocks": [
     {
       "person": "cb",

@@ -768,7 +768,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 135,
+  "awardCount": 136,
   "awards": [
     {
       "title": "Gold",
@@ -1003,6 +1003,14 @@
       "dates": [
         "2021-06-30",
         "2021-07-08"
+      ]
+    },
+    {
+      "title": "Holiday",
+      "type": "holiday",
+      "text": "Come back to the crossword after a week off",
+      "dates": [
+        "2021-09-07"
       ]
     },
     {
