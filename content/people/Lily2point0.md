@@ -795,7 +795,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 168,
+  "awardCount": 175,
   "awards": [
     {
       "title": "Gold",
@@ -1035,6 +1035,20 @@
         "2021-08-09",
         "2021-08-20",
         "2021-09-08"
+      ]
+    },
+    {
+      "title": "Nice Try, Joel",
+      "type": "nice-try-joel",
+      "text": "Complete a puzzle in less than a minute on a Saturday",
+      "dates": [
+        "2021-07-11",
+        "2021-07-18",
+        "2021-08-01",
+        "2021-08-08",
+        "2021-08-29",
+        "2021-09-05",
+        "2021-09-12"
       ]
     },
     {

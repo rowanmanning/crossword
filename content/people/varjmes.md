@@ -795,7 +795,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 199,
+  "awardCount": 203,
   "awards": [
     {
       "title": "Gold",
@@ -1073,6 +1073,18 @@
       ]
     },
     {
+      "title": "Nice Try, Joel",
+      "type": "nice-try-joel",
+      "text": "Complete a puzzle in less than a minute on a Saturday",
+      "dates": [
+        "2021-07-18",
+        "2021-07-25",
+        "2021-08-01",
+        "2021-08-15",
+        "2021-09-12"
+      ]
+    },
+    {
       "title": "Three Day Streak",
       "type": "three-day-streak",
       "text": "Play for three days in a row",
@@ -1107,14 +1119,6 @@
         "2021-08-30",
         "2021-09-06",
         "2021-09-10"
-      ]
-    },
-    {
-      "title": "1 Friday Street",
-      "type": "friday-street",
-      "text": "Get a time of exactly 1:00 on a Friday",
-      "dates": [
-        "2021-07-02"
       ]
     },
     {

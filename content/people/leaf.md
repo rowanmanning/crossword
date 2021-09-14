@@ -5,11 +5,11 @@
     {
       "person": "leaf",
       "leaderboard": "2021-09-14",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 4,
+      "seconds": 1,
+      "totalSeconds": 241,
+      "position": 11,
+      "isPending": false
     },
     {
       "person": "leaf",
@@ -790,12 +790,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 34,
-    "totalSeconds": 94,
+    "seconds": 36,
+    "totalSeconds": 96,
     "position": null,
     "isPending": false
   },
-  "awardCount": 162,
+  "awardCount": 169,
   "awards": [
     {
       "title": "Gold",
@@ -903,7 +903,8 @@
         "2021-08-28",
         "2021-09-04",
         "2021-09-09",
-        "2021-09-10"
+        "2021-09-10",
+        "2021-09-14"
       ]
     },
     {
@@ -1033,6 +1034,19 @@
       "text": "Complete a puzzle in less than 20 seconds",
       "dates": [
         "2021-09-08"
+      ]
+    },
+    {
+      "title": "Nice Try, Joel",
+      "type": "nice-try-joel",
+      "text": "Complete a puzzle in less than a minute on a Saturday",
+      "dates": [
+        "2021-07-11",
+        "2021-07-18",
+        "2021-08-08",
+        "2021-08-15",
+        "2021-08-22",
+        "2021-09-12"
       ]
     },
     {

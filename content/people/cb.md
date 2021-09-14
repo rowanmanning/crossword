@@ -732,7 +732,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 277,
+  "awardCount": 285,
   "awards": [
     {
       "title": "Gold",
@@ -1100,7 +1100,15 @@
       "type": "nice-try-joel",
       "text": "Complete a puzzle in less than a minute on a Saturday",
       "dates": [
-        "2021-08-14"
+        "2021-07-04",
+        "2021-07-11",
+        "2021-07-18",
+        "2021-07-25",
+        "2021-08-01",
+        "2021-08-08",
+        "2021-08-15",
+        "2021-08-22",
+        "2021-08-29"
       ]
     },
     {
