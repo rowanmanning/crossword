@@ -17,6 +17,10 @@ module.exports = class Time {
 		return this.isPending ? null : this.totalSeconds % 60;
 	}
 
+	get secondsPadded() {
+		return this.isPending ? null : `${this.seconds < 10 ? '0' : ''}${this.seconds}`;
+	}
+
 	get isPending() {
 		return (typeof this.totalSeconds !== 'number');
 	}
