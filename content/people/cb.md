@@ -741,7 +741,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 285,
+  "awardCount": 289,
   "awards": [
     {
       "title": "Gold",
@@ -1171,6 +1171,17 @@
       "text": "Get the twinning award and the fastest time for a day",
       "dates": [
         "2021-08-06"
+      ]
+    },
+    {
+      "title": "Yin and Yang",
+      "type": "yin-and-yang",
+      "text": "Get the same time as another person but with flipped seconds",
+      "dates": [
+        "2021-08-31",
+        "2021-07-30",
+        "2021-07-21",
+        "2021-06-29"
       ]
     },
     {

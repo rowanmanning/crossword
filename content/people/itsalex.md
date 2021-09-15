@@ -777,7 +777,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 276,
+  "awardCount": 280,
   "awards": [
     {
       "title": "Gold",
@@ -1228,11 +1228,29 @@
       ]
     },
     {
+      "title": "Yin and Yang",
+      "type": "yin-and-yang",
+      "text": "Get the same time as another person but with flipped seconds",
+      "dates": [
+        "2021-08-31",
+        "2021-07-21"
+      ]
+    },
+    {
       "title": "Nice",
       "type": "nice",
       "text": "Nice…",
       "dates": [
         "2021-08-29"
+      ]
+    },
+    {
+      "title": "Don't Panic",
+      "type": "dont-panic",
+      "text": "A towel is about the most massively useful thing an interstellar hitchhiker can have",
+      "dates": [
+        "2021-07-25",
+        "2021-08-13"
       ]
     },
     {

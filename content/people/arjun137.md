@@ -786,7 +786,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 18,
+  "awardCount": 19,
   "awards": [
     {
       "title": "Half Time",
@@ -858,6 +858,14 @@
       "title": "Holiday",
       "type": "holiday",
       "text": "Come back to the crossword after a week off",
+      "dates": [
+        "2021-07-13"
+      ]
+    },
+    {
+      "title": "Don't Panic",
+      "type": "dont-panic",
+      "text": "A towel is about the most massively useful thing an interstellar hitchhiker can have",
       "dates": [
         "2021-07-13"
       ]

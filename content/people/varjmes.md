@@ -804,7 +804,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 201,
+  "awardCount": 202,
   "awards": [
     {
       "title": "Gold",
@@ -1118,6 +1118,14 @@
         "2021-08-30",
         "2021-09-06",
         "2021-09-10"
+      ]
+    },
+    {
+      "title": "Yin and Yang",
+      "type": "yin-and-yang",
+      "text": "Get the same time as another person but with flipped seconds",
+      "dates": [
+        "2021-08-15"
       ]
     },
     {

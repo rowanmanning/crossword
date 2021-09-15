@@ -804,7 +804,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 169,
+  "awardCount": 175,
   "awards": [
     {
       "title": "Gold",
@@ -1086,12 +1086,32 @@
       ]
     },
     {
+      "title": "Yin and Yang",
+      "type": "yin-and-yang",
+      "text": "Get the same time as another person but with flipped seconds",
+      "dates": [
+        "2021-09-05",
+        "2021-07-21",
+        "2021-07-15",
+        "2021-07-10",
+        "2021-07-02"
+      ]
+    },
+    {
       "title": "Arjun",
       "type": "arjun",
       "text": "Join us",
       "dates": [
         "2021-07-22",
         "2021-07-25"
+      ]
+    },
+    {
+      "title": "Dentist",
+      "type": "dentist",
+      "text": "Now this won't hurt a bit…",
+      "dates": [
+        "2021-08-19"
       ]
     },
     {
