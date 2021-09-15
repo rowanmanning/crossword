@@ -5,11 +5,11 @@
     {
       "person": "binaryberry",
       "leaderboard": "2021-09-15",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 3,
+      "seconds": 52,
+      "totalSeconds": 232,
+      "position": 9,
+      "isPending": false
     },
     {
       "person": "binaryberry",
@@ -799,8 +799,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 3,
-    "seconds": 16,
-    "totalSeconds": 196,
+    "seconds": 17,
+    "totalSeconds": 197,
     "position": null,
     "isPending": false
   },

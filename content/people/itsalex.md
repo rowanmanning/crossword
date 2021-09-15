@@ -8,7 +8,7 @@
       "minutes": 0,
       "seconds": 46,
       "totalSeconds": 46,
-      "position": 2,
+      "position": 3,
       "isPending": false
     },
     {
@@ -777,7 +777,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 279,
+  "awardCount": 276,
   "awards": [
     {
       "title": "Gold",
@@ -1157,11 +1157,8 @@
       "type": "nice-try-joel",
       "text": "Complete a puzzle in less than a minute on a Saturday",
       "dates": [
-        "2021-07-18",
-        "2021-07-25",
-        "2021-08-01",
-        "2021-08-08",
-        "2021-08-22"
+        "2021-08-07",
+        "2021-08-14"
       ]
     },
     {

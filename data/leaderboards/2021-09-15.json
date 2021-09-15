@@ -1,5 +1,9 @@
 [
 	{
+		"name": "Ania",
+		"seconds": 40
+	},
+	{
 		"name": "Emma L",
 		"seconds": 45
 	},
@@ -20,27 +24,23 @@
 		"seconds": 85
 	},
 	{
+		"name": "ivo",
+		"seconds": 106
+	},
+	{
 		"name": "Nick Ramsbottom",
 		"seconds": 113
 	},
 	{
-		"name": "Ania",
-		"seconds": null
+		"name": "binaryberry",
+		"seconds": 232
 	},
 	{
 		"name": "arjun137",
 		"seconds": null
 	},
 	{
-		"name": "binaryberry",
-		"seconds": null
-	},
-	{
 		"name": "cb",
-		"seconds": null
-	},
-	{
-		"name": "ivo",
 		"seconds": null
 	},
 	{

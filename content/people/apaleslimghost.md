@@ -8,7 +8,7 @@
       "minutes": 1,
       "seconds": 25,
       "totalSeconds": 85,
-      "position": 5,
+      "position": 6,
       "isPending": false
     },
     {
@@ -795,7 +795,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 178,
+  "awardCount": 174,
   "awards": [
     {
       "title": "Gold",
@@ -1033,17 +1033,6 @@
       "text": "Complete a puzzle in more than 5 minutes",
       "dates": [
         "2021-07-31"
-      ]
-    },
-    {
-      "title": "Nice Try, Joel",
-      "type": "nice-try-joel",
-      "text": "Complete a puzzle in less than a minute on a Saturday",
-      "dates": [
-        "2021-07-11",
-        "2021-07-18",
-        "2021-07-25",
-        "2021-08-01"
       ]
     },
     {
