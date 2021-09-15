@@ -5,11 +5,11 @@
     {
       "person": "leaf",
       "leaderboard": "2021-09-15",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 37,
+      "totalSeconds": 37,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "leaf",
@@ -799,12 +799,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 36,
-    "totalSeconds": 96,
+    "seconds": 35,
+    "totalSeconds": 95,
     "position": null,
     "isPending": false
   },
-  "awardCount": 163,
+  "awardCount": 168,
   "awards": [
     {
       "title": "Gold",
@@ -886,7 +886,8 @@
         "2021-08-29",
         "2021-08-30",
         "2021-09-08",
-        "2021-09-12"
+        "2021-09-12",
+        "2021-09-15"
       ]
     },
     {
@@ -894,7 +895,8 @@
       "type": "quarter-time",
       "text": "Quarter your completion time from one day to the next",
       "dates": [
-        "2021-06-29"
+        "2021-06-29",
+        "2021-09-15"
       ]
     },
     {
@@ -983,7 +985,8 @@
         "2021-09-08",
         "2021-09-09",
         "2021-09-12",
-        "2021-09-13"
+        "2021-09-13",
+        "2021-09-15"
       ]
     },
     {
@@ -1016,7 +1019,8 @@
         "2021-09-08",
         "2021-09-09",
         "2021-09-12",
-        "2021-09-13"
+        "2021-09-13",
+        "2021-09-15"
       ]
     },
     {
@@ -1026,7 +1030,8 @@
       "dates": [
         "2021-09-03",
         "2021-09-08",
-        "2021-09-09"
+        "2021-09-09",
+        "2021-09-15"
       ]
     },
     {

@@ -79,6 +79,14 @@
       ]
     },
     {
+      "person": "leaf",
+      "count": 2,
+      "dates": [
+        "2021-06-29",
+        "2021-09-15"
+      ]
+    },
+    {
       "person": "itsalex",
       "count": 2,
       "dates": [
@@ -103,13 +111,6 @@
       ]
     },
     {
-      "person": "leaf",
-      "count": 1,
-      "dates": [
-        "2021-06-29"
-      ]
-    },
-    {
       "person": "joelcarr",
       "count": 1,
       "dates": [
@@ -124,5 +125,5 @@
       ]
     }
   ],
-  "totalUnlocks": 41
+  "totalUnlocks": 42
 }
