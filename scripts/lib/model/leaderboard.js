@@ -78,7 +78,9 @@ module.exports = class Leaderboard {
 			'Friday',
 			'Saturday'
 		];
-		return days[new Date(this.date).getDay()];
+		const timestamp = Date.parse(`${this.date}`);
+		const date = timestamp ? new Date(timestamp) : null;
+		return date ? days[date.getUTCDay()] : null;
 	}
 
 	toJSON() {
