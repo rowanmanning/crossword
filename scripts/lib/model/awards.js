@@ -65,6 +65,7 @@ module.exports = {
 	NiceAward: require('./awards/nice'),
 	PiAward: require('./awards/pi'),
 	BlazeAward: require('./awards/blaze'),
+	DontPanicAward: require('./awards/dont-panic'),
 	TwoForTuesdayAward: require('./awards/two-for-tuesday'),
 	FridayStreetAward: require('./awards/friday-street'),
 
