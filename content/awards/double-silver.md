@@ -5,6 +5,16 @@
   "order": "51",
   "unlocks": [
     {
+      "person": "Rowan M",
+      "count": 4,
+      "dates": [
+        "2021-08-11",
+        "2021-08-23",
+        "2021-09-05",
+        "2021-09-15"
+      ]
+    },
+    {
       "person": "Oliver Turner",
       "count": 3,
       "dates": [
@@ -23,15 +33,6 @@
       ]
     },
     {
-      "person": "Rowan M",
-      "count": 3,
-      "dates": [
-        "2021-08-11",
-        "2021-08-23",
-        "2021-09-05"
-      ]
-    },
-    {
       "person": "itsalex",
       "count": 1,
       "dates": [
@@ -39,5 +40,5 @@
       ]
     }
   ],
-  "totalUnlocks": 10
+  "totalUnlocks": 11
 }

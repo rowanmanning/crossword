@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "ivo",
+      "leaderboard": "2021-09-16",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "ivo",
       "leaderboard": "2021-09-15",
       "minutes": 1,
       "seconds": 46,
@@ -39,8 +48,16 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 1,
+  "awardCount": 2,
   "awards": [
+    {
+      "title": "Consistent Position ×2",
+      "type": "consistent-2",
+      "text": "Get the same position two days in a row",
+      "dates": [
+        "2021-09-15"
+      ]
+    },
     {
       "title": "Sub Two Minutes",
       "type": "sub-120",
