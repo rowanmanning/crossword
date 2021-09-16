@@ -5,11 +5,11 @@
     {
       "person": "Emma L",
       "leaderboard": "2021-09-16",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 14,
+      "totalSeconds": 74,
+      "position": 3,
+      "isPending": false
     },
     {
       "person": "Emma L",
@@ -498,7 +498,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 173,
+  "awardCount": 174,
   "awards": [
     {
       "title": "Gold",
@@ -659,7 +659,8 @@
         "2021-09-10",
         "2021-09-12",
         "2021-09-14",
-        "2021-09-15"
+        "2021-09-15",
+        "2021-09-16"
       ]
     },
     {
