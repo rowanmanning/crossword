@@ -70,6 +70,15 @@
       ]
     },
     {
+      "person": "binaryberry",
+      "count": 3,
+      "dates": [
+        "2021-07-21",
+        "2021-08-20",
+        "2021-09-16"
+      ]
+    },
+    {
       "person": "Lily2point0",
       "count": 3,
       "dates": [
@@ -95,14 +104,6 @@
       ]
     },
     {
-      "person": "binaryberry",
-      "count": 2,
-      "dates": [
-        "2021-07-21",
-        "2021-08-20"
-      ]
-    },
-    {
       "person": "Emma L",
       "count": 2,
       "dates": [
@@ -125,5 +126,5 @@
       ]
     }
   ],
-  "totalUnlocks": 42
+  "totalUnlocks": 43
 }

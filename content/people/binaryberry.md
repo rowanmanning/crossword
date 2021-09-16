@@ -5,11 +5,11 @@
     {
       "person": "binaryberry",
       "leaderboard": "2021-09-16",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 51,
+      "totalSeconds": 51,
+      "position": 4,
+      "isPending": false
     },
     {
       "person": "binaryberry",
@@ -808,12 +808,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 3,
-    "seconds": 17,
-    "totalSeconds": 197,
+    "seconds": 13,
+    "totalSeconds": 193,
     "position": null,
     "isPending": false
   },
-  "awardCount": 50,
+  "awardCount": 54,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -836,7 +836,8 @@
         "2021-07-21",
         "2021-08-09",
         "2021-08-20",
-        "2021-08-25"
+        "2021-08-25",
+        "2021-09-16"
       ]
     },
     {
@@ -845,7 +846,8 @@
       "text": "Quarter your completion time from one day to the next",
       "dates": [
         "2021-07-21",
-        "2021-08-20"
+        "2021-08-20",
+        "2021-09-16"
       ]
     },
     {
@@ -876,7 +878,8 @@
         "2021-08-18",
         "2021-08-20",
         "2021-08-23",
-        "2021-08-25"
+        "2021-08-25",
+        "2021-09-16"
       ]
     },
     {
@@ -885,7 +888,8 @@
       "text": "Complete a puzzle in less than a minute",
       "dates": [
         "2021-08-20",
-        "2021-08-23"
+        "2021-08-23",
+        "2021-09-16"
       ]
     },
     {
