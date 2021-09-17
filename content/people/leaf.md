@@ -5,11 +5,11 @@
     {
       "person": "leaf",
       "leaderboard": "2021-09-17",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 37,
+      "totalSeconds": 97,
+      "position": 7,
+      "isPending": false
     },
     {
       "person": "leaf",
@@ -822,7 +822,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 172,
+  "awardCount": 174,
   "awards": [
     {
       "title": "Gold",
@@ -1006,7 +1006,8 @@
         "2021-09-12",
         "2021-09-13",
         "2021-09-15",
-        "2021-09-16"
+        "2021-09-16",
+        "2021-09-17"
       ]
     },
     {
@@ -1118,6 +1119,14 @@
       "text": "Get the same time as another person but with flipped seconds",
       "dates": [
         "2021-07-10"
+      ]
+    },
+    {
+      "title": "Arjun",
+      "type": "arjun",
+      "text": "Join us",
+      "dates": [
+        "2021-09-17"
       ]
     },
     {
