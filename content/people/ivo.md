@@ -5,11 +5,11 @@
     {
       "person": "ivo",
       "leaderboard": "2021-09-17",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 37,
+      "totalSeconds": 157,
+      "position": 6,
+      "isPending": false
     },
     {
       "person": "ivo",
@@ -51,13 +51,13 @@
   "mean": {
     "person": null,
     "leaderboard": null,
-    "minutes": 1,
-    "seconds": 58,
-    "totalSeconds": 118,
+    "minutes": 2,
+    "seconds": 8,
+    "totalSeconds": 128,
     "position": null,
     "isPending": false
   },
-  "awardCount": 5,
+  "awardCount": 6,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -65,6 +65,14 @@
       "text": "Get the same position two days in a row",
       "dates": [
         "2021-09-15"
+      ]
+    },
+    {
+      "title": "Double Time",
+      "type": "double-time",
+      "text": "Double your completion time from one day to the next",
+      "dates": [
+        "2021-09-17"
       ]
     },
     {
