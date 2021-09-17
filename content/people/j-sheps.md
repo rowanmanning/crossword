@@ -5,11 +5,11 @@
     {
       "person": "j-sheps",
       "leaderboard": "2021-09-17",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 0,
+      "totalSeconds": 60,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "j-sheps",
@@ -822,7 +822,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 261,
+  "awardCount": 263,
   "awards": [
     {
       "title": "Gold",
@@ -1063,7 +1063,8 @@
         "2021-09-12",
         "2021-09-13",
         "2021-09-15",
-        "2021-09-16"
+        "2021-09-16",
+        "2021-09-17"
       ]
     },
     {
@@ -1241,6 +1242,14 @@
       "dates": [
         "2021-07-01",
         "2021-07-07"
+      ]
+    },
+    {
+      "title": "1 Friday Street",
+      "type": "friday-street",
+      "text": "Get a time of exactly 1:00 on a Friday",
+      "dates": [
+        "2021-09-17"
       ]
     },
     {
