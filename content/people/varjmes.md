@@ -5,11 +5,11 @@
     {
       "person": "varjmes",
       "leaderboard": "2021-09-18",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 36,
+      "totalSeconds": 96,
+      "position": 3,
+      "isPending": false
     },
     {
       "person": "varjmes",
@@ -831,7 +831,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 209,
+  "awardCount": 211,
   "awards": [
     {
       "title": "Gold",
@@ -1044,7 +1044,8 @@
         "2021-09-14",
         "2021-09-15",
         "2021-09-16",
-        "2021-09-17"
+        "2021-09-17",
+        "2021-09-18"
       ]
     },
     {
@@ -1138,6 +1139,14 @@
       "text": "Play for a full month (30 days) without breaks",
       "dates": [
         "2021-07-20"
+      ]
+    },
+    {
+      "title": "Quarter-Long Streak",
+      "type": "quarter-streak",
+      "text": "Play for a full quarter, give that OKR a 1",
+      "dates": [
+        "2021-09-18"
       ]
     },
     {

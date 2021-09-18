@@ -10,7 +10,14 @@
       "dates": [
         "2021-09-18"
       ]
+    },
+    {
+      "person": "varjmes",
+      "count": 1,
+      "dates": [
+        "2021-09-18"
+      ]
     }
   ],
-  "totalUnlocks": 1
+  "totalUnlocks": 2
 }

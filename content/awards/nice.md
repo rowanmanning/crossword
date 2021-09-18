@@ -5,19 +5,20 @@
   "order": "401",
   "unlocks": [
     {
+      "person": "apaleslimghost",
+      "count": 3,
+      "dates": [
+        "2021-08-19",
+        "2021-08-24",
+        "2021-09-18"
+      ]
+    },
+    {
       "person": "leaf",
       "count": 2,
       "dates": [
         "2021-07-27",
         "2021-08-06"
-      ]
-    },
-    {
-      "person": "apaleslimghost",
-      "count": 2,
-      "dates": [
-        "2021-08-19",
-        "2021-08-24"
       ]
     },
     {
@@ -35,5 +36,5 @@
       ]
     }
   ],
-  "totalUnlocks": 6
+  "totalUnlocks": 7
 }
