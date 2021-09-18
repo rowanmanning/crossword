@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "Emma L",
+      "leaderboard": "2021-09-18",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "Emma L",
       "leaderboard": "2021-09-17",
       "minutes": 2,
       "seconds": 4,
@@ -507,7 +516,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 174,
+  "awardCount": 175,
   "awards": [
     {
       "title": "Gold",
@@ -577,6 +586,14 @@
       "text": "Get the third fastest time two days in a row",
       "dates": [
         "2021-08-16"
+      ]
+    },
+    {
+      "title": "Consistent Position ×2",
+      "type": "consistent-2",
+      "text": "Get the same position two days in a row",
+      "dates": [
+        "2021-09-17"
       ]
     },
     {

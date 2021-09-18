@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "joelcarr",
+      "leaderboard": "2021-09-18",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "joelcarr",
       "leaderboard": "2021-09-17",
       "minutes": 3,
       "seconds": 34,
@@ -822,7 +831,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 68,
+  "awardCount": 70,
   "awards": [
     {
       "title": "Bronze",
@@ -841,7 +850,8 @@
         "2021-06-29",
         "2021-07-08",
         "2021-08-05",
-        "2021-08-10"
+        "2021-08-10",
+        "2021-09-17"
       ]
     },
     {
@@ -1009,6 +1019,14 @@
       "dates": [
         "2021-07-06",
         "2021-07-23"
+      ]
+    },
+    {
+      "title": "Unlucky for Some",
+      "type": "unlucky",
+      "text": "Come 13th three times",
+      "dates": [
+        "2021-09-17"
       ]
     }
   ]
