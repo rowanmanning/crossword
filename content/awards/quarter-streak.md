@@ -3,6 +3,14 @@
   "id": "quarter-streak",
   "text": "Play for a full quarter, give that OKR a 1",
   "order": "321",
-  "unlocks": [],
-  "totalUnlocks": 0
+  "unlocks": [
+    {
+      "person": "Lily2point0",
+      "count": 1,
+      "dates": [
+        "2021-09-18"
+      ]
+    }
+  ],
+  "totalUnlocks": 1
 }

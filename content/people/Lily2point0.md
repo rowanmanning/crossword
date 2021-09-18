@@ -5,11 +5,11 @@
     {
       "person": "Lily2point0",
       "leaderboard": "2021-09-18",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 25,
+      "totalSeconds": 145,
+      "position": 2,
+      "isPending": false
     },
     {
       "person": "Lily2point0",
@@ -831,7 +831,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 179,
+  "awardCount": 181,
   "awards": [
     {
       "title": "Gold",
@@ -959,7 +959,8 @@
         "2021-08-30",
         "2021-09-04",
         "2021-09-10",
-        "2021-09-13"
+        "2021-09-13",
+        "2021-09-18"
       ]
     },
     {
@@ -1100,6 +1101,14 @@
       "text": "Play for a full month (30 days) without breaks",
       "dates": [
         "2021-07-20"
+      ]
+    },
+    {
+      "title": "Quarter-Long Streak",
+      "type": "quarter-streak",
+      "text": "Play for a full quarter, give that OKR a 1",
+      "dates": [
+        "2021-09-18"
       ]
     },
     {
