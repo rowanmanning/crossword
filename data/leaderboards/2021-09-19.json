@@ -8,6 +8,10 @@
 		"seconds": 60
 	},
 	{
+		"name": "Rowan M",
+		"seconds": 76
+	},
+	{
 		"name": "Nick Ramsbottom",
 		"seconds": 118
 	},
@@ -57,10 +61,6 @@
 	},
 	{
 		"name": "Oliver Turner",
-		"seconds": null
-	},
-	{
-		"name": "Rowan M",
 		"seconds": null
 	}
 ]
