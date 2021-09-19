@@ -5,6 +5,15 @@
   "order": "301",
   "unlocks": [
     {
+      "person": "apaleslimghost",
+      "count": 3,
+      "dates": [
+        "2021-06-28",
+        "2021-08-22",
+        "2021-09-19"
+      ]
+    },
+    {
       "person": "cb",
       "count": 3,
       "dates": [
@@ -27,14 +36,6 @@
       "dates": [
         "2021-06-27",
         "2021-07-08"
-      ]
-    },
-    {
-      "person": "apaleslimghost",
-      "count": 2,
-      "dates": [
-        "2021-06-28",
-        "2021-08-22"
       ]
     },
     {
@@ -97,5 +98,5 @@
       ]
     }
   ],
-  "totalUnlocks": 20
+  "totalUnlocks": 21
 }

@@ -5,11 +5,11 @@
     {
       "person": "apaleslimghost",
       "leaderboard": "2021-09-19",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 0,
+      "totalSeconds": 60,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "apaleslimghost",
@@ -831,7 +831,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 190,
+  "awardCount": 194,
   "awards": [
     {
       "title": "Gold",
@@ -996,7 +996,8 @@
         "2021-09-15",
         "2021-09-16",
         "2021-09-17",
-        "2021-09-18"
+        "2021-09-18",
+        "2021-09-19"
       ]
     },
     {
@@ -1106,7 +1107,8 @@
       "text": "Play for a full week without breaks",
       "dates": [
         "2021-06-28",
-        "2021-08-22"
+        "2021-08-22",
+        "2021-09-19"
       ]
     },
     {
@@ -1129,7 +1131,8 @@
         "2021-08-18",
         "2021-08-21",
         "2021-09-01",
-        "2021-09-10"
+        "2021-09-10",
+        "2021-09-19"
       ]
     },
     {
@@ -1137,7 +1140,8 @@
       "type": "twinning-in-gold",
       "text": "Get the twinning award and the fastest time for a day",
       "dates": [
-        "2021-08-18"
+        "2021-08-18",
+        "2021-09-19"
       ]
     },
     {

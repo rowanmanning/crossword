@@ -25,10 +25,19 @@
     },
     {
       "person": "Emma L",
-      "count": 2,
+      "count": 3,
       "dates": [
         "2021-08-06",
-        "2021-09-06"
+        "2021-09-06",
+        "2021-09-19"
+      ]
+    },
+    {
+      "person": "apaleslimghost",
+      "count": 2,
+      "dates": [
+        "2021-08-18",
+        "2021-09-19"
       ]
     },
     {
@@ -39,13 +48,6 @@
       ]
     },
     {
-      "person": "apaleslimghost",
-      "count": 1,
-      "dates": [
-        "2021-08-18"
-      ]
-    },
-    {
       "person": "Ania",
       "count": 1,
       "dates": [
@@ -53,5 +55,5 @@
       ]
     }
   ],
-  "totalUnlocks": 12
+  "totalUnlocks": 14
 }
