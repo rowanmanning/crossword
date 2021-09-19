@@ -5,11 +5,11 @@
     {
       "person": "ivo",
       "leaderboard": "2021-09-20",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 22,
+      "totalSeconds": 82,
+      "position": 3,
+      "isPending": false
     },
     {
       "person": "ivo",
@@ -79,12 +79,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 36,
-    "totalSeconds": 156,
+    "seconds": 25,
+    "totalSeconds": 145,
     "position": null,
     "isPending": false
   },
-  "awardCount": 6,
+  "awardCount": 9,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -92,6 +92,14 @@
       "text": "Get the same position two days in a row",
       "dates": [
         "2021-09-15"
+      ]
+    },
+    {
+      "title": "Half Time",
+      "type": "half-time",
+      "text": "Half your completion time from one day to the next",
+      "dates": [
+        "2021-09-20"
       ]
     },
     {
@@ -108,7 +116,8 @@
       "text": "Complete a puzzle in less than two minutes",
       "dates": [
         "2021-09-15",
-        "2021-09-16"
+        "2021-09-16",
+        "2021-09-20"
       ]
     },
     {
@@ -125,6 +134,14 @@
       "text": "Play for three days in a row",
       "dates": [
         "2021-09-16"
+      ]
+    },
+    {
+      "title": "Week-Long Streak",
+      "type": "week-streak",
+      "text": "Play for a full week without breaks",
+      "dates": [
+        "2021-09-20"
       ]
     }
   ]
