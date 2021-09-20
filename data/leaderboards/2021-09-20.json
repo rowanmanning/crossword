@@ -1,5 +1,9 @@
 [
 	{
+		"name": "itsalex",
+		"seconds": 21
+	},
+	{
 		"name": "varjmes",
 		"seconds": 35
 	},
@@ -10,6 +14,10 @@
 	{
 		"name": "leaf",
 		"seconds": 36
+	},
+	{
+		"name": "Ania",
+		"seconds": 40
 	},
 	{
 		"name": "j-sheps",
@@ -32,10 +40,6 @@
 		"seconds": 152
 	},
 	{
-		"name": "Ania",
-		"seconds": null
-	},
-	{
 		"name": "apaleslimghost",
 		"seconds": null
 	},
@@ -45,10 +49,6 @@
 	},
 	{
 		"name": "cb",
-		"seconds": null
-	},
-	{
-		"name": "itsalex",
 		"seconds": null
 	},
 	{
