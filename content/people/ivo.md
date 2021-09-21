@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "ivo",
+      "leaderboard": "2021-09-21",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "ivo",
       "leaderboard": "2021-09-20",
       "minutes": 1,
       "seconds": 22,
@@ -84,14 +93,15 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 9,
+  "awardCount": 11,
   "awards": [
     {
       "title": "Consistent Position ×2",
       "type": "consistent-2",
       "text": "Get the same position two days in a row",
       "dates": [
-        "2021-09-15"
+        "2021-09-15",
+        "2021-09-20"
       ]
     },
     {
@@ -140,6 +150,14 @@
       "title": "Week-Long Streak",
       "type": "week-streak",
       "text": "Play for a full week without breaks",
+      "dates": [
+        "2021-09-20"
+      ]
+    },
+    {
+      "title": "999",
+      "type": "emergency",
+      "text": "What's your emergency?",
       "dates": [
         "2021-09-20"
       ]
