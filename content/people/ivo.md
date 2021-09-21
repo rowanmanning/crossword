@@ -5,11 +5,11 @@
     {
       "person": "ivo",
       "leaderboard": "2021-09-21",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 7,
+      "totalSeconds": 127,
+      "position": 9,
+      "isPending": false
     },
     {
       "person": "ivo",
@@ -88,8 +88,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 25,
-    "totalSeconds": 145,
+    "seconds": 23,
+    "totalSeconds": 143,
     "position": null,
     "isPending": false
   },
