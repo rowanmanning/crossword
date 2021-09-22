@@ -5,6 +5,16 @@
   "order": "371",
   "unlocks": [
     {
+      "person": "itsalex",
+      "count": 4,
+      "dates": [
+        "2021-07-14",
+        "2021-07-22",
+        "2021-08-18",
+        "2021-09-22"
+      ]
+    },
+    {
       "person": "Rowan M",
       "count": 4,
       "dates": [
@@ -12,15 +22,6 @@
         "2021-07-22",
         "2021-09-01",
         "2021-09-06"
-      ]
-    },
-    {
-      "person": "itsalex",
-      "count": 3,
-      "dates": [
-        "2021-07-14",
-        "2021-07-22",
-        "2021-08-18"
       ]
     },
     {
@@ -32,17 +33,18 @@
       ]
     },
     {
+      "person": "apaleslimghost",
+      "count": 2,
+      "dates": [
+        "2021-08-18",
+        "2021-09-22"
+      ]
+    },
+    {
       "person": "cb",
       "count": 1,
       "dates": [
         "2021-08-06"
-      ]
-    },
-    {
-      "person": "apaleslimghost",
-      "count": 1,
-      "dates": [
-        "2021-08-18"
       ]
     },
     {
@@ -53,5 +55,5 @@
       ]
     }
   ],
-  "totalUnlocks": 12
+  "totalUnlocks": 14
 }

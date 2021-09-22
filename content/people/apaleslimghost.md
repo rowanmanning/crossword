@@ -858,7 +858,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 203,
+  "awardCount": 205,
   "awards": [
     {
       "title": "Gold",
@@ -1169,7 +1169,8 @@
         "2021-08-21",
         "2021-09-01",
         "2021-09-10",
-        "2021-09-19"
+        "2021-09-19",
+        "2021-09-22"
       ]
     },
     {
@@ -1177,7 +1178,8 @@
       "type": "twinning-in-gold",
       "text": "Get the twinning award and the fastest time for a day",
       "dates": [
-        "2021-08-18"
+        "2021-08-18",
+        "2021-09-22"
       ]
     },
     {
