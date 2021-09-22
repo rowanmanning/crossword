@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "Rowan M",
+      "leaderboard": "2021-09-22",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "Rowan M",
       "leaderboard": "2021-09-21",
       "minutes": 0,
       "seconds": 46,
@@ -858,7 +867,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 347,
+  "awardCount": 350,
   "awards": [
     {
       "title": "Gold",
@@ -883,7 +892,8 @@
         "2021-08-28",
         "2021-09-01",
         "2021-09-06",
-        "2021-09-13"
+        "2021-09-13",
+        "2021-09-21"
       ]
     },
     {
@@ -1007,7 +1017,8 @@
       "text": "Unlock third, second, and first place awards",
       "dates": [
         "2021-06-25",
-        "2021-08-14"
+        "2021-08-14",
+        "2021-09-21"
       ]
     },
     {
@@ -1016,7 +1027,8 @@
       "text": "Unlock third, second, then first place awards in order",
       "dates": [
         "2021-06-25",
-        "2021-08-16"
+        "2021-08-16",
+        "2021-09-21"
       ]
     },
     {
