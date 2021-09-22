@@ -5,11 +5,11 @@
     {
       "person": "leaf",
       "leaderboard": "2021-09-22",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 18,
+      "totalSeconds": 78,
+      "position": 6,
+      "isPending": false
     },
     {
       "person": "leaf",
@@ -867,7 +867,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 181,
+  "awardCount": 183,
   "awards": [
     {
       "title": "Gold",
@@ -1055,7 +1055,8 @@
         "2021-09-16",
         "2021-09-17",
         "2021-09-20",
-        "2021-09-21"
+        "2021-09-21",
+        "2021-09-22"
       ]
     },
     {
@@ -1128,7 +1129,8 @@
       "text": "Play for three days in a row",
       "dates": [
         "2021-06-23",
-        "2021-07-04"
+        "2021-07-04",
+        "2021-09-22"
       ]
     },
     {
