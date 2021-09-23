@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "Nick Ramsbottom",
+      "leaderboard": "2021-09-23",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "Nick Ramsbottom",
       "leaderboard": "2021-09-22",
       "minutes": 1,
       "seconds": 36,
@@ -327,7 +336,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 40,
+  "awardCount": 41,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -450,7 +459,8 @@
       "text": "What's your emergency?",
       "dates": [
         "2021-08-31",
-        "2021-09-06"
+        "2021-09-06",
+        "2021-09-22"
       ]
     }
   ]
