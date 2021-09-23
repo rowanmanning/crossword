@@ -5,11 +5,11 @@
     {
       "person": "ivo",
       "leaderboard": "2021-09-23",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 3,
+      "totalSeconds": 63,
+      "position": 4,
+      "isPending": false
     },
     {
       "person": "ivo",
@@ -106,12 +106,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 23,
-    "totalSeconds": 143,
+    "seconds": 15,
+    "totalSeconds": 135,
     "position": null,
     "isPending": false
   },
-  "awardCount": 12,
+  "awardCount": 14,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -128,7 +128,8 @@
       "type": "half-time",
       "text": "Half your completion time from one day to the next",
       "dates": [
-        "2021-09-20"
+        "2021-09-20",
+        "2021-09-23"
       ]
     },
     {
@@ -146,7 +147,8 @@
       "dates": [
         "2021-09-15",
         "2021-09-16",
-        "2021-09-20"
+        "2021-09-20",
+        "2021-09-23"
       ]
     },
     {
