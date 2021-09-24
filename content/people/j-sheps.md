@@ -5,11 +5,11 @@
     {
       "person": "j-sheps",
       "leaderboard": "2021-09-24",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 42,
+      "totalSeconds": 42,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "j-sheps",
@@ -885,7 +885,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 273,
+  "awardCount": 277,
   "awards": [
     {
       "title": "Gold",
@@ -1134,7 +1134,8 @@
         "2021-09-20",
         "2021-09-21",
         "2021-09-22",
-        "2021-09-23"
+        "2021-09-23",
+        "2021-09-24"
       ]
     },
     {
@@ -1189,7 +1190,8 @@
         "2021-09-16",
         "2021-09-20",
         "2021-09-22",
-        "2021-09-23"
+        "2021-09-23",
+        "2021-09-24"
       ]
     },
     {
@@ -1223,7 +1225,8 @@
         "2021-09-06",
         "2021-09-07",
         "2021-09-12",
-        "2021-09-16"
+        "2021-09-16",
+        "2021-09-24"
       ]
     },
     {
@@ -1314,7 +1317,8 @@
       "text": "A towel is about the most massively useful thing an interstellar hitchhiker can have",
       "dates": [
         "2021-07-01",
-        "2021-07-07"
+        "2021-07-07",
+        "2021-09-24"
       ]
     },
     {

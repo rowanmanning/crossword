@@ -1,5 +1,9 @@
 [
 	{
+		"name": "j-sheps",
+		"seconds": 42
+	},
+	{
 		"name": "Nick Ramsbottom",
 		"seconds": 79
 	},
@@ -33,10 +37,6 @@
 	},
 	{
 		"name": "ivo",
-		"seconds": null
-	},
-	{
-		"name": "j-sheps",
 		"seconds": null
 	},
 	{
