@@ -34,9 +34,10 @@
     },
     {
       "person": "itsalex",
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2021-08-20"
+        "2021-08-20",
+        "2021-09-23"
       ]
     },
     {
@@ -47,5 +48,5 @@
       ]
     }
   ],
-  "totalUnlocks": 12
+  "totalUnlocks": 13
 }
