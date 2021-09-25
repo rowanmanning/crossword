@@ -5,11 +5,11 @@
     {
       "person": "ivo",
       "leaderboard": "2021-09-25",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 57,
+      "totalSeconds": 117,
+      "position": 3,
+      "isPending": false
     },
     {
       "person": "ivo",
@@ -124,12 +124,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 9,
-    "totalSeconds": 129,
+    "seconds": 8,
+    "totalSeconds": 128,
     "position": null,
     "isPending": false
   },
-  "awardCount": 15,
+  "awardCount": 16,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -167,7 +167,8 @@
         "2021-09-16",
         "2021-09-20",
         "2021-09-23",
-        "2021-09-24"
+        "2021-09-24",
+        "2021-09-25"
       ]
     },
     {
