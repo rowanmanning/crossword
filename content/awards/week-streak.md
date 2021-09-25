@@ -64,6 +64,14 @@
       ]
     },
     {
+      "person": "Nick Ramsbottom",
+      "count": 2,
+      "dates": [
+        "2021-08-26",
+        "2021-09-25"
+      ]
+    },
+    {
       "person": "Lily2point0",
       "count": 1,
       "dates": [
@@ -92,13 +100,6 @@
       ]
     },
     {
-      "person": "Nick Ramsbottom",
-      "count": 1,
-      "dates": [
-        "2021-08-26"
-      ]
-    },
-    {
       "person": "ivo",
       "count": 1,
       "dates": [
@@ -106,5 +107,5 @@
       ]
     }
   ],
-  "totalUnlocks": 23
+  "totalUnlocks": 24
 }
