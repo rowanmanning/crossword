@@ -5,11 +5,11 @@
     {
       "person": "Emma L",
       "leaderboard": "2021-09-26",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 18,
+      "totalSeconds": 18,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "Emma L",
@@ -572,10 +572,10 @@
   ],
   "best": {
     "person": "Emma L",
-    "leaderboard": "2021-08-20",
+    "leaderboard": "2021-09-26",
     "minutes": 0,
-    "seconds": 24,
-    "totalSeconds": 24,
+    "seconds": 18,
+    "totalSeconds": 18,
     "position": 1,
     "isPending": false
   },
@@ -588,7 +588,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 199,
+  "awardCount": 206,
   "awards": [
     {
       "title": "Gold",
@@ -686,7 +686,8 @@
         "2021-09-09",
         "2021-09-12",
         "2021-09-14",
-        "2021-09-24"
+        "2021-09-24",
+        "2021-09-26"
       ]
     },
     {
@@ -695,7 +696,8 @@
       "text": "Quarter your completion time from one day to the next",
       "dates": [
         "2021-08-08",
-        "2021-09-05"
+        "2021-09-05",
+        "2021-09-26"
       ]
     },
     {
@@ -772,7 +774,8 @@
         "2021-09-22",
         "2021-09-23",
         "2021-09-24",
-        "2021-09-25"
+        "2021-09-25",
+        "2021-09-26"
       ]
     },
     {
@@ -817,7 +820,8 @@
         "2021-09-20",
         "2021-09-21",
         "2021-09-23",
-        "2021-09-24"
+        "2021-09-24",
+        "2021-09-26"
       ]
     },
     {
@@ -850,7 +854,8 @@
         "2021-09-09",
         "2021-09-10",
         "2021-09-20",
-        "2021-09-24"
+        "2021-09-24",
+        "2021-09-26"
       ]
     },
     {
@@ -862,7 +867,16 @@
         "2021-08-20",
         "2021-08-23",
         "2021-09-07",
-        "2021-09-24"
+        "2021-09-24",
+        "2021-09-26"
+      ]
+    },
+    {
+      "title": "Sub 20 Seconds",
+      "type": "sub-20",
+      "text": "Complete a puzzle in less than 20 seconds",
+      "dates": [
+        "2021-09-26"
       ]
     },
     {
