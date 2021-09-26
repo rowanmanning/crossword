@@ -5,11 +5,11 @@
     {
       "person": "Rowan M",
       "leaderboard": "2021-09-26",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 23,
+      "totalSeconds": 23,
+      "position": 3,
+      "isPending": false
     },
     {
       "person": "Rowan M",
@@ -898,12 +898,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 59,
-    "totalSeconds": 59,
+    "seconds": 58,
+    "totalSeconds": 58,
     "position": null,
     "isPending": false
   },
-  "awardCount": 366,
+  "awardCount": 372,
   "awards": [
     {
       "title": "Gold",
@@ -1088,7 +1088,8 @@
         "2021-09-05",
         "2021-09-12",
         "2021-09-20",
-        "2021-09-23"
+        "2021-09-23",
+        "2021-09-26"
       ]
     },
     {
@@ -1217,7 +1218,8 @@
         "2021-09-22",
         "2021-09-23",
         "2021-09-24",
-        "2021-09-25"
+        "2021-09-25",
+        "2021-09-26"
       ]
     },
     {
@@ -1290,7 +1292,8 @@
         "2021-09-21",
         "2021-09-22",
         "2021-09-23",
-        "2021-09-24"
+        "2021-09-24",
+        "2021-09-26"
       ]
     },
     {
@@ -1340,7 +1343,8 @@
         "2021-09-17",
         "2021-09-20",
         "2021-09-23",
-        "2021-09-24"
+        "2021-09-24",
+        "2021-09-26"
       ]
     },
     {
@@ -1360,7 +1364,8 @@
         "2021-08-25",
         "2021-09-16",
         "2021-09-20",
-        "2021-09-23"
+        "2021-09-23",
+        "2021-09-26"
       ]
     },
     {
@@ -1440,6 +1445,7 @@
       "type": "yin-and-yang",
       "text": "Get the same time as another person but with flipped seconds",
       "dates": [
+        "2021-09-26",
         "2021-09-06",
         "2021-08-15",
         "2021-08-10",

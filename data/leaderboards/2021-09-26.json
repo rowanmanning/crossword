@@ -8,8 +8,16 @@
 		"seconds": 18
 	},
 	{
+		"name": "Rowan M",
+		"seconds": 23
+	},
+	{
 		"name": "varjmes",
 		"seconds": 24
+	},
+	{
+		"name": "cb",
+		"seconds": 29
 	},
 	{
 		"name": "apaleslimghost",
@@ -44,10 +52,6 @@
 		"seconds": null
 	},
 	{
-		"name": "cb",
-		"seconds": null
-	},
-	{
 		"name": "itsalex",
 		"seconds": null
 	},
@@ -57,10 +61,6 @@
 	},
 	{
 		"name": "Oliver Turner",
-		"seconds": null
-	},
-	{
-		"name": "Rowan M",
 		"seconds": null
 	}
 ]
