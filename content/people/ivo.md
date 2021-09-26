@@ -5,11 +5,11 @@
     {
       "person": "ivo",
       "leaderboard": "2021-09-26",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 40,
+      "totalSeconds": 40,
+      "position": 8,
+      "isPending": false
     },
     {
       "person": "ivo",
@@ -122,23 +122,23 @@
   ],
   "best": {
     "person": "ivo",
-    "leaderboard": "2021-09-16",
+    "leaderboard": "2021-09-26",
     "minutes": 0,
-    "seconds": 56,
-    "totalSeconds": 56,
-    "position": 9,
+    "seconds": 40,
+    "totalSeconds": 40,
+    "position": 8,
     "isPending": false
   },
   "mean": {
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 8,
-    "totalSeconds": 128,
+    "seconds": 1,
+    "totalSeconds": 121,
     "position": null,
     "isPending": false
   },
-  "awardCount": 16,
+  "awardCount": 20,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -156,7 +156,8 @@
       "text": "Half your completion time from one day to the next",
       "dates": [
         "2021-09-20",
-        "2021-09-23"
+        "2021-09-23",
+        "2021-09-26"
       ]
     },
     {
@@ -177,7 +178,8 @@
         "2021-09-20",
         "2021-09-23",
         "2021-09-24",
-        "2021-09-25"
+        "2021-09-25",
+        "2021-09-26"
       ]
     },
     {
@@ -185,7 +187,16 @@
       "type": "sub-60",
       "text": "Complete a puzzle in less than a minute",
       "dates": [
-        "2021-09-16"
+        "2021-09-16",
+        "2021-09-26"
+      ]
+    },
+    {
+      "title": "Sub 45 Seconds",
+      "type": "sub-45",
+      "text": "Complete a puzzle in less than 45 seconds",
+      "dates": [
+        "2021-09-26"
       ]
     },
     {
