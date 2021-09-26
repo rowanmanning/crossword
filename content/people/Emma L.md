@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "Emma L",
+      "leaderboard": "2021-09-27",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "Emma L",
       "leaderboard": "2021-09-26",
       "minutes": 0,
       "seconds": 18,
@@ -588,7 +597,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 206,
+  "awardCount": 208,
   "awards": [
     {
       "title": "Gold",
@@ -638,7 +647,8 @@
         "2021-09-01",
         "2021-09-03",
         "2021-09-09",
-        "2021-09-19"
+        "2021-09-19",
+        "2021-09-26"
       ]
     },
     {
@@ -670,6 +680,14 @@
       "text": "Get the same position two days in a row",
       "dates": [
         "2021-09-17"
+      ]
+    },
+    {
+      "title": "Podium",
+      "type": "podium",
+      "text": "Unlock third, second, and first place awards",
+      "dates": [
+        "2021-09-26"
       ]
     },
     {
