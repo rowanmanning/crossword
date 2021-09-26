@@ -14,18 +14,19 @@
       ]
     },
     {
+      "person": "Ania",
+      "count": 2,
+      "dates": [
+        "2021-08-02",
+        "2021-09-26"
+      ]
+    },
+    {
       "person": "Rowan M",
       "count": 2,
       "dates": [
         "2021-08-02",
         "2021-09-23"
-      ]
-    },
-    {
-      "person": "Ania",
-      "count": 1,
-      "dates": [
-        "2021-08-02"
       ]
     },
     {
@@ -43,5 +44,5 @@
       ]
     }
   ],
-  "totalUnlocks": 8
+  "totalUnlocks": 9
 }
