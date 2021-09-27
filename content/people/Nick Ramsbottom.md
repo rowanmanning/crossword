@@ -5,11 +5,11 @@
     {
       "person": "Nick Ramsbottom",
       "leaderboard": "2021-09-27",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 7,
+      "totalSeconds": 127,
+      "position": 3,
+      "isPending": false
     },
     {
       "person": "Nick Ramsbottom",
