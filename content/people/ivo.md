@@ -5,11 +5,11 @@
     {
       "person": "ivo",
       "leaderboard": "2021-09-27",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 43,
+      "totalSeconds": 43,
+      "position": 3,
+      "isPending": false
     },
     {
       "person": "ivo",
@@ -141,13 +141,13 @@
   "mean": {
     "person": null,
     "leaderboard": null,
-    "minutes": 2,
-    "seconds": 1,
-    "totalSeconds": 121,
+    "minutes": 1,
+    "seconds": 55,
+    "totalSeconds": 115,
     "position": null,
     "isPending": false
   },
-  "awardCount": 20,
+  "awardCount": 25,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -188,7 +188,8 @@
         "2021-09-23",
         "2021-09-24",
         "2021-09-25",
-        "2021-09-26"
+        "2021-09-26",
+        "2021-09-27"
       ]
     },
     {
@@ -197,7 +198,8 @@
       "text": "Complete a puzzle in less than a minute",
       "dates": [
         "2021-09-16",
-        "2021-09-26"
+        "2021-09-26",
+        "2021-09-27"
       ]
     },
     {
@@ -205,7 +207,8 @@
       "type": "sub-45",
       "text": "Complete a puzzle in less than 45 seconds",
       "dates": [
-        "2021-09-26"
+        "2021-09-26",
+        "2021-09-27"
       ]
     },
     {
@@ -222,6 +225,22 @@
       "text": "Play for a full week without breaks",
       "dates": [
         "2021-09-20"
+      ]
+    },
+    {
+      "title": "Twinning",
+      "type": "twinning",
+      "text": "Get the same time as another person",
+      "dates": [
+        "2021-09-27"
+      ]
+    },
+    {
+      "title": "Yin and Yang",
+      "type": "yin-and-yang",
+      "text": "Get the same time as another person but with flipped seconds",
+      "dates": [
+        "2021-09-27"
       ]
     },
     {

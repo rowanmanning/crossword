@@ -352,11 +352,12 @@
     },
     {
       "person": "ivo",
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2021-09-26"
+        "2021-09-26",
+        "2021-09-27"
       ]
     }
   ],
-  "totalUnlocks": 275
+  "totalUnlocks": 276
 }
