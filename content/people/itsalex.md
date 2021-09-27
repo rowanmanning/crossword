@@ -5,11 +5,11 @@
     {
       "person": "itsalex",
       "leaderboard": "2021-09-27",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 4,
+      "totalSeconds": 64,
+      "position": 4,
+      "isPending": false
     },
     {
       "person": "itsalex",
@@ -885,7 +885,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 314,
+  "awardCount": 315,
   "awards": [
     {
       "title": "Gold",
@@ -1145,7 +1145,8 @@
         "2021-09-20",
         "2021-09-22",
         "2021-09-23",
-        "2021-09-25"
+        "2021-09-25",
+        "2021-09-27"
       ]
     },
     {
