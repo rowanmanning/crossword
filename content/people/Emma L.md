@@ -5,11 +5,11 @@
     {
       "person": "Emma L",
       "leaderboard": "2021-09-27",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 43,
+      "totalSeconds": 43,
+      "position": 3,
+      "isPending": false
     },
     {
       "person": "Emma L",
@@ -592,12 +592,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 1,
-    "totalSeconds": 61,
+    "seconds": 0,
+    "totalSeconds": 60,
     "position": null,
     "isPending": false
   },
-  "awardCount": 208,
+  "awardCount": 213,
   "awards": [
     {
       "title": "Gold",
@@ -731,7 +731,8 @@
         "2021-09-08",
         "2021-09-11",
         "2021-09-13",
-        "2021-09-25"
+        "2021-09-25",
+        "2021-09-27"
       ]
     },
     {
@@ -793,7 +794,8 @@
         "2021-09-23",
         "2021-09-24",
         "2021-09-25",
-        "2021-09-26"
+        "2021-09-26",
+        "2021-09-27"
       ]
     },
     {
@@ -839,7 +841,8 @@
         "2021-09-21",
         "2021-09-23",
         "2021-09-24",
-        "2021-09-26"
+        "2021-09-26",
+        "2021-09-27"
       ]
     },
     {
@@ -873,7 +876,8 @@
         "2021-09-10",
         "2021-09-20",
         "2021-09-24",
-        "2021-09-26"
+        "2021-09-26",
+        "2021-09-27"
       ]
     },
     {
@@ -956,6 +960,7 @@
       "type": "yin-and-yang",
       "text": "Get the same time as another person but with flipped seconds",
       "dates": [
+        "2021-09-27",
         "2021-09-06"
       ]
     },
