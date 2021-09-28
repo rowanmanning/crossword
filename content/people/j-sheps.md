@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "j-sheps",
+      "leaderboard": "2021-09-28",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "j-sheps",
       "leaderboard": "2021-09-27",
       "minutes": 1,
       "seconds": 10,
@@ -912,7 +921,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 283,
+  "awardCount": 284,
   "awards": [
     {
       "title": "Gold",
@@ -1368,7 +1377,8 @@
       "text": "His number is six hundred and sixty-six",
       "dates": [
         "2021-08-04",
-        "2021-08-22"
+        "2021-08-22",
+        "2021-09-27"
       ]
     },
     {
