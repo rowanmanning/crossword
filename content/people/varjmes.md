@@ -5,11 +5,11 @@
     {
       "person": "varjmes",
       "leaderboard": "2021-09-28",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 18,
+      "totalSeconds": 18,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "varjmes",
@@ -905,10 +905,10 @@
   ],
   "best": {
     "person": "varjmes",
-    "leaderboard": "2021-06-23",
+    "leaderboard": "2021-09-28",
     "minutes": 0,
-    "seconds": 23,
-    "totalSeconds": 23,
+    "seconds": 18,
+    "totalSeconds": 18,
     "position": 1,
     "isPending": false
   },
@@ -916,12 +916,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 32,
-    "totalSeconds": 92,
+    "seconds": 31,
+    "totalSeconds": 91,
     "position": null,
     "isPending": false
   },
-  "awardCount": 234,
+  "awardCount": 241,
   "awards": [
     {
       "title": "Gold",
@@ -1019,7 +1019,8 @@
         "2021-09-12",
         "2021-09-16",
         "2021-09-20",
-        "2021-09-26"
+        "2021-09-26",
+        "2021-09-28"
       ]
     },
     {
@@ -1035,7 +1036,8 @@
         "2021-08-23",
         "2021-09-12",
         "2021-09-20",
-        "2021-09-26"
+        "2021-09-26",
+        "2021-09-28"
       ]
     },
     {
@@ -1149,7 +1151,8 @@
         "2021-09-23",
         "2021-09-24",
         "2021-09-26",
-        "2021-09-27"
+        "2021-09-27",
+        "2021-09-28"
       ]
     },
     {
@@ -1191,7 +1194,8 @@
         "2021-09-20",
         "2021-09-23",
         "2021-09-24",
-        "2021-09-26"
+        "2021-09-26",
+        "2021-09-28"
       ]
     },
     {
@@ -1214,7 +1218,8 @@
         "2021-09-12",
         "2021-09-16",
         "2021-09-20",
-        "2021-09-26"
+        "2021-09-26",
+        "2021-09-28"
       ]
     },
     {
@@ -1225,7 +1230,16 @@
         "2021-06-23",
         "2021-07-25",
         "2021-08-25",
-        "2021-09-26"
+        "2021-09-26",
+        "2021-09-28"
+      ]
+    },
+    {
+      "title": "Sub 20 Seconds",
+      "type": "sub-20",
+      "text": "Complete a puzzle in less than 20 seconds",
+      "dates": [
+        "2021-09-28"
       ]
     },
     {
