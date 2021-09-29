@@ -5,11 +5,11 @@
     {
       "person": "j-sheps",
       "leaderboard": "2021-09-29",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 7,
+      "seconds": 33,
+      "totalSeconds": 453,
+      "position": 5,
+      "isPending": false
     },
     {
       "person": "j-sheps",
@@ -925,12 +925,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 21,
-    "totalSeconds": 81,
+    "seconds": 25,
+    "totalSeconds": 85,
     "position": null,
     "isPending": false
   },
-  "awardCount": 287,
+  "awardCount": 289,
   "awards": [
     {
       "title": "Gold",
@@ -1098,7 +1098,8 @@
         "2021-09-10",
         "2021-09-14",
         "2021-09-18",
-        "2021-09-25"
+        "2021-09-25",
+        "2021-09-29"
       ]
     },
     {
@@ -1298,7 +1299,8 @@
       "type": "over-300",
       "text": "Complete a puzzle in more than 5 minutes",
       "dates": [
-        "2021-07-31"
+        "2021-07-31",
+        "2021-09-29"
       ]
     },
     {

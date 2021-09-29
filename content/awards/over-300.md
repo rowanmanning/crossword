@@ -44,6 +44,14 @@
       ]
     },
     {
+      "person": "j-sheps",
+      "count": 2,
+      "dates": [
+        "2021-07-31",
+        "2021-09-29"
+      ]
+    },
+    {
       "person": "Nick Ramsbottom",
       "count": 2,
       "dates": [
@@ -64,14 +72,7 @@
       "dates": [
         "2021-07-31"
       ]
-    },
-    {
-      "person": "j-sheps",
-      "count": 1,
-      "dates": [
-        "2021-07-31"
-      ]
     }
   ],
-  "totalUnlocks": 20
+  "totalUnlocks": 21
 }
