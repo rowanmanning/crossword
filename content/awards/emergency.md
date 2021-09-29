@@ -59,17 +59,18 @@
       ]
     },
     {
+      "person": "j-sheps",
+      "count": 2,
+      "dates": [
+        "2021-08-18",
+        "2021-09-28"
+      ]
+    },
+    {
       "person": "varjmes",
       "count": 1,
       "dates": [
         "2021-08-03"
-      ]
-    },
-    {
-      "person": "j-sheps",
-      "count": 1,
-      "dates": [
-        "2021-08-18"
       ]
     },
     {
@@ -94,5 +95,5 @@
       ]
     }
   ],
-  "totalUnlocks": 23
+  "totalUnlocks": 24
 }

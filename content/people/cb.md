@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "cb",
+      "leaderboard": "2021-09-29",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "cb",
       "leaderboard": "2021-09-28",
       "minutes": 0,
       "seconds": 33,
@@ -858,7 +867,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 345,
+  "awardCount": 346,
   "awards": [
     {
       "title": "Gold",
@@ -1362,7 +1371,8 @@
       "text": "His number is six hundred and sixty-six",
       "dates": [
         "2021-08-18",
-        "2021-09-11"
+        "2021-09-11",
+        "2021-09-28"
       ]
     },
     {

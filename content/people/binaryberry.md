@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "binaryberry",
+      "leaderboard": "2021-09-29",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "binaryberry",
       "leaderboard": "2021-09-28",
       "minutes": 2,
       "seconds": 23,
@@ -921,7 +930,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 64,
+  "awardCount": 65,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -1068,7 +1077,8 @@
       "type": "unlucky",
       "text": "Come 13th three times",
       "dates": [
-        "2021-08-25"
+        "2021-08-25",
+        "2021-09-28"
       ]
     }
   ]
