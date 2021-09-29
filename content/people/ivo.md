@@ -5,11 +5,11 @@
     {
       "person": "ivo",
       "leaderboard": "2021-09-29",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 7,
+      "seconds": 0,
+      "totalSeconds": 420,
+      "position": 11,
+      "isPending": false
     },
     {
       "person": "ivo",
@@ -159,13 +159,13 @@
   "mean": {
     "person": null,
     "leaderboard": null,
-    "minutes": 1,
-    "seconds": 52,
-    "totalSeconds": 112,
+    "minutes": 2,
+    "seconds": 12,
+    "totalSeconds": 132,
     "position": null,
     "isPending": false
   },
-  "awardCount": 27,
+  "awardCount": 29,
   "awards": [
     {
       "title": "Bronze",
@@ -200,7 +200,8 @@
       "type": "double-time",
       "text": "Double your completion time from one day to the next",
       "dates": [
-        "2021-09-17"
+        "2021-09-17",
+        "2021-09-29"
       ]
     },
     {
@@ -236,6 +237,14 @@
       "dates": [
         "2021-09-26",
         "2021-09-27"
+      ]
+    },
+    {
+      "title": "Over Five Minutes",
+      "type": "over-300",
+      "text": "Complete a puzzle in more than 5 minutes",
+      "dates": [
+        "2021-09-29"
       ]
     },
     {
