@@ -5,11 +5,11 @@
     {
       "person": "ivo",
       "leaderboard": "2021-09-30",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 47,
+      "totalSeconds": 47,
+      "position": 6,
+      "isPending": false
     },
     {
       "person": "ivo",
@@ -169,12 +169,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 12,
-    "totalSeconds": 132,
+    "seconds": 7,
+    "totalSeconds": 127,
     "position": null,
     "isPending": false
   },
-  "awardCount": 29,
+  "awardCount": 33,
   "awards": [
     {
       "title": "Bronze",
@@ -201,7 +201,16 @@
       "dates": [
         "2021-09-20",
         "2021-09-23",
-        "2021-09-26"
+        "2021-09-26",
+        "2021-09-30"
+      ]
+    },
+    {
+      "title": "Quarter Time",
+      "type": "quarter-time",
+      "text": "Quarter your completion time from one day to the next",
+      "dates": [
+        "2021-09-30"
       ]
     },
     {
@@ -226,7 +235,8 @@
         "2021-09-25",
         "2021-09-26",
         "2021-09-27",
-        "2021-09-28"
+        "2021-09-28",
+        "2021-09-30"
       ]
     },
     {
@@ -236,7 +246,8 @@
       "dates": [
         "2021-09-16",
         "2021-09-26",
-        "2021-09-27"
+        "2021-09-27",
+        "2021-09-30"
       ]
     },
     {
