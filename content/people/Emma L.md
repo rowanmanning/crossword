@@ -8,7 +8,7 @@
       "minutes": 0,
       "seconds": 46,
       "totalSeconds": 46,
-      "position": 1,
+      "position": 3,
       "isPending": false
     },
     {
@@ -624,7 +624,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 225,
+  "awardCount": 224,
   "awards": [
     {
       "title": "Gold",
@@ -990,8 +990,7 @@
       "text": "Get the twinning award and the fastest time for a day",
       "dates": [
         "2021-08-06",
-        "2021-09-06",
-        "2021-09-30"
+        "2021-09-06"
       ]
     },
     {
