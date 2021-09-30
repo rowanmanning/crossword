@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "itsalex",
+      "leaderboard": "2021-09-30",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "itsalex",
       "leaderboard": "2021-09-29",
       "minutes": 1,
       "seconds": 46,
@@ -903,7 +912,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 324,
+  "awardCount": 326,
   "awards": [
     {
       "title": "Gold",
@@ -987,7 +996,8 @@
         "2021-09-07",
         "2021-09-08",
         "2021-09-16",
-        "2021-09-28"
+        "2021-09-28",
+        "2021-09-29"
       ]
     },
     {
@@ -995,7 +1005,8 @@
       "type": "double-bronze",
       "text": "Get the third fastest time two days in a row",
       "dates": [
-        "2021-09-08"
+        "2021-09-08",
+        "2021-09-29"
       ]
     },
     {
