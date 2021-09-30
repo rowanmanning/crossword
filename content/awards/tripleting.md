@@ -5,14 +5,15 @@
   "order": "351",
   "unlocks": [
     {
-      "person": "Ania",
-      "count": 1,
+      "person": "itsalex",
+      "count": 2,
       "dates": [
-        "2021-08-23"
+        "2021-08-23",
+        "2021-09-30"
       ]
     },
     {
-      "person": "itsalex",
+      "person": "Ania",
       "count": 1,
       "dates": [
         "2021-08-23"
@@ -24,7 +25,21 @@
       "dates": [
         "2021-08-23"
       ]
+    },
+    {
+      "person": "Rowan M",
+      "count": 1,
+      "dates": [
+        "2021-09-30"
+      ]
+    },
+    {
+      "person": "varjmes",
+      "count": 1,
+      "dates": [
+        "2021-09-30"
+      ]
     }
   ],
-  "totalUnlocks": 3
+  "totalUnlocks": 6
 }
