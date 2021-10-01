@@ -178,11 +178,12 @@
     },
     {
       "person": "Ania",
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2021-08-30"
+        "2021-08-30",
+        "2021-09-30"
       ]
     }
   ],
-  "totalUnlocks": 113
+  "totalUnlocks": 114
 }
