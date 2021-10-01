@@ -5,11 +5,11 @@
     {
       "person": "ivo",
       "leaderboard": "2021-10-01",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 42,
+      "totalSeconds": 162,
+      "position": 6,
+      "isPending": false
     },
     {
       "person": "ivo",
@@ -178,12 +178,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 7,
-    "totalSeconds": 127,
+    "seconds": 9,
+    "totalSeconds": 129,
     "position": null,
     "isPending": false
   },
-  "awardCount": 33,
+  "awardCount": 34,
   "awards": [
     {
       "title": "Bronze",
@@ -228,7 +228,8 @@
       "text": "Double your completion time from one day to the next",
       "dates": [
         "2021-09-17",
-        "2021-09-29"
+        "2021-09-29",
+        "2021-10-01"
       ]
     },
     {
