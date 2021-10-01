@@ -5,11 +5,11 @@
     {
       "person": "binaryberry",
       "leaderboard": "2021-10-01",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 17,
+      "totalSeconds": 137,
+      "position": 8,
+      "isPending": false
     },
     {
       "person": "binaryberry",
@@ -943,12 +943,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 3,
-    "seconds": 3,
-    "totalSeconds": 183,
+    "seconds": 2,
+    "totalSeconds": 182,
     "position": null,
     "isPending": false
   },
-  "awardCount": 65,
+  "awardCount": 66,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -1071,6 +1071,14 @@
       "text": "Come back to the crossword after a week off",
       "dates": [
         "2021-09-13"
+      ]
+    },
+    {
+      "title": "Arjun",
+      "type": "arjun",
+      "text": "Join us",
+      "dates": [
+        "2021-10-01"
       ]
     },
     {
