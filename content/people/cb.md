@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "cb",
+      "leaderboard": "2021-10-02",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "cb",
       "leaderboard": "2021-10-01",
       "minutes": 0,
       "seconds": 39,
@@ -885,7 +894,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 355,
+  "awardCount": 356,
   "awards": [
     {
       "title": "Gold",
@@ -986,7 +995,8 @@
       "type": "consistent-2",
       "text": "Get the same position two days in a row",
       "dates": [
-        "2021-07-09"
+        "2021-07-09",
+        "2021-10-01"
       ]
     },
     {

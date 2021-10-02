@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "varjmes",
+      "leaderboard": "2021-10-02",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "varjmes",
       "leaderboard": "2021-10-01",
       "minutes": 0,
       "seconds": 36,
@@ -948,7 +957,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 254,
+  "awardCount": 256,
   "awards": [
     {
       "title": "Gold",
@@ -984,7 +993,8 @@
         "2021-07-31",
         "2021-09-09",
         "2021-09-12",
-        "2021-09-30"
+        "2021-09-30",
+        "2021-10-01"
       ]
     },
     {
@@ -992,7 +1002,8 @@
       "type": "double-bronze",
       "text": "Get the third fastest time two days in a row",
       "dates": [
-        "2021-07-25"
+        "2021-07-25",
+        "2021-10-01"
       ]
     },
     {
