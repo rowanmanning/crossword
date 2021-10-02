@@ -5,11 +5,11 @@
     {
       "person": "varjmes",
       "leaderboard": "2021-10-02",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 54,
+      "totalSeconds": 54,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "varjmes",
@@ -952,12 +952,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 31,
-    "totalSeconds": 91,
+    "seconds": 30,
+    "totalSeconds": 90,
     "position": null,
     "isPending": false
   },
-  "awardCount": 256,
+  "awardCount": 259,
   "awards": [
     {
       "title": "Gold",
@@ -1197,7 +1197,8 @@
         "2021-09-27",
         "2021-09-28",
         "2021-09-30",
-        "2021-10-01"
+        "2021-10-01",
+        "2021-10-02"
       ]
     },
     {
@@ -1242,7 +1243,8 @@
         "2021-09-26",
         "2021-09-28",
         "2021-09-30",
-        "2021-10-01"
+        "2021-10-01",
+        "2021-10-02"
       ]
     },
     {
@@ -1289,6 +1291,14 @@
       "text": "Complete a puzzle in less than 20 seconds",
       "dates": [
         "2021-09-28"
+      ]
+    },
+    {
+      "title": "Nice Try, Joel",
+      "type": "nice-try-joel",
+      "text": "Complete a puzzle in less than a minute on a Saturday",
+      "dates": [
+        "2021-10-02"
       ]
     },
     {
