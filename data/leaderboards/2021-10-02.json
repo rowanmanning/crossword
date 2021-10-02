@@ -4,6 +4,10 @@
 		"seconds": 54
 	},
 	{
+		"name": "leaf",
+		"seconds": 59
+	},
+	{
 		"name": "Emma L",
 		"seconds": 61
 	},
@@ -18,6 +22,10 @@
 	{
 		"name": "j-sheps",
 		"seconds": 74
+	},
+	{
+		"name": "Rowan M",
+		"seconds": 99
 	},
 	{
 		"name": "Ania",
@@ -48,19 +56,11 @@
 		"seconds": null
 	},
 	{
-		"name": "leaf",
-		"seconds": null
-	},
-	{
 		"name": "Nick Ramsbottom",
 		"seconds": null
 	},
 	{
 		"name": "Oliver Turner",
-		"seconds": null
-	},
-	{
-		"name": "Rowan M",
 		"seconds": null
 	}
 ]
