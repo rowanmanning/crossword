@@ -16,6 +16,10 @@
 		"seconds": 62
 	},
 	{
+		"name": "cb",
+		"seconds": 63
+	},
+	{
 		"name": "ivo",
 		"seconds": 68
 	},
@@ -49,10 +53,6 @@
 	},
 	{
 		"name": "arjun137",
-		"seconds": null
-	},
-	{
-		"name": "cb",
 		"seconds": null
 	},
 	{
