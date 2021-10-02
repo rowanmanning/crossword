@@ -22,19 +22,20 @@
       ]
     },
     {
+      "person": "itsalex",
+      "count": 2,
+      "dates": [
+        "2021-08-29",
+        "2021-10-02"
+      ]
+    },
+    {
       "person": "binaryberry",
       "count": 1,
       "dates": [
         "2021-07-08"
       ]
-    },
-    {
-      "person": "itsalex",
-      "count": 1,
-      "dates": [
-        "2021-08-29"
-      ]
     }
   ],
-  "totalUnlocks": 7
+  "totalUnlocks": 8
 }
