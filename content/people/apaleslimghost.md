@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "apaleslimghost",
+      "leaderboard": "2021-10-04",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "apaleslimghost",
       "leaderboard": "2021-10-03",
       "minutes": 0,
       "seconds": 50,
@@ -957,7 +966,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 241,
+  "awardCount": 242,
   "awards": [
     {
       "title": "Gold",
@@ -1358,7 +1367,8 @@
       "text": "His number is six hundred and sixty-six",
       "dates": [
         "2021-07-31",
-        "2021-08-27"
+        "2021-08-27",
+        "2021-10-03"
       ]
     }
   ]

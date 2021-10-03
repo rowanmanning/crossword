@@ -174,6 +174,14 @@
       ]
     },
     {
+      "person": "ivo",
+      "count": 2,
+      "dates": [
+        "2021-09-27",
+        "2021-10-03"
+      ]
+    },
+    {
       "person": "joelcarr",
       "count": 1,
       "dates": [
@@ -186,14 +194,7 @@
       "dates": [
         "2021-06-25"
       ]
-    },
-    {
-      "person": "ivo",
-      "count": 1,
-      "dates": [
-        "2021-09-27"
-      ]
     }
   ],
-  "totalUnlocks": 112
+  "totalUnlocks": 113
 }
