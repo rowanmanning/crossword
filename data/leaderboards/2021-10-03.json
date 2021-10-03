@@ -8,6 +8,10 @@
 		"seconds": 35
 	},
 	{
+		"name": "ivo",
+		"seconds": 40
+	},
+	{
 		"name": "j-sheps",
 		"seconds": 42
 	},
@@ -45,10 +49,6 @@
 	},
 	{
 		"name": "cb",
-		"seconds": null
-	},
-	{
-		"name": "ivo",
 		"seconds": null
 	},
 	{

@@ -5,11 +5,11 @@
     {
       "person": "ivo",
       "leaderboard": "2021-10-03",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 40,
+      "totalSeconds": 40,
+      "position": 3,
+      "isPending": false
     },
     {
       "person": "ivo",
@@ -185,23 +185,23 @@
   ],
   "best": {
     "person": "ivo",
-    "leaderboard": "2021-09-26",
+    "leaderboard": "2021-10-03",
     "minutes": 0,
     "seconds": 40,
     "totalSeconds": 40,
-    "position": 10,
+    "position": 3,
     "isPending": false
   },
   "mean": {
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 5,
-    "totalSeconds": 125,
+    "seconds": 1,
+    "totalSeconds": 121,
     "position": null,
     "isPending": false
   },
-  "awardCount": 36,
+  "awardCount": 39,
   "awards": [
     {
       "title": "Bronze",
@@ -266,7 +266,8 @@
         "2021-09-27",
         "2021-09-28",
         "2021-09-30",
-        "2021-10-02"
+        "2021-10-02",
+        "2021-10-03"
       ]
     },
     {
@@ -277,7 +278,8 @@
         "2021-09-16",
         "2021-09-26",
         "2021-09-27",
-        "2021-09-30"
+        "2021-09-30",
+        "2021-10-03"
       ]
     },
     {
@@ -286,7 +288,8 @@
       "text": "Complete a puzzle in less than 45 seconds",
       "dates": [
         "2021-09-26",
-        "2021-09-27"
+        "2021-09-27",
+        "2021-10-03"
       ]
     },
     {
