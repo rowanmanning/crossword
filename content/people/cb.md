@@ -5,11 +5,11 @@
     {
       "person": "cb",
       "leaderboard": "2021-10-03",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 42,
+      "totalSeconds": 42,
+      "position": 4,
+      "isPending": false
     },
     {
       "person": "cb",
@@ -898,12 +898,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 57,
-    "totalSeconds": 57,
+    "seconds": 56,
+    "totalSeconds": 56,
     "position": null,
     "isPending": false
   },
-  "awardCount": 357,
+  "awardCount": 362,
   "awards": [
     {
       "title": "Gold",
@@ -1171,7 +1171,8 @@
         "2021-09-29",
         "2021-09-30",
         "2021-10-01",
-        "2021-10-02"
+        "2021-10-02",
+        "2021-10-03"
       ]
     },
     {
@@ -1245,7 +1246,8 @@
         "2021-09-28",
         "2021-09-29",
         "2021-09-30",
-        "2021-10-01"
+        "2021-10-01",
+        "2021-10-03"
       ]
     },
     {
@@ -1299,7 +1301,8 @@
         "2021-09-26",
         "2021-09-28",
         "2021-09-30",
-        "2021-10-01"
+        "2021-10-01",
+        "2021-10-03"
       ]
     },
     {
@@ -1389,7 +1392,8 @@
         "2021-09-06",
         "2021-09-09",
         "2021-09-20",
-        "2021-09-23"
+        "2021-09-23",
+        "2021-10-03"
       ]
     },
     {
@@ -1410,6 +1414,14 @@
         "2021-07-30",
         "2021-07-21",
         "2021-06-29"
+      ]
+    },
+    {
+      "title": "Don't Panic",
+      "type": "dont-panic",
+      "text": "A towel is about the most massively useful thing an interstellar hitchhiker can have",
+      "dates": [
+        "2021-10-03"
       ]
     },
     {
