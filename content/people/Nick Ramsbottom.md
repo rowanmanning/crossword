@@ -444,7 +444,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 61,
+  "awardCount": 62,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -577,7 +577,8 @@
       "type": "twinning",
       "text": "Get the same time as another person",
       "dates": [
-        "2021-08-24"
+        "2021-08-24",
+        "2021-10-05"
       ]
     },
     {

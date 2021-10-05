@@ -32,6 +32,14 @@
       ]
     },
     {
+      "person": "cb",
+      "count": 2,
+      "dates": [
+        "2021-10-03",
+        "2021-10-05"
+      ]
+    },
+    {
       "person": "arjun137",
       "count": 1,
       "dates": [
@@ -65,14 +73,7 @@
       "dates": [
         "2021-09-10"
       ]
-    },
-    {
-      "person": "cb",
-      "count": 1,
-      "dates": [
-        "2021-10-03"
-      ]
     }
   ],
-  "totalUnlocks": 15
+  "totalUnlocks": 16
 }
