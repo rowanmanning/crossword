@@ -5,11 +5,11 @@
     {
       "person": "Rowan M",
       "leaderboard": "2021-10-05",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 42,
+      "totalSeconds": 42,
+      "position": 3,
+      "isPending": false
     },
     {
       "person": "Rowan M",
@@ -984,7 +984,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 406,
+  "awardCount": 410,
   "awards": [
     {
       "title": "Gold",
@@ -1318,7 +1318,8 @@
         "2021-10-01",
         "2021-10-02",
         "2021-10-03",
-        "2021-10-04"
+        "2021-10-04",
+        "2021-10-05"
       ]
     },
     {
@@ -1397,7 +1398,8 @@
         "2021-09-28",
         "2021-09-30",
         "2021-10-03",
-        "2021-10-04"
+        "2021-10-04",
+        "2021-10-05"
       ]
     },
     {
@@ -1452,7 +1454,8 @@
         "2021-09-27",
         "2021-09-28",
         "2021-09-30",
-        "2021-10-04"
+        "2021-10-04",
+        "2021-10-05"
       ]
     },
     {
@@ -1587,7 +1590,8 @@
       "text": "A towel is about the most massively useful thing an interstellar hitchhiker can have",
       "dates": [
         "2021-07-25",
-        "2021-08-05"
+        "2021-08-05",
+        "2021-10-05"
       ]
     },
     {
