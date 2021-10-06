@@ -5,11 +5,11 @@
     {
       "person": "leaf",
       "leaderboard": "2021-10-06",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 19,
+      "totalSeconds": 19,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "leaf",
@@ -988,12 +988,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 31,
-    "totalSeconds": 91,
+    "seconds": 30,
+    "totalSeconds": 90,
     "position": null,
     "isPending": false
   },
-  "awardCount": 224,
+  "awardCount": 230,
   "awards": [
     {
       "title": "Gold",
@@ -1086,7 +1086,8 @@
         "2021-09-23",
         "2021-09-26",
         "2021-09-28",
-        "2021-09-30"
+        "2021-09-30",
+        "2021-10-06"
       ]
     },
     {
@@ -1206,7 +1207,8 @@
         "2021-10-02",
         "2021-10-03",
         "2021-10-04",
-        "2021-10-05"
+        "2021-10-05",
+        "2021-10-06"
       ]
     },
     {
@@ -1249,7 +1251,8 @@
         "2021-09-30",
         "2021-10-01",
         "2021-10-02",
-        "2021-10-04"
+        "2021-10-04",
+        "2021-10-06"
       ]
     },
     {
@@ -1265,7 +1268,8 @@
         "2021-09-23",
         "2021-09-26",
         "2021-09-28",
-        "2021-10-01"
+        "2021-10-01",
+        "2021-10-06"
       ]
     },
     {
@@ -1274,7 +1278,8 @@
       "text": "Complete a puzzle in less than 30 seconds",
       "dates": [
         "2021-09-08",
-        "2021-09-28"
+        "2021-09-28",
+        "2021-10-06"
       ]
     },
     {
@@ -1282,7 +1287,8 @@
       "type": "sub-20",
       "text": "Complete a puzzle in less than 20 seconds",
       "dates": [
-        "2021-09-08"
+        "2021-09-08",
+        "2021-10-06"
       ]
     },
     {
