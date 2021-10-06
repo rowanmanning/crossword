@@ -5,11 +5,11 @@
     {
       "person": "ivo",
       "leaderboard": "2021-10-06",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 29,
+      "totalSeconds": 29,
+      "position": 3,
+      "isPending": false
     },
     {
       "person": "ivo",
@@ -212,23 +212,23 @@
   ],
   "best": {
     "person": "ivo",
-    "leaderboard": "2021-10-03",
+    "leaderboard": "2021-10-06",
     "minutes": 0,
-    "seconds": 40,
-    "totalSeconds": 40,
+    "seconds": 29,
+    "totalSeconds": 29,
     "position": 3,
     "isPending": false
   },
   "mean": {
     "person": null,
     "leaderboard": null,
-    "minutes": 2,
-    "seconds": 0,
-    "totalSeconds": 120,
+    "minutes": 1,
+    "seconds": 56,
+    "totalSeconds": 116,
     "position": null,
     "isPending": false
   },
-  "awardCount": 42,
+  "awardCount": 48,
   "awards": [
     {
       "title": "Bronze",
@@ -259,7 +259,8 @@
         "2021-09-23",
         "2021-09-26",
         "2021-09-30",
-        "2021-10-02"
+        "2021-10-02",
+        "2021-10-06"
       ]
     },
     {
@@ -267,7 +268,8 @@
       "type": "quarter-time",
       "text": "Quarter your completion time from one day to the next",
       "dates": [
-        "2021-09-30"
+        "2021-09-30",
+        "2021-10-06"
       ]
     },
     {
@@ -297,7 +299,8 @@
         "2021-09-30",
         "2021-10-02",
         "2021-10-03",
-        "2021-10-04"
+        "2021-10-04",
+        "2021-10-06"
       ]
     },
     {
@@ -309,7 +312,8 @@
         "2021-09-26",
         "2021-09-27",
         "2021-09-30",
-        "2021-10-03"
+        "2021-10-03",
+        "2021-10-06"
       ]
     },
     {
@@ -319,7 +323,16 @@
       "dates": [
         "2021-09-26",
         "2021-09-27",
-        "2021-10-03"
+        "2021-10-03",
+        "2021-10-06"
+      ]
+    },
+    {
+      "title": "Sub 30 Seconds",
+      "type": "sub-30",
+      "text": "Complete a puzzle in less than 30 seconds",
+      "dates": [
+        "2021-10-06"
       ]
     },
     {
