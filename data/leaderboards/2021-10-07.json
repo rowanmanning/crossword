@@ -1,7 +1,15 @@
 [
 	{
+		"name": "Ania",
+		"seconds": 20
+	},
+	{
 		"name": "varjmes",
 		"seconds": 38
+	},
+	{
+		"name": "ivo",
+		"seconds": 40
 	},
 	{
 		"name": "Emma L",
@@ -10,6 +18,10 @@
 	{
 		"name": "j-sheps",
 		"seconds": 50
+	},
+	{
+		"name": "binaryberry",
+		"seconds": 54
 	},
 	{
 		"name": "Lily2point0",
@@ -24,10 +36,6 @@
 		"seconds": 115
 	},
 	{
-		"name": "Ania",
-		"seconds": null
-	},
-	{
 		"name": "apaleslimghost",
 		"seconds": null
 	},
@@ -36,19 +44,11 @@
 		"seconds": null
 	},
 	{
-		"name": "binaryberry",
-		"seconds": null
-	},
-	{
 		"name": "cb",
 		"seconds": null
 	},
 	{
 		"name": "itsalex",
-		"seconds": null
-	},
-	{
-		"name": "ivo",
 		"seconds": null
 	},
 	{
