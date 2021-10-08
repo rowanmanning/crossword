@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "ivo",
+      "leaderboard": "2021-10-08",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "ivo",
       "leaderboard": "2021-10-07",
       "minutes": 0,
       "seconds": 40,
@@ -237,7 +246,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 51,
+  "awardCount": 52,
   "awards": [
     {
       "title": "Bronze",
@@ -385,6 +394,14 @@
       "text": "Get the same time as another person but with flipped seconds",
       "dates": [
         "2021-09-27"
+      ]
+    },
+    {
+      "title": "The Number of The Beast",
+      "type": "beast",
+      "text": "His number is six hundred and sixty-six",
+      "dates": [
+        "2021-10-07"
       ]
     },
     {

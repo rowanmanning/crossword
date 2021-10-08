@@ -98,7 +98,14 @@
         "2021-08-22",
         "2021-09-30"
       ]
+    },
+    {
+      "person": "ivo",
+      "count": 1,
+      "dates": [
+        "2021-10-07"
+      ]
     }
   ],
-  "totalUnlocks": 35
+  "totalUnlocks": 36
 }
