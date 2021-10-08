@@ -1,5 +1,9 @@
 [
 	{
+		"name": "cb",
+		"seconds": 30
+	},
+	{
 		"name": "j-sheps",
 		"seconds": 35
 	},
@@ -49,10 +53,6 @@
 	},
 	{
 		"name": "binaryberry",
-		"seconds": null
-	},
-	{
-		"name": "cb",
 		"seconds": null
 	},
 	{
