@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "cb",
+      "leaderboard": "2021-10-09",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "cb",
       "leaderboard": "2021-10-08",
       "minutes": 0,
       "seconds": 30,
@@ -948,7 +957,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 386,
+  "awardCount": 388,
   "awards": [
     {
       "title": "Gold",
@@ -976,7 +985,8 @@
         "2021-09-19",
         "2021-09-22",
         "2021-09-25",
-        "2021-09-29"
+        "2021-09-29",
+        "2021-10-08"
       ]
     },
     {
@@ -1070,7 +1080,8 @@
       "type": "podium",
       "text": "Unlock third, second, and first place awards",
       "dates": [
-        "2021-07-12"
+        "2021-07-12",
+        "2021-10-08"
       ]
     },
     {
