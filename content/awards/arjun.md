@@ -14,17 +14,18 @@
       ]
     },
     {
+      "person": "Rowan M",
+      "count": 2,
+      "dates": [
+        "2021-07-13",
+        "2021-10-09"
+      ]
+    },
+    {
       "person": "joelcarr",
       "count": 1,
       "dates": [
         "2021-06-24"
-      ]
-    },
-    {
-      "person": "Rowan M",
-      "count": 1,
-      "dates": [
-        "2021-07-13"
       ]
     },
     {
@@ -49,5 +50,5 @@
       ]
     }
   ],
-  "totalUnlocks": 8
+  "totalUnlocks": 9
 }

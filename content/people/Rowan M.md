@@ -5,11 +5,11 @@
     {
       "person": "Rowan M",
       "leaderboard": "2021-10-09",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 37,
+      "totalSeconds": 97,
+      "position": 2,
+      "isPending": false
     },
     {
       "person": "Rowan M",
@@ -1015,12 +1015,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 57,
-    "totalSeconds": 57,
+    "seconds": 58,
+    "totalSeconds": 58,
     "position": null,
     "isPending": false
   },
-  "awardCount": 421,
+  "awardCount": 423,
   "awards": [
     {
       "title": "Gold",
@@ -1359,7 +1359,8 @@
         "2021-10-05",
         "2021-10-06",
         "2021-10-07",
-        "2021-10-08"
+        "2021-10-08",
+        "2021-10-09"
       ]
     },
     {
@@ -1628,7 +1629,8 @@
       "type": "arjun",
       "text": "Join us",
       "dates": [
-        "2021-07-13"
+        "2021-07-13",
+        "2021-10-09"
       ]
     },
     {
