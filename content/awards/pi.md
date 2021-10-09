@@ -14,11 +14,12 @@
     },
     {
       "person": "Ania",
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2021-09-10"
+        "2021-09-10",
+        "2021-10-09"
       ]
     }
   ],
-  "totalUnlocks": 3
+  "totalUnlocks": 4
 }
