@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "varjmes",
+      "leaderboard": "2021-10-11",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "varjmes",
       "leaderboard": "2021-10-10",
       "minutes": 0,
       "seconds": 32,
@@ -1029,7 +1038,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 283,
+  "awardCount": 284,
   "awards": [
     {
       "title": "Gold",
@@ -1048,7 +1057,8 @@
       "text": "Get the second fastest time for a day",
       "dates": [
         "2021-07-07",
-        "2021-07-13"
+        "2021-07-13",
+        "2021-10-10"
       ]
     },
     {

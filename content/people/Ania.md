@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "Ania",
+      "leaderboard": "2021-10-11",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "Ania",
       "leaderboard": "2021-10-10",
       "minutes": 0,
       "seconds": 28,
@@ -1029,7 +1038,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 273,
+  "awardCount": 274,
   "awards": [
     {
       "title": "Gold",
@@ -1041,7 +1050,8 @@
         "2021-09-01",
         "2021-09-12",
         "2021-09-26",
-        "2021-10-07"
+        "2021-10-07",
+        "2021-10-10"
       ]
     },
     {

@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "Emma L",
+      "leaderboard": "2021-10-11",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "Emma L",
       "leaderboard": "2021-10-10",
       "minutes": 0,
       "seconds": 43,
@@ -714,7 +723,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 257,
+  "awardCount": 258,
   "awards": [
     {
       "title": "Gold",
@@ -801,7 +810,8 @@
       "text": "Get the same position two days in a row",
       "dates": [
         "2021-09-17",
-        "2021-09-29"
+        "2021-09-29",
+        "2021-10-10"
       ]
     },
     {
