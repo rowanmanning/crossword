@@ -5,11 +5,11 @@
     {
       "person": "Nick Ramsbottom",
       "leaderboard": "2021-10-10",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 5,
+      "seconds": 49,
+      "totalSeconds": 349,
+      "position": 5,
+      "isPending": false
     },
     {
       "person": "Nick Ramsbottom",
@@ -484,12 +484,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 7,
-    "totalSeconds": 127,
+    "seconds": 12,
+    "totalSeconds": 132,
     "position": null,
     "isPending": false
   },
-  "awardCount": 67,
+  "awardCount": 69,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -544,7 +544,8 @@
         "2021-09-04",
         "2021-09-23",
         "2021-09-25",
-        "2021-10-09"
+        "2021-10-09",
+        "2021-10-10"
       ]
     },
     {
@@ -600,7 +601,8 @@
       "text": "Complete a puzzle in more than 5 minutes",
       "dates": [
         "2021-08-21",
-        "2021-09-25"
+        "2021-09-25",
+        "2021-10-10"
       ]
     },
     {

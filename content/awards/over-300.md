@@ -30,6 +30,15 @@
       ]
     },
     {
+      "person": "Nick Ramsbottom",
+      "count": 3,
+      "dates": [
+        "2021-08-21",
+        "2021-09-25",
+        "2021-10-10"
+      ]
+    },
+    {
       "person": "Ania",
       "count": 2,
       "dates": [
@@ -54,14 +63,6 @@
       ]
     },
     {
-      "person": "Nick Ramsbottom",
-      "count": 2,
-      "dates": [
-        "2021-08-21",
-        "2021-09-25"
-      ]
-    },
-    {
       "person": "apaleslimghost",
       "count": 1,
       "dates": [
@@ -83,5 +84,5 @@
       ]
     }
   ],
-  "totalUnlocks": 24
+  "totalUnlocks": 25
 }
