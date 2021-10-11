@@ -5,11 +5,11 @@
     {
       "person": "binaryberry",
       "leaderboard": "2021-10-11",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 39,
+      "totalSeconds": 39,
+      "position": 3,
+      "isPending": false
     },
     {
       "person": "binaryberry",
@@ -1022,23 +1022,23 @@
   ],
   "best": {
     "person": "binaryberry",
-    "leaderboard": "2021-08-23",
+    "leaderboard": "2021-10-11",
     "minutes": 0,
-    "seconds": 48,
-    "totalSeconds": 48,
-    "position": 7,
+    "seconds": 39,
+    "totalSeconds": 39,
+    "position": 3,
     "isPending": false
   },
   "mean": {
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 54,
-    "totalSeconds": 174,
+    "seconds": 52,
+    "totalSeconds": 172,
     "position": null,
     "isPending": false
   },
-  "awardCount": 73,
+  "awardCount": 76,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -1116,7 +1116,8 @@
         "2021-10-03",
         "2021-10-04",
         "2021-10-06",
-        "2021-10-07"
+        "2021-10-07",
+        "2021-10-11"
       ]
     },
     {
@@ -1128,7 +1129,16 @@
         "2021-08-23",
         "2021-09-16",
         "2021-09-24",
-        "2021-10-07"
+        "2021-10-07",
+        "2021-10-11"
+      ]
+    },
+    {
+      "title": "Sub 45 Seconds",
+      "type": "sub-45",
+      "text": "Complete a puzzle in less than 45 seconds",
+      "dates": [
+        "2021-10-11"
       ]
     },
     {

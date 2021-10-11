@@ -8,6 +8,14 @@
 		"seconds": 29
 	},
 	{
+		"name": "varjmes",
+		"seconds": 29
+	},
+	{
+		"name": "binaryberry",
+		"seconds": 39
+	},
+	{
 		"name": "Nick Ramsbottom",
 		"seconds": 54
 	},
@@ -25,10 +33,6 @@
 	},
 	{
 		"name": "arjun137",
-		"seconds": null
-	},
-	{
-		"name": "binaryberry",
 		"seconds": null
 	},
 	{
@@ -57,10 +61,6 @@
 	},
 	{
 		"name": "Rowan M",
-		"seconds": null
-	},
-	{
-		"name": "varjmes",
 		"seconds": null
 	}
 ]
