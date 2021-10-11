@@ -5,11 +5,11 @@
     {
       "person": "Nick Ramsbottom",
       "leaderboard": "2021-10-11",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 54,
+      "totalSeconds": 54,
+      "position": 3,
+      "isPending": false
     },
     {
       "person": "Nick Ramsbottom",
@@ -482,23 +482,23 @@
   ],
   "best": {
     "person": "Nick Ramsbottom",
-    "leaderboard": "2021-09-09",
+    "leaderboard": "2021-10-11",
     "minutes": 0,
-    "seconds": 56,
-    "totalSeconds": 56,
-    "position": 9,
+    "seconds": 54,
+    "totalSeconds": 54,
+    "position": 3,
     "isPending": false
   },
   "mean": {
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 12,
-    "totalSeconds": 132,
+    "seconds": 10,
+    "totalSeconds": 130,
     "position": null,
     "isPending": false
   },
-  "awardCount": 69,
+  "awardCount": 73,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -540,7 +540,16 @@
         "2021-09-09",
         "2021-09-24",
         "2021-09-26",
-        "2021-09-30"
+        "2021-09-30",
+        "2021-10-11"
+      ]
+    },
+    {
+      "title": "Quarter Time",
+      "type": "quarter-time",
+      "text": "Quarter your completion time from one day to the next",
+      "dates": [
+        "2021-10-11"
       ]
     },
     {
@@ -593,7 +602,8 @@
         "2021-10-05",
         "2021-10-06",
         "2021-10-07",
-        "2021-10-08"
+        "2021-10-08",
+        "2021-10-11"
       ]
     },
     {
@@ -601,7 +611,8 @@
       "type": "sub-60",
       "text": "Complete a puzzle in less than a minute",
       "dates": [
-        "2021-09-09"
+        "2021-09-09",
+        "2021-10-11"
       ]
     },
     {
