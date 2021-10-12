@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "Nick Ramsbottom",
+      "leaderboard": "2021-10-12",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "Nick Ramsbottom",
       "leaderboard": "2021-10-11",
       "minutes": 0,
       "seconds": 54,
@@ -498,7 +507,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 73,
+  "awardCount": 75,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -511,7 +520,8 @@
         "2021-09-25",
         "2021-09-27",
         "2021-10-01",
-        "2021-10-07"
+        "2021-10-07",
+        "2021-10-11"
       ]
     },
     {
@@ -661,7 +671,8 @@
         "2021-08-31",
         "2021-09-06",
         "2021-09-22",
-        "2021-10-04"
+        "2021-10-04",
+        "2021-10-11"
       ]
     }
   ]
