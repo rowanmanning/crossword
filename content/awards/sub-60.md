@@ -666,10 +666,11 @@
     },
     {
       "person": "Nick Ramsbottom",
-      "count": 2,
+      "count": 3,
       "dates": [
         "2021-09-09",
-        "2021-10-11"
+        "2021-10-11",
+        "2021-10-12"
       ]
     },
     {
@@ -680,5 +681,5 @@
       ]
     }
   ],
-  "totalUnlocks": 579
+  "totalUnlocks": 580
 }
