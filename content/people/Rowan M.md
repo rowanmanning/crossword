@@ -5,11 +5,11 @@
     {
       "person": "Rowan M",
       "leaderboard": "2021-10-12",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 48,
+      "totalSeconds": 48,
+      "position": 4,
+      "isPending": false
     },
     {
       "person": "Rowan M",
@@ -1047,7 +1047,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 432,
+  "awardCount": 436,
   "awards": [
     {
       "title": "Gold",
@@ -1392,7 +1392,8 @@
         "2021-10-08",
         "2021-10-09",
         "2021-10-10",
-        "2021-10-11"
+        "2021-10-11",
+        "2021-10-12"
       ]
     },
     {
@@ -1477,7 +1478,8 @@
         "2021-10-07",
         "2021-10-08",
         "2021-10-10",
-        "2021-10-11"
+        "2021-10-11",
+        "2021-10-12"
       ]
     },
     {
@@ -1625,7 +1627,8 @@
         "2021-09-30",
         "2021-10-03",
         "2021-10-05",
-        "2021-10-06"
+        "2021-10-06",
+        "2021-10-12"
       ]
     },
     {
@@ -1633,7 +1636,8 @@
       "type": "tripleting",
       "text": "Get the same time as two other people",
       "dates": [
-        "2021-09-30"
+        "2021-09-30",
+        "2021-10-12"
       ]
     },
     {

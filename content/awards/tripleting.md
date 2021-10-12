@@ -13,6 +13,14 @@
       ]
     },
     {
+      "person": "Rowan M",
+      "count": 2,
+      "dates": [
+        "2021-09-30",
+        "2021-10-12"
+      ]
+    },
+    {
       "person": "Ania",
       "count": 1,
       "dates": [
@@ -27,19 +35,26 @@
       ]
     },
     {
-      "person": "Rowan M",
+      "person": "varjmes",
       "count": 1,
       "dates": [
         "2021-09-30"
       ]
     },
     {
-      "person": "varjmes",
+      "person": "ivo",
       "count": 1,
       "dates": [
-        "2021-09-30"
+        "2021-10-12"
+      ]
+    },
+    {
+      "person": "Nick Ramsbottom",
+      "count": 1,
+      "dates": [
+        "2021-10-12"
       ]
     }
   ],
-  "totalUnlocks": 6
+  "totalUnlocks": 9
 }
