@@ -5,11 +5,11 @@
     {
       "person": "cb",
       "leaderboard": "2021-10-12",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 37,
+      "totalSeconds": 37,
+      "position": 2,
+      "isPending": false
     },
     {
       "person": "cb",
@@ -984,7 +984,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 400,
+  "awardCount": 404,
   "awards": [
     {
       "title": "Gold",
@@ -1279,7 +1279,8 @@
         "2021-10-08",
         "2021-10-09",
         "2021-10-10",
-        "2021-10-11"
+        "2021-10-11",
+        "2021-10-12"
       ]
     },
     {
@@ -1361,7 +1362,8 @@
         "2021-10-07",
         "2021-10-08",
         "2021-10-10",
-        "2021-10-11"
+        "2021-10-11",
+        "2021-10-12"
       ]
     },
     {
@@ -1423,7 +1425,8 @@
         "2021-10-07",
         "2021-10-08",
         "2021-10-10",
-        "2021-10-11"
+        "2021-10-11",
+        "2021-10-12"
       ]
     },
     {
@@ -1497,7 +1500,8 @@
       "type": "month-streak",
       "text": "Play for a full month (30 days) without breaks",
       "dates": [
-        "2021-08-23"
+        "2021-08-23",
+        "2021-10-12"
       ]
     },
     {
