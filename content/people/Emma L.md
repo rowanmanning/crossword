@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "Emma L",
+      "leaderboard": "2021-10-13",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "Emma L",
       "leaderboard": "2021-10-12",
       "minutes": 0,
       "seconds": 39,
@@ -732,7 +741,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 266,
+  "awardCount": 268,
   "awards": [
     {
       "title": "Gold",
@@ -803,7 +812,8 @@
         "2021-09-25",
         "2021-09-27",
         "2021-10-02",
-        "2021-10-11"
+        "2021-10-11",
+        "2021-10-12"
       ]
     },
     {
@@ -811,7 +821,8 @@
       "type": "double-bronze",
       "text": "Get the third fastest time two days in a row",
       "dates": [
-        "2021-08-16"
+        "2021-08-16",
+        "2021-10-12"
       ]
     },
     {
