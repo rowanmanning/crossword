@@ -5,11 +5,11 @@
     {
       "person": "ivo",
       "leaderboard": "2021-10-13",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 46,
+      "totalSeconds": 46,
+      "position": 2,
+      "isPending": false
     },
     {
       "person": "ivo",
@@ -285,13 +285,13 @@
   "mean": {
     "person": null,
     "leaderboard": null,
-    "minutes": 2,
-    "seconds": 0,
-    "totalSeconds": 120,
+    "minutes": 1,
+    "seconds": 58,
+    "totalSeconds": 118,
     "position": null,
     "isPending": false
   },
-  "awardCount": 69,
+  "awardCount": 72,
   "awards": [
     {
       "title": "Bronze",
@@ -373,7 +373,8 @@
         "2021-10-08",
         "2021-10-09",
         "2021-10-11",
-        "2021-10-12"
+        "2021-10-12",
+        "2021-10-13"
       ]
     },
     {
@@ -390,7 +391,8 @@
         "2021-10-07",
         "2021-10-08",
         "2021-10-11",
-        "2021-10-12"
+        "2021-10-12",
+        "2021-10-13"
       ]
     },
     {
@@ -438,6 +440,14 @@
       "text": "Play for a full week without breaks",
       "dates": [
         "2021-09-20"
+      ]
+    },
+    {
+      "title": "Month-Long Streak",
+      "type": "month-streak",
+      "text": "Play for a full month (30 days) without breaks",
+      "dates": [
+        "2021-10-13"
       ]
     },
     {
