@@ -13,6 +13,14 @@
       ]
     },
     {
+      "person": "j-sheps",
+      "count": 2,
+      "dates": [
+        "2021-08-23",
+        "2021-10-13"
+      ]
+    },
+    {
       "person": "Rowan M",
       "count": 2,
       "dates": [
@@ -21,14 +29,15 @@
       ]
     },
     {
-      "person": "Ania",
-      "count": 1,
+      "person": "Nick Ramsbottom",
+      "count": 2,
       "dates": [
-        "2021-08-23"
+        "2021-10-12",
+        "2021-10-13"
       ]
     },
     {
-      "person": "j-sheps",
+      "person": "Ania",
       "count": 1,
       "dates": [
         "2021-08-23"
@@ -49,12 +58,12 @@
       ]
     },
     {
-      "person": "Nick Ramsbottom",
+      "person": "apaleslimghost",
       "count": 1,
       "dates": [
-        "2021-10-12"
+        "2021-10-13"
       ]
     }
   ],
-  "totalUnlocks": 9
+  "totalUnlocks": 12
 }

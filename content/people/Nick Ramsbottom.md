@@ -516,7 +516,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 81,
+  "awardCount": 82,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -682,7 +682,8 @@
       "type": "tripleting",
       "text": "Get the same time as two other people",
       "dates": [
-        "2021-10-12"
+        "2021-10-12",
+        "2021-10-13"
       ]
     },
     {
