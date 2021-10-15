@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "Emma L",
+      "leaderboard": "2021-10-15",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "Emma L",
       "leaderboard": "2021-10-14",
       "minutes": 0,
       "seconds": 52,
@@ -750,7 +759,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 275,
+  "awardCount": 277,
   "awards": [
     {
       "title": "Gold",
@@ -804,7 +813,8 @@
         "2021-09-19",
         "2021-09-26",
         "2021-10-03",
-        "2021-10-05"
+        "2021-10-05",
+        "2021-10-14"
       ]
     },
     {
@@ -850,7 +860,8 @@
       "type": "podium",
       "text": "Unlock third, second, and first place awards",
       "dates": [
-        "2021-09-26"
+        "2021-09-26",
+        "2021-10-14"
       ]
     },
     {
