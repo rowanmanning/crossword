@@ -5,11 +5,11 @@
     {
       "person": "itsalex",
       "leaderboard": "2021-10-15",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 34,
+      "totalSeconds": 34,
+      "position": 2,
+      "isPending": false
     },
     {
       "person": "itsalex",
@@ -1042,12 +1042,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 4,
-    "totalSeconds": 64,
+    "seconds": 3,
+    "totalSeconds": 63,
     "position": null,
     "isPending": false
   },
-  "awardCount": 356,
+  "awardCount": 360,
   "awards": [
     {
       "title": "Gold",
@@ -1337,7 +1337,8 @@
         "2021-10-03",
         "2021-10-05",
         "2021-10-12",
-        "2021-10-14"
+        "2021-10-14",
+        "2021-10-15"
       ]
     },
     {
@@ -1404,7 +1405,8 @@
         "2021-10-03",
         "2021-10-05",
         "2021-10-12",
-        "2021-10-14"
+        "2021-10-14",
+        "2021-10-15"
       ]
     },
     {
@@ -1452,7 +1454,8 @@
         "2021-10-03",
         "2021-10-05",
         "2021-10-12",
-        "2021-10-14"
+        "2021-10-14",
+        "2021-10-15"
       ]
     },
     {
@@ -1583,6 +1586,7 @@
       "type": "yin-and-yang",
       "text": "Get the same time as another person but with flipped seconds",
       "dates": [
+        "2021-10-15",
         "2021-09-17",
         "2021-08-31",
         "2021-07-21"
