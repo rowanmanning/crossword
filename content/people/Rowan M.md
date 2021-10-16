@@ -5,11 +5,11 @@
     {
       "person": "Rowan M",
       "leaderboard": "2021-10-16",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 55,
+      "totalSeconds": 55,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "Rowan M",
@@ -1083,7 +1083,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 447,
+  "awardCount": 450,
   "awards": [
     {
       "title": "Gold",
@@ -1443,7 +1443,8 @@
         "2021-10-12",
         "2021-10-13",
         "2021-10-14",
-        "2021-10-15"
+        "2021-10-15",
+        "2021-10-16"
       ]
     },
     {
@@ -1531,7 +1532,8 @@
         "2021-10-11",
         "2021-10-12",
         "2021-10-14",
-        "2021-10-15"
+        "2021-10-15",
+        "2021-10-16"
       ]
     },
     {
@@ -1625,6 +1627,14 @@
       "dates": [
         "2021-08-02",
         "2021-09-23"
+      ]
+    },
+    {
+      "title": "Nice Try, Joel",
+      "type": "nice-try-joel",
+      "text": "Complete a puzzle in less than a minute on a Saturday",
+      "dates": [
+        "2021-10-16"
       ]
     },
     {
