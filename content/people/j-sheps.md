@@ -5,11 +5,11 @@
     {
       "person": "j-sheps",
       "leaderboard": "2021-10-16",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 59,
+      "totalSeconds": 59,
+      "position": 2,
+      "isPending": false
     },
     {
       "person": "j-sheps",
@@ -1083,7 +1083,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 345,
+  "awardCount": 348,
   "awards": [
     {
       "title": "Gold",
@@ -1367,7 +1367,8 @@
         "2021-10-12",
         "2021-10-13",
         "2021-10-14",
-        "2021-10-15"
+        "2021-10-15",
+        "2021-10-16"
       ]
     },
     {
@@ -1435,7 +1436,8 @@
         "2021-10-08",
         "2021-10-10",
         "2021-10-11",
-        "2021-10-15"
+        "2021-10-15",
+        "2021-10-16"
       ]
     },
     {
@@ -1502,6 +1504,14 @@
       "dates": [
         "2021-07-31",
         "2021-09-29"
+      ]
+    },
+    {
+      "title": "Nice Try, Joel",
+      "type": "nice-try-joel",
+      "text": "Complete a puzzle in less than a minute on a Saturday",
+      "dates": [
+        "2021-10-16"
       ]
     },
     {
