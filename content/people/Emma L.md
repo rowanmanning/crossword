@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "Emma L",
+      "leaderboard": "2021-10-16",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "Emma L",
       "leaderboard": "2021-10-15",
       "minutes": 0,
       "seconds": 45,
@@ -759,7 +768,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 280,
+  "awardCount": 281,
   "awards": [
     {
       "title": "Gold",
@@ -1206,7 +1215,8 @@
       "text": "His number is six hundred and sixty-six",
       "dates": [
         "2021-08-22",
-        "2021-09-30"
+        "2021-09-30",
+        "2021-10-15"
       ]
     }
   ]

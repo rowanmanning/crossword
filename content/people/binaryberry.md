@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "binaryberry",
+      "leaderboard": "2021-10-16",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "binaryberry",
       "leaderboard": "2021-10-15",
       "minutes": 1,
       "seconds": 32,
@@ -1074,7 +1083,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 79,
+  "awardCount": 80,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -1084,7 +1093,8 @@
         "2021-06-24",
         "2021-08-05",
         "2021-08-26",
-        "2021-10-01"
+        "2021-10-01",
+        "2021-10-15"
       ]
     },
     {

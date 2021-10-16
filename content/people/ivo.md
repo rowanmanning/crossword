@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "ivo",
+      "leaderboard": "2021-10-16",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "ivo",
       "leaderboard": "2021-10-15",
       "minutes": 0,
       "seconds": 38,
@@ -309,7 +318,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 78,
+  "awardCount": 79,
   "awards": [
     {
       "title": "Silver",
@@ -325,7 +334,8 @@
       "text": "Get the third fastest time for a day",
       "dates": [
         "2021-09-27",
-        "2021-10-03"
+        "2021-10-03",
+        "2021-10-15"
       ]
     },
     {

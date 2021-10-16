@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "j-sheps",
+      "leaderboard": "2021-10-16",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "j-sheps",
       "leaderboard": "2021-10-15",
       "minutes": 0,
       "seconds": 54,
@@ -1074,7 +1083,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 344,
+  "awardCount": 345,
   "awards": [
     {
       "title": "Gold",
@@ -1599,7 +1608,8 @@
       "text": "What's your emergency?",
       "dates": [
         "2021-08-18",
-        "2021-09-28"
+        "2021-09-28",
+        "2021-10-15"
       ]
     }
   ]
