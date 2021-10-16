@@ -5,11 +5,11 @@
     {
       "person": "Emma L",
       "leaderboard": "2021-10-16",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 58,
+      "totalSeconds": 58,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "Emma L",
@@ -768,7 +768,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 281,
+  "awardCount": 284,
   "awards": [
     {
       "title": "Gold",
@@ -998,7 +998,8 @@
         "2021-10-12",
         "2021-10-13",
         "2021-10-14",
-        "2021-10-15"
+        "2021-10-15",
+        "2021-10-16"
       ]
     },
     {
@@ -1060,7 +1061,8 @@
         "2021-10-12",
         "2021-10-13",
         "2021-10-14",
-        "2021-10-15"
+        "2021-10-15",
+        "2021-10-16"
       ]
     },
     {
@@ -1129,6 +1131,14 @@
       "text": "Complete a puzzle in less than 20 seconds",
       "dates": [
         "2021-09-26"
+      ]
+    },
+    {
+      "title": "Nice Try, Joel",
+      "type": "nice-try-joel",
+      "text": "Complete a puzzle in less than a minute on a Saturday",
+      "dates": [
+        "2021-10-16"
       ]
     },
     {
