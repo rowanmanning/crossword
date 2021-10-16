@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "ivo",
+      "leaderboard": "2021-10-17",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "ivo",
       "leaderboard": "2021-10-16",
       "minutes": 1,
       "seconds": 30,
