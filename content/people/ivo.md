@@ -5,11 +5,11 @@
     {
       "person": "ivo",
       "leaderboard": "2021-10-17",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 5,
+      "seconds": 30,
+      "totalSeconds": 330,
+      "position": 12,
+      "isPending": false
     },
     {
       "person": "ivo",
@@ -321,13 +321,13 @@
   "mean": {
     "person": null,
     "leaderboard": null,
-    "minutes": 1,
-    "seconds": 54,
-    "totalSeconds": 114,
+    "minutes": 2,
+    "seconds": 1,
+    "totalSeconds": 121,
     "position": null,
     "isPending": false
   },
-  "awardCount": 81,
+  "awardCount": 83,
   "awards": [
     {
       "title": "Silver",
@@ -395,7 +395,8 @@
         "2021-10-09",
         "2021-10-10",
         "2021-10-14",
-        "2021-10-16"
+        "2021-10-16",
+        "2021-10-17"
       ]
     },
     {
@@ -475,7 +476,8 @@
       "text": "Complete a puzzle in more than 5 minutes",
       "dates": [
         "2021-09-29",
-        "2021-10-10"
+        "2021-10-10",
+        "2021-10-17"
       ]
     },
     {

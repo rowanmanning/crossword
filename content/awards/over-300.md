@@ -39,6 +39,15 @@
       ]
     },
     {
+      "person": "ivo",
+      "count": 3,
+      "dates": [
+        "2021-09-29",
+        "2021-10-10",
+        "2021-10-17"
+      ]
+    },
+    {
       "person": "Ania",
       "count": 2,
       "dates": [
@@ -63,14 +72,6 @@
       ]
     },
     {
-      "person": "ivo",
-      "count": 2,
-      "dates": [
-        "2021-09-29",
-        "2021-10-10"
-      ]
-    },
-    {
       "person": "apaleslimghost",
       "count": 1,
       "dates": [
@@ -85,5 +86,5 @@
       ]
     }
   ],
-  "totalUnlocks": 26
+  "totalUnlocks": 27
 }
