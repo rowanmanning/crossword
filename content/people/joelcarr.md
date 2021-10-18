@@ -5,11 +5,11 @@
     {
       "person": "joelcarr",
       "leaderboard": "2021-10-18",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 0,
+      "totalSeconds": 60,
+      "position": 6,
+      "isPending": false
     },
     {
       "person": "joelcarr",
@@ -1095,13 +1095,13 @@
   "mean": {
     "person": null,
     "leaderboard": null,
-    "minutes": 3,
-    "seconds": 0,
-    "totalSeconds": 180,
+    "minutes": 2,
+    "seconds": 59,
+    "totalSeconds": 179,
     "position": null,
     "isPending": false
   },
-  "awardCount": 78,
+  "awardCount": 80,
   "awards": [
     {
       "title": "Bronze",
@@ -1211,7 +1211,8 @@
         "2021-09-06",
         "2021-10-05",
         "2021-10-07",
-        "2021-10-08"
+        "2021-10-08",
+        "2021-10-18"
       ]
     },
     {
@@ -1253,6 +1254,14 @@
         "2021-09-02",
         "2021-09-24",
         "2021-09-29"
+      ]
+    },
+    {
+      "title": "Holiday",
+      "type": "holiday",
+      "text": "Come back to the crossword after a week off",
+      "dates": [
+        "2021-10-18"
       ]
     },
     {

@@ -5,6 +5,15 @@
   "order": "351",
   "unlocks": [
     {
+      "person": "j-sheps",
+      "count": 3,
+      "dates": [
+        "2021-08-23",
+        "2021-10-13",
+        "2021-10-18"
+      ]
+    },
+    {
       "person": "itsalex",
       "count": 2,
       "dates": [
@@ -13,19 +22,19 @@
       ]
     },
     {
-      "person": "j-sheps",
-      "count": 2,
-      "dates": [
-        "2021-08-23",
-        "2021-10-13"
-      ]
-    },
-    {
       "person": "Rowan M",
       "count": 2,
       "dates": [
         "2021-09-30",
         "2021-10-12"
+      ]
+    },
+    {
+      "person": "varjmes",
+      "count": 2,
+      "dates": [
+        "2021-09-30",
+        "2021-10-18"
       ]
     },
     {
@@ -44,13 +53,6 @@
       ]
     },
     {
-      "person": "varjmes",
-      "count": 1,
-      "dates": [
-        "2021-09-30"
-      ]
-    },
-    {
       "person": "ivo",
       "count": 1,
       "dates": [
@@ -63,7 +65,14 @@
       "dates": [
         "2021-10-13"
       ]
+    },
+    {
+      "person": "Emma L",
+      "count": 1,
+      "dates": [
+        "2021-10-18"
+      ]
     }
   ],
-  "totalUnlocks": 12
+  "totalUnlocks": 15
 }

@@ -8,7 +8,7 @@
       "minutes": 0,
       "seconds": 44,
       "totalSeconds": 44,
-      "position": 3,
+      "position": 4,
       "isPending": false
     },
     {
@@ -1101,7 +1101,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 307,
+  "awardCount": 308,
   "awards": [
     {
       "title": "Gold",
@@ -1543,7 +1543,8 @@
       "type": "tripleting",
       "text": "Get the same time as two other people",
       "dates": [
-        "2021-09-30"
+        "2021-09-30",
+        "2021-10-18"
       ]
     },
     {
