@@ -5,11 +5,11 @@
     {
       "person": "ivo",
       "leaderboard": "2021-10-18",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 34,
+      "totalSeconds": 34,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "ivo",
@@ -330,13 +330,13 @@
   "mean": {
     "person": null,
     "leaderboard": null,
-    "minutes": 2,
-    "seconds": 1,
-    "totalSeconds": 121,
+    "minutes": 1,
+    "seconds": 58,
+    "totalSeconds": 118,
     "position": null,
     "isPending": false
   },
-  "awardCount": 83,
+  "awardCount": 90,
   "awards": [
     {
       "title": "Silver",
@@ -380,7 +380,8 @@
         "2021-10-02",
         "2021-10-06",
         "2021-10-11",
-        "2021-10-15"
+        "2021-10-15",
+        "2021-10-18"
       ]
     },
     {
@@ -390,7 +391,8 @@
       "dates": [
         "2021-09-30",
         "2021-10-06",
-        "2021-10-11"
+        "2021-10-11",
+        "2021-10-18"
       ]
     },
     {
@@ -434,7 +436,8 @@
         "2021-10-12",
         "2021-10-13",
         "2021-10-15",
-        "2021-10-16"
+        "2021-10-16",
+        "2021-10-18"
       ]
     },
     {
@@ -453,7 +456,8 @@
         "2021-10-11",
         "2021-10-12",
         "2021-10-13",
-        "2021-10-15"
+        "2021-10-15",
+        "2021-10-18"
       ]
     },
     {
@@ -468,7 +472,8 @@
         "2021-10-07",
         "2021-10-08",
         "2021-10-11",
-        "2021-10-15"
+        "2021-10-15",
+        "2021-10-18"
       ]
     },
     {
@@ -519,7 +524,8 @@
       "text": "Get the same time as another person",
       "dates": [
         "2021-09-27",
-        "2021-10-12"
+        "2021-10-12",
+        "2021-10-18"
       ]
     },
     {
@@ -528,6 +534,14 @@
       "text": "Get the same time as two other people",
       "dates": [
         "2021-10-12"
+      ]
+    },
+    {
+      "title": "Twinning In Gold",
+      "type": "twinning-in-gold",
+      "text": "Get the twinning award and the fastest time for a day",
+      "dates": [
+        "2021-10-18"
       ]
     },
     {
