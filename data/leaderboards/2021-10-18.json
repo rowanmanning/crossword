@@ -12,6 +12,14 @@
 		"seconds": 44
 	},
 	{
+		"name": "varjmes",
+		"seconds": 44
+	},
+	{
+		"name": "Nick Ramsbottom",
+		"seconds": 57
+	},
+	{
 		"name": "Ania",
 		"seconds": null
 	},
@@ -52,15 +60,7 @@
 		"seconds": null
 	},
 	{
-		"name": "Nick Ramsbottom",
-		"seconds": null
-	},
-	{
 		"name": "Oliver Turner",
-		"seconds": null
-	},
-	{
-		"name": "varjmes",
 		"seconds": null
 	}
 ]

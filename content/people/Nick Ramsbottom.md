@@ -5,11 +5,11 @@
     {
       "person": "Nick Ramsbottom",
       "leaderboard": "2021-10-18",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 57,
+      "totalSeconds": 57,
+      "position": 4,
+      "isPending": false
     },
     {
       "person": "Nick Ramsbottom",
@@ -556,12 +556,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 9,
-    "totalSeconds": 129,
+    "seconds": 8,
+    "totalSeconds": 128,
     "position": null,
     "isPending": false
   },
-  "awardCount": 87,
+  "awardCount": 91,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -607,7 +607,8 @@
         "2021-09-24",
         "2021-09-26",
         "2021-09-30",
-        "2021-10-11"
+        "2021-10-11",
+        "2021-10-18"
       ]
     },
     {
@@ -674,7 +675,8 @@
         "2021-10-12",
         "2021-10-13",
         "2021-10-14",
-        "2021-10-15"
+        "2021-10-15",
+        "2021-10-18"
       ]
     },
     {
@@ -684,7 +686,8 @@
       "dates": [
         "2021-09-09",
         "2021-10-11",
-        "2021-10-12"
+        "2021-10-12",
+        "2021-10-18"
       ]
     },
     {
@@ -714,6 +717,14 @@
       "dates": [
         "2021-08-26",
         "2021-09-25"
+      ]
+    },
+    {
+      "title": "Month-Long Streak",
+      "type": "month-streak",
+      "text": "Play for a full month (30 days) without breaks",
+      "dates": [
+        "2021-10-18"
       ]
     },
     {
