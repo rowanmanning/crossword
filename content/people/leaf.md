@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "leaf",
+      "leaderboard": "2021-10-19",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "leaf",
       "leaderboard": "2021-10-18",
       "minutes": 0,
       "seconds": 35,
@@ -1101,7 +1110,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 270,
+  "awardCount": 272,
   "awards": [
     {
       "title": "Gold",
@@ -1124,7 +1133,16 @@
         "2021-09-11",
         "2021-10-02",
         "2021-10-07",
-        "2021-10-17"
+        "2021-10-17",
+        "2021-10-18"
+      ]
+    },
+    {
+      "title": "Double Silver",
+      "type": "double-silver",
+      "text": "Get the second fastest time two days in a row",
+      "dates": [
+        "2021-10-18"
       ]
     },
     {

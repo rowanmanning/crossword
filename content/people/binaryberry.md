@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "binaryberry",
+      "leaderboard": "2021-10-19",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "binaryberry",
       "leaderboard": "2021-10-18",
       "minutes": 0,
       "seconds": 37,
@@ -1101,8 +1110,16 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 86,
+  "awardCount": 87,
   "awards": [
+    {
+      "title": "Bronze",
+      "type": "bronze",
+      "text": "Get the third fastest time for a day",
+      "dates": [
+        "2021-10-18"
+      ]
+    },
     {
       "title": "Consistent Position ×2",
       "type": "consistent-2",
