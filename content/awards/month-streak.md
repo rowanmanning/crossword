@@ -21,6 +21,14 @@
       ]
     },
     {
+      "person": "leaf",
+      "count": 2,
+      "dates": [
+        "2021-07-31",
+        "2021-10-19"
+      ]
+    },
+    {
       "person": "cb",
       "count": 2,
       "dates": [
@@ -57,13 +65,6 @@
       ]
     },
     {
-      "person": "leaf",
-      "count": 1,
-      "dates": [
-        "2021-07-31"
-      ]
-    },
-    {
       "person": "Emma L",
       "count": 1,
       "dates": [
@@ -85,5 +86,5 @@
       ]
     }
   ],
-  "totalUnlocks": 14
+  "totalUnlocks": 15
 }
