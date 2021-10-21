@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "joelcarr",
+      "leaderboard": "2021-10-21",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "joelcarr",
       "leaderboard": "2021-10-20",
       "minutes": 3,
       "seconds": 6,
@@ -1119,7 +1128,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 83,
+  "awardCount": 84,
   "awards": [
     {
       "title": "Bronze",
@@ -1139,7 +1148,8 @@
         "2021-07-08",
         "2021-08-05",
         "2021-08-10",
-        "2021-09-17"
+        "2021-09-17",
+        "2021-10-20"
       ]
     },
     {
