@@ -1,23 +1,39 @@
 [
 	{
+		"name": "Rowan M",
+		"seconds": 29
+	},
+	{
 		"name": "Emma L",
 		"seconds": 46
+	},
+	{
+		"name": "Ania",
+		"seconds": 49
 	},
 	{
 		"name": "Lily2point0",
 		"seconds": 73
 	},
 	{
+		"name": "ivo",
+		"seconds": 92
+	},
+	{
 		"name": "Nick Ramsbottom",
 		"seconds": 92
+	},
+	{
+		"name": "binaryberry",
+		"seconds": 128
 	},
 	{
 		"name": "varjmes",
 		"seconds": 136
 	},
 	{
-		"name": "Ania",
-		"seconds": null
+		"name": "j-sheps",
+		"seconds": 140
 	},
 	{
 		"name": "apaleslimghost",
@@ -28,23 +44,11 @@
 		"seconds": null
 	},
 	{
-		"name": "binaryberry",
-		"seconds": null
-	},
-	{
 		"name": "cb",
 		"seconds": null
 	},
 	{
 		"name": "itsalex",
-		"seconds": null
-	},
-	{
-		"name": "ivo",
-		"seconds": null
-	},
-	{
-		"name": "j-sheps",
 		"seconds": null
 	},
 	{
@@ -57,10 +61,6 @@
 	},
 	{
 		"name": "Oliver Turner",
-		"seconds": null
-	},
-	{
-		"name": "Rowan M",
 		"seconds": null
 	}
 ]
