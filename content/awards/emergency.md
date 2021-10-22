@@ -38,6 +38,15 @@
       ]
     },
     {
+      "person": "binaryberry",
+      "count": 3,
+      "dates": [
+        "2021-07-08",
+        "2021-08-09",
+        "2021-10-21"
+      ]
+    },
+    {
       "person": "j-sheps",
       "count": 3,
       "dates": [
@@ -52,14 +61,6 @@
       "dates": [
         "2021-07-06",
         "2021-07-23"
-      ]
-    },
-    {
-      "person": "binaryberry",
-      "count": 2,
-      "dates": [
-        "2021-07-08",
-        "2021-08-09"
       ]
     },
     {
@@ -106,5 +107,5 @@
       ]
     }
   ],
-  "totalUnlocks": 29
+  "totalUnlocks": 30
 }

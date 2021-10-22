@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "binaryberry",
+      "leaderboard": "2021-10-22",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "binaryberry",
       "leaderboard": "2021-10-21",
       "minutes": 2,
       "seconds": 8,
@@ -1128,7 +1137,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 95,
+  "awardCount": 96,
   "awards": [
     {
       "title": "Bronze",
@@ -1325,7 +1334,8 @@
       "text": "What's your emergency?",
       "dates": [
         "2021-07-08",
-        "2021-08-09"
+        "2021-08-09",
+        "2021-10-21"
       ]
     },
     {
