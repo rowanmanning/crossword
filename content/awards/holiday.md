@@ -5,6 +5,14 @@
   "order": "331",
   "unlocks": [
     {
+      "person": "Oliver Turner",
+      "count": 2,
+      "dates": [
+        "2021-09-07",
+        "2021-10-22"
+      ]
+    },
+    {
       "person": "arjun137",
       "count": 1,
       "dates": [
@@ -16,13 +24,6 @@
       "count": 1,
       "dates": [
         "2021-08-13"
-      ]
-    },
-    {
-      "person": "Oliver Turner",
-      "count": 1,
-      "dates": [
-        "2021-09-07"
       ]
     },
     {
@@ -40,5 +41,5 @@
       ]
     }
   ],
-  "totalUnlocks": 5
+  "totalUnlocks": 6
 }

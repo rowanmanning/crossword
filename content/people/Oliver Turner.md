@@ -5,11 +5,11 @@
     {
       "person": "Oliver Turner",
       "leaderboard": "2021-10-22",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 35,
+      "totalSeconds": 35,
+      "position": 4,
+      "isPending": false
     },
     {
       "person": "Oliver Turner",
@@ -1105,12 +1105,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 54,
-    "totalSeconds": 54,
+    "seconds": 53,
+    "totalSeconds": 53,
     "position": null,
     "isPending": false
   },
-  "awardCount": 142,
+  "awardCount": 149,
   "awards": [
     {
       "title": "Gold",
@@ -1252,7 +1252,8 @@
         "2021-08-19",
         "2021-08-20",
         "2021-08-25",
-        "2021-09-07"
+        "2021-09-07",
+        "2021-10-22"
       ]
     },
     {
@@ -1289,7 +1290,8 @@
         "2021-08-17",
         "2021-08-19",
         "2021-08-20",
-        "2021-08-25"
+        "2021-08-25",
+        "2021-10-22"
       ]
     },
     {
@@ -1313,7 +1315,8 @@
         "2021-08-17",
         "2021-08-19",
         "2021-08-20",
-        "2021-08-25"
+        "2021-08-25",
+        "2021-10-22"
       ]
     },
     {
@@ -1352,7 +1355,8 @@
       "type": "holiday",
       "text": "Come back to the crossword after a week off",
       "dates": [
-        "2021-09-07"
+        "2021-09-07",
+        "2021-10-22"
       ]
     },
     {
@@ -1364,7 +1368,24 @@
         "2021-07-06",
         "2021-07-30",
         "2021-08-01",
-        "2021-08-09"
+        "2021-08-09",
+        "2021-10-22"
+      ]
+    },
+    {
+      "title": "Tripleting",
+      "type": "tripleting",
+      "text": "Get the same time as two other people",
+      "dates": [
+        "2021-10-22"
+      ]
+    },
+    {
+      "title": "Quadrupleting",
+      "type": "quadrupleting",
+      "text": "Get the same time as three other people",
+      "dates": [
+        "2021-10-22"
       ]
     },
     {

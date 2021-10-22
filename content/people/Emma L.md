@@ -822,7 +822,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 306,
+  "awardCount": 307,
   "awards": [
     {
       "title": "Gold",
@@ -1272,6 +1272,14 @@
       "text": "Get the same time as two other people",
       "dates": [
         "2021-10-18",
+        "2021-10-22"
+      ]
+    },
+    {
+      "title": "Quadrupleting",
+      "type": "quadrupleting",
+      "text": "Get the same time as three other people",
+      "dates": [
         "2021-10-22"
       ]
     },

@@ -24,6 +24,10 @@
 		"seconds": 35
 	},
 	{
+		"name": "Oliver Turner",
+		"seconds": 35
+	},
+	{
 		"name": "ivo",
 		"seconds": 39
 	},
@@ -57,10 +61,6 @@
 	},
 	{
 		"name": "itsalex",
-		"seconds": null
-	},
-	{
-		"name": "Oliver Turner",
 		"seconds": null
 	}
 ]
