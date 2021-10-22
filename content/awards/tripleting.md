@@ -6,11 +6,12 @@
   "unlocks": [
     {
       "person": "j-sheps",
-      "count": 3,
+      "count": 4,
       "dates": [
         "2021-08-23",
         "2021-10-13",
-        "2021-10-18"
+        "2021-10-18",
+        "2021-10-22"
       ]
     },
     {
@@ -46,6 +47,14 @@
       ]
     },
     {
+      "person": "Emma L",
+      "count": 2,
+      "dates": [
+        "2021-10-18",
+        "2021-10-22"
+      ]
+    },
+    {
       "person": "Ania",
       "count": 1,
       "dates": [
@@ -67,12 +76,12 @@
       ]
     },
     {
-      "person": "Emma L",
+      "person": "Lily2point0",
       "count": 1,
       "dates": [
-        "2021-10-18"
+        "2021-10-22"
       ]
     }
   ],
-  "totalUnlocks": 15
+  "totalUnlocks": 18
 }
