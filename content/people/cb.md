@@ -5,11 +5,11 @@
     {
       "person": "cb",
       "leaderboard": "2021-10-22",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 35,
+      "totalSeconds": 35,
+      "position": 4,
+      "isPending": false
     },
     {
       "person": "cb",
@@ -1074,7 +1074,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 428,
+  "awardCount": 434,
   "awards": [
     {
       "title": "Gold",
@@ -1384,7 +1384,8 @@
         "2021-10-18",
         "2021-10-19",
         "2021-10-20",
-        "2021-10-21"
+        "2021-10-21",
+        "2021-10-22"
       ]
     },
     {
@@ -1472,7 +1473,8 @@
         "2021-10-18",
         "2021-10-19",
         "2021-10-20",
-        "2021-10-21"
+        "2021-10-21",
+        "2021-10-22"
       ]
     },
     {
@@ -1538,7 +1540,8 @@
         "2021-10-12",
         "2021-10-15",
         "2021-10-19",
-        "2021-10-21"
+        "2021-10-21",
+        "2021-10-22"
       ]
     },
     {
@@ -1634,7 +1637,24 @@
         "2021-09-20",
         "2021-09-23",
         "2021-10-03",
-        "2021-10-05"
+        "2021-10-05",
+        "2021-10-22"
+      ]
+    },
+    {
+      "title": "Tripleting",
+      "type": "tripleting",
+      "text": "Get the same time as two other people",
+      "dates": [
+        "2021-10-22"
+      ]
+    },
+    {
+      "title": "Quadrupleting",
+      "type": "quadrupleting",
+      "text": "Get the same time as three other people",
+      "dates": [
+        "2021-10-22"
       ]
     },
     {
