@@ -13,6 +13,14 @@
       ]
     },
     {
+      "person": "Emma L",
+      "count": 2,
+      "dates": [
+        "2021-10-16",
+        "2021-10-23"
+      ]
+    },
+    {
       "person": "cb",
       "count": 1,
       "dates": [
@@ -34,13 +42,6 @@
       ]
     },
     {
-      "person": "Emma L",
-      "count": 1,
-      "dates": [
-        "2021-10-16"
-      ]
-    },
-    {
       "person": "j-sheps",
       "count": 1,
       "dates": [
@@ -55,5 +56,5 @@
       ]
     }
   ],
-  "totalUnlocks": 8
+  "totalUnlocks": 9
 }

@@ -5,11 +5,11 @@
     {
       "person": "Emma L",
       "leaderboard": "2021-10-23",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 0,
+      "totalSeconds": 60,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "Emma L",
@@ -831,7 +831,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 307,
+  "awardCount": 309,
   "awards": [
     {
       "title": "Gold",
@@ -1072,7 +1072,8 @@
         "2021-10-19",
         "2021-10-20",
         "2021-10-21",
-        "2021-10-22"
+        "2021-10-22",
+        "2021-10-23"
       ]
     },
     {
@@ -1219,7 +1220,8 @@
       "type": "nice-try-joel",
       "text": "Complete a puzzle in less than a minute on a Saturday",
       "dates": [
-        "2021-10-16"
+        "2021-10-16",
+        "2021-10-23"
       ]
     },
     {
