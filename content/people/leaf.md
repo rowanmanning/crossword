@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "leaf",
+      "leaderboard": "2021-10-24",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "leaf",
       "leaderboard": "2021-10-23",
       "minutes": 5,
       "seconds": 4,
@@ -1146,7 +1155,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 288,
+  "awardCount": 289,
   "awards": [
     {
       "title": "Gold",
@@ -1629,7 +1638,8 @@
       "text": "What's your emergency?",
       "dates": [
         "2021-08-02",
-        "2021-08-23"
+        "2021-08-23",
+        "2021-10-23"
       ]
     }
   ]
