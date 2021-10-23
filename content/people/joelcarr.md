@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "joelcarr",
+      "leaderboard": "2021-10-23",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "joelcarr",
       "leaderboard": "2021-10-22",
       "minutes": 2,
       "seconds": 34,
@@ -1137,7 +1146,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 84,
+  "awardCount": 85,
   "awards": [
     {
       "title": "Bronze",
@@ -1344,7 +1353,8 @@
       "text": "What's your emergency?",
       "dates": [
         "2021-07-06",
-        "2021-07-23"
+        "2021-07-23",
+        "2021-10-22"
       ]
     },
     {

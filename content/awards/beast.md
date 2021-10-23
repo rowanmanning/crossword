@@ -105,11 +105,12 @@
     },
     {
       "person": "ivo",
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2021-10-07"
+        "2021-10-07",
+        "2021-10-22"
       ]
     }
   ],
-  "totalUnlocks": 40
+  "totalUnlocks": 41
 }
