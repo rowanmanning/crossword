@@ -162,6 +162,17 @@
       ]
     },
     {
+      "person": "varjmes",
+      "count": 5,
+      "dates": [
+        "2021-06-23",
+        "2021-08-21",
+        "2021-09-28",
+        "2021-10-02",
+        "2021-10-24"
+      ]
+    },
+    {
       "person": "apaleslimghost",
       "count": 5,
       "dates": [
@@ -184,16 +195,6 @@
       ]
     },
     {
-      "person": "varjmes",
-      "count": 4,
-      "dates": [
-        "2021-06-23",
-        "2021-08-21",
-        "2021-09-28",
-        "2021-10-02"
-      ]
-    },
-    {
       "person": "Lily2point0",
       "count": 2,
       "dates": [
@@ -209,5 +210,5 @@
       ]
     }
   ],
-  "totalUnlocks": 132
+  "totalUnlocks": 133
 }
