@@ -6,7 +6,7 @@
   "unlocks": [
     {
       "person": "varjmes",
-      "count": 13,
+      "count": 14,
       "dates": [
         "2021-07-11",
         "2021-07-13",
@@ -20,7 +20,8 @@
         "2021-09-28",
         "2021-09-30",
         "2021-10-10",
-        "2021-10-22"
+        "2021-10-22",
+        "2021-10-24"
       ]
     },
     {
@@ -146,6 +147,14 @@
       ]
     },
     {
+      "person": "Nick Ramsbottom",
+      "count": 2,
+      "dates": [
+        "2021-10-11",
+        "2021-10-24"
+      ]
+    },
+    {
       "person": "joelcarr",
       "count": 1,
       "dates": [
@@ -158,14 +167,7 @@
       "dates": [
         "2021-07-13"
       ]
-    },
-    {
-      "person": "Nick Ramsbottom",
-      "count": 1,
-      "dates": [
-        "2021-10-11"
-      ]
     }
   ],
-  "totalUnlocks": 72
+  "totalUnlocks": 74
 }

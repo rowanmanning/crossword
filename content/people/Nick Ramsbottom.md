@@ -5,11 +5,11 @@
     {
       "person": "Nick Ramsbottom",
       "leaderboard": "2021-10-24",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 46,
+      "totalSeconds": 46,
+      "position": 4,
+      "isPending": false
     },
     {
       "person": "Nick Ramsbottom",
@@ -599,23 +599,23 @@
   ],
   "best": {
     "person": "Nick Ramsbottom",
-    "leaderboard": "2021-10-12",
+    "leaderboard": "2021-10-24",
     "minutes": 0,
-    "seconds": 48,
-    "totalSeconds": 48,
-    "position": 5,
+    "seconds": 46,
+    "totalSeconds": 46,
+    "position": 4,
     "isPending": false
   },
   "mean": {
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 8,
-    "totalSeconds": 128,
+    "seconds": 7,
+    "totalSeconds": 127,
     "position": null,
     "isPending": false
   },
-  "awardCount": 98,
+  "awardCount": 103,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -663,7 +663,8 @@
         "2021-09-26",
         "2021-09-30",
         "2021-10-11",
-        "2021-10-18"
+        "2021-10-18",
+        "2021-10-24"
       ]
     },
     {
@@ -671,7 +672,8 @@
       "type": "quarter-time",
       "text": "Quarter your completion time from one day to the next",
       "dates": [
-        "2021-10-11"
+        "2021-10-11",
+        "2021-10-24"
       ]
     },
     {
@@ -735,7 +737,8 @@
         "2021-10-18",
         "2021-10-19",
         "2021-10-21",
-        "2021-10-22"
+        "2021-10-22",
+        "2021-10-24"
       ]
     },
     {
@@ -746,7 +749,8 @@
         "2021-09-09",
         "2021-10-11",
         "2021-10-12",
-        "2021-10-18"
+        "2021-10-18",
+        "2021-10-24"
       ]
     },
     {
@@ -796,7 +800,8 @@
         "2021-10-12",
         "2021-10-13",
         "2021-10-18",
-        "2021-10-21"
+        "2021-10-21",
+        "2021-10-24"
       ]
     },
     {
