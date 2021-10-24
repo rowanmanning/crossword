@@ -17,7 +17,7 @@
       "minutes": 5,
       "seconds": 4,
       "totalSeconds": 304,
-      "position": 9,
+      "position": 10,
       "isPending": false
     },
     {
@@ -1155,7 +1155,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 292,
+  "awardCount": 291,
   "awards": [
     {
       "title": "Gold",
@@ -1641,8 +1641,7 @@
       "text": "What's your emergency?",
       "dates": [
         "2021-08-02",
-        "2021-08-23",
-        "2021-10-23"
+        "2021-08-23"
       ]
     }
   ]

@@ -17,7 +17,7 @@
       "minutes": 1,
       "seconds": 59,
       "totalSeconds": 119,
-      "position": 3,
+      "position": 4,
       "isPending": false
     },
     {
@@ -1155,7 +1155,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 326,
+  "awardCount": 324,
   "awards": [
     {
       "title": "Gold",
@@ -1197,8 +1197,7 @@
         "2021-10-01",
         "2021-10-08",
         "2021-10-13",
-        "2021-10-22",
-        "2021-10-23"
+        "2021-10-22"
       ]
     },
     {
@@ -1207,8 +1206,7 @@
       "text": "Get the third fastest time two days in a row",
       "dates": [
         "2021-07-25",
-        "2021-10-01",
-        "2021-10-23"
+        "2021-10-01"
       ]
     },
     {

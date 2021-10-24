@@ -17,7 +17,7 @@
       "minutes": 3,
       "seconds": 46,
       "totalSeconds": 226,
-      "position": 7,
+      "position": 8,
       "isPending": false
     },
     {
@@ -615,7 +615,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 103,
+  "awardCount": 102,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -631,8 +631,7 @@
         "2021-10-07",
         "2021-10-11",
         "2021-10-14",
-        "2021-10-16",
-        "2021-10-23"
+        "2021-10-16"
       ]
     },
     {

@@ -17,7 +17,7 @@
       "minutes": 3,
       "seconds": 39,
       "totalSeconds": 219,
-      "position": 6,
+      "position": 7,
       "isPending": false
     },
     {
@@ -1155,7 +1155,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 306,
+  "awardCount": 305,
   "awards": [
     {
       "title": "Gold",
@@ -1635,8 +1635,7 @@
         "2021-07-13",
         "2021-07-26",
         "2021-08-23",
-        "2021-09-22",
-        "2021-10-23"
+        "2021-09-22"
       ]
     },
     {
