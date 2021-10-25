@@ -12,6 +12,10 @@
 		"seconds": 90
 	},
 	{
+		"name": "cb",
+		"seconds": 100
+	},
+	{
 		"name": "Lily2point0",
 		"seconds": 109
 	},
@@ -49,10 +53,6 @@
 	},
 	{
 		"name": "arjun137",
-		"seconds": null
-	},
-	{
-		"name": "cb",
 		"seconds": null
 	},
 	{
