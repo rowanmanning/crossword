@@ -5,11 +5,11 @@
     {
       "person": "j-sheps",
       "leaderboard": "2021-10-25",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 4,
+      "seconds": 13,
+      "totalSeconds": 253,
+      "position": 10,
+      "isPending": false
     },
     {
       "person": "j-sheps",
@@ -1159,12 +1159,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 20,
-    "totalSeconds": 80,
+    "seconds": 22,
+    "totalSeconds": 82,
     "position": null,
     "isPending": false
   },
-  "awardCount": 379,
+  "awardCount": 381,
   "awards": [
     {
       "title": "Gold",
@@ -1356,7 +1356,8 @@
         "2021-10-09",
         "2021-10-12",
         "2021-10-20",
-        "2021-10-23"
+        "2021-10-23",
+        "2021-10-25"
       ]
     },
     {
@@ -1645,6 +1646,14 @@
       "dates": [
         "2021-07-20",
         "2021-08-26"
+      ]
+    },
+    {
+      "title": "Quarter-Long Streak",
+      "type": "quarter-streak",
+      "text": "Play for a full quarter, give that OKR a 1",
+      "dates": [
+        "2021-10-25"
       ]
     },
     {
