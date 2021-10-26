@@ -5,11 +5,11 @@
     {
       "person": "joelcarr",
       "leaderboard": "2021-10-26",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 38,
+      "totalSeconds": 158,
+      "position": 3,
+      "isPending": false
     },
     {
       "person": "joelcarr",
@@ -1173,7 +1173,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 85,
+  "awardCount": 86,
   "awards": [
     {
       "title": "Bronze",
@@ -1346,7 +1346,8 @@
       "text": "Get the same time as another person",
       "dates": [
         "2021-07-13",
-        "2021-08-24"
+        "2021-08-24",
+        "2021-10-26"
       ]
     },
     {
