@@ -25,14 +25,6 @@
       ]
     },
     {
-      "person": "cb",
-      "count": 2,
-      "dates": [
-        "2021-08-06",
-        "2021-10-27"
-      ]
-    },
-    {
       "person": "Emma L",
       "count": 2,
       "dates": [
@@ -41,11 +33,10 @@
       ]
     },
     {
-      "person": "Ania",
-      "count": 2,
+      "person": "cb",
+      "count": 1,
       "dates": [
-        "2021-09-01",
-        "2021-10-27"
+        "2021-08-06"
       ]
     },
     {
@@ -56,6 +47,13 @@
       ]
     },
     {
+      "person": "Ania",
+      "count": 1,
+      "dates": [
+        "2021-09-01"
+      ]
+    },
+    {
       "person": "ivo",
       "count": 1,
       "dates": [
@@ -63,5 +61,5 @@
       ]
     }
   ],
-  "totalUnlocks": 16
+  "totalUnlocks": 14
 }
