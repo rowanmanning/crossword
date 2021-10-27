@@ -5,11 +5,11 @@
     {
       "person": "binaryberry",
       "leaderboard": "2021-10-27",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 0,
+      "totalSeconds": 120,
+      "position": 6,
+      "isPending": false
     },
     {
       "person": "binaryberry",
@@ -1182,7 +1182,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 97,
+  "awardCount": 98,
   "awards": [
     {
       "title": "Bronze",
@@ -1339,7 +1339,8 @@
         "2021-09-17",
         "2021-09-22",
         "2021-10-02",
-        "2021-10-19"
+        "2021-10-19",
+        "2021-10-27"
       ]
     },
     {
