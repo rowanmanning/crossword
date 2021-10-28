@@ -5,11 +5,11 @@
     {
       "person": "ivo",
       "leaderboard": "2021-10-28",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 42,
+      "totalSeconds": 42,
+      "position": 3,
+      "isPending": false
     },
     {
       "person": "ivo",
@@ -421,12 +421,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 56,
-    "totalSeconds": 116,
+    "seconds": 54,
+    "totalSeconds": 114,
     "position": null,
     "isPending": false
   },
-  "awardCount": 112,
+  "awardCount": 116,
   "awards": [
     {
       "title": "Gold",
@@ -549,7 +549,8 @@
         "2021-10-22",
         "2021-10-24",
         "2021-10-26",
-        "2021-10-27"
+        "2021-10-27",
+        "2021-10-28"
       ]
     },
     {
@@ -572,7 +573,8 @@
         "2021-10-18",
         "2021-10-22",
         "2021-10-24",
-        "2021-10-27"
+        "2021-10-27",
+        "2021-10-28"
       ]
     },
     {
@@ -590,7 +592,8 @@
         "2021-10-15",
         "2021-10-18",
         "2021-10-22",
-        "2021-10-27"
+        "2021-10-27",
+        "2021-10-28"
       ]
     },
     {
@@ -668,6 +671,14 @@
       "text": "Get the same time as another person but with flipped seconds",
       "dates": [
         "2021-09-27"
+      ]
+    },
+    {
+      "title": "Don't Panic",
+      "type": "dont-panic",
+      "text": "A towel is about the most massively useful thing an interstellar hitchhiker can have",
+      "dates": [
+        "2021-10-28"
       ]
     },
     {
