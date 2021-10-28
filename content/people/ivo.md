@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "ivo",
+      "leaderboard": "2021-10-28",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "ivo",
       "leaderboard": "2021-10-27",
       "minutes": 0,
       "seconds": 43,
@@ -417,7 +426,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 111,
+  "awardCount": 112,
   "awards": [
     {
       "title": "Gold",
@@ -442,7 +451,8 @@
       "dates": [
         "2021-09-27",
         "2021-10-03",
-        "2021-10-15"
+        "2021-10-15",
+        "2021-10-27"
       ]
     },
     {

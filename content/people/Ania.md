@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "Ania",
+      "leaderboard": "2021-10-28",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "Ania",
       "leaderboard": "2021-10-27",
       "minutes": 0,
       "seconds": 35,
@@ -1182,7 +1191,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 312,
+  "awardCount": 313,
   "awards": [
     {
       "title": "Gold",
@@ -1204,7 +1213,8 @@
       "text": "Get the second fastest time for a day",
       "dates": [
         "2021-08-30",
-        "2021-09-30"
+        "2021-09-30",
+        "2021-10-27"
       ]
     },
     {
