@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "ivo",
+      "leaderboard": "2021-10-29",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "ivo",
       "leaderboard": "2021-10-28",
       "minutes": 0,
       "seconds": 42,
@@ -426,7 +435,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 116,
+  "awardCount": 117,
   "awards": [
     {
       "title": "Gold",
@@ -687,7 +696,8 @@
       "text": "His number is six hundred and sixty-six",
       "dates": [
         "2021-10-07",
-        "2021-10-22"
+        "2021-10-22",
+        "2021-10-28"
       ]
     },
     {

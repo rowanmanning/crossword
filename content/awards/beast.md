@@ -96,21 +96,22 @@
       ]
     },
     {
+      "person": "ivo",
+      "count": 3,
+      "dates": [
+        "2021-10-07",
+        "2021-10-22",
+        "2021-10-28"
+      ]
+    },
+    {
       "person": "itsalex",
       "count": 2,
       "dates": [
         "2021-07-20",
         "2021-08-29"
       ]
-    },
-    {
-      "person": "ivo",
-      "count": 2,
-      "dates": [
-        "2021-10-07",
-        "2021-10-22"
-      ]
     }
   ],
-  "totalUnlocks": 41
+  "totalUnlocks": 42
 }
