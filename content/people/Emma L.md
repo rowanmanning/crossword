@@ -5,11 +5,11 @@
     {
       "person": "Emma L",
       "leaderboard": "2021-10-30",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 4,
+      "totalSeconds": 64,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "Emma L",
@@ -894,7 +894,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 327,
+  "awardCount": 329,
   "awards": [
     {
       "title": "Gold",
@@ -1146,7 +1146,8 @@
         "2021-10-26",
         "2021-10-27",
         "2021-10-28",
-        "2021-10-29"
+        "2021-10-29",
+        "2021-10-30"
       ]
     },
     {
@@ -1327,6 +1328,14 @@
       "text": "Play for a full month (30 days) without breaks",
       "dates": [
         "2021-08-31"
+      ]
+    },
+    {
+      "title": "Quarter-Long Streak",
+      "type": "quarter-streak",
+      "text": "Play for a full quarter, give that OKR a 1",
+      "dates": [
+        "2021-10-30"
       ]
     },
     {
