@@ -21,6 +21,14 @@
       ]
     },
     {
+      "person": "Rowan M",
+      "count": 2,
+      "dates": [
+        "2021-10-16",
+        "2021-10-30"
+      ]
+    },
+    {
       "person": "cb",
       "count": 1,
       "dates": [
@@ -47,14 +55,7 @@
       "dates": [
         "2021-10-16"
       ]
-    },
-    {
-      "person": "Rowan M",
-      "count": 1,
-      "dates": [
-        "2021-10-16"
-      ]
     }
   ],
-  "totalUnlocks": 9
+  "totalUnlocks": 10
 }
