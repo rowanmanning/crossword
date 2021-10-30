@@ -5,11 +5,11 @@
     {
       "person": "leaf",
       "leaderboard": "2021-10-30",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 37,
+      "totalSeconds": 97,
+      "position": 2,
+      "isPending": false
     },
     {
       "person": "leaf",
@@ -1209,7 +1209,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 308,
+  "awardCount": 310,
   "awards": [
     {
       "title": "Gold",
@@ -1482,7 +1482,8 @@
         "2021-10-26",
         "2021-10-27",
         "2021-10-28",
-        "2021-10-29"
+        "2021-10-29",
+        "2021-10-30"
       ]
     },
     {
@@ -1673,7 +1674,8 @@
       "type": "arjun",
       "text": "Join us",
       "dates": [
-        "2021-09-17"
+        "2021-09-17",
+        "2021-10-30"
       ]
     },
     {
