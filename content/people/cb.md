@@ -5,11 +5,11 @@
     {
       "person": "cb",
       "leaderboard": "2021-10-31",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 34,
+      "totalSeconds": 34,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "cb",
@@ -1141,12 +1141,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 56,
-    "totalSeconds": 56,
+    "seconds": 55,
+    "totalSeconds": 55,
     "position": null,
     "isPending": false
   },
-  "awardCount": 462,
+  "awardCount": 468,
   "awards": [
     {
       "title": "Gold",
@@ -1310,7 +1310,8 @@
         "2021-09-26",
         "2021-10-10",
         "2021-10-24",
-        "2021-10-27"
+        "2021-10-27",
+        "2021-10-31"
       ]
     },
     {
@@ -1476,7 +1477,8 @@
         "2021-10-27",
         "2021-10-28",
         "2021-10-29",
-        "2021-10-30"
+        "2021-10-30",
+        "2021-10-31"
       ]
     },
     {
@@ -1569,7 +1571,8 @@
         "2021-10-24",
         "2021-10-27",
         "2021-10-28",
-        "2021-10-29"
+        "2021-10-29",
+        "2021-10-31"
       ]
     },
     {
@@ -1639,7 +1642,8 @@
         "2021-10-22",
         "2021-10-24",
         "2021-10-27",
-        "2021-10-28"
+        "2021-10-28",
+        "2021-10-31"
       ]
     },
     {
@@ -1738,7 +1742,8 @@
         "2021-10-03",
         "2021-10-05",
         "2021-10-22",
-        "2021-10-27"
+        "2021-10-27",
+        "2021-10-31"
       ]
     },
     {
@@ -1762,7 +1767,8 @@
       "type": "twinning-in-gold",
       "text": "Get the twinning award and the fastest time for a day",
       "dates": [
-        "2021-08-06"
+        "2021-08-06",
+        "2021-10-31"
       ]
     },
     {
