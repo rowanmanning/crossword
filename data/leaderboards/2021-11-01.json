@@ -1,5 +1,17 @@
 [
 	{
+		"name": "j-sheps",
+		"seconds": 59
+	},
+	{
+		"name": "varjmes",
+		"seconds": 60
+	},
+	{
+		"name": "Emma L",
+		"seconds": 74
+	},
+	{
 		"name": "Ania",
 		"seconds": null
 	},
@@ -20,19 +32,11 @@
 		"seconds": null
 	},
 	{
-		"name": "Emma L",
-		"seconds": null
-	},
-	{
 		"name": "itsalex",
 		"seconds": null
 	},
 	{
 		"name": "ivo",
-		"seconds": null
-	},
-	{
-		"name": "j-sheps",
 		"seconds": null
 	},
 	{
@@ -57,10 +61,6 @@
 	},
 	{
 		"name": "Rowan M",
-		"seconds": null
-	},
-	{
-		"name": "varjmes",
 		"seconds": null
 	}
 ]
