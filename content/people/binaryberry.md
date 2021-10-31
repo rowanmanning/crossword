@@ -5,11 +5,11 @@
     {
       "person": "binaryberry",
       "leaderboard": "2021-10-31",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 19,
+      "totalSeconds": 139,
+      "position": 9,
+      "isPending": false
     },
     {
       "person": "binaryberry",
@@ -1218,7 +1218,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 99,
+  "awardCount": 100,
   "awards": [
     {
       "title": "Bronze",
@@ -1378,6 +1378,14 @@
         "2021-10-02",
         "2021-10-19",
         "2021-10-27"
+      ]
+    },
+    {
+      "title": "Week-Long Streak",
+      "type": "week-streak",
+      "text": "Play for a full week without breaks",
+      "dates": [
+        "2021-10-31"
       ]
     },
     {
