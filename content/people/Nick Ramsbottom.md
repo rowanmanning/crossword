@@ -8,7 +8,7 @@
       "minutes": 1,
       "seconds": 50,
       "totalSeconds": 110,
-      "position": 6,
+      "position": 7,
       "isPending": false
     },
     {
@@ -687,7 +687,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 115,
+  "awardCount": 116,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -894,6 +894,14 @@
       "dates": [
         "2021-10-12",
         "2021-10-13"
+      ]
+    },
+    {
+      "title": "Yin and Yang",
+      "type": "yin-and-yang",
+      "text": "Get the same time as another person but with flipped seconds",
+      "dates": [
+        "2021-11-01"
       ]
     },
     {

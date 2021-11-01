@@ -84,8 +84,9 @@
     },
     {
       "person": "apaleslimghost",
-      "count": 3,
+      "count": 4,
       "dates": [
+        "2021-11-01",
         "2021-09-17",
         "2021-07-08",
         "2021-07-07"
@@ -130,7 +131,14 @@
       "dates": [
         "2021-09-27"
       ]
+    },
+    {
+      "person": "Nick Ramsbottom",
+      "count": 1,
+      "dates": [
+        "2021-11-01"
+      ]
     }
   ],
-  "totalUnlocks": 49
+  "totalUnlocks": 51
 }
