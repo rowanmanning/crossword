@@ -187,12 +187,13 @@
     },
     {
       "person": "apaleslimghost",
-      "count": 2,
+      "count": 3,
       "dates": [
         "2021-06-24",
-        "2021-10-13"
+        "2021-10-13",
+        "2021-11-01"
       ]
     }
   ],
-  "totalUnlocks": 105
+  "totalUnlocks": 106
 }

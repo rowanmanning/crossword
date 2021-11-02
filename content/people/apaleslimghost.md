@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "apaleslimghost",
+      "leaderboard": "2021-11-02",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "apaleslimghost",
       "leaderboard": "2021-11-01",
       "minutes": 1,
       "seconds": 5,
@@ -1218,7 +1227,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 285,
+  "awardCount": 286,
   "awards": [
     {
       "title": "Gold",
@@ -1298,7 +1307,8 @@
       "text": "Get the same position two days in a row",
       "dates": [
         "2021-06-24",
-        "2021-10-13"
+        "2021-10-13",
+        "2021-11-01"
       ]
     },
     {
