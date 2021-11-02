@@ -5,11 +5,11 @@
     {
       "person": "binaryberry",
       "leaderboard": "2021-11-02",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 30,
+      "totalSeconds": 150,
+      "position": 2,
+      "isPending": false
     },
     {
       "person": "binaryberry",
@@ -1236,7 +1236,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 102,
+  "awardCount": 104,
   "awards": [
     {
       "title": "Bronze",
@@ -1275,7 +1275,8 @@
         "2021-09-16",
         "2021-09-21",
         "2021-09-24",
-        "2021-10-18"
+        "2021-10-18",
+        "2021-11-02"
       ]
     },
     {
@@ -1438,6 +1439,14 @@
       "text": "Nice…",
       "dates": [
         "2021-07-08"
+      ]
+    },
+    {
+      "title": "Dentist",
+      "type": "dentist",
+      "text": "Now this won't hurt a bit…",
+      "dates": [
+        "2021-11-02"
       ]
     },
     {
