@@ -16,6 +16,10 @@
 		"seconds": 42
 	},
 	{
+		"name": "j-sheps",
+		"seconds": 50
+	},
+	{
 		"name": "Emma L",
 		"seconds": 54
 	},
@@ -57,10 +61,6 @@
 	},
 	{
 		"name": "itsalex",
-		"seconds": null
-	},
-	{
-		"name": "j-sheps",
 		"seconds": null
 	}
 ]
