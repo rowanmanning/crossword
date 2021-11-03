@@ -27,10 +27,11 @@
     },
     {
       "person": "cb",
-      "count": 2,
+      "count": 3,
       "dates": [
         "2021-08-06",
-        "2021-10-31"
+        "2021-10-31",
+        "2021-11-03"
       ]
     },
     {
@@ -61,7 +62,14 @@
       "dates": [
         "2021-10-18"
       ]
+    },
+    {
+      "person": "Oliver Turner",
+      "count": 1,
+      "dates": [
+        "2021-11-03"
+      ]
     }
   ],
-  "totalUnlocks": 16
+  "totalUnlocks": 18
 }
