@@ -20,8 +20,9 @@
     },
     {
       "person": "Rowan M",
-      "count": 6,
+      "count": 7,
       "dates": [
+        "2021-11-03",
         "2021-09-27",
         "2021-09-26",
         "2021-09-06",
@@ -121,6 +122,14 @@
       ]
     },
     {
+      "person": "Nick Ramsbottom",
+      "count": 2,
+      "dates": [
+        "2021-11-03",
+        "2021-11-01"
+      ]
+    },
+    {
       "person": "joelcarr",
       "count": 1,
       "dates": [
@@ -133,14 +142,7 @@
       "dates": [
         "2021-09-27"
       ]
-    },
-    {
-      "person": "Nick Ramsbottom",
-      "count": 1,
-      "dates": [
-        "2021-11-01"
-      ]
     }
   ],
-  "totalUnlocks": 53
+  "totalUnlocks": 55
 }
