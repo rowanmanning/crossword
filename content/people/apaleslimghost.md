@@ -5,11 +5,11 @@
     {
       "person": "apaleslimghost",
       "leaderboard": "2021-11-04",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 45,
+      "totalSeconds": 45,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "apaleslimghost",
@@ -1245,7 +1245,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 293,
+  "awardCount": 297,
   "awards": [
     {
       "title": "Gold",
@@ -1470,7 +1470,8 @@
         "2021-10-31",
         "2021-11-01",
         "2021-11-02",
-        "2021-11-03"
+        "2021-11-03",
+        "2021-11-04"
       ]
     },
     {
@@ -1530,7 +1531,8 @@
         "2021-10-21",
         "2021-10-29",
         "2021-11-02",
-        "2021-11-03"
+        "2021-11-03",
+        "2021-11-04"
       ]
     },
     {
@@ -1620,7 +1622,8 @@
         "2021-08-22",
         "2021-09-19",
         "2021-09-30",
-        "2021-10-18"
+        "2021-10-18",
+        "2021-11-04"
       ]
     },
     {
@@ -1672,6 +1675,7 @@
       "type": "yin-and-yang",
       "text": "Get the same time as another person but with flipped seconds",
       "dates": [
+        "2021-11-04",
         "2021-11-02",
         "2021-11-01",
         "2021-09-17",

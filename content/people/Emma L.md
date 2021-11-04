@@ -8,7 +8,7 @@
       "minutes": 0,
       "seconds": 54,
       "totalSeconds": 54,
-      "position": 2,
+      "position": 3,
       "isPending": false
     },
     {
@@ -939,7 +939,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 340,
+  "awardCount": 341,
   "awards": [
     {
       "title": "Gold",
@@ -1454,6 +1454,7 @@
       "type": "yin-and-yang",
       "text": "Get the same time as another person but with flipped seconds",
       "dates": [
+        "2021-11-04",
         "2021-10-15",
         "2021-09-27",
         "2021-09-06"
