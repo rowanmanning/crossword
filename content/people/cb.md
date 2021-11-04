@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "cb",
+      "leaderboard": "2021-11-04",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "cb",
       "leaderboard": "2021-11-03",
       "minutes": 0,
       "seconds": 29,
@@ -1173,7 +1182,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 489,
+  "awardCount": 491,
   "awards": [
     {
       "title": "Gold",
@@ -1207,7 +1216,8 @@
         "2021-10-28",
         "2021-10-31",
         "2021-11-01",
-        "2021-11-02"
+        "2021-11-02",
+        "2021-11-03"
       ]
     },
     {
@@ -1228,6 +1238,14 @@
       "text": "Get the fastest time three days in a row",
       "dates": [
         "2021-11-02"
+      ]
+    },
+    {
+      "title": "Quadruple Gold",
+      "type": "quadruple-gold",
+      "text": "Get the fastest time four days in a row",
+      "dates": [
+        "2021-11-03"
       ]
     },
     {
