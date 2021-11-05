@@ -5,11 +5,11 @@
     {
       "person": "binaryberry",
       "leaderboard": "2021-11-05",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 57,
+      "totalSeconds": 117,
+      "position": 5,
+      "isPending": false
     },
     {
       "person": "binaryberry",
@@ -1258,12 +1258,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 43,
-    "totalSeconds": 163,
+    "seconds": 42,
+    "totalSeconds": 162,
     "position": null,
     "isPending": false
   },
-  "awardCount": 105,
+  "awardCount": 107,
   "awards": [
     {
       "title": "Bronze",
@@ -1367,7 +1367,8 @@
         "2021-10-19",
         "2021-10-20",
         "2021-10-26",
-        "2021-11-03"
+        "2021-11-03",
+        "2021-11-05"
       ]
     },
     {
@@ -1450,7 +1451,8 @@
       "type": "twinning",
       "text": "Get the same time as another person",
       "dates": [
-        "2021-10-20"
+        "2021-10-20",
+        "2021-11-05"
       ]
     },
     {
