@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "varjmes",
+      "leaderboard": "2021-11-05",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "varjmes",
       "leaderboard": "2021-11-04",
       "minutes": 0,
       "seconds": 29,
@@ -1254,7 +1263,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 365,
+  "awardCount": 367,
   "awards": [
     {
       "title": "Gold",
@@ -1265,7 +1274,8 @@
         "2021-08-21",
         "2021-09-28",
         "2021-10-02",
-        "2021-10-24"
+        "2021-10-24",
+        "2021-11-04"
       ]
     },
     {
@@ -1339,6 +1349,14 @@
       "text": "Get the same position three days in a row",
       "dates": [
         "2021-06-27"
+      ]
+    },
+    {
+      "title": "Podium",
+      "type": "podium",
+      "text": "Unlock third, second, and first place awards",
+      "dates": [
+        "2021-11-04"
       ]
     },
     {
