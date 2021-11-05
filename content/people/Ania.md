@@ -5,11 +5,11 @@
     {
       "person": "Ania",
       "leaderboard": "2021-11-05",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 14,
+      "totalSeconds": 74,
+      "position": 2,
+      "isPending": false
     },
     {
       "person": "Ania",
@@ -1263,7 +1263,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 335,
+  "awardCount": 337,
   "awards": [
     {
       "title": "Gold",
@@ -1542,7 +1542,8 @@
         "2021-11-01",
         "2021-11-02",
         "2021-11-03",
-        "2021-11-04"
+        "2021-11-04",
+        "2021-11-05"
       ]
     },
     {
@@ -1701,6 +1702,14 @@
       "dates": [
         "2021-07-24",
         "2021-09-06"
+      ]
+    },
+    {
+      "title": "Quarter-Long Streak",
+      "type": "quarter-streak",
+      "text": "Play for a full quarter, give that OKR a 1",
+      "dates": [
+        "2021-11-05"
       ]
     },
     {
