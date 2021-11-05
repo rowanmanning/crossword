@@ -1,5 +1,9 @@
 [
 	{
+		"name": "cb",
+		"seconds": 30
+	},
+	{
 		"name": "varjmes",
 		"seconds": 38
 	},
@@ -45,10 +49,6 @@
 	},
 	{
 		"name": "arjun137",
-		"seconds": null
-	},
-	{
-		"name": "cb",
 		"seconds": null
 	},
 	{
