@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "apaleslimghost",
+      "leaderboard": "2021-11-06",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "apaleslimghost",
       "leaderboard": "2021-11-05",
       "minutes": 1,
       "seconds": 33,
@@ -1254,7 +1263,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 300,
+  "awardCount": 301,
   "awards": [
     {
       "title": "Gold",
@@ -1728,7 +1737,8 @@
       "type": "emergency",
       "text": "What's your emergency?",
       "dates": [
-        "2021-10-16"
+        "2021-10-16",
+        "2021-11-05"
       ]
     }
   ]
