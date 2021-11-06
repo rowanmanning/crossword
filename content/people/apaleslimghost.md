@@ -5,11 +5,11 @@
     {
       "person": "apaleslimghost",
       "leaderboard": "2021-11-06",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 59,
+      "totalSeconds": 119,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "apaleslimghost",
@@ -1258,12 +1258,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 6,
-    "totalSeconds": 66,
+    "seconds": 7,
+    "totalSeconds": 67,
     "position": null,
     "isPending": false
   },
-  "awardCount": 301,
+  "awardCount": 304,
   "awards": [
     {
       "title": "Gold",
@@ -1492,7 +1492,8 @@
         "2021-11-02",
         "2021-11-03",
         "2021-11-04",
-        "2021-11-05"
+        "2021-11-05",
+        "2021-11-06"
       ]
     },
     {
@@ -1672,7 +1673,8 @@
         "2021-09-22",
         "2021-10-03",
         "2021-10-13",
-        "2021-10-18"
+        "2021-10-18",
+        "2021-11-06"
       ]
     },
     {
@@ -1688,7 +1690,8 @@
       "type": "twinning-in-gold",
       "text": "Get the twinning award and the fastest time for a day",
       "dates": [
-        "2021-08-18"
+        "2021-08-18",
+        "2021-11-06"
       ]
     },
     {
