@@ -44,10 +44,9 @@
     },
     {
       "person": "apaleslimghost",
-      "count": 2,
+      "count": 1,
       "dates": [
-        "2021-08-18",
-        "2021-11-06"
+        "2021-08-18"
       ]
     },
     {
@@ -70,14 +69,7 @@
       "dates": [
         "2021-11-03"
       ]
-    },
-    {
-      "person": "j-sheps",
-      "count": 1,
-      "dates": [
-        "2021-11-06"
-      ]
     }
   ],
-  "totalUnlocks": 20
+  "totalUnlocks": 18
 }
