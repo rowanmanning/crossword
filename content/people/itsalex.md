@@ -5,11 +5,11 @@
     {
       "person": "itsalex",
       "leaderboard": "2021-11-07",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 37,
+      "totalSeconds": 37,
+      "position": 5,
+      "isPending": false
     },
     {
       "person": "itsalex",
@@ -1254,7 +1254,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 374,
+  "awardCount": 378,
   "awards": [
     {
       "title": "Gold",
@@ -1553,7 +1553,8 @@
         "2021-10-15",
         "2021-10-16",
         "2021-10-17",
-        "2021-10-22"
+        "2021-10-22",
+        "2021-11-07"
       ]
     },
     {
@@ -1623,7 +1624,8 @@
         "2021-10-14",
         "2021-10-15",
         "2021-10-17",
-        "2021-10-22"
+        "2021-10-22",
+        "2021-11-07"
       ]
     },
     {
@@ -1674,7 +1676,8 @@
         "2021-10-14",
         "2021-10-15",
         "2021-10-17",
-        "2021-10-22"
+        "2021-10-22",
+        "2021-11-07"
       ]
     },
     {
@@ -1758,6 +1761,14 @@
       "text": "Play for a full month (30 days) without breaks",
       "dates": [
         "2021-07-26"
+      ]
+    },
+    {
+      "title": "Holiday",
+      "type": "holiday",
+      "text": "Come back to the crossword after a week off",
+      "dates": [
+        "2021-11-07"
       ]
     },
     {
