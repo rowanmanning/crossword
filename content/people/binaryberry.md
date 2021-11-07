@@ -5,11 +5,11 @@
     {
       "person": "binaryberry",
       "leaderboard": "2021-11-07",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 37,
+      "totalSeconds": 97,
+      "position": 6,
+      "isPending": false
     },
     {
       "person": "binaryberry",
@@ -1276,12 +1276,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 43,
-    "totalSeconds": 163,
+    "seconds": 42,
+    "totalSeconds": 162,
     "position": null,
     "isPending": false
   },
-  "awardCount": 108,
+  "awardCount": 111,
   "awards": [
     {
       "title": "Bronze",
@@ -1321,7 +1321,8 @@
         "2021-09-21",
         "2021-09-24",
         "2021-10-18",
-        "2021-11-02"
+        "2021-11-02",
+        "2021-11-07"
       ]
     },
     {
@@ -1386,7 +1387,8 @@
         "2021-10-20",
         "2021-10-26",
         "2021-11-03",
-        "2021-11-05"
+        "2021-11-05",
+        "2021-11-07"
       ]
     },
     {
@@ -1478,7 +1480,8 @@
       "type": "arjun",
       "text": "Join us",
       "dates": [
-        "2021-10-01"
+        "2021-10-01",
+        "2021-11-07"
       ]
     },
     {

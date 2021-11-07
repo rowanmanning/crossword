@@ -30,6 +30,14 @@
       ]
     },
     {
+      "person": "binaryberry",
+      "count": 2,
+      "dates": [
+        "2021-10-01",
+        "2021-11-07"
+      ]
+    },
+    {
       "person": "joelcarr",
       "count": 1,
       "dates": [
@@ -41,13 +49,6 @@
       "count": 1,
       "dates": [
         "2021-07-15"
-      ]
-    },
-    {
-      "person": "binaryberry",
-      "count": 1,
-      "dates": [
-        "2021-10-01"
       ]
     },
     {
@@ -65,5 +66,5 @@
       ]
     }
   ],
-  "totalUnlocks": 12
+  "totalUnlocks": 13
 }
