@@ -5,11 +5,11 @@
     {
       "person": "Rowan M",
       "leaderboard": "2021-11-09",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 35,
+      "totalSeconds": 35,
+      "position": 4,
+      "isPending": false
     },
     {
       "person": "Rowan M",
@@ -1294,12 +1294,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 56,
-    "totalSeconds": 56,
+    "seconds": 55,
+    "totalSeconds": 55,
     "position": null,
     "isPending": false
   },
-  "awardCount": 544,
+  "awardCount": 547,
   "awards": [
     {
       "title": "Gold",
@@ -1709,7 +1709,8 @@
         "2021-11-05",
         "2021-11-06",
         "2021-11-07",
-        "2021-11-08"
+        "2021-11-08",
+        "2021-11-09"
       ]
     },
     {
@@ -1817,7 +1818,8 @@
         "2021-11-02",
         "2021-11-04",
         "2021-11-07",
-        "2021-11-08"
+        "2021-11-08",
+        "2021-11-09"
       ]
     },
     {
@@ -1889,7 +1891,8 @@
         "2021-10-28",
         "2021-10-31",
         "2021-11-01",
-        "2021-11-07"
+        "2021-11-07",
+        "2021-11-09"
       ]
     },
     {
