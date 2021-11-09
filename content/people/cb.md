@@ -1218,7 +1218,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 512,
+  "awardCount": 513,
   "awards": [
     {
       "title": "Gold",
@@ -1905,6 +1905,7 @@
       "type": "yin-and-yang",
       "text": "Get the same time as another person but with flipped seconds",
       "dates": [
+        "2021-11-08",
         "2021-11-02",
         "2021-10-15",
         "2021-10-07",

@@ -5,11 +5,11 @@
     {
       "person": "leaf",
       "leaderboard": "2021-11-08",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 53,
+      "totalSeconds": 53,
+      "position": 3,
+      "isPending": false
     },
     {
       "person": "leaf",
@@ -1290,7 +1290,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 335,
+  "awardCount": 339,
   "awards": [
     {
       "title": "Gold",
@@ -1462,7 +1462,8 @@
         "2021-10-12",
         "2021-10-23",
         "2021-10-27",
-        "2021-11-06"
+        "2021-11-06",
+        "2021-11-08"
       ]
     },
     {
@@ -1579,7 +1580,8 @@
         "2021-11-03",
         "2021-11-04",
         "2021-11-05",
-        "2021-11-07"
+        "2021-11-07",
+        "2021-11-08"
       ]
     },
     {
@@ -1639,7 +1641,8 @@
         "2021-10-31",
         "2021-11-01",
         "2021-11-04",
-        "2021-11-07"
+        "2021-11-07",
+        "2021-11-08"
       ]
     },
     {
@@ -1769,6 +1772,7 @@
       "type": "yin-and-yang",
       "text": "Get the same time as another person but with flipped seconds",
       "dates": [
+        "2021-11-08",
         "2021-10-07",
         "2021-09-26",
         "2021-07-10"
