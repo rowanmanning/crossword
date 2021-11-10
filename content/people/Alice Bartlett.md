@@ -5,11 +5,11 @@
     {
       "person": "Alice Bartlett",
       "leaderboard": "2021-11-10",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 56,
+      "totalSeconds": 56,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "Alice Bartlett",
@@ -43,12 +43,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 59,
-    "totalSeconds": 59,
+    "seconds": 58,
+    "totalSeconds": 58,
     "position": null,
     "isPending": false
   },
-  "awardCount": 3,
+  "awardCount": 6,
   "awards": [
     {
       "title": "Sub Two Minutes",
@@ -56,7 +56,8 @@
       "text": "Complete a puzzle in less than two minutes",
       "dates": [
         "2021-11-08",
-        "2021-11-09"
+        "2021-11-09",
+        "2021-11-10"
       ]
     },
     {
@@ -64,7 +65,16 @@
       "type": "sub-60",
       "text": "Complete a puzzle in less than a minute",
       "dates": [
-        "2021-11-09"
+        "2021-11-09",
+        "2021-11-10"
+      ]
+    },
+    {
+      "title": "Three Day Streak",
+      "type": "three-day-streak",
+      "text": "Play for three days in a row",
+      "dates": [
+        "2021-11-10"
       ]
     }
   ]

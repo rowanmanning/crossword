@@ -840,19 +840,20 @@
       ]
     },
     {
+      "person": "Alice Bartlett",
+      "count": 2,
+      "dates": [
+        "2021-11-09",
+        "2021-11-10"
+      ]
+    },
+    {
       "person": "joelcarr",
       "count": 1,
       "dates": [
         "2021-09-06"
       ]
-    },
-    {
-      "person": "Alice Bartlett",
-      "count": 1,
-      "dates": [
-        "2021-11-09"
-      ]
     }
   ],
-  "totalUnlocks": 747
+  "totalUnlocks": 748
 }
