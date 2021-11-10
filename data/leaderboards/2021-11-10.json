@@ -1,5 +1,9 @@
 [
 	{
+		"name": "Emma L",
+		"seconds": 32
+	},
+	{
 		"name": "Alice Bartlett",
 		"seconds": 56
 	},
@@ -25,10 +29,6 @@
 	},
 	{
 		"name": "cb",
-		"seconds": null
-	},
-	{
-		"name": "Emma L",
 		"seconds": null
 	},
 	{
