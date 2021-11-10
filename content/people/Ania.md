@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "Ania",
+      "leaderboard": "2021-11-10",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "Ania",
       "leaderboard": "2021-11-09",
       "minutes": 2,
       "seconds": 19,
@@ -1299,7 +1308,7 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 340,
+  "awardCount": 342,
   "awards": [
     {
       "title": "Gold",
@@ -1361,7 +1370,8 @@
         "2021-08-19",
         "2021-09-14",
         "2021-10-22",
-        "2021-11-05"
+        "2021-11-05",
+        "2021-11-09"
       ]
     },
     {
@@ -1835,6 +1845,14 @@
         "2021-09-27",
         "2021-10-13",
         "2021-11-03"
+      ]
+    },
+    {
+      "title": "Unlucky for Some",
+      "type": "unlucky",
+      "text": "Come 13th three times",
+      "dates": [
+        "2021-11-09"
       ]
     }
   ]
