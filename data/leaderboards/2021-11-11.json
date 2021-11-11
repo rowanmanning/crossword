@@ -1,7 +1,15 @@
 [
 	{
+		"name": "Rowan M",
+		"seconds": 23
+	},
+	{
 		"name": "Alice Bartlett",
 		"seconds": 25
+	},
+	{
+		"name": "Ania",
+		"seconds": 30
 	},
 	{
 		"name": "ivo",
@@ -26,10 +34,6 @@
 	{
 		"name": "joelcarr",
 		"seconds": 64
-	},
-	{
-		"name": "Ania",
-		"seconds": null
 	},
 	{
 		"name": "apaleslimghost",
@@ -57,10 +61,6 @@
 	},
 	{
 		"name": "Oliver Turner",
-		"seconds": null
-	},
-	{
-		"name": "Rowan M",
 		"seconds": null
 	},
 	{
