@@ -5,11 +5,11 @@
     {
       "person": "Alice Bartlett",
       "leaderboard": "2021-11-11",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 25,
+      "totalSeconds": 25,
+      "position": 1,
+      "isPending": false
     },
     {
       "person": "Alice Bartlett",
@@ -41,24 +41,32 @@
   ],
   "best": {
     "person": "Alice Bartlett",
-    "leaderboard": "2021-11-09",
+    "leaderboard": "2021-11-11",
     "minutes": 0,
-    "seconds": 45,
-    "totalSeconds": 45,
-    "position": 7,
+    "seconds": 25,
+    "totalSeconds": 25,
+    "position": 1,
     "isPending": false
   },
   "mean": {
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 58,
-    "totalSeconds": 58,
+    "seconds": 50,
+    "totalSeconds": 50,
     "position": null,
     "isPending": false
   },
-  "awardCount": 6,
+  "awardCount": 12,
   "awards": [
+    {
+      "title": "Half Time",
+      "type": "half-time",
+      "text": "Half your completion time from one day to the next",
+      "dates": [
+        "2021-11-11"
+      ]
+    },
     {
       "title": "Sub Two Minutes",
       "type": "sub-120",
@@ -66,7 +74,8 @@
       "dates": [
         "2021-11-08",
         "2021-11-09",
-        "2021-11-10"
+        "2021-11-10",
+        "2021-11-11"
       ]
     },
     {
@@ -75,7 +84,24 @@
       "text": "Complete a puzzle in less than a minute",
       "dates": [
         "2021-11-09",
-        "2021-11-10"
+        "2021-11-10",
+        "2021-11-11"
+      ]
+    },
+    {
+      "title": "Sub 45 Seconds",
+      "type": "sub-45",
+      "text": "Complete a puzzle in less than 45 seconds",
+      "dates": [
+        "2021-11-11"
+      ]
+    },
+    {
+      "title": "Sub 30 Seconds",
+      "type": "sub-30",
+      "text": "Complete a puzzle in less than 30 seconds",
+      "dates": [
+        "2021-11-11"
       ]
     },
     {
@@ -84,6 +110,14 @@
       "text": "Play for three days in a row",
       "dates": [
         "2021-11-10"
+      ]
+    },
+    {
+      "title": "Yin and Yang",
+      "type": "yin-and-yang",
+      "text": "Get the same time as another person but with flipped seconds",
+      "dates": [
+        "2021-11-11"
       ]
     }
   ]
