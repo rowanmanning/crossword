@@ -1,5 +1,13 @@
 [
 	{
+		"name": "j-sheps",
+		"seconds": 27
+	},
+	{
+		"name": "cb",
+		"seconds": 30
+	},
+	{
 		"name": "apaleslimghost",
 		"seconds": 33
 	},
@@ -24,6 +32,10 @@
 		"seconds": 55
 	},
 	{
+		"name": "ivo",
+		"seconds": 64
+	},
+	{
 		"name": "Alice Bartlett",
 		"seconds": 79
 	},
@@ -44,19 +56,7 @@
 		"seconds": null
 	},
 	{
-		"name": "cb",
-		"seconds": null
-	},
-	{
 		"name": "itsalex",
-		"seconds": null
-	},
-	{
-		"name": "ivo",
-		"seconds": null
-	},
-	{
-		"name": "j-sheps",
 		"seconds": null
 	},
 	{
