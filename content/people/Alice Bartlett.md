@@ -5,11 +5,11 @@
     {
       "person": "Alice Bartlett",
       "leaderboard": "2021-11-12",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 19,
+      "totalSeconds": 79,
+      "position": 2,
+      "isPending": false
     },
     {
       "person": "Alice Bartlett",
@@ -61,12 +61,12 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 50,
-    "totalSeconds": 50,
+    "seconds": 56,
+    "totalSeconds": 56,
     "position": null,
     "isPending": false
   },
-  "awardCount": 13,
+  "awardCount": 15,
   "awards": [
     {
       "title": "Silver",
@@ -85,6 +85,14 @@
       ]
     },
     {
+      "title": "Double Time",
+      "type": "double-time",
+      "text": "Double your completion time from one day to the next",
+      "dates": [
+        "2021-11-12"
+      ]
+    },
+    {
       "title": "Sub Two Minutes",
       "type": "sub-120",
       "text": "Complete a puzzle in less than two minutes",
@@ -92,7 +100,8 @@
         "2021-11-08",
         "2021-11-09",
         "2021-11-10",
-        "2021-11-11"
+        "2021-11-11",
+        "2021-11-12"
       ]
     },
     {
