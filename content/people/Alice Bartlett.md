@@ -4,6 +4,15 @@
   "times": [
     {
       "person": "Alice Bartlett",
+      "leaderboard": "2021-11-12",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "isPending": true
+    },
+    {
+      "person": "Alice Bartlett",
       "leaderboard": "2021-11-11",
       "minutes": 0,
       "seconds": 25,
@@ -57,8 +66,16 @@
     "position": null,
     "isPending": false
   },
-  "awardCount": 12,
+  "awardCount": 13,
   "awards": [
+    {
+      "title": "Silver",
+      "type": "silver",
+      "text": "Get the second fastest time for a day",
+      "dates": [
+        "2021-11-11"
+      ]
+    },
     {
       "title": "Half Time",
       "type": "half-time",
