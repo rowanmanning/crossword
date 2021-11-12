@@ -1,7 +1,15 @@
 [
 	{
+		"name": "Lily2point0",
+		"seconds": 46
+	},
+	{
 		"name": "binaryberry",
 		"seconds": 50
+	},
+	{
+		"name": "Emma L",
+		"seconds": 55
 	},
 	{
 		"name": "Alice Bartlett",
@@ -28,10 +36,6 @@
 		"seconds": null
 	},
 	{
-		"name": "Emma L",
-		"seconds": null
-	},
-	{
 		"name": "itsalex",
 		"seconds": null
 	},
@@ -49,10 +53,6 @@
 	},
 	{
 		"name": "leaf",
-		"seconds": null
-	},
-	{
-		"name": "Lily2point0",
 		"seconds": null
 	},
 	{
