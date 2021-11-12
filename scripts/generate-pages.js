@@ -30,7 +30,7 @@ async function generatePages() {
 		const leaderboard = leaderboards.get(date);
 
 		// Loop over people for leaderboard data
-		for (const {name, seconds} of data) {
+		for (const {name, seconds, scrapeTime} of data) {
 			const time = new Time(seconds);
 
 			// Create person if they don't exist
@@ -39,9 +39,10 @@ async function generatePages() {
 			}
 			const person = people.get(name);
 
-			// Set the person and leaderboard on the time
+			// Set the person, leaderboard, and scrape time on the time
 			time.leaderboard = leaderboard;
 			time.person = person;
+			time.scrapeTime = scrapeTime;
 		}
 
 	}

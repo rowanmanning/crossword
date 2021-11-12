@@ -5,6 +5,7 @@ module.exports = class Time {
 	constructor(seconds) {
 		this._leaderboard = null;
 		this._person = null;
+		this._scrapeTime = null;
 		this.totalSeconds = seconds;
 		this.position = null;
 	}
@@ -43,6 +44,14 @@ module.exports = class Time {
 		return this._person;
 	}
 
+	set scrapeTime(value = null) {
+		this._scrapeTime = value;
+	}
+
+	get scrapeTime() {
+		return this._scrapeTime;
+	}
+
 	toJSON() {
 		return {
 			person: this.person ? this.person.name : null,
@@ -51,6 +60,7 @@ module.exports = class Time {
 			seconds: this.seconds,
 			totalSeconds: this.totalSeconds,
 			position: this.position,
+			scrapeTime: this.scrapeTime,
 			isPending: this.isPending
 		};
 	}

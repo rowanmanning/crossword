@@ -5,6 +5,7 @@ const dotenv = require('dotenv');
 const fs = require('fs/promises');
 const got = require('got');
 const {JSDOM} = require('jsdom');
+const loadJSON = require('./lib/utils/load-json');
 
 dotenv.config();
 
@@ -40,7 +41,7 @@ async function fetchLeaderboard() {
 	const dateElement = document.querySelector('.lbd-type__date');
 	const date = dateElement ? parseDate(dateElement.textContent.trim()) : null;
 
-	const scores = [...document.querySelectorAll('.lbd-score')]
+	const parsedScores = [...document.querySelectorAll('.lbd-score')]
 		.filter(score => {
 			return !score.querySelector('.lbd-score__you');
 		})
@@ -51,13 +52,37 @@ async function fetchLeaderboard() {
 			const time = timeElement ? parseTime(timeElement.textContent.trim()) : null;
 			return {
 				name,
+				scrapeTime: null,
 				seconds: time ? (time.minutes * 60) + time.seconds : null
 			};
 		});
 
-	console.log(`Saving leaderboard for ${date}`);
 	const directory = `${__dirname}/../data/leaderboards`;
 	const filePath = `${directory}/${date}.json`;
+
+	console.log(`Loading any existing scores for ${date}`);
+	const existingScores = await loadJSON(filePath).catch(() => []);
+	const existingScrapeTimes = Object.fromEntries(existingScores.map(score => ([
+		score.name,
+		score.scrapeTime
+	])));
+
+	console.log(`Resolving scrape times for ${date}`);
+	const now = new Date(Date.now()).toISOString();
+	const scores = parsedScores.map(score => {
+		if (score.seconds) {
+			if (existingScrapeTimes[score.name]) {
+				score.scrapeTime = existingScrapeTimes[score.name];
+			} else {
+				score.scrapeTime = now;
+			}
+		} else {
+			score.scrapeTime = null;
+		}
+		return score;
+	});
+
+	console.log(`Saving leaderboard for ${date}`);
 	await fs.mkdir(directory, {recursive: true});
 	await fs.writeFile(filePath, JSON.stringify(scores, null, '\t'));
 }
