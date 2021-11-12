@@ -1,54 +1,67 @@
 [
 	{
 		"name": "j-sheps",
+		"scrapeTime": null,
 		"seconds": 42
 	},
 	{
 		"name": "cb",
+		"scrapeTime": null,
 		"seconds": 60
 	},
 	{
 		"name": "Rowan M",
+		"scrapeTime": null,
 		"seconds": 81
 	},
 	{
 		"name": "itsalex",
+		"scrapeTime": null,
 		"seconds": 85
 	},
 	{
 		"name": "apaleslimghost",
+		"scrapeTime": null,
 		"seconds": 91
 	},
 	{
 		"name": "varjmes",
+		"scrapeTime": null,
 		"seconds": 128
 	},
 	{
 		"name": "Lily2point0",
+		"scrapeTime": null,
 		"seconds": 140
 	},
 	{
 		"name": "Ania",
+		"scrapeTime": null,
 		"seconds": 152
 	},
 	{
 		"name": "joelcarr",
+		"scrapeTime": null,
 		"seconds": 197
 	},
 	{
 		"name": "binaryberry",
+		"scrapeTime": null,
 		"seconds": 482
 	},
 	{
 		"name": "arjun137",
+		"scrapeTime": null,
 		"seconds": null
 	},
 	{
 		"name": "leaf",
+		"scrapeTime": null,
 		"seconds": null
 	},
 	{
 		"name": "Oliver Turner",
+		"scrapeTime": null,
 		"seconds": null
 	}
 ]

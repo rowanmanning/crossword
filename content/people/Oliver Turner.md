@@ -9,6 +9,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -18,6 +19,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -27,6 +29,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -36,6 +39,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -45,6 +49,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -54,6 +59,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -63,6 +69,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -72,6 +79,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -81,6 +89,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -90,6 +99,7 @@
       "seconds": 29,
       "totalSeconds": 29,
       "position": 1,
+      "scrapeTime": null,
       "isPending": false
     },
     {
@@ -99,6 +109,7 @@
       "seconds": 40,
       "totalSeconds": 40,
       "position": 3,
+      "scrapeTime": null,
       "isPending": false
     },
     {
@@ -108,6 +119,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -117,6 +129,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -126,6 +139,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -135,6 +149,7 @@
       "seconds": 49,
       "totalSeconds": 49,
       "position": 2,
+      "scrapeTime": null,
       "isPending": false
     },
     {
@@ -144,6 +159,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -153,6 +169,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -162,6 +179,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -171,6 +189,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -180,6 +199,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -189,6 +209,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -198,6 +219,7 @@
       "seconds": 35,
       "totalSeconds": 35,
       "position": 5,
+      "scrapeTime": null,
       "isPending": false
     },
     {
@@ -207,6 +229,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -216,6 +239,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -225,6 +249,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -234,6 +259,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -243,6 +269,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -252,6 +279,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -261,6 +289,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -270,6 +299,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -279,6 +309,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -288,6 +319,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -297,6 +329,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -306,6 +339,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -315,6 +349,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -324,6 +359,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -333,6 +369,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -342,6 +379,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -351,6 +389,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -360,6 +399,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -369,6 +409,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -378,6 +419,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -387,6 +429,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -396,6 +439,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -405,6 +449,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -414,6 +459,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -423,6 +469,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -432,6 +479,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -441,6 +489,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -450,6 +499,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -459,6 +509,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -468,6 +519,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -477,6 +529,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -486,6 +539,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -495,6 +549,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -504,6 +559,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -513,6 +569,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -522,6 +579,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -531,6 +589,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -540,6 +599,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -549,6 +609,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -558,6 +619,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -567,6 +629,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -576,6 +639,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -585,6 +649,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -594,6 +659,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -603,6 +669,7 @@
       "seconds": 1,
       "totalSeconds": 61,
       "position": 9,
+      "scrapeTime": null,
       "isPending": false
     },
     {
@@ -612,6 +679,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -621,6 +689,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -630,6 +699,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -639,6 +709,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -648,6 +719,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -657,6 +729,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -666,6 +739,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -675,6 +749,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -684,6 +759,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -693,6 +769,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -702,6 +779,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -711,6 +789,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -720,6 +799,7 @@
       "seconds": 41,
       "totalSeconds": 41,
       "position": 7,
+      "scrapeTime": null,
       "isPending": false
     },
     {
@@ -729,6 +809,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -738,6 +819,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -747,6 +829,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -756,6 +839,7 @@
       "seconds": 1,
       "totalSeconds": 121,
       "position": 4,
+      "scrapeTime": null,
       "isPending": false
     },
     {
@@ -765,6 +849,7 @@
       "seconds": 28,
       "totalSeconds": 28,
       "position": 3,
+      "scrapeTime": null,
       "isPending": false
     },
     {
@@ -774,6 +859,7 @@
       "seconds": 27,
       "totalSeconds": 27,
       "position": 1,
+      "scrapeTime": null,
       "isPending": false
     },
     {
@@ -783,6 +869,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -792,6 +879,7 @@
       "seconds": 41,
       "totalSeconds": 41,
       "position": 2,
+      "scrapeTime": null,
       "isPending": false
     },
     {
@@ -801,6 +889,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -810,6 +899,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -819,6 +909,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -828,6 +919,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -837,6 +929,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -846,6 +939,7 @@
       "seconds": 57,
       "totalSeconds": 57,
       "position": 5,
+      "scrapeTime": null,
       "isPending": false
     },
     {
@@ -855,6 +949,7 @@
       "seconds": 47,
       "totalSeconds": 47,
       "position": 6,
+      "scrapeTime": null,
       "isPending": false
     },
     {
@@ -864,6 +959,7 @@
       "seconds": 37,
       "totalSeconds": 37,
       "position": 2,
+      "scrapeTime": null,
       "isPending": false
     },
     {
@@ -873,6 +969,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -882,6 +979,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -891,6 +989,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -900,6 +999,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -909,6 +1009,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -918,6 +1019,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -927,6 +1029,7 @@
       "seconds": 49,
       "totalSeconds": 49,
       "position": 7,
+      "scrapeTime": null,
       "isPending": false
     },
     {
@@ -936,6 +1039,7 @@
       "seconds": 47,
       "totalSeconds": 47,
       "position": 4,
+      "scrapeTime": null,
       "isPending": false
     },
     {
@@ -945,6 +1049,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -954,6 +1059,7 @@
       "seconds": 42,
       "totalSeconds": 42,
       "position": 3,
+      "scrapeTime": null,
       "isPending": false
     },
     {
@@ -963,6 +1069,7 @@
       "seconds": 33,
       "totalSeconds": 33,
       "position": 2,
+      "scrapeTime": null,
       "isPending": false
     },
     {
@@ -972,6 +1079,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -981,6 +1089,7 @@
       "seconds": 27,
       "totalSeconds": 27,
       "position": 1,
+      "scrapeTime": null,
       "isPending": false
     },
     {
@@ -990,6 +1099,7 @@
       "seconds": 43,
       "totalSeconds": 43,
       "position": 2,
+      "scrapeTime": null,
       "isPending": false
     },
     {
@@ -999,6 +1109,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -1008,6 +1119,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -1017,6 +1129,7 @@
       "seconds": 36,
       "totalSeconds": 36,
       "position": 2,
+      "scrapeTime": null,
       "isPending": false
     },
     {
@@ -1026,6 +1139,7 @@
       "seconds": 34,
       "totalSeconds": 34,
       "position": 2,
+      "scrapeTime": null,
       "isPending": false
     },
     {
@@ -1035,6 +1149,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -1044,6 +1159,7 @@
       "seconds": 40,
       "totalSeconds": 40,
       "position": 3,
+      "scrapeTime": null,
       "isPending": false
     },
     {
@@ -1053,6 +1169,7 @@
       "seconds": 48,
       "totalSeconds": 48,
       "position": 3,
+      "scrapeTime": null,
       "isPending": false
     },
     {
@@ -1062,6 +1179,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -1071,6 +1189,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -1080,6 +1199,7 @@
       "seconds": 38,
       "totalSeconds": 38,
       "position": 4,
+      "scrapeTime": null,
       "isPending": false
     },
     {
@@ -1089,6 +1209,7 @@
       "seconds": 10,
       "totalSeconds": 130,
       "position": 8,
+      "scrapeTime": null,
       "isPending": false
     },
     {
@@ -1098,6 +1219,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -1107,6 +1229,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -1116,6 +1239,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -1125,6 +1249,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -1134,6 +1259,7 @@
       "seconds": 32,
       "totalSeconds": 152,
       "position": 6,
+      "scrapeTime": null,
       "isPending": false
     },
     {
@@ -1143,6 +1269,7 @@
       "seconds": 48,
       "totalSeconds": 48,
       "position": 2,
+      "scrapeTime": null,
       "isPending": false
     },
     {
@@ -1152,6 +1279,7 @@
       "seconds": 34,
       "totalSeconds": 34,
       "position": 2,
+      "scrapeTime": null,
       "isPending": false
     },
     {
@@ -1161,6 +1289,7 @@
       "seconds": 35,
       "totalSeconds": 35,
       "position": 1,
+      "scrapeTime": null,
       "isPending": false
     },
     {
@@ -1170,6 +1299,7 @@
       "seconds": 32,
       "totalSeconds": 32,
       "position": 2,
+      "scrapeTime": null,
       "isPending": false
     },
     {
@@ -1179,6 +1309,7 @@
       "seconds": 19,
       "totalSeconds": 79,
       "position": 8,
+      "scrapeTime": null,
       "isPending": false
     },
     {
@@ -1188,6 +1319,7 @@
       "seconds": 49,
       "totalSeconds": 49,
       "position": 1,
+      "scrapeTime": null,
       "isPending": false
     },
     {
@@ -1197,6 +1329,7 @@
       "seconds": 5,
       "totalSeconds": 65,
       "position": 1,
+      "scrapeTime": null,
       "isPending": false
     },
     {
@@ -1206,6 +1339,7 @@
       "seconds": 51,
       "totalSeconds": 51,
       "position": 2,
+      "scrapeTime": null,
       "isPending": false
     },
     {
@@ -1215,6 +1349,7 @@
       "seconds": null,
       "totalSeconds": null,
       "position": null,
+      "scrapeTime": null,
       "isPending": true
     },
     {
@@ -1224,6 +1359,7 @@
       "seconds": 45,
       "totalSeconds": 45,
       "position": 2,
+      "scrapeTime": null,
       "isPending": false
     },
     {
@@ -1233,6 +1369,7 @@
       "seconds": 20,
       "totalSeconds": 20,
       "position": 1,
+      "scrapeTime": null,
       "isPending": false
     },
     {
@@ -1242,6 +1379,7 @@
       "seconds": 59,
       "totalSeconds": 59,
       "position": 2,
+      "scrapeTime": null,
       "isPending": false
     },
     {
@@ -1251,6 +1389,7 @@
       "seconds": 57,
       "totalSeconds": 57,
       "position": 2,
+      "scrapeTime": null,
       "isPending": false
     },
     {
@@ -1260,6 +1399,7 @@
       "seconds": 52,
       "totalSeconds": 112,
       "position": 3,
+      "scrapeTime": null,
       "isPending": false
     },
     {
@@ -1269,6 +1409,7 @@
       "seconds": 54,
       "totalSeconds": 54,
       "position": 2,
+      "scrapeTime": null,
       "isPending": false
     },
     {
@@ -1278,6 +1419,7 @@
       "seconds": 57,
       "totalSeconds": 57,
       "position": 4,
+      "scrapeTime": null,
       "isPending": false
     }
   ],
@@ -1288,6 +1430,7 @@
     "seconds": 20,
     "totalSeconds": 20,
     "position": 1,
+    "scrapeTime": null,
     "isPending": false
   },
   "mean": {
@@ -1297,6 +1440,7 @@
     "seconds": 52,
     "totalSeconds": 52,
     "position": null,
+    "scrapeTime": null,
     "isPending": false
   },
   "awardCount": 163,

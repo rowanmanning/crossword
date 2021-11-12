@@ -1,66 +1,82 @@
 [
 	{
 		"name": "leaf",
+		"scrapeTime": null,
 		"seconds": 19
 	},
 	{
 		"name": "cb",
+		"scrapeTime": null,
 		"seconds": 24
 	},
 	{
 		"name": "j-sheps",
+		"scrapeTime": null,
 		"seconds": 26
 	},
 	{
 		"name": "Emma L",
+		"scrapeTime": null,
 		"seconds": 27
 	},
 	{
 		"name": "ivo",
+		"scrapeTime": null,
 		"seconds": 29
 	},
 	{
 		"name": "Rowan M",
+		"scrapeTime": null,
 		"seconds": 31
 	},
 	{
 		"name": "varjmes",
+		"scrapeTime": null,
 		"seconds": 31
 	},
 	{
 		"name": "Lily2point0",
+		"scrapeTime": null,
 		"seconds": 44
 	},
 	{
 		"name": "Ania",
+		"scrapeTime": null,
 		"seconds": 45
 	},
 	{
 		"name": "binaryberry",
+		"scrapeTime": null,
 		"seconds": 76
 	},
 	{
 		"name": "Nick Ramsbottom",
+		"scrapeTime": null,
 		"seconds": 79
 	},
 	{
 		"name": "apaleslimghost",
+		"scrapeTime": null,
 		"seconds": null
 	},
 	{
 		"name": "arjun137",
+		"scrapeTime": null,
 		"seconds": null
 	},
 	{
 		"name": "itsalex",
+		"scrapeTime": null,
 		"seconds": null
 	},
 	{
 		"name": "joelcarr",
+		"scrapeTime": null,
 		"seconds": null
 	},
 	{
 		"name": "Oliver Turner",
+		"scrapeTime": null,
 		"seconds": null
 	}
 ]

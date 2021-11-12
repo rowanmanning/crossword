@@ -9,6 +9,7 @@
       "seconds": 19,
       "totalSeconds": 79,
       "position": 10,
+      "scrapeTime": null,
       "isPending": false
     },
     {
@@ -18,6 +19,7 @@
       "seconds": 25,
       "totalSeconds": 25,
       "position": 2,
+      "scrapeTime": null,
       "isPending": false
     },
     {
@@ -27,6 +29,7 @@
       "seconds": 56,
       "totalSeconds": 56,
       "position": 9,
+      "scrapeTime": null,
       "isPending": false
     },
     {
@@ -36,6 +39,7 @@
       "seconds": 45,
       "totalSeconds": 45,
       "position": 7,
+      "scrapeTime": null,
       "isPending": false
     },
     {
@@ -45,6 +49,7 @@
       "seconds": 12,
       "totalSeconds": 72,
       "position": 6,
+      "scrapeTime": null,
       "isPending": false
     }
   ],
@@ -55,6 +60,7 @@
     "seconds": 25,
     "totalSeconds": 25,
     "position": 2,
+    "scrapeTime": null,
     "isPending": false
   },
   "mean": {
@@ -64,6 +70,7 @@
     "seconds": 56,
     "totalSeconds": 56,
     "position": null,
+    "scrapeTime": null,
     "isPending": false
   },
   "awardCount": 15,

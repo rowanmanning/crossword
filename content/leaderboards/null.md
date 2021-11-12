@@ -9,6 +9,7 @@
     "minutes": null,
     "seconds": null,
     "position": null,
+    "scrapeTime": null,
     "isPending": true
   },
   "diff": {
@@ -17,6 +18,7 @@
     "minutes": null,
     "seconds": null,
     "position": null,
+    "scrapeTime": null,
     "isPending": true
   }
 }
