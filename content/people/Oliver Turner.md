@@ -5,12 +5,12 @@
     {
       "person": "Oliver Turner",
       "leaderboard": "2021-11-13",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 32,
+      "totalSeconds": 152,
+      "position": 2,
+      "scrapeTime": "2021-11-13T11:00:28.955Z",
+      "isPending": false
     },
     {
       "person": "Oliver Turner",
@@ -1447,13 +1447,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 52,
-    "totalSeconds": 52,
+    "seconds": 55,
+    "totalSeconds": 55,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 163,
+  "awardCount": 165,
   "awards": [
     {
       "title": "Gold",
@@ -1557,7 +1557,8 @@
         "2021-06-26",
         "2021-06-30",
         "2021-07-10",
-        "2021-08-21"
+        "2021-08-21",
+        "2021-11-13"
       ]
     },
     {
@@ -1711,7 +1712,8 @@
       "text": "Come back to the crossword after a week off",
       "dates": [
         "2021-09-07",
-        "2021-10-22"
+        "2021-10-22",
+        "2021-11-13"
       ]
     },
     {
