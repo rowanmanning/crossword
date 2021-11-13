@@ -4,7 +4,7 @@ name: Fetch leaderboard
 # Run every 30 minutes
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "*/30 * * * *"
   workflow_dispatch: {}
 
 # Jobs
