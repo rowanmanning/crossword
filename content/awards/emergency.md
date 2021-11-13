@@ -78,6 +78,14 @@
       ]
     },
     {
+      "person": "ivo",
+      "count": 2,
+      "dates": [
+        "2021-09-20",
+        "2021-11-12"
+      ]
+    },
+    {
       "person": "apaleslimghost",
       "count": 2,
       "dates": [
@@ -100,13 +108,6 @@
       ]
     },
     {
-      "person": "ivo",
-      "count": 1,
-      "dates": [
-        "2021-09-20"
-      ]
-    },
-    {
       "person": "cb",
       "count": 1,
       "dates": [
@@ -114,5 +115,5 @@
       ]
     }
   ],
-  "totalUnlocks": 37
+  "totalUnlocks": 38
 }
