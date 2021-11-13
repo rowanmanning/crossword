@@ -5,12 +5,12 @@
     {
       "person": "Ania",
       "leaderboard": "2021-11-13",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 6,
+      "seconds": 19,
+      "totalSeconds": 379,
+      "position": 10,
+      "scrapeTime": "2021-11-13T18:02:28.257Z",
+      "isPending": false
     },
     {
       "person": "Ania",
@@ -1477,13 +1477,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 36,
-    "totalSeconds": 96,
+    "seconds": 38,
+    "totalSeconds": 98,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 353,
+  "awardCount": 355,
   "awards": [
     {
       "title": "Gold",
@@ -1667,7 +1667,8 @@
         "2021-10-29",
         "2021-10-30",
         "2021-11-01",
-        "2021-11-06"
+        "2021-11-06",
+        "2021-11-13"
       ]
     },
     {
@@ -1904,7 +1905,8 @@
       "text": "Complete a puzzle in more than 5 minutes",
       "dates": [
         "2021-06-26",
-        "2021-07-31"
+        "2021-07-31",
+        "2021-11-13"
       ]
     },
     {
