@@ -5,12 +5,12 @@
     {
       "person": "Alice Bartlett",
       "leaderboard": "2021-11-13",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 5,
+      "seconds": 7,
+      "totalSeconds": 307,
+      "position": 9,
+      "scrapeTime": "2021-11-13T17:35:41.976Z",
+      "isPending": false
     },
     {
       "person": "Alice Bartlett",
@@ -76,14 +76,14 @@
   "mean": {
     "person": null,
     "leaderboard": null,
-    "minutes": 0,
-    "seconds": 56,
-    "totalSeconds": 56,
+    "minutes": 1,
+    "seconds": 38,
+    "totalSeconds": 98,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 15,
+  "awardCount": 17,
   "awards": [
     {
       "title": "Silver",
@@ -106,7 +106,8 @@
       "type": "double-time",
       "text": "Double your completion time from one day to the next",
       "dates": [
-        "2021-11-12"
+        "2021-11-12",
+        "2021-11-13"
       ]
     },
     {
@@ -145,6 +146,14 @@
       "text": "Complete a puzzle in less than 30 seconds",
       "dates": [
         "2021-11-11"
+      ]
+    },
+    {
+      "title": "Over Five Minutes",
+      "type": "over-300",
+      "text": "Complete a puzzle in more than 5 minutes",
+      "dates": [
+        "2021-11-13"
       ]
     },
     {
