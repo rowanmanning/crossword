@@ -5,12 +5,12 @@
     {
       "person": "ivo",
       "leaderboard": "2021-11-14",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 29,
+      "totalSeconds": 29,
+      "position": 1,
+      "scrapeTime": "2021-11-14T10:34:47.254Z",
+      "isPending": false
     },
     {
       "person": "ivo",
@@ -625,25 +625,25 @@
   ],
   "best": {
     "person": "ivo",
-    "leaderboard": "2021-10-06",
+    "leaderboard": "2021-11-14",
     "minutes": 0,
     "seconds": 29,
     "totalSeconds": 29,
-    "position": 5,
-    "scrapeTime": null,
+    "position": 1,
+    "scrapeTime": "2021-11-14T10:34:47.254Z",
     "isPending": false
   },
   "mean": {
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 48,
-    "totalSeconds": 108,
+    "seconds": 47,
+    "totalSeconds": 107,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 154,
+  "awardCount": 159,
   "awards": [
     {
       "title": "Gold",
@@ -716,7 +716,8 @@
         "2021-10-26",
         "2021-10-31",
         "2021-11-07",
-        "2021-11-09"
+        "2021-11-09",
+        "2021-11-14"
       ]
     },
     {
@@ -797,7 +798,8 @@
         "2021-11-10",
         "2021-11-11",
         "2021-11-12",
-        "2021-11-13"
+        "2021-11-13",
+        "2021-11-14"
       ]
     },
     {
@@ -827,7 +829,8 @@
         "2021-11-07",
         "2021-11-09",
         "2021-11-10",
-        "2021-11-11"
+        "2021-11-11",
+        "2021-11-14"
       ]
     },
     {
@@ -850,7 +853,8 @@
         "2021-11-07",
         "2021-11-09",
         "2021-11-10",
-        "2021-11-11"
+        "2021-11-11",
+        "2021-11-14"
       ]
     },
     {
@@ -858,7 +862,8 @@
       "type": "sub-30",
       "text": "Complete a puzzle in less than 30 seconds",
       "dates": [
-        "2021-10-06"
+        "2021-10-06",
+        "2021-11-14"
       ]
     },
     {
