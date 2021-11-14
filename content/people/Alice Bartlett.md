@@ -5,12 +5,12 @@
     {
       "person": "Alice Bartlett",
       "leaderboard": "2021-11-14",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 12,
+      "totalSeconds": 72,
+      "position": 8,
+      "scrapeTime": "2021-11-14T08:35:07.698Z",
+      "isPending": false
     },
     {
       "person": "Alice Bartlett",
@@ -87,13 +87,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 38,
-    "totalSeconds": 98,
+    "seconds": 34,
+    "totalSeconds": 94,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 18,
+  "awardCount": 22,
   "awards": [
     {
       "title": "Silver",
@@ -116,7 +116,16 @@
       "type": "half-time",
       "text": "Half your completion time from one day to the next",
       "dates": [
-        "2021-11-11"
+        "2021-11-11",
+        "2021-11-14"
+      ]
+    },
+    {
+      "title": "Quarter Time",
+      "type": "quarter-time",
+      "text": "Quarter your completion time from one day to the next",
+      "dates": [
+        "2021-11-14"
       ]
     },
     {
@@ -137,7 +146,8 @@
         "2021-11-09",
         "2021-11-10",
         "2021-11-11",
-        "2021-11-12"
+        "2021-11-12",
+        "2021-11-14"
       ]
     },
     {
@@ -180,6 +190,14 @@
       "text": "Play for three days in a row",
       "dates": [
         "2021-11-10"
+      ]
+    },
+    {
+      "title": "Week-Long Streak",
+      "type": "week-streak",
+      "text": "Play for a full week without breaks",
+      "dates": [
+        "2021-11-14"
       ]
     },
     {
