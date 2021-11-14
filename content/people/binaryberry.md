@@ -5,12 +5,12 @@
     {
       "person": "binaryberry",
       "leaderboard": "2021-11-14",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 34,
+      "totalSeconds": 34,
+      "position": 2,
+      "scrapeTime": "2021-11-14T02:13:26.001Z",
+      "isPending": false
     },
     {
       "person": "binaryberry",
@@ -1475,25 +1475,25 @@
   ],
   "best": {
     "person": "binaryberry",
-    "leaderboard": "2021-10-19",
+    "leaderboard": "2021-11-14",
     "minutes": 0,
-    "seconds": 36,
-    "totalSeconds": 36,
-    "position": 5,
-    "scrapeTime": null,
+    "seconds": 34,
+    "totalSeconds": 34,
+    "position": 2,
+    "scrapeTime": "2021-11-14T02:13:26.001Z",
     "isPending": false
   },
   "mean": {
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 39,
-    "totalSeconds": 159,
+    "seconds": 38,
+    "totalSeconds": 158,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 117,
+  "awardCount": 123,
   "awards": [
     {
       "title": "Bronze",
@@ -1535,7 +1535,8 @@
         "2021-09-24",
         "2021-10-18",
         "2021-11-02",
-        "2021-11-07"
+        "2021-11-07",
+        "2021-11-14"
       ]
     },
     {
@@ -1546,7 +1547,8 @@
         "2021-07-21",
         "2021-08-20",
         "2021-09-16",
-        "2021-10-18"
+        "2021-10-18",
+        "2021-11-14"
       ]
     },
     {
@@ -1605,7 +1607,8 @@
         "2021-11-07",
         "2021-11-09",
         "2021-11-10",
-        "2021-11-12"
+        "2021-11-12",
+        "2021-11-14"
       ]
     },
     {
@@ -1621,7 +1624,8 @@
         "2021-10-11",
         "2021-10-18",
         "2021-10-19",
-        "2021-11-12"
+        "2021-11-12",
+        "2021-11-14"
       ]
     },
     {
@@ -1631,7 +1635,8 @@
       "dates": [
         "2021-10-11",
         "2021-10-18",
-        "2021-10-19"
+        "2021-10-19",
+        "2021-11-14"
       ]
     },
     {
@@ -1665,7 +1670,8 @@
         "2021-09-22",
         "2021-10-02",
         "2021-10-19",
-        "2021-10-27"
+        "2021-10-27",
+        "2021-11-14"
       ]
     },
     {
