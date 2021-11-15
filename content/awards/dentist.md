@@ -2,7 +2,7 @@
   "title": "Dentist",
   "id": "dentist",
   "text": "Now this won't hurt a bit…",
-  "order": "441",
+  "order": "461",
   "unlocks": [
     {
       "person": "Lily2point0",

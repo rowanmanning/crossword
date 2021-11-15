@@ -57,6 +57,8 @@ module.exports = {
 	TwinningAward: require('./awards/twinning'),
 	TripletingAward: require('./awards/tripleting'),
 	QuadrupletingAward: require('./awards/quadrupleting'),
+	QuintupletingAward: require('./awards/quintupleting'),
+	Sextupleting: require('./awards/sextupleting'),
 	TwinningInGoldAward: require('./awards/twinning-in-gold'),
 	YinAndYangAward: require('./awards/yin-and-yang'),
 
