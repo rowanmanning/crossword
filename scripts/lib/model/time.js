@@ -45,7 +45,7 @@ module.exports = class Time {
 	}
 
 	set scrapeTime(value = null) {
-		this._scrapeTime = value;
+		this._scrapeTime = (value === null ? null : new Date(value));
 	}
 
 	get scrapeTime() {
@@ -60,7 +60,7 @@ module.exports = class Time {
 			seconds: this.seconds,
 			totalSeconds: this.totalSeconds,
 			position: this.position,
-			scrapeTime: this.scrapeTime,
+			scrapeTime: this.scrapeTime ? this.scrapeTime.toISOString() : null,
 			isPending: this.isPending
 		};
 	}

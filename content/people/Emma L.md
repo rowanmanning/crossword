@@ -1153,7 +1153,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 378,
+  "awardCount": 380,
   "awards": [
     {
       "title": "Gold",
@@ -1734,6 +1734,15 @@
         "2021-08-22",
         "2021-09-30",
         "2021-10-15"
+      ]
+    },
+    {
+      "title": "Quick Draw",
+      "type": "quick-draw",
+      "text": "Complete a puzzle before anyone else (or within 30 minutes of the first person)",
+      "dates": [
+        "2021-11-14",
+        "2021-11-15"
       ]
     }
   ]

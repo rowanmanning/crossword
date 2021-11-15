@@ -7,11 +7,13 @@ module.exports = class Leaderboard {
 	constructor(date) {
 		this.date = date;
 		this.times = [];
+		this.memo = {};
 	}
 
 	addTime(time) {
 		this.times.push(time);
 		this.sortTimes();
+		this.memo = {};
 	}
 
 	sortTimes() {
@@ -81,6 +83,38 @@ module.exports = class Leaderboard {
 		const timestamp = Date.parse(`${this.date}`);
 		const date = timestamp ? new Date(timestamp) : null;
 		return date ? days[date.getUTCDay()] : null;
+	}
+
+	get timesByScrapeTime() {
+		if (this.memo.timesByScrapeTime) {
+			return this.memo.timesByScrapeTime;
+		}
+		this.memo.timesByScrapeTime = this.times
+			.filter(time => time.scrapeTime !== null)
+			.sort((timeA, timeB) => {
+				if (timeA.scrapeTime < timeB.scrapeTime) {
+					return -1;
+				}
+				if (timeA.scrapeTime > timeB.scrapeTime) {
+					return 1;
+				}
+				return 0;
+			});
+		return this.memo.timesByScrapeTime;
+	}
+
+	get timesGroupedByScrapeTime() {
+		if (this.memo.timesGroupedByScrapeTime) {
+			return this.memo.timesGroupedByScrapeTime;
+		}
+		this.memo.timesGroupedByScrapeTime = Object.values(
+			this.timesByScrapeTime.reduce((groups, time) => {
+				groups[time.scrapeTime] = groups[time.scrapeTime] || [];
+				groups[time.scrapeTime].push(time);
+				return groups;
+			}, {})
+		);
+		return this.memo.timesGroupedByScrapeTime;
 	}
 
 	toJSON() {

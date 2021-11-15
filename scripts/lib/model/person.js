@@ -121,6 +121,31 @@ module.exports = class Person {
 		return this.memo.timeDifferences;
 	}
 
+	get timesInFirstScraping() {
+		if (this.memo.timesInFirstScraping) {
+			return this.memo.timesInFirstScraping;
+		}
+		this.memo.timesInFirstScraping = [...this.times].reverse().filter(time => {
+			const timesGroupedByScrapeTime = time.leaderboard.timesGroupedByScrapeTime;
+			return (timesGroupedByScrapeTime[0] && timesGroupedByScrapeTime[0].includes(time));
+		});
+		return this.memo.timesInFirstScraping;
+	}
+
+	get timesInLastScraping() {
+		if (this.memo.timesInLastScraping) {
+			return this.memo.timesInLastScraping;
+		}
+		this.memo.timesInLastScraping = this.timesExcludingToday.filter(time => {
+			const timesGroupedByScrapeTime = time.leaderboard.timesGroupedByScrapeTime;
+			return (
+				timesGroupedByScrapeTime.length > 1 &&
+				timesGroupedByScrapeTime[timesGroupedByScrapeTime.length - 1].includes(time)
+			);
+		});
+		return this.memo.timesInLastScraping;
+	}
+
 	get best() {
 		if (this.memo.best) {
 			return this.memo.best;

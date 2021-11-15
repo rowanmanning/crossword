@@ -1473,7 +1473,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 383,
+  "awardCount": 384,
   "awards": [
     {
       "title": "Gold",
@@ -2073,6 +2073,14 @@
       "dates": [
         "2021-07-20",
         "2021-08-29"
+      ]
+    },
+    {
+      "title": "Slow and Steady",
+      "type": "slow-and-steady",
+      "text": "Complete a puzzle after everyone else but with the fastest time",
+      "dates": [
+        "2021-11-14"
       ]
     }
   ]

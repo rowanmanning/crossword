@@ -75,6 +75,10 @@ module.exports = {
 	// Set number position streak awards
 	BeastAward: require('./awards/beast'),
 	EmergencyAward: require('./awards/emergency'),
-	UnluckyForSomeAward: require('./awards/unlucky')
+	UnluckyForSomeAward: require('./awards/unlucky'),
+
+	// Scrape time awards
+	QuickDrawAward: require('./awards/quick-draw'),
+	SlowAndSteady: require('./awards/slow-and-steady')
 
 };
