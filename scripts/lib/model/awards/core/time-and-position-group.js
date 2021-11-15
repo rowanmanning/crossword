@@ -10,7 +10,7 @@ module.exports = class TimeAndPositionGroupAward extends PositionAward {
 
 	calculateDates() {
 		const instances = this.person
-			.timesExcludingPending
+			.timesExcludingToday
 			.filter(time => {
 				return time.leaderboard.times.filter(({position}) => {
 					return this.isValidPosition(position) && position === time.position;
