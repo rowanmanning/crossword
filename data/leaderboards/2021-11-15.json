@@ -20,6 +20,11 @@
 		"seconds": 40
 	},
 	{
+		"name": "leaf",
+		"scrapeTime": "2021-11-15T18:02:20.782Z",
+		"seconds": 44
+	},
+	{
 		"name": "Rowan M",
 		"scrapeTime": "2021-11-15T15:02:30.021Z",
 		"seconds": 45
@@ -71,11 +76,6 @@
 	},
 	{
 		"name": "itsalex",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
-		"name": "leaf",
 		"scrapeTime": null,
 		"seconds": null
 	},
