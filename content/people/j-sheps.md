@@ -39,7 +39,7 @@
       "seconds": 27,
       "totalSeconds": 27,
       "position": 1,
-      "scrapeTime": "2021-11-12T21:00:40.321Z",
+      "scrapeTime": null,
       "isPending": false
     },
     {
