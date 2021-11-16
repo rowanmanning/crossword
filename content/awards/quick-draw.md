@@ -5,15 +5,16 @@
   "order": "521",
   "unlocks": [
     {
-      "person": "Emma L",
-      "count": 2,
+      "person": "Lily2point0",
+      "count": 3,
       "dates": [
         "2021-11-14",
-        "2021-11-15"
+        "2021-11-15",
+        "2021-11-16"
       ]
     },
     {
-      "person": "Lily2point0",
+      "person": "Emma L",
       "count": 2,
       "dates": [
         "2021-11-14",
@@ -35,5 +36,5 @@
       ]
     }
   ],
-  "totalUnlocks": 6
+  "totalUnlocks": 7
 }

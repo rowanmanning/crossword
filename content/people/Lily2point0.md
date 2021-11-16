@@ -5,12 +5,12 @@
     {
       "person": "Lily2point0",
       "leaderboard": "2021-11-16",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 40,
+      "totalSeconds": 40,
+      "position": 1,
+      "scrapeTime": "2021-11-16T06:35:51.740Z",
+      "isPending": false
     },
     {
       "person": "Lily2point0",
@@ -1513,7 +1513,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 303,
+  "awardCount": 307,
   "awards": [
     {
       "title": "Gold",
@@ -1790,7 +1790,8 @@
         "2021-11-11",
         "2021-11-12",
         "2021-11-14",
-        "2021-11-15"
+        "2021-11-15",
+        "2021-11-16"
       ]
     },
     {
@@ -1842,7 +1843,8 @@
         "2021-11-11",
         "2021-11-12",
         "2021-11-14",
-        "2021-11-15"
+        "2021-11-15",
+        "2021-11-16"
       ]
     },
     {
@@ -1863,7 +1865,8 @@
         "2021-10-22",
         "2021-10-24",
         "2021-11-07",
-        "2021-11-14"
+        "2021-11-14",
+        "2021-11-16"
       ]
     },
     {
@@ -2011,7 +2014,8 @@
       "text": "Complete a puzzle before anyone else (or within 30 minutes of the first person)",
       "dates": [
         "2021-11-14",
-        "2021-11-15"
+        "2021-11-15",
+        "2021-11-16"
       ]
     }
   ]
