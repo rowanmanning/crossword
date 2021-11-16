@@ -5,12 +5,12 @@
     {
       "person": "Alice Bartlett",
       "leaderboard": "2021-11-16",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 30,
+      "totalSeconds": 150,
+      "position": 4,
+      "scrapeTime": "2021-11-16T08:36:01.669Z",
+      "isPending": false
     },
     {
       "person": "Alice Bartlett",
@@ -107,13 +107,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 30,
-    "totalSeconds": 90,
+    "seconds": 37,
+    "totalSeconds": 97,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 23,
+  "awardCount": 25,
   "awards": [
     {
       "title": "Silver",
@@ -154,7 +154,8 @@
       "text": "Double your completion time from one day to the next",
       "dates": [
         "2021-11-12",
-        "2021-11-13"
+        "2021-11-13",
+        "2021-11-16"
       ]
     },
     {
@@ -227,6 +228,14 @@
       "text": "Get the same time as another person but with flipped seconds",
       "dates": [
         "2021-11-11"
+      ]
+    },
+    {
+      "title": "Dentist",
+      "type": "dentist",
+      "text": "Now this won't hurt a bit…",
+      "dates": [
+        "2021-11-16"
       ]
     }
   ]
