@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "joelcarr",
+      "leaderboard": "2021-11-16",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "joelcarr",
       "leaderboard": "2021-11-15",
       "minutes": 2,
       "seconds": 33,
@@ -1503,7 +1513,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 96,
+  "awardCount": 97,
   "awards": [
     {
       "title": "Bronze",
@@ -1731,7 +1741,8 @@
       "text": "Come 13th three times",
       "dates": [
         "2021-09-17",
-        "2021-09-27"
+        "2021-09-27",
+        "2021-11-15"
       ]
     }
   ]

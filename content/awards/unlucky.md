@@ -5,19 +5,20 @@
   "order": "511",
   "unlocks": [
     {
+      "person": "joelcarr",
+      "count": 3,
+      "dates": [
+        "2021-09-17",
+        "2021-09-27",
+        "2021-11-15"
+      ]
+    },
+    {
       "person": "binaryberry",
       "count": 2,
       "dates": [
         "2021-08-25",
         "2021-09-28"
-      ]
-    },
-    {
-      "person": "joelcarr",
-      "count": 2,
-      "dates": [
-        "2021-09-17",
-        "2021-09-27"
       ]
     },
     {
@@ -28,5 +29,5 @@
       ]
     }
   ],
-  "totalUnlocks": 5
+  "totalUnlocks": 6
 }

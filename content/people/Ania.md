@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Ania",
+      "leaderboard": "2021-11-16",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Ania",
       "leaderboard": "2021-11-15",
       "minutes": 0,
       "seconds": 39,
@@ -1503,7 +1513,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 366,
+  "awardCount": 368,
   "awards": [
     {
       "title": "Gold",
@@ -1545,7 +1555,8 @@
         "2021-09-15",
         "2021-10-19",
         "2021-11-11",
-        "2021-11-14"
+        "2021-11-14",
+        "2021-11-15"
       ]
     },
     {
@@ -1553,7 +1564,8 @@
       "type": "double-bronze",
       "text": "Get the third fastest time two days in a row",
       "dates": [
-        "2021-08-10"
+        "2021-08-10",
+        "2021-11-15"
       ]
     },
     {
