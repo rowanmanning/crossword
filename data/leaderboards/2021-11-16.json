@@ -35,6 +35,11 @@
 		"seconds": 42
 	},
 	{
+		"name": "Ania",
+		"scrapeTime": "2021-11-16T12:40:29.637Z",
+		"seconds": 43
+	},
+	{
 		"name": "varjmes",
 		"scrapeTime": "2021-11-16T11:02:28.460Z",
 		"seconds": 44
@@ -58,11 +63,6 @@
 		"name": "joelcarr",
 		"scrapeTime": "2021-11-16T08:02:45.959Z",
 		"seconds": 183
-	},
-	{
-		"name": "Ania",
-		"scrapeTime": null,
-		"seconds": null
 	},
 	{
 		"name": "arjun137",
