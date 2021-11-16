@@ -5,12 +5,12 @@
     {
       "person": "binaryberry",
       "leaderboard": "2021-11-16",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 42,
+      "totalSeconds": 42,
+      "position": 4,
+      "scrapeTime": "2021-11-16T09:02:23.439Z",
+      "isPending": false
     },
     {
       "person": "binaryberry",
@@ -1507,13 +1507,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 39,
-    "totalSeconds": 159,
+    "seconds": 37,
+    "totalSeconds": 157,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 125,
+  "awardCount": 132,
   "awards": [
     {
       "title": "Bronze",
@@ -1556,7 +1556,8 @@
         "2021-10-18",
         "2021-11-02",
         "2021-11-07",
-        "2021-11-14"
+        "2021-11-14",
+        "2021-11-16"
       ]
     },
     {
@@ -1568,7 +1569,8 @@
         "2021-08-20",
         "2021-09-16",
         "2021-10-18",
-        "2021-11-14"
+        "2021-11-14",
+        "2021-11-16"
       ]
     },
     {
@@ -1629,7 +1631,8 @@
         "2021-11-09",
         "2021-11-10",
         "2021-11-12",
-        "2021-11-14"
+        "2021-11-14",
+        "2021-11-16"
       ]
     },
     {
@@ -1646,7 +1649,8 @@
         "2021-10-18",
         "2021-10-19",
         "2021-11-12",
-        "2021-11-14"
+        "2021-11-14",
+        "2021-11-16"
       ]
     },
     {
@@ -1657,7 +1661,8 @@
         "2021-10-11",
         "2021-10-18",
         "2021-10-19",
-        "2021-11-14"
+        "2021-11-14",
+        "2021-11-16"
       ]
     },
     {
@@ -1721,6 +1726,14 @@
       ]
     },
     {
+      "title": "Yin and Yang",
+      "type": "yin-and-yang",
+      "text": "Get the same time as another person but with flipped seconds",
+      "dates": [
+        "2021-11-16"
+      ]
+    },
+    {
       "title": "Arjun",
       "type": "arjun",
       "text": "Join us",
@@ -1735,6 +1748,14 @@
       "text": "Nice…",
       "dates": [
         "2021-07-08"
+      ]
+    },
+    {
+      "title": "Don't Panic",
+      "type": "dont-panic",
+      "text": "A towel is about the most massively useful thing an interstellar hitchhiker can have",
+      "dates": [
+        "2021-11-16"
       ]
     },
     {

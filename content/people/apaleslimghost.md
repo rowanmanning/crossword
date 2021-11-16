@@ -5,12 +5,12 @@
     {
       "person": "apaleslimghost",
       "leaderboard": "2021-11-16",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 24,
+      "totalSeconds": 24,
+      "position": 1,
+      "scrapeTime": "2021-11-16T09:02:23.439Z",
+      "isPending": false
     },
     {
       "person": "apaleslimghost",
@@ -1497,13 +1497,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 6,
-    "totalSeconds": 66,
+    "seconds": 5,
+    "totalSeconds": 65,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 327,
+  "awardCount": 333,
   "awards": [
     {
       "title": "Gold",
@@ -1746,7 +1746,8 @@
         "2021-11-10",
         "2021-11-12",
         "2021-11-14",
-        "2021-11-15"
+        "2021-11-15",
+        "2021-11-16"
       ]
     },
     {
@@ -1813,7 +1814,8 @@
         "2021-11-10",
         "2021-11-12",
         "2021-11-14",
-        "2021-11-15"
+        "2021-11-15",
+        "2021-11-16"
       ]
     },
     {
@@ -1853,7 +1855,8 @@
         "2021-11-10",
         "2021-11-12",
         "2021-11-14",
-        "2021-11-15"
+        "2021-11-15",
+        "2021-11-16"
       ]
     },
     {
@@ -1867,7 +1870,8 @@
         "2021-08-23",
         "2021-08-25",
         "2021-09-09",
-        "2021-09-30"
+        "2021-09-30",
+        "2021-11-16"
       ]
     },
     {
@@ -1896,7 +1900,8 @@
         "2021-09-26",
         "2021-10-05",
         "2021-10-14",
-        "2021-10-31"
+        "2021-10-31",
+        "2021-11-16"
       ]
     },
     {
@@ -1962,6 +1967,7 @@
       "type": "yin-and-yang",
       "text": "Get the same time as another person but with flipped seconds",
       "dates": [
+        "2021-11-16",
         "2021-11-04",
         "2021-11-02",
         "2021-11-01",

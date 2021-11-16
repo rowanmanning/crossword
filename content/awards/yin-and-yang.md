@@ -35,8 +35,9 @@
     },
     {
       "person": "apaleslimghost",
-      "count": 6,
+      "count": 7,
       "dates": [
+        "2021-11-16",
         "2021-11-04",
         "2021-11-02",
         "2021-11-01",
@@ -156,7 +157,14 @@
       "dates": [
         "2021-11-11"
       ]
+    },
+    {
+      "person": "binaryberry",
+      "count": 1,
+      "dates": [
+        "2021-11-16"
+      ]
     }
   ],
-  "totalUnlocks": 63
+  "totalUnlocks": 65
 }
