@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "leaf",
+      "leaderboard": "2021-11-17",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "leaf",
       "leaderboard": "2021-11-16",
       "minutes": 0,
       "seconds": 24,
@@ -1513,7 +1523,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 351,
+  "awardCount": 353,
   "awards": [
     {
       "title": "Gold",
@@ -1526,7 +1536,8 @@
         "2021-10-19",
         "2021-10-20",
         "2021-10-26",
-        "2021-11-07"
+        "2021-11-07",
+        "2021-11-16"
       ]
     },
     {
@@ -1998,6 +2009,14 @@
         "2021-10-11",
         "2021-10-18",
         "2021-10-29",
+        "2021-11-16"
+      ]
+    },
+    {
+      "title": "Twinning In Gold",
+      "type": "twinning-in-gold",
+      "text": "Get the twinning award and the fastest time for a day",
+      "dates": [
         "2021-11-16"
       ]
     },
