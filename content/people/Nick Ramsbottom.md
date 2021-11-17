@@ -5,12 +5,12 @@
     {
       "person": "Nick Ramsbottom",
       "leaderboard": "2021-11-17",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 4,
+      "seconds": 8,
+      "totalSeconds": 248,
+      "position": 1,
+      "scrapeTime": "2021-11-17T03:33:55.782Z",
+      "isPending": false
     },
     {
       "person": "Nick Ramsbottom",
@@ -917,13 +917,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 3,
-    "totalSeconds": 123,
+    "seconds": 5,
+    "totalSeconds": 125,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 140,
+  "awardCount": 142,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -1006,7 +1006,8 @@
         "2021-10-23",
         "2021-10-25",
         "2021-10-28",
-        "2021-11-06"
+        "2021-11-06",
+        "2021-11-17"
       ]
     },
     {
@@ -1182,6 +1183,14 @@
         "2021-09-22",
         "2021-10-04",
         "2021-10-11"
+      ]
+    },
+    {
+      "title": "Quick Draw",
+      "type": "quick-draw",
+      "text": "Complete a puzzle before anyone else (or within 30 minutes of the first person)",
+      "dates": [
+        "2021-11-17"
       ]
     }
   ]
