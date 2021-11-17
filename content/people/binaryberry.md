@@ -8,7 +8,7 @@
       "minutes": 4,
       "seconds": 3,
       "totalSeconds": 243,
-      "position": 5,
+      "position": 6,
       "scrapeTime": "2021-11-17T08:02:21.023Z",
       "isPending": false
     },
@@ -1523,7 +1523,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 133,
+  "awardCount": 134,
   "awards": [
     {
       "title": "Bronze",
@@ -1733,7 +1733,8 @@
       "text": "Get the same time as another person",
       "dates": [
         "2021-10-20",
-        "2021-11-05"
+        "2021-11-05",
+        "2021-11-17"
       ]
     },
     {
