@@ -77,6 +77,14 @@
       ]
     },
     {
+      "person": "binaryberry",
+      "count": 2,
+      "dates": [
+        "2021-10-31",
+        "2021-11-18"
+      ]
+    },
+    {
       "person": "Lily2point0",
       "count": 1,
       "dates": [
@@ -112,13 +120,6 @@
       ]
     },
     {
-      "person": "binaryberry",
-      "count": 1,
-      "dates": [
-        "2021-10-31"
-      ]
-    },
-    {
       "person": "Alice Bartlett",
       "count": 1,
       "dates": [
@@ -126,5 +127,5 @@
       ]
     }
   ],
-  "totalUnlocks": 31
+  "totalUnlocks": 32
 }

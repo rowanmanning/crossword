@@ -5,6 +5,15 @@
   "order": "521",
   "unlocks": [
     {
+      "person": "Emma L",
+      "count": 3,
+      "dates": [
+        "2021-11-14",
+        "2021-11-15",
+        "2021-11-18"
+      ]
+    },
+    {
       "person": "Lily2point0",
       "count": 3,
       "dates": [
@@ -14,18 +23,19 @@
       ]
     },
     {
-      "person": "Emma L",
+      "person": "binaryberry",
       "count": 2,
       "dates": [
-        "2021-11-14",
-        "2021-11-15"
+        "2021-11-13",
+        "2021-11-18"
       ]
     },
     {
-      "person": "binaryberry",
-      "count": 1,
+      "person": "Nick Ramsbottom",
+      "count": 2,
       "dates": [
-        "2021-11-13"
+        "2021-11-17",
+        "2021-11-18"
       ]
     },
     {
@@ -34,14 +44,7 @@
       "dates": [
         "2021-11-14"
       ]
-    },
-    {
-      "person": "Nick Ramsbottom",
-      "count": 1,
-      "dates": [
-        "2021-11-17"
-      ]
     }
   ],
-  "totalUnlocks": 8
+  "totalUnlocks": 11
 }

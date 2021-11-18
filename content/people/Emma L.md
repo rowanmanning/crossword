@@ -5,12 +5,12 @@
     {
       "person": "Emma L",
       "leaderboard": "2021-11-18",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 13,
+      "totalSeconds": 73,
+      "position": 1,
+      "scrapeTime": "2021-11-18T06:36:22.169Z",
+      "isPending": false
     },
     {
       "person": "Emma L",
@@ -1183,7 +1183,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 388,
+  "awardCount": 390,
   "awards": [
     {
       "title": "Gold",
@@ -1467,7 +1467,8 @@
         "2021-11-14",
         "2021-11-15",
         "2021-11-16",
-        "2021-11-17"
+        "2021-11-17",
+        "2021-11-18"
       ]
     },
     {
@@ -1780,7 +1781,8 @@
       "text": "Complete a puzzle before anyone else (or within 30 minutes of the first person)",
       "dates": [
         "2021-11-14",
-        "2021-11-15"
+        "2021-11-15",
+        "2021-11-18"
       ]
     }
   ]

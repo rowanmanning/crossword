@@ -5,12 +5,12 @@
     {
       "person": "binaryberry",
       "leaderboard": "2021-11-18",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 39,
+      "totalSeconds": 99,
+      "position": 2,
+      "scrapeTime": "2021-11-18T06:36:22.169Z",
+      "isPending": false
     },
     {
       "person": "binaryberry",
@@ -1533,7 +1533,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 134,
+  "awardCount": 138,
   "awards": [
     {
       "title": "Bronze",
@@ -1577,7 +1577,8 @@
         "2021-11-02",
         "2021-11-07",
         "2021-11-14",
-        "2021-11-16"
+        "2021-11-16",
+        "2021-11-18"
       ]
     },
     {
@@ -1653,7 +1654,8 @@
         "2021-11-10",
         "2021-11-12",
         "2021-11-14",
-        "2021-11-16"
+        "2021-11-16",
+        "2021-11-18"
       ]
     },
     {
@@ -1726,7 +1728,8 @@
       "type": "week-streak",
       "text": "Play for a full week without breaks",
       "dates": [
-        "2021-10-31"
+        "2021-10-31",
+        "2021-11-18"
       ]
     },
     {
@@ -1813,7 +1816,8 @@
       "type": "quick-draw",
       "text": "Complete a puzzle before anyone else (or within 30 minutes of the first person)",
       "dates": [
-        "2021-11-13"
+        "2021-11-13",
+        "2021-11-18"
       ]
     }
   ]
