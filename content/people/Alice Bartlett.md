@@ -133,7 +133,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 28,
+  "awardCount": 29,
   "awards": [
     {
       "title": "Silver",
@@ -243,6 +243,14 @@
       "text": "Play for a full week without breaks",
       "dates": [
         "2021-11-14"
+      ]
+    },
+    {
+      "title": "Twinning",
+      "type": "twinning",
+      "text": "Get the same time as another person",
+      "dates": [
+        "2021-11-18"
       ]
     },
     {
