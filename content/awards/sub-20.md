@@ -14,6 +14,15 @@
       ]
     },
     {
+      "person": "Rowan M",
+      "count": 3,
+      "dates": [
+        "2021-08-02",
+        "2021-09-23",
+        "2021-11-18"
+      ]
+    },
+    {
       "person": "leaf",
       "count": 3,
       "dates": [
@@ -31,14 +40,6 @@
       ]
     },
     {
-      "person": "Rowan M",
-      "count": 2,
-      "dates": [
-        "2021-08-02",
-        "2021-09-23"
-      ]
-    },
-    {
       "person": "Emma L",
       "count": 1,
       "dates": [
@@ -53,5 +54,5 @@
       ]
     }
   ],
-  "totalUnlocks": 12
+  "totalUnlocks": 13
 }
