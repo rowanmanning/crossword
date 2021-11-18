@@ -5,12 +5,12 @@
     {
       "person": "Alice Bartlett",
       "leaderboard": "2021-11-18",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 1,
+      "totalSeconds": 61,
+      "position": 3,
+      "scrapeTime": "2021-11-18T09:33:56.042Z",
+      "isPending": false
     },
     {
       "person": "Alice Bartlett",
@@ -127,13 +127,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 53,
-    "totalSeconds": 113,
+    "seconds": 49,
+    "totalSeconds": 109,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 25,
+  "awardCount": 28,
   "awards": [
     {
       "title": "Silver",
@@ -157,7 +157,8 @@
       "text": "Half your completion time from one day to the next",
       "dates": [
         "2021-11-11",
-        "2021-11-14"
+        "2021-11-14",
+        "2021-11-18"
       ]
     },
     {
@@ -165,7 +166,8 @@
       "type": "quarter-time",
       "text": "Quarter your completion time from one day to the next",
       "dates": [
-        "2021-11-14"
+        "2021-11-14",
+        "2021-11-18"
       ]
     },
     {
@@ -189,7 +191,8 @@
         "2021-11-11",
         "2021-11-12",
         "2021-11-14",
-        "2021-11-15"
+        "2021-11-15",
+        "2021-11-18"
       ]
     },
     {
