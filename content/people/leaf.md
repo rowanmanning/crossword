@@ -5,12 +5,12 @@
     {
       "person": "leaf",
       "leaderboard": "2021-11-19",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 7,
+      "totalSeconds": 127,
+      "position": 12,
+      "scrapeTime": "2021-11-19T15:35:17.318Z",
+      "isPending": false
     },
     {
       "person": "leaf",
@@ -1537,8 +1537,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 25,
-    "totalSeconds": 85,
+    "seconds": 26,
+    "totalSeconds": 86,
     "position": null,
     "scrapeTime": null,
     "isPending": false
