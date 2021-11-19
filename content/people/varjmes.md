@@ -5,12 +5,12 @@
     {
       "person": "varjmes",
       "leaderboard": "2021-11-19",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 9,
+      "totalSeconds": 69,
+      "position": 9,
+      "scrapeTime": "2021-11-19T10:02:14.087Z",
+      "isPending": false
     },
     {
       "person": "varjmes",
@@ -1543,7 +1543,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 410,
+  "awardCount": 413,
   "awards": [
     {
       "title": "Gold",
@@ -1756,7 +1756,8 @@
         "2021-10-30",
         "2021-11-06",
         "2021-11-13",
-        "2021-11-17"
+        "2021-11-17",
+        "2021-11-19"
       ]
     },
     {
@@ -1879,7 +1880,8 @@
         "2021-11-14",
         "2021-11-15",
         "2021-11-16",
-        "2021-11-18"
+        "2021-11-18",
+        "2021-11-19"
       ]
     },
     {
@@ -2112,6 +2114,14 @@
       "text": "Join us",
       "dates": [
         "2021-10-14"
+      ]
+    },
+    {
+      "title": "Nice",
+      "type": "nice",
+      "text": "Nice…",
+      "dates": [
+        "2021-11-19"
       ]
     },
     {
