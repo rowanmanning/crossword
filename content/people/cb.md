@@ -5,12 +5,12 @@
     {
       "person": "cb",
       "leaderboard": "2021-11-19",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 20,
+      "totalSeconds": 20,
+      "position": 1,
+      "scrapeTime": "2021-11-19T21:32:32.326Z",
+      "isPending": false
     },
     {
       "person": "cb",
@@ -1445,25 +1445,25 @@
   ],
   "best": {
     "person": "cb",
-    "leaderboard": "2021-08-10",
+    "leaderboard": "2021-11-19",
     "minutes": 0,
     "seconds": 20,
     "totalSeconds": 20,
     "position": 1,
-    "scrapeTime": null,
+    "scrapeTime": "2021-11-19T21:32:32.326Z",
     "isPending": false
   },
   "mean": {
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 54,
-    "totalSeconds": 54,
+    "seconds": 53,
+    "totalSeconds": 53,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 554,
+  "awardCount": 559,
   "awards": [
     {
       "title": "Gold",
@@ -1664,7 +1664,8 @@
         "2021-10-27",
         "2021-10-31",
         "2021-11-07",
-        "2021-11-14"
+        "2021-11-14",
+        "2021-11-19"
       ]
     },
     {
@@ -1852,7 +1853,8 @@
         "2021-11-15",
         "2021-11-16",
         "2021-11-17",
-        "2021-11-18"
+        "2021-11-18",
+        "2021-11-19"
       ]
     },
     {
@@ -1960,7 +1962,8 @@
         "2021-11-12",
         "2021-11-14",
         "2021-11-15",
-        "2021-11-16"
+        "2021-11-16",
+        "2021-11-19"
       ]
     },
     {
@@ -2043,7 +2046,8 @@
         "2021-11-11",
         "2021-11-12",
         "2021-11-14",
-        "2021-11-15"
+        "2021-11-15",
+        "2021-11-19"
       ]
     },
     {
@@ -2079,7 +2083,8 @@
         "2021-11-07",
         "2021-11-09",
         "2021-11-14",
-        "2021-11-15"
+        "2021-11-15",
+        "2021-11-19"
       ]
     },
     {
