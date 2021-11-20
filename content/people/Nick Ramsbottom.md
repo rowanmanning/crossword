@@ -5,12 +5,12 @@
     {
       "person": "Nick Ramsbottom",
       "leaderboard": "2021-11-20",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 6,
+      "seconds": 2,
+      "totalSeconds": 362,
+      "position": 6,
+      "scrapeTime": "2021-11-20T08:35:30.436Z",
+      "isPending": false
     },
     {
       "person": "Nick Ramsbottom",
@@ -947,13 +947,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 4,
-    "totalSeconds": 124,
+    "seconds": 7,
+    "totalSeconds": 127,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 147,
+  "awardCount": 150,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -1038,7 +1038,8 @@
         "2021-10-25",
         "2021-10-28",
         "2021-11-06",
-        "2021-11-17"
+        "2021-11-17",
+        "2021-11-20"
       ]
     },
     {
@@ -1132,7 +1133,8 @@
         "2021-08-21",
         "2021-09-25",
         "2021-10-10",
-        "2021-11-06"
+        "2021-11-06",
+        "2021-11-20"
       ]
     },
     {
@@ -1152,7 +1154,8 @@
       "text": "Play for a full week without breaks",
       "dates": [
         "2021-08-26",
-        "2021-09-25"
+        "2021-09-25",
+        "2021-11-20"
       ]
     },
     {
