@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "cb",
+      "leaderboard": "2021-11-20",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "cb",
       "leaderboard": "2021-11-19",
       "minutes": 0,
       "seconds": 20,
@@ -1463,7 +1473,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 559,
+  "awardCount": 561,
   "awards": [
     {
       "title": "Gold",
@@ -1504,7 +1514,8 @@
         "2021-11-08",
         "2021-11-09",
         "2021-11-13",
-        "2021-11-15"
+        "2021-11-15",
+        "2021-11-19"
       ]
     },
     {
@@ -2239,6 +2250,14 @@
       "text": "What's your emergency?",
       "dates": [
         "2021-09-21"
+      ]
+    },
+    {
+      "title": "Slow and Steady",
+      "type": "slow-and-steady",
+      "text": "Complete a puzzle after everyone else but with the fastest time",
+      "dates": [
+        "2021-11-19"
       ]
     }
   ]
