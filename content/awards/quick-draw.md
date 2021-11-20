@@ -15,19 +15,20 @@
       ]
     },
     {
+      "person": "binaryberry",
+      "count": 3,
+      "dates": [
+        "2021-11-13",
+        "2021-11-18",
+        "2021-11-20"
+      ]
+    },
+    {
       "person": "Emma L",
       "count": 3,
       "dates": [
         "2021-11-14",
         "2021-11-15",
-        "2021-11-18"
-      ]
-    },
-    {
-      "person": "binaryberry",
-      "count": 2,
-      "dates": [
-        "2021-11-13",
         "2021-11-18"
       ]
     },
@@ -47,5 +48,5 @@
       ]
     }
   ],
-  "totalUnlocks": 12
+  "totalUnlocks": 13
 }

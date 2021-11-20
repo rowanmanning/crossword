@@ -5,12 +5,12 @@
     {
       "person": "binaryberry",
       "leaderboard": "2021-11-20",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 4,
+      "seconds": 13,
+      "totalSeconds": 253,
+      "position": 1,
+      "scrapeTime": "2021-11-20T05:31:51.723Z",
+      "isPending": false
     },
     {
       "person": "binaryberry",
@@ -1547,13 +1547,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 37,
-    "totalSeconds": 157,
+    "seconds": 38,
+    "totalSeconds": 158,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 139,
+  "awardCount": 141,
   "awards": [
     {
       "title": "Bronze",
@@ -1635,7 +1635,8 @@
         "2021-11-01",
         "2021-11-13",
         "2021-11-15",
-        "2021-11-17"
+        "2021-11-17",
+        "2021-11-20"
       ]
     },
     {
@@ -1838,7 +1839,8 @@
       "text": "Complete a puzzle before anyone else (or within 30 minutes of the first person)",
       "dates": [
         "2021-11-13",
-        "2021-11-18"
+        "2021-11-18",
+        "2021-11-20"
       ]
     }
   ]
