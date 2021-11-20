@@ -5,6 +5,16 @@
   "order": "521",
   "unlocks": [
     {
+      "person": "Emma L",
+      "count": 4,
+      "dates": [
+        "2021-11-14",
+        "2021-11-15",
+        "2021-11-18",
+        "2021-11-21"
+      ]
+    },
+    {
       "person": "Lily2point0",
       "count": 4,
       "dates": [
@@ -24,15 +34,6 @@
       ]
     },
     {
-      "person": "Emma L",
-      "count": 3,
-      "dates": [
-        "2021-11-14",
-        "2021-11-15",
-        "2021-11-18"
-      ]
-    },
-    {
       "person": "Nick Ramsbottom",
       "count": 2,
       "dates": [
@@ -48,5 +49,5 @@
       ]
     }
   ],
-  "totalUnlocks": 13
+  "totalUnlocks": 14
 }
