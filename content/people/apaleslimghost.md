@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "apaleslimghost",
+      "leaderboard": "2021-11-21",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "apaleslimghost",
       "leaderboard": "2021-11-20",
       "minutes": 2,
       "seconds": 19,
@@ -1543,7 +1553,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 347,
+  "awardCount": 348,
   "awards": [
     {
       "title": "Gold",
@@ -1555,7 +1565,8 @@
         "2021-08-18",
         "2021-09-09",
         "2021-09-30",
-        "2021-11-16"
+        "2021-11-16",
+        "2021-11-20"
       ]
     },
     {
