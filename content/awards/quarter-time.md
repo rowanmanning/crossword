@@ -176,10 +176,11 @@
     },
     {
       "person": "Alice Bartlett",
-      "count": 2,
+      "count": 3,
       "dates": [
         "2021-11-14",
-        "2021-11-18"
+        "2021-11-18",
+        "2021-11-21"
       ]
     },
     {
@@ -197,5 +198,5 @@
       ]
     }
   ],
-  "totalUnlocks": 96
+  "totalUnlocks": 97
 }

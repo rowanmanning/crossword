@@ -5,12 +5,12 @@
     {
       "person": "Alice Bartlett",
       "leaderboard": "2021-11-21",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 56,
+      "totalSeconds": 56,
+      "position": 3,
+      "scrapeTime": "2021-11-21T07:32:04.453Z",
+      "isPending": false
     },
     {
       "person": "Alice Bartlett",
@@ -157,13 +157,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 24,
-    "totalSeconds": 144,
+    "seconds": 18,
+    "totalSeconds": 138,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 33,
+  "awardCount": 38,
   "awards": [
     {
       "title": "Silver",
@@ -188,7 +188,8 @@
       "dates": [
         "2021-11-11",
         "2021-11-14",
-        "2021-11-18"
+        "2021-11-18",
+        "2021-11-21"
       ]
     },
     {
@@ -197,7 +198,8 @@
       "text": "Quarter your completion time from one day to the next",
       "dates": [
         "2021-11-14",
-        "2021-11-18"
+        "2021-11-18",
+        "2021-11-21"
       ]
     },
     {
@@ -224,7 +226,8 @@
         "2021-11-14",
         "2021-11-15",
         "2021-11-18",
-        "2021-11-19"
+        "2021-11-19",
+        "2021-11-21"
       ]
     },
     {
@@ -235,7 +238,8 @@
         "2021-11-09",
         "2021-11-10",
         "2021-11-11",
-        "2021-11-19"
+        "2021-11-19",
+        "2021-11-21"
       ]
     },
     {
@@ -284,7 +288,8 @@
       "type": "twinning",
       "text": "Get the same time as another person",
       "dates": [
-        "2021-11-18"
+        "2021-11-18",
+        "2021-11-21"
       ]
     },
     {
