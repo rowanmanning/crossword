@@ -80,6 +80,14 @@
       ]
     },
     {
+      "person": "varjmes",
+      "count": 2,
+      "dates": [
+        "2021-08-03",
+        "2021-11-21"
+      ]
+    },
+    {
       "person": "ivo",
       "count": 2,
       "dates": [
@@ -93,13 +101,6 @@
       "dates": [
         "2021-10-16",
         "2021-11-05"
-      ]
-    },
-    {
-      "person": "varjmes",
-      "count": 1,
-      "dates": [
-        "2021-08-03"
       ]
     },
     {
@@ -117,5 +118,5 @@
       ]
     }
   ],
-  "totalUnlocks": 40
+  "totalUnlocks": 41
 }

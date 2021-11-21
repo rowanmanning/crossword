@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "varjmes",
+      "leaderboard": "2021-11-22",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "varjmes",
       "leaderboard": "2021-11-21",
       "minutes": 1,
       "seconds": 3,
@@ -1563,7 +1573,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 416,
+  "awardCount": 417,
   "awards": [
     {
       "title": "Gold",
@@ -2181,7 +2191,8 @@
       "type": "emergency",
       "text": "What's your emergency?",
       "dates": [
-        "2021-08-03"
+        "2021-08-03",
+        "2021-11-21"
       ]
     }
   ]
