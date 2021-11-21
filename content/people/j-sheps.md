@@ -5,12 +5,12 @@
     {
       "person": "j-sheps",
       "leaderboard": "2021-11-22",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 48,
+      "totalSeconds": 168,
+      "position": 1,
+      "scrapeTime": "2021-11-21T23:33:13.281Z",
+      "isPending": false
     },
     {
       "person": "j-sheps",
@@ -1573,7 +1573,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 466,
+  "awardCount": 468,
   "awards": [
     {
       "title": "Gold",
@@ -1790,7 +1790,8 @@
         "2021-11-08",
         "2021-11-13",
         "2021-11-17",
-        "2021-11-20"
+        "2021-11-20",
+        "2021-11-22"
       ]
     },
     {
@@ -2255,7 +2256,8 @@
       "type": "quick-draw",
       "text": "Complete a puzzle before anyone else (or within 30 minutes of the first person)",
       "dates": [
-        "2021-11-14"
+        "2021-11-14",
+        "2021-11-22"
       ]
     }
   ]
