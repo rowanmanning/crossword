@@ -5,12 +5,12 @@
     {
       "person": "Nick Ramsbottom",
       "leaderboard": "2021-11-21",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 48,
+      "totalSeconds": 48,
+      "position": 1,
+      "scrapeTime": "2021-11-21T06:02:18.410Z",
+      "isPending": false
     },
     {
       "person": "Nick Ramsbottom",
@@ -957,13 +957,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 7,
-    "totalSeconds": 127,
+    "seconds": 6,
+    "totalSeconds": 126,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 150,
+  "awardCount": 154,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -1019,7 +1019,8 @@
         "2021-10-31",
         "2021-11-07",
         "2021-11-10",
-        "2021-11-19"
+        "2021-11-19",
+        "2021-11-21"
       ]
     },
     {
@@ -1028,7 +1029,8 @@
       "text": "Quarter your completion time from one day to the next",
       "dates": [
         "2021-10-11",
-        "2021-10-24"
+        "2021-10-24",
+        "2021-11-21"
       ]
     },
     {
@@ -1115,7 +1117,8 @@
         "2021-11-14",
         "2021-11-15",
         "2021-11-16",
-        "2021-11-19"
+        "2021-11-19",
+        "2021-11-21"
       ]
     },
     {
@@ -1132,7 +1135,8 @@
         "2021-11-04",
         "2021-11-10",
         "2021-11-11",
-        "2021-11-19"
+        "2021-11-19",
+        "2021-11-21"
       ]
     },
     {
