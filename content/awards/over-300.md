@@ -79,6 +79,14 @@
       ]
     },
     {
+      "person": "leaf",
+      "count": 2,
+      "dates": [
+        "2021-10-23",
+        "2021-11-22"
+      ]
+    },
+    {
       "person": "Alice Bartlett",
       "count": 2,
       "dates": [
@@ -99,14 +107,7 @@
       "dates": [
         "2021-07-31"
       ]
-    },
-    {
-      "person": "leaf",
-      "count": 1,
-      "dates": [
-        "2021-10-23"
-      ]
     }
   ],
-  "totalUnlocks": 37
+  "totalUnlocks": 38
 }

@@ -5,12 +5,12 @@
     {
       "person": "leaf",
       "leaderboard": "2021-11-22",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 6,
+      "seconds": 50,
+      "totalSeconds": 410,
+      "position": 13,
+      "scrapeTime": "2021-11-22T23:33:20.812Z",
+      "isPending": false
     },
     {
       "person": "leaf",
@@ -1567,13 +1567,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 27,
-    "totalSeconds": 87,
+    "seconds": 29,
+    "totalSeconds": 89,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 360,
+  "awardCount": 362,
   "awards": [
     {
       "title": "Gold",
@@ -1752,7 +1752,8 @@
         "2021-11-06",
         "2021-11-08",
         "2021-11-17",
-        "2021-11-20"
+        "2021-11-20",
+        "2021-11-22"
       ]
     },
     {
@@ -2003,7 +2004,8 @@
       "type": "over-300",
       "text": "Complete a puzzle in more than 5 minutes",
       "dates": [
-        "2021-10-23"
+        "2021-10-23",
+        "2021-11-22"
       ]
     },
     {
