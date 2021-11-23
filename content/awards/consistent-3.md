@@ -48,6 +48,14 @@
       ]
     },
     {
+      "person": "ivo",
+      "count": 2,
+      "dates": [
+        "2021-11-08",
+        "2021-11-22"
+      ]
+    },
+    {
       "person": "varjmes",
       "count": 1,
       "dates": [
@@ -60,14 +68,7 @@
       "dates": [
         "2021-07-16"
       ]
-    },
-    {
-      "person": "ivo",
-      "count": 1,
-      "dates": [
-        "2021-11-08"
-      ]
     }
   ],
-  "totalUnlocks": 16
+  "totalUnlocks": 17
 }
