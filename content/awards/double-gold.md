@@ -51,17 +51,18 @@
       ]
     },
     {
+      "person": "Emma L",
+      "count": 2,
+      "dates": [
+        "2021-09-06",
+        "2021-11-23"
+      ]
+    },
+    {
       "person": "Oliver Turner",
       "count": 1,
       "dates": [
         "2021-07-04"
-      ]
-    },
-    {
-      "person": "Emma L",
-      "count": 1,
-      "dates": [
-        "2021-09-06"
       ]
     },
     {
@@ -72,5 +73,5 @@
       ]
     }
   ],
-  "totalUnlocks": 25
+  "totalUnlocks": 26
 }
