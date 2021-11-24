@@ -6,13 +6,14 @@
   "unlocks": [
     {
       "person": "Lily2point0",
-      "count": 5,
+      "count": 6,
       "dates": [
         "2021-11-14",
         "2021-11-15",
         "2021-11-16",
         "2021-11-19",
-        "2021-11-22"
+        "2021-11-22",
+        "2021-11-24"
       ]
     },
     {
@@ -45,12 +46,20 @@
     },
     {
       "person": "Nick Ramsbottom",
-      "count": 2,
+      "count": 3,
       "dates": [
         "2021-11-17",
-        "2021-11-18"
+        "2021-11-18",
+        "2021-11-24"
+      ]
+    },
+    {
+      "person": "apaleslimghost",
+      "count": 1,
+      "dates": [
+        "2021-11-24"
       ]
     }
   ],
-  "totalUnlocks": 17
+  "totalUnlocks": 20
 }
