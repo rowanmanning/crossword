@@ -44,6 +44,7 @@ module.exports = {
 	SubThirtySecondsAward: require('./awards/sub-30'),
 	SubTwentySecondsAward: require('./awards/sub-20'),
 	OverFiveMinutesAward: require('./awards/over-300'),
+	OverTenMinutesAward: require('./awards/over-600'),
 	NiceTryJoelAward: require('./awards/nice-try-joel'),
 
 	// Chaining awards
