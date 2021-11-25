@@ -17,7 +17,7 @@ module.exports = class HalfTimeAward extends TimeDifferenceAward {
 	}
 
 	isValidTimeMultiplier(timeMultiplier) {
-		return timeMultiplier <= 0.5;
+		return timeMultiplier <= 0.5 && timeMultiplier > 0.25;
 	}
 
 };

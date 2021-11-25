@@ -1593,7 +1593,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 255,
+  "awardCount": 251,
   "awards": [
     {
       "title": "Gold",
@@ -1690,17 +1690,13 @@
       "type": "half-time",
       "text": "Half your completion time from one day to the next",
       "dates": [
-        "2021-07-05",
-        "2021-07-11",
         "2021-07-18",
-        "2021-08-01",
         "2021-08-02",
         "2021-08-20",
         "2021-08-23",
         "2021-08-25",
         "2021-09-16",
         "2021-09-26",
-        "2021-09-30",
         "2021-10-17",
         "2021-10-31",
         "2021-11-07",

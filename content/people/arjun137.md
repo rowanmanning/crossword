@@ -1583,15 +1583,14 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 14,
+  "awardCount": 13,
   "awards": [
     {
       "title": "Half Time",
       "type": "half-time",
       "text": "Half your completion time from one day to the next",
       "dates": [
-        "2021-06-28",
-        "2021-07-13"
+        "2021-06-28"
       ]
     },
     {

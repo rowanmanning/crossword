@@ -1603,7 +1603,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 100,
+  "awardCount": 99,
   "awards": [
     {
       "title": "Bronze",
@@ -1659,7 +1659,6 @@
       "text": "Half your completion time from one day to the next",
       "dates": [
         "2021-06-29",
-        "2021-07-05",
         "2021-07-13",
         "2021-07-20",
         "2021-07-23",
