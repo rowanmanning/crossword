@@ -6,12 +6,11 @@
   "unlocks": [
     {
       "person": "j-sheps",
-      "count": 4,
+      "count": 3,
       "dates": [
         "2021-08-23",
         "2021-10-13",
-        "2021-10-18",
-        "2021-10-22"
+        "2021-10-18"
       ]
     },
     {
@@ -47,14 +46,6 @@
       ]
     },
     {
-      "person": "Emma L",
-      "count": 2,
-      "dates": [
-        "2021-10-18",
-        "2021-10-22"
-      ]
-    },
-    {
       "person": "Ania",
       "count": 1,
       "dates": [
@@ -76,26 +67,12 @@
       ]
     },
     {
-      "person": "cb",
+      "person": "Emma L",
       "count": 1,
       "dates": [
-        "2021-10-22"
-      ]
-    },
-    {
-      "person": "Lily2point0",
-      "count": 1,
-      "dates": [
-        "2021-10-22"
-      ]
-    },
-    {
-      "person": "Oliver Turner",
-      "count": 1,
-      "dates": [
-        "2021-10-22"
+        "2021-10-18"
       ]
     }
   ],
-  "totalUnlocks": 20
+  "totalUnlocks": 15
 }

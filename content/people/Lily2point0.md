@@ -1603,7 +1603,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 333,
+  "awardCount": 330,
   "awards": [
     {
       "title": "Gold",
@@ -2033,26 +2033,9 @@
         "2021-09-03",
         "2021-09-30",
         "2021-10-18",
-        "2021-10-22",
         "2021-11-05",
         "2021-11-06",
         "2021-11-21"
-      ]
-    },
-    {
-      "title": "Tripleting",
-      "type": "tripleting",
-      "text": "Get the same time as two other people",
-      "dates": [
-        "2021-10-22"
-      ]
-    },
-    {
-      "title": "Quadrupleting",
-      "type": "quadrupleting",
-      "text": "Get the same time as three other people",
-      "dates": [
-        "2021-10-22"
       ]
     },
     {

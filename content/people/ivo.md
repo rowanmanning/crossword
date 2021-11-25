@@ -753,7 +753,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 189,
+  "awardCount": 188,
   "awards": [
     {
       "title": "Gold",
@@ -1052,7 +1052,6 @@
       "text": "Get the same time as another person",
       "dates": [
         "2021-09-27",
-        "2021-10-12",
         "2021-10-18",
         "2021-10-21",
         "2021-11-02",

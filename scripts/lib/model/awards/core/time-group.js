@@ -13,7 +13,7 @@ module.exports = class TimeGroupAward extends BaseAward {
 			.timesExcludingPending
 			.filter(time => {
 				return time.leaderboard.times
-					.filter(({position}) => position === time.position).length >= this.groupSize;
+					.filter(({position}) => position === time.position).length == this.groupSize;
 			});
 		if (instances.length) {
 			return instances.map(({leaderboard}) => leaderboard.date);
