@@ -2,7 +2,7 @@
   "title": "Don't Panic",
   "id": "dont-panic",
   "text": "A towel is about the most massively useful thing an interstellar hitchhiker can have",
-  "order": "451",
+  "order": "501",
   "unlocks": [
     {
       "person": "j-sheps",

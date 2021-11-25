@@ -2,7 +2,7 @@
   "title": "Slow and Steady",
   "id": "slow-and-steady",
   "text": "Complete a puzzle after everyone else but with the fastest time",
-  "order": "531",
+  "order": "581",
   "unlocks": [
     {
       "person": "cb",

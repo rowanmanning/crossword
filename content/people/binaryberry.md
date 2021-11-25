@@ -1603,7 +1603,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 147,
+  "awardCount": 149,
   "awards": [
     {
       "title": "Bronze",
@@ -1778,6 +1778,22 @@
         "2021-07-22",
         "2021-08-19",
         "2021-11-01"
+      ]
+    },
+    {
+      "title": "Chain 3",
+      "type": "chain-3",
+      "text": "Participate in a chain of three sequential times",
+      "dates": [
+        "2021-10-19"
+      ]
+    },
+    {
+      "title": "Chain 4",
+      "type": "chain-4",
+      "text": "Participate in a chain of four sequential times",
+      "dates": [
+        "2021-11-16"
       ]
     },
     {

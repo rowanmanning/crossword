@@ -2,7 +2,7 @@
   "title": "Month-Long Streak",
   "id": "month-streak",
   "text": "Play for a full month (30 days) without breaks",
-  "order": "311",
+  "order": "361",
   "unlocks": [
     {
       "person": "cb",

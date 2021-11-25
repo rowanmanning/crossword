@@ -2,7 +2,7 @@
   "title": "Nice Try, Joel",
   "id": "nice-try-joel",
   "text": "Complete a puzzle in less than a minute on a Saturday",
-  "order": "281",
+  "order": "291",
   "unlocks": [
     {
       "person": "itsalex",

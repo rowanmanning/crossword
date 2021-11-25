@@ -2,7 +2,7 @@
   "title": "Holiday",
   "id": "holiday",
   "text": "Come back to the crossword after a week off",
-  "order": "331",
+  "order": "381",
   "unlocks": [
     {
       "person": "Oliver Turner",

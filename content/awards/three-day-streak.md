@@ -2,7 +2,7 @@
   "title": "Three Day Streak",
   "id": "three-day-streak",
   "text": "Play for three days in a row",
-  "order": "291",
+  "order": "341",
   "unlocks": [
     {
       "person": "joelcarr",

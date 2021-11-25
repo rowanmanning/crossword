@@ -1603,7 +1603,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 366,
+  "awardCount": 369,
   "awards": [
     {
       "title": "Gold",
@@ -2048,6 +2048,16 @@
       "text": "Complete a puzzle in less than a minute on a Saturday",
       "dates": [
         "2021-10-02"
+      ]
+    },
+    {
+      "title": "Chain 3",
+      "type": "chain-3",
+      "text": "Participate in a chain of three sequential times",
+      "dates": [
+        "2021-08-05",
+        "2021-11-03",
+        "2021-11-04"
       ]
     },
     {

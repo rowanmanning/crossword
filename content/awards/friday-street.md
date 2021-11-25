@@ -2,7 +2,7 @@
   "title": "1 Friday Street",
   "id": "friday-street",
   "text": "Get a time of exactly 1:00 on a Friday",
-  "order": "481",
+  "order": "531",
   "unlocks": [
     {
       "person": "varjmes",

@@ -2,7 +2,7 @@
   "title": "Quick Draw",
   "id": "quick-draw",
   "text": "Complete a puzzle before anyone else (or within 30 minutes of the first person)",
-  "order": "521",
+  "order": "571",
   "unlocks": [
     {
       "person": "Lily2point0",

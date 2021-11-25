@@ -2,7 +2,7 @@
   "title": "The Number of The Beast",
   "id": "beast",
   "text": "His number is six hundred and sixty-six",
-  "order": "491",
+  "order": "541",
   "unlocks": [
     {
       "person": "Rowan M",

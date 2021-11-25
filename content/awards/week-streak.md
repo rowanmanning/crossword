@@ -2,7 +2,7 @@
   "title": "Week-Long Streak",
   "id": "week-streak",
   "text": "Play for a full week without breaks",
-  "order": "301",
+  "order": "351",
   "unlocks": [
     {
       "person": "apaleslimghost",

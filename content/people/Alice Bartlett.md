@@ -203,7 +203,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 45,
+  "awardCount": 46,
   "awards": [
     {
       "title": "Silver",
@@ -309,6 +309,14 @@
       "text": "Complete a puzzle in more than 5 minutes",
       "dates": [
         "2021-11-13",
+        "2021-11-20"
+      ]
+    },
+    {
+      "title": "Over Ten Minutes",
+      "type": "over-600",
+      "text": "Complete a puzzle in more than 10 minutes",
+      "dates": [
         "2021-11-20"
       ]
     },
