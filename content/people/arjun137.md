@@ -1583,7 +1583,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 19,
+  "awardCount": 14,
   "awards": [
     {
       "title": "Half Time",
@@ -1617,11 +1617,8 @@
       "type": "sub-120",
       "text": "Complete a puzzle in less than two minutes",
       "dates": [
-        "2021-06-23",
         "2021-06-24",
-        "2021-06-28",
-        "2021-06-29",
-        "2021-07-13"
+        "2021-06-28"
       ]
     },
     {
@@ -1629,9 +1626,7 @@
       "type": "sub-60",
       "text": "Complete a puzzle in less than a minute",
       "dates": [
-        "2021-06-23",
-        "2021-06-29",
-        "2021-07-13"
+        "2021-06-29"
       ]
     },
     {

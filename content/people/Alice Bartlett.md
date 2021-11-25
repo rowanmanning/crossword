@@ -203,7 +203,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 46,
+  "awardCount": 37,
   "awards": [
     {
       "title": "Silver",
@@ -262,16 +262,10 @@
       "text": "Complete a puzzle in less than two minutes",
       "dates": [
         "2021-11-08",
-        "2021-11-09",
-        "2021-11-10",
-        "2021-11-11",
         "2021-11-12",
         "2021-11-14",
         "2021-11-15",
-        "2021-11-18",
-        "2021-11-19",
-        "2021-11-21",
-        "2021-11-23"
+        "2021-11-18"
       ]
     },
     {
@@ -281,18 +275,9 @@
       "dates": [
         "2021-11-09",
         "2021-11-10",
-        "2021-11-11",
         "2021-11-19",
         "2021-11-21",
         "2021-11-23"
-      ]
-    },
-    {
-      "title": "Sub 45 Seconds",
-      "type": "sub-45",
-      "text": "Complete a puzzle in less than 45 seconds",
-      "dates": [
-        "2021-11-11"
       ]
     },
     {
@@ -308,8 +293,7 @@
       "type": "over-300",
       "text": "Complete a puzzle in more than 5 minutes",
       "dates": [
-        "2021-11-13",
-        "2021-11-20"
+        "2021-11-13"
       ]
     },
     {

@@ -87,14 +87,6 @@
       ]
     },
     {
-      "person": "Alice Bartlett",
-      "count": 2,
-      "dates": [
-        "2021-11-13",
-        "2021-11-20"
-      ]
-    },
-    {
       "person": "apaleslimghost",
       "count": 1,
       "dates": [
@@ -107,7 +99,14 @@
       "dates": [
         "2021-07-31"
       ]
+    },
+    {
+      "person": "Alice Bartlett",
+      "count": 1,
+      "dates": [
+        "2021-11-13"
+      ]
     }
   ],
-  "totalUnlocks": 38
+  "totalUnlocks": 37
 }

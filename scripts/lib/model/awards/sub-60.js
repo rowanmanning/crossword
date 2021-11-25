@@ -1,8 +1,8 @@
 'use strict';
 
-const LessThanTimeAward = require('./core/less-than-time');
+const TimeRangeAward = require('./core/time-range');
 
-module.exports = class SubMinuteAward extends LessThanTimeAward {
+module.exports = class SubMinuteAward extends TimeRangeAward {
 
 	static get title() {
 		return 'Sub Minute';
@@ -16,8 +16,12 @@ module.exports = class SubMinuteAward extends LessThanTimeAward {
 		return 'Complete a puzzle in less than a minute';
 	}
 
-	get seconds() {
-		return 60;
+	get maxSeconds() {
+		return 59;
+	}
+
+	get minSeconds() {
+		return 45;
 	}
 
 };

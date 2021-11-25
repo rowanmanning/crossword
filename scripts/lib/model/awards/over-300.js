@@ -1,8 +1,8 @@
 'use strict';
 
-const GreaterThanTimeAward = require('./core/greater-than-time');
+const TimeRangeAward = require('./core/time-range');
 
-module.exports = class OverFiveMinutesAward extends GreaterThanTimeAward {
+module.exports = class OverFiveMinutesAward extends TimeRangeAward {
 
 	static get title() {
 		return 'Over Five Minutes';
@@ -16,8 +16,12 @@ module.exports = class OverFiveMinutesAward extends GreaterThanTimeAward {
 		return 'Complete a puzzle in more than 5 minutes';
 	}
 
-	get seconds() {
-		return 300;
+	get maxSeconds() {
+		return 600;
+	}
+
+	get minSeconds() {
+		return 301;
 	}
 
 };
