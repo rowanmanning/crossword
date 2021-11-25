@@ -5,12 +5,12 @@
     {
       "person": "cb",
       "leaderboard": "2021-11-25",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 16,
+      "totalSeconds": 16,
+      "position": 1,
+      "scrapeTime": "2021-11-25T17:36:45.834Z",
+      "isPending": false
     },
     {
       "person": "cb",
@@ -1505,12 +1505,12 @@
   ],
   "best": {
     "person": "cb",
-    "leaderboard": "2021-11-19",
+    "leaderboard": "2021-11-25",
     "minutes": 0,
-    "seconds": 20,
-    "totalSeconds": 20,
+    "seconds": 16,
+    "totalSeconds": 16,
     "position": 1,
-    "scrapeTime": "2021-11-19T21:32:32.326Z",
+    "scrapeTime": "2021-11-25T17:36:45.834Z",
     "isPending": false
   },
   "mean": {
@@ -1523,7 +1523,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 581,
+  "awardCount": 588,
   "awards": [
     {
       "title": "Gold",
@@ -1731,7 +1731,8 @@
         "2021-11-07",
         "2021-11-14",
         "2021-11-19",
-        "2021-11-21"
+        "2021-11-21",
+        "2021-11-25"
       ]
     },
     {
@@ -1927,7 +1928,8 @@
         "2021-11-21",
         "2021-11-22",
         "2021-11-23",
-        "2021-11-24"
+        "2021-11-24",
+        "2021-11-25"
       ]
     },
     {
@@ -2039,7 +2041,8 @@
         "2021-11-19",
         "2021-11-21",
         "2021-11-23",
-        "2021-11-24"
+        "2021-11-24",
+        "2021-11-25"
       ]
     },
     {
@@ -2126,7 +2129,8 @@
         "2021-11-19",
         "2021-11-21",
         "2021-11-23",
-        "2021-11-24"
+        "2021-11-24",
+        "2021-11-25"
       ]
     },
     {
@@ -2163,7 +2167,16 @@
         "2021-11-09",
         "2021-11-14",
         "2021-11-15",
-        "2021-11-19"
+        "2021-11-19",
+        "2021-11-25"
+      ]
+    },
+    {
+      "title": "Sub 20 Seconds",
+      "type": "sub-20",
+      "text": "Complete a puzzle in less than 20 seconds",
+      "dates": [
+        "2021-11-25"
       ]
     },
     {
@@ -2213,7 +2226,8 @@
       "text": "Play for a full month (30 days) without breaks",
       "dates": [
         "2021-08-23",
-        "2021-10-12"
+        "2021-10-12",
+        "2021-11-25"
       ]
     },
     {
