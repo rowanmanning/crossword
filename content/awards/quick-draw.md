@@ -27,6 +27,16 @@
       ]
     },
     {
+      "person": "Nick Ramsbottom",
+      "count": 4,
+      "dates": [
+        "2021-11-17",
+        "2021-11-18",
+        "2021-11-24",
+        "2021-11-25"
+      ]
+    },
+    {
       "person": "binaryberry",
       "count": 3,
       "dates": [
@@ -45,15 +55,6 @@
       ]
     },
     {
-      "person": "Nick Ramsbottom",
-      "count": 3,
-      "dates": [
-        "2021-11-17",
-        "2021-11-18",
-        "2021-11-24"
-      ]
-    },
-    {
       "person": "apaleslimghost",
       "count": 1,
       "dates": [
@@ -61,5 +62,5 @@
       ]
     }
   ],
-  "totalUnlocks": 20
+  "totalUnlocks": 21
 }
