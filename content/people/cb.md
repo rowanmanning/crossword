@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "cb",
+      "leaderboard": "2021-11-25",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "cb",
       "leaderboard": "2021-11-24",
       "minutes": 0,
       "seconds": 36,
@@ -1513,7 +1523,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 579,
+  "awardCount": 581,
   "awards": [
     {
       "title": "Gold",
@@ -1556,7 +1566,8 @@
         "2021-11-13",
         "2021-11-15",
         "2021-11-19",
-        "2021-11-21"
+        "2021-11-21",
+        "2021-11-24"
       ]
     },
     {
@@ -2315,7 +2326,8 @@
       "text": "Complete a puzzle after everyone else but with the fastest time",
       "dates": [
         "2021-11-19",
-        "2021-11-21"
+        "2021-11-21",
+        "2021-11-24"
       ]
     }
   ]

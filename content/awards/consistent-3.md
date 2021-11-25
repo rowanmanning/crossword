@@ -32,6 +32,14 @@
       ]
     },
     {
+      "person": "Ania",
+      "count": 2,
+      "dates": [
+        "2021-07-16",
+        "2021-11-24"
+      ]
+    },
+    {
       "person": "Nick Ramsbottom",
       "count": 2,
       "dates": [
@@ -61,14 +69,7 @@
       "dates": [
         "2021-06-27"
       ]
-    },
-    {
-      "person": "Ania",
-      "count": 1,
-      "dates": [
-        "2021-07-16"
-      ]
     }
   ],
-  "totalUnlocks": 17
+  "totalUnlocks": 18
 }
