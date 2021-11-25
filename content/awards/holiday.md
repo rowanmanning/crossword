@@ -14,6 +14,14 @@
       ]
     },
     {
+      "person": "itsalex",
+      "count": 2,
+      "dates": [
+        "2021-11-07",
+        "2021-11-25"
+      ]
+    },
+    {
       "person": "arjun137",
       "count": 1,
       "dates": [
@@ -40,14 +48,7 @@
       "dates": [
         "2021-10-18"
       ]
-    },
-    {
-      "person": "itsalex",
-      "count": 1,
-      "dates": [
-        "2021-11-07"
-      ]
     }
   ],
-  "totalUnlocks": 8
+  "totalUnlocks": 9
 }

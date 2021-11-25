@@ -5,12 +5,12 @@
     {
       "person": "itsalex",
       "leaderboard": "2021-11-25",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 49,
+      "totalSeconds": 49,
+      "position": 3,
+      "scrapeTime": "2021-11-25T23:33:09.968Z",
+      "isPending": false
     },
     {
       "person": "itsalex",
@@ -1567,13 +1567,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 3,
-    "totalSeconds": 63,
+    "seconds": 2,
+    "totalSeconds": 62,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 251,
+  "awardCount": 253,
   "awards": [
     {
       "title": "Gold",
@@ -1836,7 +1836,8 @@
         "2021-09-09",
         "2021-09-10",
         "2021-09-15",
-        "2021-09-22"
+        "2021-09-22",
+        "2021-11-25"
       ]
     },
     {
@@ -1968,7 +1969,8 @@
       "type": "holiday",
       "text": "Come back to the crossword after a week off",
       "dates": [
-        "2021-11-07"
+        "2021-11-07",
+        "2021-11-25"
       ]
     },
     {
