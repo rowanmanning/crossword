@@ -117,6 +117,34 @@ module.exports = class Leaderboard {
 		return this.memo.timesGroupedByScrapeTime;
 	}
 
+	get timesGroupedBySequence() {
+		if (this.memo.timesGroupedBySequence) {
+			return this.memo.timesGroupedBySequence;
+		}
+		this.memo.timesGroupedBySequence = [...this.times]
+			.reduce((streaks, time) => {
+				let currentStreak = streaks.pop();
+				if (time.isPending) {
+					streaks.push(currentStreak);
+					currentStreak = [];
+				} else if (currentStreak.length && time.totalSeconds === currentStreak[currentStreak.length - 1].totalSeconds + 1) {
+					currentStreak.push(time);
+				} else {
+					streaks.push(currentStreak);
+					currentStreak = [time];
+				}
+				streaks.push(currentStreak);
+				return streaks;
+			}, [[]])
+			.map(streak => {
+				return {
+					length: streak.length,
+					times: streak
+				};
+			});
+		return this.memo.timesGroupedBySequence;
+	}
+
 	toJSON() {
 		return {
 			title: this.date,

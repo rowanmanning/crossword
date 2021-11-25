@@ -46,6 +46,12 @@ module.exports = {
 	OverFiveMinutesAward: require('./awards/over-300'),
 	NiceTryJoelAward: require('./awards/nice-try-joel'),
 
+	// Chaining awards
+	ChainThreeAward: require('./awards/chain-3'),
+	ChainFourAward: require('./awards/chain-4'),
+	ChainFiveAward: require('./awards/chain-5'),
+	ChainSixAward: require('./awards/chain-6'),
+
 	// Play streak awards
 	ThreeDayStreakAward: require('./awards/three-day-streak'),
 	WeekStreakAward: require('./awards/week-streak'),
