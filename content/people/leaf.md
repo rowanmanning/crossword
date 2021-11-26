@@ -5,12 +5,12 @@
     {
       "person": "leaf",
       "leaderboard": "2021-11-26",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 0,
+      "totalSeconds": 60,
+      "position": 9,
+      "scrapeTime": "2021-11-26T10:35:21.393Z",
+      "isPending": false
     },
     {
       "person": "leaf",
@@ -1613,7 +1613,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 267,
+  "awardCount": 270,
   "awards": [
     {
       "title": "Gold",
@@ -1738,7 +1738,8 @@
         "2021-09-30",
         "2021-10-06",
         "2021-10-17",
-        "2021-10-31"
+        "2021-10-31",
+        "2021-11-26"
       ]
     },
     {
@@ -1853,7 +1854,8 @@
         "2021-11-03",
         "2021-11-05",
         "2021-11-14",
-        "2021-11-23"
+        "2021-11-23",
+        "2021-11-26"
       ]
     },
     {
@@ -2067,6 +2069,14 @@
       "text": "A towel is about the most massively useful thing an interstellar hitchhiker can have",
       "dates": [
         "2021-09-03"
+      ]
+    },
+    {
+      "title": "1 Friday Street",
+      "type": "friday-street",
+      "text": "Get a time of exactly 1:00 on a Friday",
+      "dates": [
+        "2021-11-26"
       ]
     },
     {
