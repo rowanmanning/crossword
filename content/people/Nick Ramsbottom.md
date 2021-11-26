@@ -5,12 +5,12 @@
     {
       "person": "Nick Ramsbottom",
       "leaderboard": "2021-11-26",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 41,
+      "totalSeconds": 41,
+      "position": 1,
+      "scrapeTime": "2021-11-26T07:02:20.868Z",
+      "isPending": false
     },
     {
       "person": "Nick Ramsbottom",
@@ -995,25 +995,25 @@
   ],
   "best": {
     "person": "Nick Ramsbottom",
-    "leaderboard": "2021-10-24",
+    "leaderboard": "2021-11-26",
     "minutes": 0,
-    "seconds": 46,
-    "totalSeconds": 46,
-    "position": 7,
-    "scrapeTime": null,
+    "seconds": 41,
+    "totalSeconds": 41,
+    "position": 1,
+    "scrapeTime": "2021-11-26T07:02:20.868Z",
     "isPending": false
   },
   "mean": {
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 5,
-    "totalSeconds": 125,
+    "seconds": 4,
+    "totalSeconds": 124,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 147,
+  "awardCount": 149,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -1180,6 +1180,14 @@
       ]
     },
     {
+      "title": "Sub 45 Seconds",
+      "type": "sub-45",
+      "text": "Complete a puzzle in less than 45 seconds",
+      "dates": [
+        "2021-11-26"
+      ]
+    },
+    {
       "title": "Over Five Minutes",
       "type": "over-300",
       "text": "Complete a puzzle in more than 5 minutes",
@@ -1299,7 +1307,8 @@
         "2021-11-17",
         "2021-11-18",
         "2021-11-24",
-        "2021-11-25"
+        "2021-11-25",
+        "2021-11-26"
       ]
     }
   ]
