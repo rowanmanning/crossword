@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "ivo",
+      "leaderboard": "2021-11-26",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "ivo",
       "leaderboard": "2021-11-25",
       "minutes": 0,
       "seconds": 51,
@@ -753,7 +763,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 133,
+  "awardCount": 134,
   "awards": [
     {
       "title": "Gold",
@@ -964,7 +974,8 @@
       "type": "chain-4",
       "text": "Participate in a chain of four sequential times",
       "dates": [
-        "2021-11-09"
+        "2021-11-09",
+        "2021-11-25"
       ]
     },
     {

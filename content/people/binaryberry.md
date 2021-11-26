@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "binaryberry",
+      "leaderboard": "2021-11-26",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "binaryberry",
       "leaderboard": "2021-11-25",
       "minutes": 2,
       "seconds": 34,
@@ -1603,7 +1613,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 127,
+  "awardCount": 128,
   "awards": [
     {
       "title": "Bronze",
@@ -1880,7 +1890,8 @@
       "text": "Come 13th three times",
       "dates": [
         "2021-08-25",
-        "2021-09-28"
+        "2021-09-28",
+        "2021-11-25"
       ]
     },
     {

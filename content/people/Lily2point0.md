@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Lily2point0",
+      "leaderboard": "2021-11-26",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Lily2point0",
       "leaderboard": "2021-11-25",
       "minutes": 0,
       "seconds": 52,
@@ -1603,7 +1613,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 257,
+  "awardCount": 259,
   "awards": [
     {
       "title": "Gold",
@@ -1654,7 +1664,8 @@
         "2021-10-25",
         "2021-11-03",
         "2021-11-14",
-        "2021-11-18"
+        "2021-11-18",
+        "2021-11-25"
       ]
     },
     {
@@ -1912,6 +1923,14 @@
         "2021-08-01",
         "2021-08-11",
         "2021-11-14"
+      ]
+    },
+    {
+      "title": "Chain 4",
+      "type": "chain-4",
+      "text": "Participate in a chain of four sequential times",
+      "dates": [
+        "2021-11-25"
       ]
     },
     {
