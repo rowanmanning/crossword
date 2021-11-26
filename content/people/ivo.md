@@ -5,12 +5,12 @@
     {
       "person": "ivo",
       "leaderboard": "2021-11-26",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 27,
+      "totalSeconds": 27,
+      "position": 1,
+      "scrapeTime": "2021-11-26T09:34:02.192Z",
+      "isPending": false
     },
     {
       "person": "ivo",
@@ -745,25 +745,25 @@
   ],
   "best": {
     "person": "ivo",
-    "leaderboard": "2021-11-14",
+    "leaderboard": "2021-11-26",
     "minutes": 0,
-    "seconds": 29,
-    "totalSeconds": 29,
-    "position": 4,
-    "scrapeTime": "2021-11-14T10:34:47.254Z",
+    "seconds": 27,
+    "totalSeconds": 27,
+    "position": 1,
+    "scrapeTime": "2021-11-26T09:34:02.192Z",
     "isPending": false
   },
   "mean": {
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 54,
-    "totalSeconds": 114,
+    "seconds": 53,
+    "totalSeconds": 113,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 134,
+  "awardCount": 135,
   "awards": [
     {
       "title": "Gold",
@@ -954,7 +954,8 @@
       "text": "Complete a puzzle in less than 30 seconds",
       "dates": [
         "2021-10-06",
-        "2021-11-14"
+        "2021-11-14",
+        "2021-11-26"
       ]
     },
     {
