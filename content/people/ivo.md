@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "ivo",
+      "leaderboard": "2021-11-27",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "ivo",
       "leaderboard": "2021-11-26",
       "minutes": 0,
       "seconds": 27,
@@ -763,7 +773,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 135,
+  "awardCount": 136,
   "awards": [
     {
       "title": "Gold",
@@ -779,7 +789,8 @@
       "text": "Get the second fastest time for a day",
       "dates": [
         "2021-10-13",
-        "2021-11-13"
+        "2021-11-13",
+        "2021-11-26"
       ]
     },
     {

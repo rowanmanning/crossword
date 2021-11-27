@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "j-sheps",
+      "leaderboard": "2021-11-27",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "j-sheps",
       "leaderboard": "2021-11-26",
       "minutes": 0,
       "seconds": 19,
@@ -1613,7 +1623,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 329,
+  "awardCount": 331,
   "awards": [
     {
       "title": "Gold",
@@ -1632,7 +1642,8 @@
         "2021-08-30",
         "2021-09-03",
         "2021-10-01",
-        "2021-11-12"
+        "2021-11-12",
+        "2021-11-26"
       ]
     },
     {
@@ -2173,6 +2184,14 @@
         "2021-11-14",
         "2021-11-22",
         "2021-11-23"
+      ]
+    },
+    {
+      "title": "Slow and Steady",
+      "type": "slow-and-steady",
+      "text": "Complete a puzzle after everyone else but with the fastest time",
+      "dates": [
+        "2021-11-26"
       ]
     }
   ]
