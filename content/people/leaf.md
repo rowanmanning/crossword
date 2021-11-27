@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "leaf",
+      "leaderboard": "2021-11-28",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "leaf",
       "leaderboard": "2021-11-27",
       "minutes": 3,
       "seconds": 7,
@@ -1623,7 +1633,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 272,
+  "awardCount": 273,
   "awards": [
     {
       "title": "Gold",
@@ -1705,7 +1715,8 @@
         "2021-09-25",
         "2021-09-27",
         "2021-10-14",
-        "2021-10-16"
+        "2021-10-16",
+        "2021-11-27"
       ]
     },
     {

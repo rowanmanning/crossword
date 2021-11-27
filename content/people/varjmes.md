@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "varjmes",
+      "leaderboard": "2021-11-28",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "varjmes",
       "leaderboard": "2021-11-27",
       "minutes": 2,
       "seconds": 57,
@@ -1623,7 +1633,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 294,
+  "awardCount": 295,
   "awards": [
     {
       "title": "Gold",
@@ -1715,7 +1725,8 @@
       "type": "consistent-3",
       "text": "Get the same position three days in a row",
       "dates": [
-        "2021-06-27"
+        "2021-06-27",
+        "2021-11-27"
       ]
     },
     {
