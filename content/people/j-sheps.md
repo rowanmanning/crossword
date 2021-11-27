@@ -5,12 +5,12 @@
     {
       "person": "j-sheps",
       "leaderboard": "2021-11-26",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 19,
+      "totalSeconds": 19,
+      "position": 1,
+      "scrapeTime": "2021-11-27T00:04:21.744Z",
+      "isPending": false
     },
     {
       "person": "j-sheps",
@@ -1595,25 +1595,25 @@
   ],
   "best": {
     "person": "j-sheps",
-    "leaderboard": "2021-10-11",
+    "leaderboard": "2021-11-26",
     "minutes": 0,
-    "seconds": 23,
-    "totalSeconds": 23,
-    "position": 2,
-    "scrapeTime": null,
+    "seconds": 19,
+    "totalSeconds": 19,
+    "position": 1,
+    "scrapeTime": "2021-11-27T00:04:21.744Z",
     "isPending": false
   },
   "mean": {
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 20,
-    "totalSeconds": 80,
+    "seconds": 19,
+    "totalSeconds": 79,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 328,
+  "awardCount": 329,
   "awards": [
     {
       "title": "Gold",
@@ -1981,6 +1981,14 @@
         "2021-10-11",
         "2021-10-24",
         "2021-11-12"
+      ]
+    },
+    {
+      "title": "Sub 20 Seconds",
+      "type": "sub-20",
+      "text": "Complete a puzzle in less than 20 seconds",
+      "dates": [
+        "2021-11-26"
       ]
     },
     {
