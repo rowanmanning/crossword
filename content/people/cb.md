@@ -5,12 +5,12 @@
     {
       "person": "cb",
       "leaderboard": "2021-11-27",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 0,
+      "totalSeconds": 60,
+      "position": 1,
+      "scrapeTime": "2021-11-27T12:40:04.417Z",
+      "isPending": false
     },
     {
       "person": "cb",
@@ -1543,7 +1543,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 373,
+  "awardCount": 375,
   "awards": [
     {
       "title": "Gold",
@@ -1841,7 +1841,8 @@
         "2021-11-13",
         "2021-11-17",
         "2021-11-18",
-        "2021-11-22"
+        "2021-11-22",
+        "2021-11-27"
       ]
     },
     {
@@ -1993,7 +1994,8 @@
       "text": "Complete a puzzle in less than a minute on a Saturday",
       "dates": [
         "2021-08-14",
-        "2021-11-13"
+        "2021-11-13",
+        "2021-11-27"
       ]
     },
     {
