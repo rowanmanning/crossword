@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "j-sheps",
+      "leaderboard": "2021-11-29",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "j-sheps",
       "leaderboard": "2021-11-28",
       "minutes": 0,
       "seconds": 34,
@@ -1633,7 +1643,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 337,
+  "awardCount": 339,
   "awards": [
     {
       "title": "Gold",
@@ -1688,7 +1698,16 @@
         "2021-11-10",
         "2021-11-16",
         "2021-11-25",
-        "2021-11-27"
+        "2021-11-27",
+        "2021-11-28"
+      ]
+    },
+    {
+      "title": "Double Silver",
+      "type": "double-silver",
+      "text": "Get the second fastest time two days in a row",
+      "dates": [
+        "2021-11-28"
       ]
     },
     {
