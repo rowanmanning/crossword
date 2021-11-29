@@ -5,12 +5,12 @@
     {
       "person": "Alice Bartlett",
       "leaderboard": "2021-11-29",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 2,
+      "totalSeconds": 62,
+      "position": 6,
+      "scrapeTime": "2021-11-29T09:34:11.023Z",
+      "isPending": false
     },
     {
       "person": "Alice Bartlett",
@@ -237,13 +237,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 18,
-    "totalSeconds": 138,
+    "seconds": 15,
+    "totalSeconds": 135,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 34,
+  "awardCount": 36,
   "awards": [
     {
       "title": "Silver",
@@ -267,7 +267,8 @@
       "text": "Half your completion time from one day to the next",
       "dates": [
         "2021-11-11",
-        "2021-11-23"
+        "2021-11-23",
+        "2021-11-29"
       ]
     },
     {
@@ -302,7 +303,8 @@
         "2021-11-12",
         "2021-11-14",
         "2021-11-15",
-        "2021-11-18"
+        "2021-11-18",
+        "2021-11-29"
       ]
     },
     {

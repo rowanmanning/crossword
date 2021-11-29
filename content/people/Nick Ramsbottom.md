@@ -5,12 +5,12 @@
     {
       "person": "Nick Ramsbottom",
       "leaderboard": "2021-11-29",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 12,
+      "totalSeconds": 72,
+      "position": 8,
+      "scrapeTime": "2021-11-29T09:34:11.023Z",
+      "isPending": false
     },
     {
       "person": "Nick Ramsbottom",
@@ -1043,7 +1043,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 153,
+  "awardCount": 155,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -1191,7 +1191,8 @@
         "2021-11-24",
         "2021-11-25",
         "2021-11-27",
-        "2021-11-28"
+        "2021-11-28",
+        "2021-11-29"
       ]
     },
     {
@@ -1298,6 +1299,7 @@
       "type": "yin-and-yang",
       "text": "Get the same time as another person but with flipped seconds",
       "dates": [
+        "2021-11-29",
         "2021-11-11",
         "2021-11-03",
         "2021-11-01"
