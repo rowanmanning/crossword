@@ -5,12 +5,12 @@
     {
       "person": "joelcarr",
       "leaderboard": "2021-11-29",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 9,
+      "totalSeconds": 69,
+      "position": 5,
+      "scrapeTime": "2021-11-29T09:02:19.973Z",
+      "isPending": false
     },
     {
       "person": "joelcarr",
@@ -1637,13 +1637,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 55,
-    "totalSeconds": 175,
+    "seconds": 54,
+    "totalSeconds": 174,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 100,
+  "awardCount": 103,
   "awards": [
     {
       "title": "Bronze",
@@ -1707,7 +1707,8 @@
         "2021-09-03",
         "2021-09-06",
         "2021-11-02",
-        "2021-11-24"
+        "2021-11-24",
+        "2021-11-29"
       ]
     },
     {
@@ -1765,7 +1766,8 @@
         "2021-11-03",
         "2021-11-09",
         "2021-11-10",
-        "2021-11-11"
+        "2021-11-11",
+        "2021-11-29"
       ]
     },
     {
@@ -1847,6 +1849,14 @@
       "text": "Join us",
       "dates": [
         "2021-06-24"
+      ]
+    },
+    {
+      "title": "Nice",
+      "type": "nice",
+      "text": "Nice…",
+      "dates": [
+        "2021-11-29"
       ]
     },
     {
