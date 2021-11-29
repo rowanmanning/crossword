@@ -50,6 +50,14 @@
       ]
     },
     {
+      "person": "varjmes",
+      "count": 2,
+      "dates": [
+        "2021-11-03",
+        "2021-11-29"
+      ]
+    },
+    {
       "person": "arjun137",
       "count": 1,
       "dates": [
@@ -92,13 +100,6 @@
       ]
     },
     {
-      "person": "varjmes",
-      "count": 1,
-      "dates": [
-        "2021-11-03"
-      ]
-    },
-    {
       "person": "binaryberry",
       "count": 1,
       "dates": [
@@ -106,5 +107,5 @@
       ]
     }
   ],
-  "totalUnlocks": 23
+  "totalUnlocks": 24
 }
