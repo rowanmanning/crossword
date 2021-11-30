@@ -5,12 +5,12 @@
     {
       "person": "joelcarr",
       "leaderboard": "2021-11-30",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 4,
+      "seconds": 40,
+      "totalSeconds": 280,
+      "position": 6,
+      "scrapeTime": "2021-11-30T08:32:42.949Z",
+      "isPending": false
     },
     {
       "person": "joelcarr",
@@ -1647,13 +1647,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 54,
-    "totalSeconds": 174,
+    "seconds": 55,
+    "totalSeconds": 175,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 103,
+  "awardCount": 104,
   "awards": [
     {
       "title": "Bronze",
@@ -1744,7 +1744,8 @@
         "2021-09-07",
         "2021-10-20",
         "2021-11-12",
-        "2021-11-17"
+        "2021-11-17",
+        "2021-11-30"
       ]
     },
     {
