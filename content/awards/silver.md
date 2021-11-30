@@ -227,6 +227,16 @@
       ]
     },
     {
+      "person": "ivo",
+      "count": 4,
+      "dates": [
+        "2021-10-13",
+        "2021-11-13",
+        "2021-11-26",
+        "2021-11-29"
+      ]
+    },
+    {
       "person": "Lily2point0",
       "count": 3,
       "dates": [
@@ -245,15 +255,6 @@
       ]
     },
     {
-      "person": "ivo",
-      "count": 3,
-      "dates": [
-        "2021-10-13",
-        "2021-11-13",
-        "2021-11-26"
-      ]
-    },
-    {
       "person": "Alice Bartlett",
       "count": 1,
       "dates": [
@@ -261,5 +262,5 @@
       ]
     }
   ],
-  "totalUnlocks": 178
+  "totalUnlocks": 179
 }
