@@ -49,7 +49,14 @@
       "dates": [
         "2021-11-29"
       ]
+    },
+    {
+      "person": "cb",
+      "count": 1,
+      "dates": [
+        "2021-12-01"
+      ]
     }
   ],
-  "totalUnlocks": 10
+  "totalUnlocks": 11
 }
