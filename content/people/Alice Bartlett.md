@@ -5,12 +5,12 @@
     {
       "person": "Alice Bartlett",
       "leaderboard": "2021-12-01",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 15,
+      "totalSeconds": 75,
+      "position": 1,
+      "scrapeTime": "2021-12-01T07:02:10.374Z",
+      "isPending": false
     },
     {
       "person": "Alice Bartlett",
@@ -257,13 +257,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 14,
-    "totalSeconds": 134,
+    "seconds": 11,
+    "totalSeconds": 131,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 37,
+  "awardCount": 39,
   "awards": [
     {
       "title": "Silver",
@@ -325,7 +325,8 @@
         "2021-11-15",
         "2021-11-18",
         "2021-11-29",
-        "2021-11-30"
+        "2021-11-30",
+        "2021-12-01"
       ]
     },
     {
@@ -369,7 +370,8 @@
       "type": "three-day-streak",
       "text": "Play for three days in a row",
       "dates": [
-        "2021-11-10"
+        "2021-11-10",
+        "2021-12-01"
       ]
     },
     {
