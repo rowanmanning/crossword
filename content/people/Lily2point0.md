@@ -8,7 +8,7 @@
       "minutes": 1,
       "seconds": 35,
       "totalSeconds": 95,
-      "position": 8,
+      "position": 9,
       "scrapeTime": "2021-12-02T08:02:37.600Z",
       "isPending": false
     },
@@ -1673,7 +1673,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 271,
+  "awardCount": 272,
   "awards": [
     {
       "title": "Gold",
@@ -2048,7 +2048,8 @@
         "2021-10-18",
         "2021-11-05",
         "2021-11-06",
-        "2021-11-21"
+        "2021-11-21",
+        "2021-12-02"
       ]
     },
     {
