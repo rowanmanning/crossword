@@ -86,6 +86,16 @@
       ]
     },
     {
+      "person": "Emma L",
+      "count": 4,
+      "dates": [
+        "2021-08-22",
+        "2021-09-30",
+        "2021-10-15",
+        "2021-12-01"
+      ]
+    },
+    {
       "person": "ivo",
       "count": 4,
       "dates": [
@@ -105,15 +115,6 @@
       ]
     },
     {
-      "person": "Emma L",
-      "count": 3,
-      "dates": [
-        "2021-08-22",
-        "2021-09-30",
-        "2021-10-15"
-      ]
-    },
-    {
       "person": "itsalex",
       "count": 2,
       "dates": [
@@ -129,5 +130,5 @@
       ]
     }
   ],
-  "totalUnlocks": 52
+  "totalUnlocks": 53
 }
