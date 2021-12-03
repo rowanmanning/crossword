@@ -230,6 +230,16 @@
       ]
     },
     {
+      "person": "Ania",
+      "count": 4,
+      "dates": [
+        "2021-08-30",
+        "2021-09-30",
+        "2021-10-27",
+        "2021-12-02"
+      ]
+    },
+    {
       "person": "ivo",
       "count": 4,
       "dates": [
@@ -249,15 +259,6 @@
       ]
     },
     {
-      "person": "Ania",
-      "count": 3,
-      "dates": [
-        "2021-08-30",
-        "2021-09-30",
-        "2021-10-27"
-      ]
-    },
-    {
       "person": "Alice Bartlett",
       "count": 1,
       "dates": [
@@ -265,5 +266,5 @@
       ]
     }
   ],
-  "totalUnlocks": 182
+  "totalUnlocks": 183
 }
