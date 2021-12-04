@@ -5,12 +5,12 @@
     {
       "person": "Alice Bartlett",
       "leaderboard": "2021-12-04",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 55,
+      "totalSeconds": 175,
+      "position": 1,
+      "scrapeTime": "2021-12-04T04:38:47.937Z",
+      "isPending": false
     },
     {
       "person": "Alice Bartlett",
@@ -287,13 +287,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 14,
-    "totalSeconds": 134,
+    "seconds": 16,
+    "totalSeconds": 136,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 45,
+  "awardCount": 46,
   "awards": [
     {
       "title": "Silver",
@@ -463,7 +463,8 @@
       "type": "quick-draw",
       "text": "Complete a puzzle before anyone else (or within 30 minutes of the first person)",
       "dates": [
-        "2021-12-02"
+        "2021-12-02",
+        "2021-12-04"
       ]
     }
   ]
