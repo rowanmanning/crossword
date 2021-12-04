@@ -5,12 +5,12 @@
     {
       "person": "varjmes",
       "leaderboard": "2021-12-05",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 49,
+      "totalSeconds": 49,
+      "position": 1,
+      "scrapeTime": "2021-12-04T23:34:03.026Z",
+      "isPending": false
     },
     {
       "person": "varjmes",
@@ -1703,7 +1703,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 309,
+  "awardCount": 312,
   "awards": [
     {
       "title": "Gold",
@@ -1838,7 +1838,8 @@
         "2021-11-10",
         "2021-11-14",
         "2021-11-21",
-        "2021-11-28"
+        "2021-11-28",
+        "2021-12-05"
       ]
     },
     {
@@ -2010,7 +2011,8 @@
         "2021-11-28",
         "2021-11-30",
         "2021-12-01",
-        "2021-12-03"
+        "2021-12-03",
+        "2021-12-05"
       ]
     },
     {
@@ -2235,7 +2237,8 @@
       "type": "quick-draw",
       "text": "Complete a puzzle before anyone else (or within 30 minutes of the first person)",
       "dates": [
-        "2021-11-28"
+        "2021-11-28",
+        "2021-12-05"
       ]
     }
   ]

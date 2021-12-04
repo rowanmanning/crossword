@@ -63,6 +63,14 @@
       ]
     },
     {
+      "person": "varjmes",
+      "count": 2,
+      "dates": [
+        "2021-11-28",
+        "2021-12-05"
+      ]
+    },
+    {
       "person": "Alice Bartlett",
       "count": 2,
       "dates": [
@@ -76,14 +84,7 @@
       "dates": [
         "2021-11-24"
       ]
-    },
-    {
-      "person": "varjmes",
-      "count": 1,
-      "dates": [
-        "2021-11-28"
-      ]
     }
   ],
-  "totalUnlocks": 32
+  "totalUnlocks": 33
 }
