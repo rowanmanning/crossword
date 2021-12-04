@@ -30,6 +30,11 @@
 		"seconds": 149
 	},
 	{
+		"name": "binaryberry",
+		"scrapeTime": "2021-12-04T14:32:03.561Z",
+		"seconds": 165
+	},
+	{
 		"name": "ivo",
 		"scrapeTime": "2021-12-04T09:34:13.990Z",
 		"seconds": 170
@@ -56,11 +61,6 @@
 	},
 	{
 		"name": "arjun137",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
-		"name": "binaryberry",
 		"scrapeTime": null,
 		"seconds": null
 	},
