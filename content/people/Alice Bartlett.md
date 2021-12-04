@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Alice Bartlett",
+      "leaderboard": "2021-12-04",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Alice Bartlett",
       "leaderboard": "2021-12-03",
       "minutes": 1,
       "seconds": 47,
@@ -283,7 +293,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 43,
+  "awardCount": 45,
   "awards": [
     {
       "title": "Silver",
@@ -298,7 +308,8 @@
       "type": "consistent-2",
       "text": "Get the same position two days in a row",
       "dates": [
-        "2021-11-13"
+        "2021-11-13",
+        "2021-12-03"
       ]
     },
     {
@@ -437,6 +448,14 @@
       "text": "What's your emergency?",
       "dates": [
         "2021-11-22"
+      ]
+    },
+    {
+      "title": "Unlucky for Some",
+      "type": "unlucky",
+      "text": "Come 13th three times",
+      "dates": [
+        "2021-12-03"
       ]
     },
     {
