@@ -5,12 +5,12 @@
     {
       "person": "cb",
       "leaderboard": "2021-12-05",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 42,
+      "totalSeconds": 42,
+      "position": 3,
+      "scrapeTime": "2021-12-05T19:31:46.705Z",
+      "isPending": false
     },
     {
       "person": "cb",
@@ -1623,7 +1623,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 396,
+  "awardCount": 399,
   "awards": [
     {
       "title": "Gold",
@@ -2026,7 +2026,8 @@
         "2021-11-21",
         "2021-11-23",
         "2021-11-24",
-        "2021-11-30"
+        "2021-11-30",
+        "2021-12-05"
       ]
     },
     {
@@ -2139,7 +2140,8 @@
         "2021-07-31",
         "2021-09-11",
         "2021-09-19",
-        "2021-11-02"
+        "2021-11-02",
+        "2021-12-05"
       ]
     },
     {
@@ -2227,7 +2229,8 @@
       "text": "A towel is about the most massively useful thing an interstellar hitchhiker can have",
       "dates": [
         "2021-10-03",
-        "2021-10-05"
+        "2021-10-05",
+        "2021-12-05"
       ]
     },
     {
