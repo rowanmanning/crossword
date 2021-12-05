@@ -66,7 +66,14 @@
       "dates": [
         "2021-11-26"
       ]
+    },
+    {
+      "person": "Alice Bartlett",
+      "count": 1,
+      "dates": [
+        "2021-12-05"
+      ]
     }
   ],
-  "totalUnlocks": 15
+  "totalUnlocks": 16
 }

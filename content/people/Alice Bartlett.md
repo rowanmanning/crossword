@@ -5,12 +5,12 @@
     {
       "person": "Alice Bartlett",
       "leaderboard": "2021-12-05",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 6,
+      "totalSeconds": 6,
+      "position": 1,
+      "scrapeTime": "2021-12-05T06:02:28.033Z",
+      "isPending": false
     },
     {
       "person": "Alice Bartlett",
@@ -285,25 +285,25 @@
   ],
   "best": {
     "person": "Alice Bartlett",
-    "leaderboard": "2021-11-11",
+    "leaderboard": "2021-12-05",
     "minutes": 0,
-    "seconds": 25,
-    "totalSeconds": 25,
-    "position": 2,
-    "scrapeTime": null,
+    "seconds": 6,
+    "totalSeconds": 6,
+    "position": 1,
+    "scrapeTime": "2021-12-05T06:02:28.033Z",
     "isPending": false
   },
   "mean": {
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 16,
-    "totalSeconds": 136,
+    "seconds": 11,
+    "totalSeconds": 131,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 46,
+  "awardCount": 49,
   "awards": [
     {
       "title": "Silver",
@@ -340,7 +340,8 @@
       "dates": [
         "2021-11-14",
         "2021-11-18",
-        "2021-11-21"
+        "2021-11-21",
+        "2021-12-05"
       ]
     },
     {
@@ -394,6 +395,14 @@
       ]
     },
     {
+      "title": "Sub 20 Seconds",
+      "type": "sub-20",
+      "text": "Complete a puzzle in less than 20 seconds",
+      "dates": [
+        "2021-12-05"
+      ]
+    },
+    {
       "title": "Over Five Minutes",
       "type": "over-300",
       "text": "Complete a puzzle in more than 5 minutes",
@@ -423,7 +432,8 @@
       "type": "week-streak",
       "text": "Play for a full week without breaks",
       "dates": [
-        "2021-11-14"
+        "2021-11-14",
+        "2021-12-05"
       ]
     },
     {
