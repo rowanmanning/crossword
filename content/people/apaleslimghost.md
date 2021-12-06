@@ -5,12 +5,12 @@
     {
       "person": "apaleslimghost",
       "leaderboard": "2021-12-06",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 55,
+      "totalSeconds": 55,
+      "position": 2,
+      "scrapeTime": "2021-12-06T07:32:42.191Z",
+      "isPending": false
     },
     {
       "person": "apaleslimghost",
@@ -1703,7 +1703,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 273,
+  "awardCount": 275,
   "awards": [
     {
       "title": "Gold",
@@ -1940,7 +1940,8 @@
         "2021-11-07",
         "2021-11-18",
         "2021-11-25",
-        "2021-12-02"
+        "2021-12-02",
+        "2021-12-06"
       ]
     },
     {
@@ -2100,7 +2101,8 @@
       "type": "tripleting",
       "text": "Get the same time as two other people",
       "dates": [
-        "2021-10-13"
+        "2021-10-13",
+        "2021-12-06"
       ]
     },
     {

@@ -46,6 +46,14 @@
       ]
     },
     {
+      "person": "apaleslimghost",
+      "count": 2,
+      "dates": [
+        "2021-10-13",
+        "2021-12-06"
+      ]
+    },
+    {
       "person": "Ania",
       "count": 1,
       "dates": [
@@ -60,19 +68,26 @@
       ]
     },
     {
-      "person": "apaleslimghost",
-      "count": 1,
-      "dates": [
-        "2021-10-13"
-      ]
-    },
-    {
       "person": "Emma L",
       "count": 1,
       "dates": [
         "2021-10-18"
       ]
+    },
+    {
+      "person": "leaf",
+      "count": 1,
+      "dates": [
+        "2021-12-06"
+      ]
+    },
+    {
+      "person": "Lily2point0",
+      "count": 1,
+      "dates": [
+        "2021-12-06"
+      ]
     }
   ],
-  "totalUnlocks": 15
+  "totalUnlocks": 18
 }
