@@ -5,9 +5,19 @@
 		"seconds": 29
 	},
 	{
+		"name": "cb",
+		"scrapeTime": "2021-12-07T09:35:04.932Z",
+		"seconds": 59
+	},
+	{
 		"name": "Nick Ramsbottom",
 		"scrapeTime": "2021-12-07T08:37:15.659Z",
 		"seconds": 63
+	},
+	{
+		"name": "binaryberry",
+		"scrapeTime": "2021-12-07T09:35:04.932Z",
+		"seconds": 84
 	},
 	{
 		"name": "varjmes",
@@ -51,16 +61,6 @@
 	},
 	{
 		"name": "arjun137",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
-		"name": "binaryberry",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
-		"name": "cb",
 		"scrapeTime": null,
 		"seconds": null
 	},
