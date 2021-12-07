@@ -15,19 +15,20 @@
       ]
     },
     {
+      "person": "j-sheps",
+      "count": 2,
+      "dates": [
+        "2021-11-26",
+        "2021-12-06"
+      ]
+    },
+    {
       "person": "itsalex",
       "count": 1,
       "dates": [
         "2021-11-14"
       ]
-    },
-    {
-      "person": "j-sheps",
-      "count": 1,
-      "dates": [
-        "2021-11-26"
-      ]
     }
   ],
-  "totalUnlocks": 6
+  "totalUnlocks": 7
 }

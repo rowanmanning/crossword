@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "j-sheps",
+      "leaderboard": "2021-12-07",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "j-sheps",
       "leaderboard": "2021-12-06",
       "minutes": 0,
       "seconds": 33,
@@ -1713,7 +1723,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 357,
+  "awardCount": 361,
   "awards": [
     {
       "title": "Gold",
@@ -1733,7 +1743,8 @@
         "2021-09-03",
         "2021-10-01",
         "2021-11-12",
-        "2021-11-26"
+        "2021-11-26",
+        "2021-12-06"
       ]
     },
     {
@@ -2148,7 +2159,8 @@
         "2021-11-10",
         "2021-11-21",
         "2021-11-29",
-        "2021-11-30"
+        "2021-11-30",
+        "2021-12-06"
       ]
     },
     {
@@ -2243,6 +2255,14 @@
       ]
     },
     {
+      "title": "Twinning In Gold",
+      "type": "twinning-in-gold",
+      "text": "Get the twinning award and the fastest time for a day",
+      "dates": [
+        "2021-12-06"
+      ]
+    },
+    {
       "title": "Yin and Yang",
       "type": "yin-and-yang",
       "text": "Get the same time as another person but with flipped seconds",
@@ -2314,7 +2334,8 @@
       "type": "slow-and-steady",
       "text": "Complete a puzzle after everyone else but with the fastest time",
       "dates": [
-        "2021-11-26"
+        "2021-11-26",
+        "2021-12-06"
       ]
     }
   ]
