@@ -36,7 +36,14 @@
       "dates": [
         "2021-12-03"
       ]
+    },
+    {
+      "person": "ivo",
+      "count": 1,
+      "dates": [
+        "2021-12-07"
+      ]
     }
   ],
-  "totalUnlocks": 9
+  "totalUnlocks": 10
 }
