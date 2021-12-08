@@ -5,12 +5,12 @@
     {
       "person": "Alice Bartlett",
       "leaderboard": "2021-12-08",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 3,
+      "seconds": 19,
+      "totalSeconds": 199,
+      "position": 3,
+      "scrapeTime": "2021-12-08T07:02:15.959Z",
+      "isPending": false
     },
     {
       "person": "Alice Bartlett",
@@ -327,8 +327,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 12,
-    "totalSeconds": 132,
+    "seconds": 14,
+    "totalSeconds": 134,
     "position": null,
     "scrapeTime": null,
     "isPending": false
