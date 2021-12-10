@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "apaleslimghost",
+      "leaderboard": "2021-12-10",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "apaleslimghost",
       "leaderboard": "2021-12-09",
       "minutes": 0,
       "seconds": 39,
@@ -1733,7 +1743,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 280,
+  "awardCount": 282,
   "awards": [
     {
       "title": "Gold",
@@ -1767,7 +1777,8 @@
         "2021-10-18",
         "2021-11-03",
         "2021-11-15",
-        "2021-12-08"
+        "2021-12-08",
+        "2021-12-09"
       ]
     },
     {
@@ -1775,7 +1786,8 @@
       "type": "double-silver",
       "text": "Get the second fastest time two days in a row",
       "dates": [
-        "2021-09-22"
+        "2021-09-22",
+        "2021-12-09"
       ]
     },
     {

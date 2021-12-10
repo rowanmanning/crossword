@@ -16,6 +16,15 @@
       ]
     },
     {
+      "person": "Nick Ramsbottom",
+      "count": 3,
+      "dates": [
+        "2021-08-23",
+        "2021-10-30",
+        "2021-12-09"
+      ]
+    },
+    {
       "person": "leaf",
       "count": 2,
       "dates": [
@@ -48,14 +57,6 @@
       ]
     },
     {
-      "person": "Nick Ramsbottom",
-      "count": 2,
-      "dates": [
-        "2021-08-23",
-        "2021-10-30"
-      ]
-    },
-    {
       "person": "Rowan M",
       "count": 2,
       "dates": [
@@ -72,5 +73,5 @@
       ]
     }
   ],
-  "totalUnlocks": 19
+  "totalUnlocks": 20
 }
