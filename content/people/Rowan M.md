@@ -5,12 +5,12 @@
     {
       "person": "Rowan M",
       "leaderboard": "2021-12-10",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 31,
+      "totalSeconds": 91,
+      "position": 1,
+      "scrapeTime": "2021-12-10T05:02:12.395Z",
+      "isPending": false
     },
     {
       "person": "Rowan M",
@@ -1753,7 +1753,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 428,
+  "awardCount": 431,
   "awards": [
     {
       "title": "Gold",
@@ -2049,7 +2049,8 @@
         "2021-11-20",
         "2021-11-22",
         "2021-11-27",
-        "2021-12-04"
+        "2021-12-04",
+        "2021-12-10"
       ]
     },
     {
@@ -2096,7 +2097,8 @@
         "2021-11-27",
         "2021-11-28",
         "2021-12-04",
-        "2021-12-05"
+        "2021-12-05",
+        "2021-12-10"
       ]
     },
     {
@@ -2426,6 +2428,14 @@
       "text": "What's your emergency?",
       "dates": [
         "2021-08-21"
+      ]
+    },
+    {
+      "title": "Quick Draw",
+      "type": "quick-draw",
+      "text": "Complete a puzzle before anyone else (or within 30 minutes of the first person)",
+      "dates": [
+        "2021-12-10"
       ]
     }
   ]

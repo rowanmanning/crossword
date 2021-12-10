@@ -95,7 +95,14 @@
       "dates": [
         "2021-12-06"
       ]
+    },
+    {
+      "person": "Rowan M",
+      "count": 1,
+      "dates": [
+        "2021-12-10"
+      ]
     }
   ],
-  "totalUnlocks": 38
+  "totalUnlocks": 39
 }
