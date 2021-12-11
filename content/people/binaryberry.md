@@ -5,12 +5,12 @@
     {
       "person": "binaryberry",
       "leaderboard": "2021-12-11",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 3,
+      "seconds": 0,
+      "totalSeconds": 180,
+      "position": 8,
+      "scrapeTime": "2021-12-11T13:34:18.162Z",
+      "isPending": false
     },
     {
       "person": "binaryberry",
@@ -1763,7 +1763,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 146,
+  "awardCount": 147,
   "awards": [
     {
       "title": "Bronze",
@@ -1976,6 +1976,14 @@
       "dates": [
         "2021-10-31",
         "2021-11-18"
+      ]
+    },
+    {
+      "title": "Month-Long Streak",
+      "type": "month-streak",
+      "text": "Play for a full month (30 days) without breaks",
+      "dates": [
+        "2021-12-11"
       ]
     },
     {

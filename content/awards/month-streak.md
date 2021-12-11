@@ -85,7 +85,14 @@
       "dates": [
         "2021-10-18"
       ]
+    },
+    {
+      "person": "binaryberry",
+      "count": 1,
+      "dates": [
+        "2021-12-11"
+      ]
     }
   ],
-  "totalUnlocks": 16
+  "totalUnlocks": 17
 }
