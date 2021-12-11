@@ -5,12 +5,12 @@
     {
       "person": "varjmes",
       "leaderboard": "2021-12-12",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 48,
+      "totalSeconds": 48,
+      "position": 1,
+      "scrapeTime": "2021-12-11T23:33:15.468Z",
+      "isPending": false
     },
     {
       "person": "varjmes",
@@ -1767,13 +1767,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 24,
-    "totalSeconds": 84,
+    "seconds": 23,
+    "totalSeconds": 83,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 327,
+  "awardCount": 329,
   "awards": [
     {
       "title": "Gold",
@@ -2095,7 +2095,8 @@
         "2021-12-03",
         "2021-12-05",
         "2021-12-09",
-        "2021-12-11"
+        "2021-12-11",
+        "2021-12-12"
       ]
     },
     {
@@ -2323,7 +2324,8 @@
       "text": "Complete a puzzle before anyone else (or within 30 minutes of the first person)",
       "dates": [
         "2021-11-28",
-        "2021-12-05"
+        "2021-12-05",
+        "2021-12-12"
       ]
     }
   ]
