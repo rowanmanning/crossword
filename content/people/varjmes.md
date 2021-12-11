@@ -5,12 +5,12 @@
     {
       "person": "varjmes",
       "leaderboard": "2021-12-11",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 50,
+      "totalSeconds": 50,
+      "position": 1,
+      "scrapeTime": "2021-12-11T09:33:57.968Z",
+      "isPending": false
     },
     {
       "person": "varjmes",
@@ -1763,7 +1763,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 323,
+  "awardCount": 326,
   "awards": [
     {
       "title": "Gold",
@@ -1903,7 +1903,8 @@
         "2021-11-14",
         "2021-11-21",
         "2021-11-28",
-        "2021-12-05"
+        "2021-12-05",
+        "2021-12-11"
       ]
     },
     {
@@ -2082,7 +2083,8 @@
         "2021-12-01",
         "2021-12-03",
         "2021-12-05",
-        "2021-12-09"
+        "2021-12-09",
+        "2021-12-11"
       ]
     },
     {
@@ -2154,7 +2156,8 @@
       "type": "nice-try-joel",
       "text": "Complete a puzzle in less than a minute on a Saturday",
       "dates": [
-        "2021-10-02"
+        "2021-10-02",
+        "2021-12-11"
       ]
     },
     {
