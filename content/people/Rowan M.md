@@ -5,12 +5,12 @@
     {
       "person": "Rowan M",
       "leaderboard": "2021-12-11",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 54,
+      "totalSeconds": 54,
+      "position": 2,
+      "scrapeTime": "2021-12-11T12:02:37.896Z",
+      "isPending": false
     },
     {
       "person": "Rowan M",
@@ -1763,7 +1763,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 431,
+  "awardCount": 433,
   "awards": [
     {
       "title": "Gold",
@@ -2157,7 +2157,8 @@
         "2021-11-25",
         "2021-11-30",
         "2021-12-01",
-        "2021-12-07"
+        "2021-12-07",
+        "2021-12-11"
       ]
     },
     {
@@ -2269,7 +2270,8 @@
       "text": "Complete a puzzle in less than a minute on a Saturday",
       "dates": [
         "2021-10-16",
-        "2021-10-30"
+        "2021-10-30",
+        "2021-12-11"
       ]
     },
     {
