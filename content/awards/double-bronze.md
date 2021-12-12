@@ -69,19 +69,20 @@
       ]
     },
     {
+      "person": "cb",
+      "count": 2,
+      "dates": [
+        "2021-10-05",
+        "2021-12-12"
+      ]
+    },
+    {
       "person": "Oliver Turner",
       "count": 1,
       "dates": [
         "2021-07-20"
       ]
-    },
-    {
-      "person": "cb",
-      "count": 1,
-      "dates": [
-        "2021-10-05"
-      ]
     }
   ],
-  "totalUnlocks": 24
+  "totalUnlocks": 25
 }
