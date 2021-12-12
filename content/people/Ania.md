@@ -5,12 +5,12 @@
     {
       "person": "Ania",
       "leaderboard": "2021-12-12",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 11,
+      "totalSeconds": 71,
+      "position": 8,
+      "scrapeTime": "2021-12-12T15:02:12.285Z",
+      "isPending": false
     },
     {
       "person": "Ania",
@@ -1767,13 +1767,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 38,
-    "totalSeconds": 98,
+    "seconds": 37,
+    "totalSeconds": 97,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 300,
+  "awardCount": 302,
   "awards": [
     {
       "title": "Gold",
@@ -2025,7 +2025,8 @@
         "2021-12-03",
         "2021-12-08",
         "2021-12-09",
-        "2021-12-11"
+        "2021-12-11",
+        "2021-12-12"
       ]
     },
     {
@@ -2182,7 +2183,8 @@
       "text": "Play for a full month (30 days) without breaks",
       "dates": [
         "2021-07-24",
-        "2021-09-06"
+        "2021-09-06",
+        "2021-12-12"
       ]
     },
     {
