@@ -5,12 +5,12 @@
     {
       "person": "apaleslimghost",
       "leaderboard": "2021-12-13",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 27,
+      "totalSeconds": 27,
+      "position": 1,
+      "scrapeTime": "2021-12-13T07:32:47.956Z",
+      "isPending": false
     },
     {
       "person": "apaleslimghost",
@@ -1773,7 +1773,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 287,
+  "awardCount": 289,
   "awards": [
     {
       "title": "Gold",
@@ -2077,7 +2077,8 @@
         "2021-08-25",
         "2021-09-09",
         "2021-09-30",
-        "2021-11-16"
+        "2021-11-16",
+        "2021-12-13"
       ]
     },
     {
@@ -2146,6 +2147,14 @@
         "2021-10-18",
         "2021-11-04",
         "2021-11-20"
+      ]
+    },
+    {
+      "title": "Month-Long Streak",
+      "type": "month-streak",
+      "text": "Play for a full month (30 days) without breaks",
+      "dates": [
+        "2021-12-13"
       ]
     },
     {

@@ -39,6 +39,14 @@
       ]
     },
     {
+      "person": "Nick Ramsbottom",
+      "count": 2,
+      "dates": [
+        "2021-10-18",
+        "2021-12-13"
+      ]
+    },
+    {
       "person": "Lily2point0",
       "count": 1,
       "dates": [
@@ -81,19 +89,19 @@
       ]
     },
     {
-      "person": "Nick Ramsbottom",
-      "count": 1,
-      "dates": [
-        "2021-10-18"
-      ]
-    },
-    {
       "person": "binaryberry",
       "count": 1,
       "dates": [
         "2021-12-11"
       ]
+    },
+    {
+      "person": "apaleslimghost",
+      "count": 1,
+      "dates": [
+        "2021-12-13"
+      ]
     }
   ],
-  "totalUnlocks": 18
+  "totalUnlocks": 20
 }
