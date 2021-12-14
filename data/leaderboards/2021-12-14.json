@@ -10,6 +10,11 @@
 		"seconds": 36
 	},
 	{
+		"name": "varjmes",
+		"scrapeTime": "2021-12-14T10:35:28.451Z",
+		"seconds": 44
+	},
+	{
 		"name": "j-sheps",
 		"scrapeTime": "2021-12-14T08:36:38.718Z",
 		"seconds": 46
@@ -76,11 +81,6 @@
 	},
 	{
 		"name": "Rowan M",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
-		"name": "varjmes",
 		"scrapeTime": null,
 		"seconds": null
 	}
