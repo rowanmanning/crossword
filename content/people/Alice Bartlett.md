@@ -5,12 +5,12 @@
     {
       "person": "Alice Bartlett",
       "leaderboard": "2021-12-14",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 31,
+      "totalSeconds": 31,
+      "position": 2,
+      "scrapeTime": "2021-12-14T18:36:23.841Z",
+      "isPending": false
     },
     {
       "person": "Alice Bartlett",
@@ -387,13 +387,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 9,
-    "totalSeconds": 129,
+    "seconds": 6,
+    "totalSeconds": 126,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 60,
+  "awardCount": 63,
   "awards": [
     {
       "title": "Gold",
@@ -430,7 +430,8 @@
         "2021-11-29",
         "2021-12-03",
         "2021-12-09",
-        "2021-12-12"
+        "2021-12-12",
+        "2021-12-14"
       ]
     },
     {
@@ -494,6 +495,14 @@
       ]
     },
     {
+      "title": "Sub 45 Seconds",
+      "type": "sub-45",
+      "text": "Complete a puzzle in less than 45 seconds",
+      "dates": [
+        "2021-12-14"
+      ]
+    },
+    {
       "title": "Sub 30 Seconds",
       "type": "sub-30",
       "text": "Complete a puzzle in less than 30 seconds",
@@ -531,7 +540,8 @@
       "text": "Play for three days in a row",
       "dates": [
         "2021-11-10",
-        "2021-12-01"
+        "2021-12-01",
+        "2021-12-14"
       ]
     },
     {

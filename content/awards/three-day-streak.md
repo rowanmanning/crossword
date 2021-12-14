@@ -138,6 +138,15 @@
       ]
     },
     {
+      "person": "Alice Bartlett",
+      "count": 3,
+      "dates": [
+        "2021-11-10",
+        "2021-12-01",
+        "2021-12-14"
+      ]
+    },
+    {
       "person": "j-sheps",
       "count": 2,
       "dates": [
@@ -159,14 +168,6 @@
       "dates": [
         "2021-09-16",
         "2021-12-14"
-      ]
-    },
-    {
-      "person": "Alice Bartlett",
-      "count": 2,
-      "dates": [
-        "2021-11-10",
-        "2021-12-01"
       ]
     },
     {
@@ -198,5 +199,5 @@
       ]
     }
   ],
-  "totalUnlocks": 91
+  "totalUnlocks": 92
 }
