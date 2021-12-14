@@ -5,12 +5,12 @@
     {
       "person": "ivo",
       "leaderboard": "2021-12-14",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 36,
+      "totalSeconds": 36,
+      "position": 2,
+      "scrapeTime": "2021-12-14T09:34:09.383Z",
+      "isPending": false
     },
     {
       "person": "ivo",
@@ -937,13 +937,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 50,
-    "totalSeconds": 110,
+    "seconds": 49,
+    "totalSeconds": 109,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 161,
+  "awardCount": 163,
   "awards": [
     {
       "title": "Gold",
@@ -1146,7 +1146,8 @@
         "2021-11-19",
         "2021-11-23",
         "2021-11-29",
-        "2021-12-06"
+        "2021-12-06",
+        "2021-12-14"
       ]
     },
     {
@@ -1186,7 +1187,8 @@
       "type": "three-day-streak",
       "text": "Play for three days in a row",
       "dates": [
-        "2021-09-16"
+        "2021-09-16",
+        "2021-12-14"
       ]
     },
     {

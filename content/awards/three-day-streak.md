@@ -154,6 +154,14 @@
       ]
     },
     {
+      "person": "ivo",
+      "count": 2,
+      "dates": [
+        "2021-09-16",
+        "2021-12-14"
+      ]
+    },
+    {
       "person": "Alice Bartlett",
       "count": 2,
       "dates": [
@@ -188,14 +196,7 @@
       "dates": [
         "2021-06-25"
       ]
-    },
-    {
-      "person": "ivo",
-      "count": 1,
-      "dates": [
-        "2021-09-16"
-      ]
     }
   ],
-  "totalUnlocks": 90
+  "totalUnlocks": 91
 }
