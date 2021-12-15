@@ -403,7 +403,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 66,
+  "awardCount": 67,
   "awards": [
     {
       "title": "Gold",
@@ -573,7 +573,8 @@
       "dates": [
         "2021-11-18",
         "2021-11-21",
-        "2021-11-22"
+        "2021-11-22",
+        "2021-12-15"
       ]
     },
     {
