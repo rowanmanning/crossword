@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Alice Bartlett",
+      "leaderboard": "2021-12-15",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Alice Bartlett",
       "leaderboard": "2021-12-14",
       "minutes": 0,
       "seconds": 31,
@@ -393,7 +403,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 63,
+  "awardCount": 64,
   "awards": [
     {
       "title": "Gold",
@@ -408,7 +418,8 @@
       "type": "silver",
       "text": "Get the second fastest time for a day",
       "dates": [
-        "2021-11-11"
+        "2021-11-11",
+        "2021-12-14"
       ]
     },
     {
