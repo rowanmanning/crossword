@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Alice Bartlett",
+      "leaderboard": "2021-12-16",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Alice Bartlett",
       "leaderboard": "2021-12-15",
       "minutes": 1,
       "seconds": 14,
@@ -403,7 +413,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 67,
+  "awardCount": 68,
   "awards": [
     {
       "title": "Gold",
@@ -545,6 +555,14 @@
       "text": "Complete a puzzle in more than 10 minutes",
       "dates": [
         "2021-11-20"
+      ]
+    },
+    {
+      "title": "Chain 3",
+      "type": "chain-3",
+      "text": "Participate in a chain of three sequential times",
+      "dates": [
+        "2021-12-15"
       ]
     },
     {
