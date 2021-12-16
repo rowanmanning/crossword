@@ -139,8 +139,9 @@
     },
     {
       "person": "varjmes",
-      "count": 3,
+      "count": 4,
       "dates": [
+        "2021-12-16",
         "2021-11-28",
         "2021-09-21",
         "2021-08-15"
@@ -156,6 +157,14 @@
       ]
     },
     {
+      "person": "binaryberry",
+      "count": 2,
+      "dates": [
+        "2021-12-16",
+        "2021-11-16"
+      ]
+    },
+    {
       "person": "joelcarr",
       "count": 1,
       "dates": [
@@ -168,14 +177,7 @@
       "dates": [
         "2021-11-11"
       ]
-    },
-    {
-      "person": "binaryberry",
-      "count": 1,
-      "dates": [
-        "2021-11-16"
-      ]
     }
   ],
-  "totalUnlocks": 76
+  "totalUnlocks": 78
 }
