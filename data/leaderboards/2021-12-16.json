@@ -40,6 +40,11 @@
 		"seconds": 110
 	},
 	{
+		"name": "Nick Ramsbottom",
+		"scrapeTime": "2021-12-16T11:02:35.701Z",
+		"seconds": 110
+	},
+	{
 		"name": "binaryberry",
 		"scrapeTime": "2021-12-16T07:02:16.121Z",
 		"seconds": 111
@@ -66,11 +71,6 @@
 	},
 	{
 		"name": "leaf",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
-		"name": "Nick Ramsbottom",
 		"scrapeTime": null,
 		"seconds": null
 	},
