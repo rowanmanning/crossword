@@ -25,6 +25,11 @@
 		"seconds": 44
 	},
 	{
+		"name": "j-sheps",
+		"scrapeTime": "2021-12-17T13:06:33.973Z",
+		"seconds": 49
+	},
+	{
 		"name": "varjmes",
 		"scrapeTime": "2021-12-17T11:32:00.628Z",
 		"seconds": 53
@@ -61,11 +66,6 @@
 	},
 	{
 		"name": "itsalex",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
-		"name": "j-sheps",
 		"scrapeTime": null,
 		"seconds": null
 	},
