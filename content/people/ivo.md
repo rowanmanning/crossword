@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "ivo",
+      "leaderboard": "2021-12-19",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "ivo",
       "leaderboard": "2021-12-18",
       "minutes": 2,
       "seconds": 47,
@@ -983,7 +993,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 170,
+  "awardCount": 171,
   "awards": [
     {
       "title": "Gold",
@@ -1326,7 +1336,8 @@
       "text": "What's your emergency?",
       "dates": [
         "2021-09-20",
-        "2021-11-12"
+        "2021-11-12",
+        "2021-12-18"
       ]
     },
     {
