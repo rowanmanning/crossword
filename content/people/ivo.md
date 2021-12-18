@@ -5,12 +5,12 @@
     {
       "person": "ivo",
       "leaderboard": "2021-12-18",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 47,
+      "totalSeconds": 167,
+      "position": 6,
+      "scrapeTime": "2021-12-18T10:35:43.213Z",
+      "isPending": false
     },
     {
       "person": "ivo",
@@ -977,13 +977,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 48,
-    "totalSeconds": 108,
+    "seconds": 49,
+    "totalSeconds": 109,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 168,
+  "awardCount": 170,
   "awards": [
     {
       "title": "Gold",
@@ -1107,7 +1107,8 @@
         "2021-11-24",
         "2021-11-27",
         "2021-12-01",
-        "2021-12-07"
+        "2021-12-07",
+        "2021-12-18"
       ]
     },
     {
@@ -1248,7 +1249,8 @@
       "type": "week-streak",
       "text": "Play for a full week without breaks",
       "dates": [
-        "2021-09-20"
+        "2021-09-20",
+        "2021-12-18"
       ]
     },
     {

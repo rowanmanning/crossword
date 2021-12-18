@@ -82,6 +82,14 @@
       ]
     },
     {
+      "person": "ivo",
+      "count": 2,
+      "dates": [
+        "2021-09-20",
+        "2021-12-18"
+      ]
+    },
+    {
       "person": "binaryberry",
       "count": 2,
       "dates": [
@@ -124,14 +132,7 @@
       "dates": [
         "2021-08-08"
       ]
-    },
-    {
-      "person": "ivo",
-      "count": 1,
-      "dates": [
-        "2021-09-20"
-      ]
     }
   ],
-  "totalUnlocks": 38
+  "totalUnlocks": 39
 }
