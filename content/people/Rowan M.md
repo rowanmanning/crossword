@@ -5,12 +5,12 @@
     {
       "person": "Rowan M",
       "leaderboard": "2021-12-18",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 0,
+      "totalSeconds": 120,
+      "position": 3,
+      "scrapeTime": "2021-12-18T13:35:07.180Z",
+      "isPending": false
     },
     {
       "person": "Rowan M",
@@ -1827,13 +1827,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 55,
-    "totalSeconds": 55,
+    "seconds": 56,
+    "totalSeconds": 56,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 445,
+  "awardCount": 446,
   "awards": [
     {
       "title": "Gold",
@@ -2135,7 +2135,8 @@
         "2021-11-22",
         "2021-11-27",
         "2021-12-04",
-        "2021-12-10"
+        "2021-12-10",
+        "2021-12-18"
       ]
     },
     {
