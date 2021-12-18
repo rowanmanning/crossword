@@ -5,12 +5,12 @@
     {
       "person": "j-sheps",
       "leaderboard": "2021-12-18",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 23,
+      "totalSeconds": 83,
+      "position": 1,
+      "scrapeTime": "2021-12-18T10:02:15.864Z",
+      "isPending": false
     },
     {
       "person": "j-sheps",
@@ -1833,7 +1833,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 378,
+  "awardCount": 380,
   "awards": [
     {
       "title": "Gold",
@@ -2126,7 +2126,8 @@
         "2021-12-01",
         "2021-12-05",
         "2021-12-10",
-        "2021-12-11"
+        "2021-12-11",
+        "2021-12-18"
       ]
     },
     {
@@ -2303,7 +2304,8 @@
       "text": "Play for three days in a row",
       "dates": [
         "2021-06-23",
-        "2021-07-30"
+        "2021-07-30",
+        "2021-12-18"
       ]
     },
     {
