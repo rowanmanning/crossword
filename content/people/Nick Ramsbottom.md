@@ -5,12 +5,12 @@
     {
       "person": "Nick Ramsbottom",
       "leaderboard": "2021-12-19",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 44,
+      "totalSeconds": 44,
+      "position": 3,
+      "scrapeTime": "2021-12-19T07:02:13.517Z",
+      "isPending": false
     },
     {
       "person": "Nick Ramsbottom",
@@ -1237,13 +1237,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 1,
-    "totalSeconds": 121,
+    "seconds": 0,
+    "totalSeconds": 120,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 187,
+  "awardCount": 189,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -1312,7 +1312,8 @@
       "dates": [
         "2021-10-11",
         "2021-10-24",
-        "2021-11-21"
+        "2021-11-21",
+        "2021-12-19"
       ]
     },
     {
@@ -1441,7 +1442,8 @@
       "type": "sub-45",
       "text": "Complete a puzzle in less than 45 seconds",
       "dates": [
-        "2021-11-26"
+        "2021-11-26",
+        "2021-12-19"
       ]
     },
     {

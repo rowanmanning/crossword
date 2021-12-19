@@ -170,6 +170,16 @@
       ]
     },
     {
+      "person": "Nick Ramsbottom",
+      "count": 4,
+      "dates": [
+        "2021-10-11",
+        "2021-10-24",
+        "2021-11-21",
+        "2021-12-19"
+      ]
+    },
+    {
       "person": "Alice Bartlett",
       "count": 4,
       "dates": [
@@ -189,15 +199,6 @@
       ]
     },
     {
-      "person": "Nick Ramsbottom",
-      "count": 3,
-      "dates": [
-        "2021-10-11",
-        "2021-10-24",
-        "2021-11-21"
-      ]
-    },
-    {
       "person": "joelcarr",
       "count": 2,
       "dates": [
@@ -213,5 +214,5 @@
       ]
     }
   ],
-  "totalUnlocks": 112
+  "totalUnlocks": 113
 }
