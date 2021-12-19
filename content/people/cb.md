@@ -5,12 +5,12 @@
     {
       "person": "cb",
       "leaderboard": "2021-12-19",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 16,
+      "totalSeconds": 16,
+      "position": 1,
+      "scrapeTime": "2021-12-19T15:35:14.159Z",
+      "isPending": false
     },
     {
       "person": "cb",
@@ -1745,12 +1745,12 @@
   ],
   "best": {
     "person": "cb",
-    "leaderboard": "2021-11-25",
+    "leaderboard": "2021-12-19",
     "minutes": 0,
     "seconds": 16,
     "totalSeconds": 16,
     "position": 1,
-    "scrapeTime": "2021-11-25T17:36:45.834Z",
+    "scrapeTime": "2021-12-19T15:35:14.159Z",
     "isPending": false
   },
   "mean": {
@@ -1763,7 +1763,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 434,
+  "awardCount": 436,
   "awards": [
     {
       "title": "Gold",
@@ -2005,7 +2005,8 @@
         "2021-08-01",
         "2021-08-29",
         "2021-09-13",
-        "2021-11-21"
+        "2021-11-21",
+        "2021-12-19"
       ]
     },
     {
@@ -2243,7 +2244,8 @@
       "type": "sub-20",
       "text": "Complete a puzzle in less than 20 seconds",
       "dates": [
-        "2021-11-25"
+        "2021-11-25",
+        "2021-12-19"
       ]
     },
     {

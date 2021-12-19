@@ -40,6 +40,14 @@
       ]
     },
     {
+      "person": "cb",
+      "count": 2,
+      "dates": [
+        "2021-11-25",
+        "2021-12-19"
+      ]
+    },
+    {
       "person": "Emma L",
       "count": 1,
       "dates": [
@@ -51,13 +59,6 @@
       "count": 1,
       "dates": [
         "2021-09-28"
-      ]
-    },
-    {
-      "person": "cb",
-      "count": 1,
-      "dates": [
-        "2021-11-25"
       ]
     },
     {
@@ -75,5 +76,5 @@
       ]
     }
   ],
-  "totalUnlocks": 16
+  "totalUnlocks": 17
 }
