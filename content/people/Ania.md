@@ -5,12 +5,12 @@
     {
       "person": "Ania",
       "leaderboard": "2021-12-19",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 42,
+      "totalSeconds": 42,
+      "position": 4,
+      "scrapeTime": "2021-12-19T11:31:55.324Z",
+      "isPending": false
     },
     {
       "person": "Ania",
@@ -1843,7 +1843,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 314,
+  "awardCount": 317,
   "awards": [
     {
       "title": "Gold",
@@ -1969,7 +1969,8 @@
         "2021-12-02",
         "2021-12-06",
         "2021-12-07",
-        "2021-12-17"
+        "2021-12-17",
+        "2021-12-19"
       ]
     },
     {
@@ -2180,7 +2181,8 @@
         "2021-11-26",
         "2021-11-30",
         "2021-12-02",
-        "2021-12-17"
+        "2021-12-17",
+        "2021-12-19"
       ]
     },
     {
@@ -2338,7 +2340,8 @@
       "text": "A towel is about the most massively useful thing an interstellar hitchhiker can have",
       "dates": [
         "2021-07-30",
-        "2021-10-31"
+        "2021-10-31",
+        "2021-12-19"
       ]
     },
     {
