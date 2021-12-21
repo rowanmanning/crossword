@@ -5,12 +5,12 @@
     {
       "person": "joelcarr",
       "leaderboard": "2021-12-21",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 3,
+      "seconds": 35,
+      "totalSeconds": 215,
+      "position": 11,
+      "scrapeTime": "2021-12-21T14:32:31.893Z",
+      "isPending": false
     },
     {
       "person": "joelcarr",
@@ -1863,7 +1863,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 119,
+  "awardCount": 120,
   "awards": [
     {
       "title": "Bronze",
@@ -1958,7 +1958,8 @@
         "2021-10-20",
         "2021-11-12",
         "2021-11-17",
-        "2021-11-30"
+        "2021-11-30",
+        "2021-12-21"
       ]
     },
     {
