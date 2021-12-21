@@ -25,6 +25,11 @@
 		"seconds": 83
 	},
 	{
+		"name": "Nick Ramsbottom",
+		"scrapeTime": "2021-12-21T13:07:38.288Z",
+		"seconds": 94
+	},
+	{
 		"name": "j-sheps",
 		"scrapeTime": "2021-12-21T10:35:52.948Z",
 		"seconds": 122
@@ -38,6 +43,11 @@
 		"name": "binaryberry",
 		"scrapeTime": "2021-12-21T04:02:15.751Z",
 		"seconds": 208
+	},
+	{
+		"name": "ivo",
+		"scrapeTime": "2021-12-21T13:07:38.288Z",
+		"seconds": 273
 	},
 	{
 		"name": "arjun137",
@@ -55,22 +65,12 @@
 		"seconds": null
 	},
 	{
-		"name": "ivo",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
 		"name": "joelcarr",
 		"scrapeTime": null,
 		"seconds": null
 	},
 	{
 		"name": "leaf",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
-		"name": "Nick Ramsbottom",
 		"scrapeTime": null,
 		"seconds": null
 	},
