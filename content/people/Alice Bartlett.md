@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Alice Bartlett",
+      "leaderboard": "2021-12-21",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Alice Bartlett",
       "leaderboard": "2021-12-20",
       "minutes": 1,
       "seconds": 12,
@@ -453,7 +463,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 72,
+  "awardCount": 73,
   "awards": [
     {
       "title": "Gold",
@@ -660,7 +670,8 @@
       "type": "emergency",
       "text": "What's your emergency?",
       "dates": [
-        "2021-11-22"
+        "2021-11-22",
+        "2021-12-20"
       ]
     },
     {
