@@ -5,19 +5,20 @@
   "order": "21",
   "unlocks": [
     {
+      "person": "cb",
+      "count": 2,
+      "dates": [
+        "2021-11-02",
+        "2021-12-21"
+      ]
+    },
+    {
       "person": "Emma L",
       "count": 1,
       "dates": [
         "2021-09-07"
       ]
-    },
-    {
-      "person": "cb",
-      "count": 1,
-      "dates": [
-        "2021-11-02"
-      ]
     }
   ],
-  "totalUnlocks": 2
+  "totalUnlocks": 3
 }

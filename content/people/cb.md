@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "cb",
+      "leaderboard": "2021-12-22",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "cb",
       "leaderboard": "2021-12-21",
       "minutes": 0,
       "seconds": 42,
@@ -1783,7 +1793,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 444,
+  "awardCount": 446,
   "awards": [
     {
       "title": "Gold",
@@ -1837,7 +1847,8 @@
         "2021-12-13",
         "2021-12-17",
         "2021-12-19",
-        "2021-12-20"
+        "2021-12-20",
+        "2021-12-21"
       ]
     },
     {
@@ -1861,7 +1872,8 @@
       "type": "triple-gold",
       "text": "Get the fastest time three days in a row",
       "dates": [
-        "2021-11-02"
+        "2021-11-02",
+        "2021-12-21"
       ]
     },
     {
