@@ -659,7 +659,14 @@
         "2021-11-21",
         "2021-11-22",
         "2021-12-15",
-        "2021-12-20",
+        "2021-12-20"
+      ]
+    },
+    {
+      "title": "Tripleting",
+      "type": "tripleting",
+      "text": "Get the same time as two other people",
+      "dates": [
         "2021-12-22"
       ]
     },

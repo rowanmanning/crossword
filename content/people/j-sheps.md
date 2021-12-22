@@ -5,12 +5,12 @@
     {
       "person": "j-sheps",
       "leaderboard": "2021-12-22",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 47,
+      "totalSeconds": 47,
+      "position": 6,
+      "scrapeTime": "2021-12-22T16:41:18.205Z",
+      "isPending": false
     },
     {
       "person": "j-sheps",
@@ -1873,7 +1873,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 386,
+  "awardCount": 390,
   "awards": [
     {
       "title": "Gold",
@@ -2046,7 +2046,8 @@
         "2021-12-02",
         "2021-12-06",
         "2021-12-12",
-        "2021-12-19"
+        "2021-12-19",
+        "2021-12-22"
       ]
     },
     {
@@ -2212,7 +2213,8 @@
         "2021-12-09",
         "2021-12-14",
         "2021-12-16",
-        "2021-12-17"
+        "2021-12-17",
+        "2021-12-22"
       ]
     },
     {
@@ -2359,7 +2361,8 @@
       "text": "Play for a full week without breaks",
       "dates": [
         "2021-06-27",
-        "2021-08-03"
+        "2021-08-03",
+        "2021-12-22"
       ]
     },
     {
@@ -2416,7 +2419,8 @@
       "dates": [
         "2021-08-23",
         "2021-10-13",
-        "2021-10-18"
+        "2021-10-18",
+        "2021-12-22"
       ]
     },
     {
