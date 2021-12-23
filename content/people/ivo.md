@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "ivo",
+      "leaderboard": "2021-12-23",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "ivo",
       "leaderboard": "2021-12-22",
       "minutes": 0,
       "seconds": 22,
@@ -1023,7 +1033,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 179,
+  "awardCount": 180,
   "awards": [
     {
       "title": "Gold",
@@ -1031,7 +1041,8 @@
       "text": "Get the fastest time for a day",
       "dates": [
         "2021-10-18",
-        "2021-11-30"
+        "2021-11-30",
+        "2021-12-22"
       ]
     },
     {
