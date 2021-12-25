@@ -5,12 +5,12 @@
     {
       "person": "Alice Bartlett",
       "leaderboard": "2021-12-25",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 54,
+      "totalSeconds": 54,
+      "position": 4,
+      "scrapeTime": "2021-12-25T16:02:13.550Z",
+      "isPending": false
     },
     {
       "person": "Alice Bartlett",
@@ -497,13 +497,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 59,
-    "totalSeconds": 119,
+    "seconds": 57,
+    "totalSeconds": 117,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 78,
+  "awardCount": 81,
   "awards": [
     {
       "title": "Gold",
@@ -542,7 +542,8 @@
         "2021-12-03",
         "2021-12-09",
         "2021-12-12",
-        "2021-12-14"
+        "2021-12-14",
+        "2021-12-25"
       ]
     },
     {
@@ -610,7 +611,8 @@
         "2021-11-19",
         "2021-11-21",
         "2021-11-23",
-        "2021-12-22"
+        "2021-12-22",
+        "2021-12-25"
       ]
     },
     {
@@ -651,6 +653,14 @@
       "text": "Complete a puzzle in more than 10 minutes",
       "dates": [
         "2021-11-20"
+      ]
+    },
+    {
+      "title": "Nice Try, Joel",
+      "type": "nice-try-joel",
+      "text": "Complete a puzzle in less than a minute on a Saturday",
+      "dates": [
+        "2021-12-25"
       ]
     },
     {
