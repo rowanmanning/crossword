@@ -5,12 +5,12 @@
     {
       "person": "apaleslimghost",
       "leaderboard": "2021-12-25",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 34,
+      "totalSeconds": 34,
+      "position": 1,
+      "scrapeTime": "2021-12-25T08:36:18.561Z",
+      "isPending": false
     },
     {
       "person": "apaleslimghost",
@@ -1893,7 +1893,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 310,
+  "awardCount": 313,
   "awards": [
     {
       "title": "Gold",
@@ -2030,7 +2030,8 @@
         "2021-08-01",
         "2021-09-30",
         "2021-12-08",
-        "2021-12-19"
+        "2021-12-19",
+        "2021-12-25"
       ]
     },
     {
@@ -2198,7 +2199,8 @@
         "2021-12-15",
         "2021-12-17",
         "2021-12-19",
-        "2021-12-20"
+        "2021-12-20",
+        "2021-12-25"
       ]
     },
     {
@@ -2224,6 +2226,14 @@
       "text": "Complete a puzzle in more than 5 minutes",
       "dates": [
         "2021-07-31"
+      ]
+    },
+    {
+      "title": "Nice Try, Joel",
+      "type": "nice-try-joel",
+      "text": "Complete a puzzle in less than a minute on a Saturday",
+      "dates": [
+        "2021-12-25"
       ]
     },
     {

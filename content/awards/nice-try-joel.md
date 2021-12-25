@@ -63,6 +63,13 @@
       ]
     },
     {
+      "person": "apaleslimghost",
+      "count": 1,
+      "dates": [
+        "2021-12-25"
+      ]
+    },
+    {
       "person": "Lily2point0",
       "count": 1,
       "dates": [
@@ -70,5 +77,5 @@
       ]
     }
   ],
-  "totalUnlocks": 17
+  "totalUnlocks": 18
 }
