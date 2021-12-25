@@ -5,12 +5,12 @@
     {
       "person": "Lily2point0",
       "leaderboard": "2021-12-25",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 58,
+      "totalSeconds": 58,
+      "position": 1,
+      "scrapeTime": "2021-12-25T08:02:17.163Z",
+      "isPending": false
     },
     {
       "person": "Lily2point0",
@@ -1903,7 +1903,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 308,
+  "awardCount": 311,
   "awards": [
     {
       "title": "Gold",
@@ -2034,7 +2034,8 @@
         "2021-10-24",
         "2021-11-14",
         "2021-11-21",
-        "2021-11-23"
+        "2021-11-23",
+        "2021-12-25"
       ]
     },
     {
@@ -2207,7 +2208,8 @@
         "2021-12-06",
         "2021-12-19",
         "2021-12-20",
-        "2021-12-22"
+        "2021-12-22",
+        "2021-12-25"
       ]
     },
     {
@@ -2231,6 +2233,14 @@
         "2021-11-14",
         "2021-11-16",
         "2021-12-15"
+      ]
+    },
+    {
+      "title": "Nice Try, Joel",
+      "type": "nice-try-joel",
+      "text": "Complete a puzzle in less than a minute on a Saturday",
+      "dates": [
+        "2021-12-25"
       ]
     },
     {
