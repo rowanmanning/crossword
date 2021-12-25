@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "j-sheps",
+      "leaderboard": "2021-12-25",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "j-sheps",
       "leaderboard": "2021-12-24",
       "minutes": 0,
       "seconds": 43,
@@ -1893,7 +1903,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 393,
+  "awardCount": 395,
   "awards": [
     {
       "title": "Gold",
@@ -1915,7 +1925,8 @@
         "2021-11-12",
         "2021-11-26",
         "2021-12-06",
-        "2021-12-18"
+        "2021-12-18",
+        "2021-12-24"
       ]
     },
     {
@@ -2459,7 +2470,8 @@
       "type": "twinning-in-gold",
       "text": "Get the twinning award and the fastest time for a day",
       "dates": [
-        "2021-12-06"
+        "2021-12-06",
+        "2021-12-24"
       ]
     },
     {

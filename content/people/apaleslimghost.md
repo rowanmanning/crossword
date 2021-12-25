@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "apaleslimghost",
+      "leaderboard": "2021-12-25",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "apaleslimghost",
       "leaderboard": "2021-12-24",
       "minutes": 2,
       "seconds": 56,
@@ -1883,7 +1893,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 309,
+  "awardCount": 310,
   "awards": [
     {
       "title": "Gold",
@@ -2386,7 +2396,8 @@
       "text": "What's your emergency?",
       "dates": [
         "2021-10-16",
-        "2021-11-05"
+        "2021-11-05",
+        "2021-12-24"
       ]
     },
     {

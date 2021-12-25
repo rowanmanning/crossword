@@ -96,19 +96,20 @@
       ]
     },
     {
+      "person": "apaleslimghost",
+      "count": 3,
+      "dates": [
+        "2021-10-16",
+        "2021-11-05",
+        "2021-12-24"
+      ]
+    },
+    {
       "person": "varjmes",
       "count": 2,
       "dates": [
         "2021-08-03",
         "2021-11-21"
-      ]
-    },
-    {
-      "person": "apaleslimghost",
-      "count": 2,
-      "dates": [
-        "2021-10-16",
-        "2021-11-05"
       ]
     },
     {
@@ -134,5 +135,5 @@
       ]
     }
   ],
-  "totalUnlocks": 51
+  "totalUnlocks": 52
 }
