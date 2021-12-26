@@ -5,12 +5,12 @@
     {
       "person": "leaf",
       "leaderboard": "2021-12-26",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 33,
+      "totalSeconds": 33,
+      "position": 2,
+      "scrapeTime": "2021-12-26T12:40:51.012Z",
+      "isPending": false
     },
     {
       "person": "leaf",
@@ -1913,7 +1913,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 289,
+  "awardCount": 292,
   "awards": [
     {
       "title": "Gold",
@@ -2229,7 +2229,8 @@
         "2021-10-28",
         "2021-10-31",
         "2021-11-01",
-        "2021-11-15"
+        "2021-11-15",
+        "2021-12-26"
       ]
     },
     {
@@ -2316,6 +2317,14 @@
       ]
     },
     {
+      "title": "Holiday",
+      "type": "holiday",
+      "text": "Come back to the crossword after a week off",
+      "dates": [
+        "2021-12-26"
+      ]
+    },
+    {
       "title": "Twinning",
       "type": "twinning",
       "text": "Get the same time as another person",
@@ -2338,7 +2347,8 @@
         "2021-10-29",
         "2021-11-16",
         "2021-12-01",
-        "2021-12-02"
+        "2021-12-02",
+        "2021-12-26"
       ]
     },
     {
