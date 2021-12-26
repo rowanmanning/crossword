@@ -40,6 +40,11 @@
 		"seconds": 62
 	},
 	{
+		"name": "Nick Ramsbottom",
+		"scrapeTime": "2021-12-26T20:02:26.183Z",
+		"seconds": 63
+	},
+	{
 		"name": "Ania",
 		"scrapeTime": "2021-12-26T16:02:21.120Z",
 		"seconds": 69
@@ -71,11 +76,6 @@
 	},
 	{
 		"name": "joelcarr",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
-		"name": "Nick Ramsbottom",
 		"scrapeTime": null,
 		"seconds": null
 	},
