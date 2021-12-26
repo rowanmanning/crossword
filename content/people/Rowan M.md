@@ -5,12 +5,12 @@
     {
       "person": "Rowan M",
       "leaderboard": "2021-12-26",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 33,
+      "totalSeconds": 33,
+      "position": 2,
+      "scrapeTime": "2021-12-26T16:02:21.120Z",
+      "isPending": false
     },
     {
       "person": "Rowan M",
@@ -1913,7 +1913,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 466,
+  "awardCount": 468,
   "awards": [
     {
       "title": "Gold",
@@ -2399,7 +2399,8 @@
         "2021-12-09",
         "2021-12-17",
         "2021-12-22",
-        "2021-12-25"
+        "2021-12-25",
+        "2021-12-26"
       ]
     },
     {
@@ -2553,7 +2554,8 @@
       "text": "Get the same time as two other people",
       "dates": [
         "2021-09-30",
-        "2021-10-12"
+        "2021-10-12",
+        "2021-12-26"
       ]
     },
     {
