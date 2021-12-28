@@ -5,12 +5,12 @@
     {
       "person": "apaleslimghost",
       "leaderboard": "2021-12-28",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 31,
+      "totalSeconds": 91,
+      "position": 2,
+      "scrapeTime": "2021-12-28T08:02:33.202Z",
+      "isPending": false
     },
     {
       "person": "apaleslimghost",
@@ -1923,7 +1923,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 317,
+  "awardCount": 320,
   "awards": [
     {
       "title": "Gold",
@@ -2094,7 +2094,8 @@
         "2021-12-01",
         "2021-12-07",
         "2021-12-18",
-        "2021-12-24"
+        "2021-12-24",
+        "2021-12-28"
       ]
     },
     {
@@ -2144,7 +2145,8 @@
         "2021-12-05",
         "2021-12-11",
         "2021-12-21",
-        "2021-12-23"
+        "2021-12-23",
+        "2021-12-28"
       ]
     },
     {
@@ -2449,7 +2451,8 @@
       "type": "quick-draw",
       "text": "Complete a puzzle before anyone else (or within 30 minutes of the first person)",
       "dates": [
-        "2021-11-24"
+        "2021-11-24",
+        "2021-12-28"
       ]
     }
   ]
