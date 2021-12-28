@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Nick Ramsbottom",
+      "leaderboard": "2021-12-28",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Nick Ramsbottom",
       "leaderboard": "2021-12-27",
       "minutes": 0,
       "seconds": 53,
@@ -1323,7 +1333,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 197,
+  "awardCount": 198,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -1643,7 +1653,8 @@
       "type": "beast",
       "text": "His number is six hundred and sixty-six",
       "dates": [
-        "2021-11-21"
+        "2021-11-21",
+        "2021-12-27"
       ]
     },
     {
