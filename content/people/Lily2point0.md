@@ -8,7 +8,7 @@
       "minutes": 0,
       "seconds": 29,
       "totalSeconds": 29,
-      "position": 1,
+      "position": 2,
       "scrapeTime": "2021-12-29T09:34:28.345Z",
       "isPending": false
     },
@@ -1929,7 +1929,7 @@
     "minutes": 0,
     "seconds": 29,
     "totalSeconds": 29,
-    "position": 1,
+    "position": 2,
     "scrapeTime": "2021-12-29T09:34:28.345Z",
     "isPending": false
   },
