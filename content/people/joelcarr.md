@@ -5,12 +5,12 @@
     {
       "person": "joelcarr",
       "leaderboard": "2021-12-29",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 4,
+      "totalSeconds": 124,
+      "position": 11,
+      "scrapeTime": "2021-12-29T15:35:38.470Z",
+      "isPending": false
     },
     {
       "person": "joelcarr",
@@ -1937,13 +1937,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 58,
-    "totalSeconds": 178,
+    "seconds": 57,
+    "totalSeconds": 177,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 123,
+  "awardCount": 124,
   "awards": [
     {
       "title": "Bronze",
@@ -2019,7 +2019,8 @@
       "text": "Quarter your completion time from one day to the next",
       "dates": [
         "2021-07-05",
-        "2021-12-02"
+        "2021-12-02",
+        "2021-12-29"
       ]
     },
     {
