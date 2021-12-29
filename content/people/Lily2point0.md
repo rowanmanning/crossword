@@ -5,12 +5,12 @@
     {
       "person": "Lily2point0",
       "leaderboard": "2021-12-29",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 29,
+      "totalSeconds": 29,
+      "position": 1,
+      "scrapeTime": "2021-12-29T09:34:28.345Z",
+      "isPending": false
     },
     {
       "person": "Lily2point0",
@@ -1925,12 +1925,12 @@
   ],
   "best": {
     "person": "Lily2point0",
-    "leaderboard": "2021-09-08",
+    "leaderboard": "2021-12-29",
     "minutes": 0,
-    "seconds": 32,
-    "totalSeconds": 32,
-    "position": 2,
-    "scrapeTime": null,
+    "seconds": 29,
+    "totalSeconds": 29,
+    "position": 1,
+    "scrapeTime": "2021-12-29T09:34:28.345Z",
     "isPending": false
   },
   "mean": {
@@ -1943,7 +1943,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 316,
+  "awardCount": 318,
   "awards": [
     {
       "title": "Gold",
@@ -2059,7 +2059,8 @@
         "2021-12-06",
         "2021-12-15",
         "2021-12-19",
-        "2021-12-28"
+        "2021-12-28",
+        "2021-12-29"
       ]
     },
     {
@@ -2277,6 +2278,14 @@
         "2021-11-14",
         "2021-11-16",
         "2021-12-15"
+      ]
+    },
+    {
+      "title": "Sub 30 Seconds",
+      "type": "sub-30",
+      "text": "Complete a puzzle in less than 30 seconds",
+      "dates": [
+        "2021-12-29"
       ]
     },
     {
