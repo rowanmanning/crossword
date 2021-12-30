@@ -5,12 +5,12 @@
     {
       "person": "apaleslimghost",
       "leaderboard": "2021-12-30",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 26,
+      "totalSeconds": 26,
+      "position": 1,
+      "scrapeTime": "2021-12-30T08:02:18.785Z",
+      "isPending": false
     },
     {
       "person": "apaleslimghost",
@@ -1943,7 +1943,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 324,
+  "awardCount": 326,
   "awards": [
     {
       "title": "Gold",
@@ -2275,7 +2275,8 @@
         "2021-11-16",
         "2021-12-13",
         "2021-12-16",
-        "2021-12-27"
+        "2021-12-27",
+        "2021-12-30"
       ]
     },
     {
@@ -2476,7 +2477,8 @@
       "text": "Complete a puzzle before anyone else (or within 30 minutes of the first person)",
       "dates": [
         "2021-11-24",
-        "2021-12-28"
+        "2021-12-28",
+        "2021-12-30"
       ]
     }
   ]
