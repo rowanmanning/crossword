@@ -5,6 +5,11 @@
 		"seconds": 26
 	},
 	{
+		"name": "Oliver Turner",
+		"scrapeTime": "2021-12-31T15:35:36.215Z",
+		"seconds": 28
+	},
+	{
 		"name": "apaleslimghost",
 		"scrapeTime": "2021-12-31T08:02:30.615Z",
 		"seconds": 33
@@ -76,11 +81,6 @@
 	},
 	{
 		"name": "leaf",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
-		"name": "Oliver Turner",
 		"scrapeTime": null,
 		"seconds": null
 	}

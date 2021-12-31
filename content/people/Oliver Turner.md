@@ -5,12 +5,12 @@
     {
       "person": "Oliver Turner",
       "leaderboard": "2021-12-31",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 28,
+      "totalSeconds": 28,
+      "position": 2,
+      "scrapeTime": "2021-12-31T15:35:36.215Z",
+      "isPending": false
     },
     {
       "person": "Oliver Turner",
@@ -1926,14 +1926,14 @@
   "mean": {
     "person": null,
     "leaderboard": null,
-    "minutes": 1,
-    "seconds": 0,
-    "totalSeconds": 60,
+    "minutes": 0,
+    "seconds": 59,
+    "totalSeconds": 59,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 112,
+  "awardCount": 115,
   "awards": [
     {
       "title": "Gold",
@@ -2028,7 +2028,8 @@
         "2021-07-06",
         "2021-07-16",
         "2021-08-25",
-        "2021-11-22"
+        "2021-11-22",
+        "2021-12-31"
       ]
     },
     {
@@ -2107,7 +2108,8 @@
         "2021-07-27",
         "2021-08-19",
         "2021-08-20",
-        "2021-11-03"
+        "2021-11-03",
+        "2021-12-31"
       ]
     },
     {
@@ -2155,7 +2157,8 @@
       "dates": [
         "2021-09-07",
         "2021-10-22",
-        "2021-11-13"
+        "2021-11-13",
+        "2021-12-31"
       ]
     },
     {
