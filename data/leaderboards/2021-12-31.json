@@ -60,6 +60,11 @@
 		"seconds": 74
 	},
 	{
+		"name": "leaf",
+		"scrapeTime": "2021-12-31T23:33:44.432Z",
+		"seconds": 75
+	},
+	{
 		"name": "Alice Bartlett",
 		"scrapeTime": "2021-12-31T18:36:35.334Z",
 		"seconds": 78
@@ -76,11 +81,6 @@
 	},
 	{
 		"name": "joelcarr",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
-		"name": "leaf",
 		"scrapeTime": null,
 		"seconds": null
 	}
