@@ -5,12 +5,12 @@
     {
       "person": "apaleslimghost",
       "leaderboard": "2022-01-01",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 37,
+      "totalSeconds": 97,
+      "position": 1,
+      "scrapeTime": "2022-01-01T07:32:37.164Z",
+      "isPending": false
     },
     {
       "person": "apaleslimghost",
@@ -1957,13 +1957,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 5,
-    "totalSeconds": 65,
+    "seconds": 6,
+    "totalSeconds": 66,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 329,
+  "awardCount": 332,
   "awards": [
     {
       "title": "Gold",
@@ -2139,7 +2139,8 @@
         "2021-12-07",
         "2021-12-18",
         "2021-12-24",
-        "2021-12-28"
+        "2021-12-28",
+        "2022-01-01"
       ]
     },
     {
@@ -2190,7 +2191,8 @@
         "2021-12-11",
         "2021-12-21",
         "2021-12-23",
-        "2021-12-28"
+        "2021-12-28",
+        "2022-01-01"
       ]
     },
     {
@@ -2458,7 +2460,8 @@
       "type": "arjun",
       "text": "Join us",
       "dates": [
-        "2021-07-15"
+        "2021-07-15",
+        "2022-01-01"
       ]
     },
     {

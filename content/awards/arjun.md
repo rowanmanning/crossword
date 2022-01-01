@@ -31,6 +31,14 @@
       ]
     },
     {
+      "person": "apaleslimghost",
+      "count": 2,
+      "dates": [
+        "2021-07-15",
+        "2022-01-01"
+      ]
+    },
+    {
       "person": "leaf",
       "count": 2,
       "dates": [
@@ -43,13 +51,6 @@
       "count": 1,
       "dates": [
         "2021-06-24"
-      ]
-    },
-    {
-      "person": "apaleslimghost",
-      "count": 1,
-      "dates": [
-        "2021-07-15"
       ]
     },
     {
@@ -67,5 +68,5 @@
       ]
     }
   ],
-  "totalUnlocks": 14
+  "totalUnlocks": 15
 }
