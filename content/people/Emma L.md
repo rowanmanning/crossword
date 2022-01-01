@@ -5,12 +5,12 @@
     {
       "person": "Emma L",
       "leaderboard": "2022-01-01",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 53,
+      "totalSeconds": 53,
+      "position": 1,
+      "scrapeTime": "2022-01-01T09:34:12.260Z",
+      "isPending": false
     },
     {
       "person": "Emma L",
@@ -1623,7 +1623,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 344,
+  "awardCount": 347,
   "awards": [
     {
       "title": "Gold",
@@ -1831,7 +1831,8 @@
         "2021-12-01",
         "2021-12-07",
         "2021-12-16",
-        "2021-12-18"
+        "2021-12-18",
+        "2022-01-01"
       ]
     },
     {
@@ -1922,7 +1923,8 @@
         "2021-12-21",
         "2021-12-24",
         "2021-12-27",
-        "2021-12-30"
+        "2021-12-30",
+        "2022-01-01"
       ]
     },
     {
@@ -2019,7 +2021,8 @@
       "text": "Complete a puzzle in less than a minute on a Saturday",
       "dates": [
         "2021-10-16",
-        "2021-10-23"
+        "2021-10-23",
+        "2022-01-01"
       ]
     },
     {
