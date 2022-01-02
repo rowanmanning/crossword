@@ -16,6 +16,24 @@
       ]
     },
     {
+      "person": "varjmes",
+      "count": 3,
+      "dates": [
+        "2021-06-27",
+        "2021-11-27",
+        "2022-01-02"
+      ]
+    },
+    {
+      "person": "Ania",
+      "count": 3,
+      "dates": [
+        "2021-07-16",
+        "2021-11-24",
+        "2022-01-02"
+      ]
+    },
+    {
       "person": "Nick Ramsbottom",
       "count": 3,
       "dates": [
@@ -33,27 +51,11 @@
       ]
     },
     {
-      "person": "varjmes",
-      "count": 2,
-      "dates": [
-        "2021-06-27",
-        "2021-11-27"
-      ]
-    },
-    {
       "person": "joelcarr",
       "count": 2,
       "dates": [
         "2021-07-09",
         "2021-08-11"
-      ]
-    },
-    {
-      "person": "Ania",
-      "count": 2,
-      "dates": [
-        "2021-07-16",
-        "2021-11-24"
       ]
     },
     {
@@ -73,5 +75,5 @@
       ]
     }
   ],
-  "totalUnlocks": 20
+  "totalUnlocks": 22
 }

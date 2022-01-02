@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Ania",
+      "leaderboard": "2022-01-03",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Ania",
       "leaderboard": "2022-01-02",
       "minutes": 0,
       "seconds": 49,
@@ -1983,7 +1993,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 345,
+  "awardCount": 347,
   "awards": [
     {
       "title": "Gold",
@@ -2069,7 +2079,8 @@
       "text": "Get the same position three days in a row",
       "dates": [
         "2021-07-16",
-        "2021-11-24"
+        "2021-11-24",
+        "2022-01-02"
       ]
     },
     {
@@ -2527,7 +2538,8 @@
         "2021-08-23",
         "2021-09-22",
         "2021-11-16",
-        "2021-12-19"
+        "2021-12-19",
+        "2022-01-02"
       ]
     },
     {

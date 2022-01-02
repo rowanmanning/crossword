@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "apaleslimghost",
+      "leaderboard": "2022-01-03",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "apaleslimghost",
       "leaderboard": "2022-01-02",
       "minutes": 0,
       "seconds": 35,
@@ -1973,7 +1983,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 338,
+  "awardCount": 340,
   "awards": [
     {
       "title": "Gold",
@@ -2014,7 +2024,8 @@
         "2021-12-08",
         "2021-12-09",
         "2021-12-13",
-        "2021-12-20"
+        "2021-12-20",
+        "2022-01-02"
       ]
     },
     {
@@ -2083,6 +2094,14 @@
         "2021-11-01",
         "2021-12-03",
         "2021-12-12"
+      ]
+    },
+    {
+      "title": "Podium",
+      "type": "podium",
+      "text": "Unlock third, second, and first place awards",
+      "dates": [
+        "2022-01-02"
       ]
     },
     {
