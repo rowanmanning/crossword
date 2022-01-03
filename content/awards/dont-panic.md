@@ -57,6 +57,14 @@
       ]
     },
     {
+      "person": "Emma L",
+      "count": 2,
+      "dates": [
+        "2021-09-10",
+        "2022-01-03"
+      ]
+    },
+    {
       "person": "Lily2point0",
       "count": 2,
       "dates": [
@@ -94,13 +102,6 @@
       ]
     },
     {
-      "person": "Emma L",
-      "count": 1,
-      "dates": [
-        "2021-09-10"
-      ]
-    },
-    {
       "person": "ivo",
       "count": 1,
       "dates": [
@@ -115,5 +116,5 @@
       ]
     }
   ],
-  "totalUnlocks": 32
+  "totalUnlocks": 33
 }
