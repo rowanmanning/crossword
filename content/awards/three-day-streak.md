@@ -160,6 +160,14 @@
       ]
     },
     {
+      "person": "Rowan M",
+      "count": 2,
+      "dates": [
+        "2021-06-23",
+        "2022-01-04"
+      ]
+    },
+    {
       "person": "Emma L",
       "count": 2,
       "dates": [
@@ -183,13 +191,6 @@
       ]
     },
     {
-      "person": "Rowan M",
-      "count": 1,
-      "dates": [
-        "2021-06-23"
-      ]
-    },
-    {
       "person": "varjmes",
       "count": 1,
       "dates": [
@@ -204,5 +205,5 @@
       ]
     }
   ],
-  "totalUnlocks": 97
+  "totalUnlocks": 98
 }

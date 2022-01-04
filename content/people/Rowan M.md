@@ -5,12 +5,12 @@
     {
       "person": "Rowan M",
       "leaderboard": "2022-01-04",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 14,
+      "totalSeconds": 14,
+      "position": 1,
+      "scrapeTime": "2022-01-04T15:02:47.662Z",
+      "isPending": false
     },
     {
       "person": "Rowan M",
@@ -1985,12 +1985,12 @@
   ],
   "best": {
     "person": "Rowan M",
-    "leaderboard": "2021-08-02",
+    "leaderboard": "2022-01-04",
     "minutes": 0,
-    "seconds": 15,
-    "totalSeconds": 15,
-    "position": 2,
-    "scrapeTime": null,
+    "seconds": 14,
+    "totalSeconds": 14,
+    "position": 1,
+    "scrapeTime": "2022-01-04T15:02:47.662Z",
     "isPending": false
   },
   "mean": {
@@ -2003,7 +2003,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 487,
+  "awardCount": 490,
   "awards": [
     {
       "title": "Gold",
@@ -2278,7 +2278,8 @@
         "2021-11-14",
         "2021-11-23",
         "2021-12-06",
-        "2021-12-12"
+        "2021-12-12",
+        "2022-01-04"
       ]
     },
     {
@@ -2546,7 +2547,8 @@
       "dates": [
         "2021-08-02",
         "2021-09-23",
-        "2021-11-18"
+        "2021-11-18",
+        "2022-01-04"
       ]
     },
     {
@@ -2596,7 +2598,8 @@
       "type": "three-day-streak",
       "text": "Play for three days in a row",
       "dates": [
-        "2021-06-23"
+        "2021-06-23",
+        "2022-01-04"
       ]
     },
     {
