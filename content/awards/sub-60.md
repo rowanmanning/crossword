@@ -519,19 +519,20 @@
       ]
     },
     {
+      "person": "joelcarr",
+      "count": 2,
+      "dates": [
+        "2021-09-06",
+        "2022-01-04"
+      ]
+    },
+    {
       "person": "arjun137",
       "count": 1,
       "dates": [
         "2021-06-29"
       ]
-    },
-    {
-      "person": "joelcarr",
-      "count": 1,
-      "dates": [
-        "2021-09-06"
-      ]
     }
   ],
-  "totalUnlocks": 426
+  "totalUnlocks": 427
 }

@@ -5,12 +5,12 @@
     {
       "person": "joelcarr",
       "leaderboard": "2022-01-04",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 58,
+      "totalSeconds": 58,
+      "position": 4,
+      "scrapeTime": "2022-01-04T09:34:33.225Z",
+      "isPending": false
     },
     {
       "person": "joelcarr",
@@ -1997,13 +1997,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 58,
-    "totalSeconds": 178,
+    "seconds": 57,
+    "totalSeconds": 177,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 124,
+  "awardCount": 126,
   "awards": [
     {
       "title": "Bronze",
@@ -2080,7 +2080,8 @@
       "dates": [
         "2021-07-05",
         "2021-12-02",
-        "2021-12-29"
+        "2021-12-29",
+        "2022-01-04"
       ]
     },
     {
@@ -2148,7 +2149,8 @@
       "type": "sub-60",
       "text": "Complete a puzzle in less than a minute",
       "dates": [
-        "2021-09-06"
+        "2021-09-06",
+        "2022-01-04"
       ]
     },
     {

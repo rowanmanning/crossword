@@ -180,6 +180,16 @@
       ]
     },
     {
+      "person": "joelcarr",
+      "count": 4,
+      "dates": [
+        "2021-07-05",
+        "2021-12-02",
+        "2021-12-29",
+        "2022-01-04"
+      ]
+    },
+    {
       "person": "Nick Ramsbottom",
       "count": 4,
       "dates": [
@@ -200,15 +210,6 @@
       ]
     },
     {
-      "person": "joelcarr",
-      "count": 3,
-      "dates": [
-        "2021-07-05",
-        "2021-12-02",
-        "2021-12-29"
-      ]
-    },
-    {
       "person": "itsalex",
       "count": 3,
       "dates": [
@@ -225,5 +226,5 @@
       ]
     }
   ],
-  "totalUnlocks": 124
+  "totalUnlocks": 125
 }

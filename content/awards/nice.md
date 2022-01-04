@@ -30,6 +30,14 @@
       ]
     },
     {
+      "person": "Nick Ramsbottom",
+      "count": 2,
+      "dates": [
+        "2021-12-03",
+        "2022-01-04"
+      ]
+    },
+    {
       "person": "binaryberry",
       "count": 1,
       "dates": [
@@ -58,13 +66,6 @@
       ]
     },
     {
-      "person": "Nick Ramsbottom",
-      "count": 1,
-      "dates": [
-        "2021-12-03"
-      ]
-    },
-    {
       "person": "Ania",
       "count": 1,
       "dates": [
@@ -72,5 +73,5 @@
       ]
     }
   ],
-  "totalUnlocks": 13
+  "totalUnlocks": 14
 }
