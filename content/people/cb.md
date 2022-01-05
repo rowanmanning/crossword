@@ -5,12 +5,12 @@
     {
       "person": "cb",
       "leaderboard": "2022-01-05",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 25,
+      "totalSeconds": 25,
+      "position": 1,
+      "scrapeTime": "2022-01-05T13:36:28.419Z",
+      "isPending": false
     },
     {
       "person": "cb",
@@ -1933,7 +1933,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 486,
+  "awardCount": 487,
   "awards": [
     {
       "title": "Gold",
@@ -2442,7 +2442,8 @@
         "2021-11-29",
         "2021-12-13",
         "2021-12-16",
-        "2021-12-17"
+        "2021-12-17",
+        "2022-01-05"
       ]
     },
     {
