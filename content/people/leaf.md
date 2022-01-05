@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "leaf",
+      "leaderboard": "2022-01-05",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "leaf",
       "leaderboard": "2022-01-04",
       "minutes": 2,
       "seconds": 15,
@@ -2003,7 +2013,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 296,
+  "awardCount": 297,
   "awards": [
     {
       "title": "Gold",
@@ -2529,6 +2539,14 @@
         "2021-08-23",
         "2021-10-24",
         "2021-12-01"
+      ]
+    },
+    {
+      "title": "Unlucky for Some",
+      "type": "unlucky",
+      "text": "Come 13th three times",
+      "dates": [
+        "2022-01-04"
       ]
     },
     {

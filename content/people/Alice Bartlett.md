@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Alice Bartlett",
+      "leaderboard": "2022-01-05",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Alice Bartlett",
       "leaderboard": "2022-01-04",
       "minutes": 0,
       "seconds": 56,
@@ -603,7 +613,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 93,
+  "awardCount": 94,
   "awards": [
     {
       "title": "Gold",
@@ -836,6 +846,14 @@
       "text": "Now this won't hurt a bit…",
       "dates": [
         "2021-11-16"
+      ]
+    },
+    {
+      "title": "The Number of The Beast",
+      "type": "beast",
+      "text": "His number is six hundred and sixty-six",
+      "dates": [
+        "2022-01-04"
       ]
     },
     {

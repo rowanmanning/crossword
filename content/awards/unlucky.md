@@ -44,7 +44,14 @@
       "dates": [
         "2021-12-07"
       ]
+    },
+    {
+      "person": "leaf",
+      "count": 1,
+      "dates": [
+        "2022-01-04"
+      ]
     }
   ],
-  "totalUnlocks": 11
+  "totalUnlocks": 12
 }
