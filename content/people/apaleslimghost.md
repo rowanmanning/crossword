@@ -8,7 +8,7 @@
       "minutes": 0,
       "seconds": 19,
       "totalSeconds": 19,
-      "position": 1,
+      "position": 2,
       "scrapeTime": "2022-01-06T07:33:05.497Z",
       "isPending": false
     },
@@ -1999,7 +1999,7 @@
     "minutes": 0,
     "seconds": 19,
     "totalSeconds": 19,
-    "position": 1,
+    "position": 2,
     "scrapeTime": "2022-01-06T07:33:05.497Z",
     "isPending": false
   },
