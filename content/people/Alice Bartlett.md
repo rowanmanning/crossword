@@ -5,12 +5,12 @@
     {
       "person": "Alice Bartlett",
       "leaderboard": "2022-01-06",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 12,
+      "totalSeconds": 72,
+      "position": 1,
+      "scrapeTime": "2022-01-06T07:02:17.039Z",
+      "isPending": false
     },
     {
       "person": "Alice Bartlett",
@@ -617,13 +617,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 52,
-    "totalSeconds": 112,
+    "seconds": 51,
+    "totalSeconds": 111,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 95,
+  "awardCount": 98,
   "awards": [
     {
       "title": "Gold",
@@ -726,7 +726,8 @@
         "2022-01-01",
         "2022-01-02",
         "2022-01-03",
-        "2022-01-05"
+        "2022-01-05",
+        "2022-01-06"
       ]
     },
     {
@@ -819,7 +820,8 @@
       "text": "Play for a full week without breaks",
       "dates": [
         "2021-11-14",
-        "2021-12-05"
+        "2021-12-05",
+        "2022-01-06"
       ]
     },
     {
@@ -892,7 +894,8 @@
         "2021-12-02",
         "2021-12-04",
         "2021-12-09",
-        "2022-01-04"
+        "2022-01-04",
+        "2022-01-06"
       ]
     }
   ]

@@ -68,6 +68,15 @@
       ]
     },
     {
+      "person": "Alice Bartlett",
+      "count": 3,
+      "dates": [
+        "2021-11-14",
+        "2021-12-05",
+        "2022-01-06"
+      ]
+    },
+    {
       "person": "Oliver Turner",
       "count": 2,
       "dates": [
@@ -100,14 +109,6 @@
       ]
     },
     {
-      "person": "Alice Bartlett",
-      "count": 2,
-      "dates": [
-        "2021-11-14",
-        "2021-12-05"
-      ]
-    },
-    {
       "person": "Lily2point0",
       "count": 1,
       "dates": [
@@ -136,5 +137,5 @@
       ]
     }
   ],
-  "totalUnlocks": 41
+  "totalUnlocks": 42
 }
