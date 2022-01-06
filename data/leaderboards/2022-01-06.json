@@ -30,6 +30,11 @@
 		"seconds": 49
 	},
 	{
+		"name": "leaf",
+		"scrapeTime": "2022-01-06T13:08:26.137Z",
+		"seconds": 49
+	},
+	{
 		"name": "binaryberry",
 		"scrapeTime": "2022-01-06T07:33:05.497Z",
 		"seconds": 61
@@ -61,11 +66,6 @@
 	},
 	{
 		"name": "itsalex",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
-		"name": "leaf",
 		"scrapeTime": null,
 		"seconds": null
 	},
