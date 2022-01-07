@@ -73,7 +73,14 @@
         "2021-11-08",
         "2021-11-22"
       ]
+    },
+    {
+      "person": "Emma L",
+      "count": 1,
+      "dates": [
+        "2022-01-06"
+      ]
     }
   ],
-  "totalUnlocks": 22
+  "totalUnlocks": 23
 }

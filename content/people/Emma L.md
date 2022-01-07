@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Emma L",
+      "leaderboard": "2022-01-07",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Emma L",
       "leaderboard": "2022-01-06",
       "minutes": 0,
       "seconds": 28,
@@ -1673,7 +1683,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 360,
+  "awardCount": 361,
   "awards": [
     {
       "title": "Gold",
@@ -1812,6 +1822,14 @@
         "2021-11-05",
         "2021-12-27",
         "2022-01-05"
+      ]
+    },
+    {
+      "title": "Consistent Position ×3",
+      "type": "consistent-3",
+      "text": "Get the same position three days in a row",
+      "dates": [
+        "2022-01-06"
       ]
     },
     {
