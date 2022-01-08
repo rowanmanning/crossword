@@ -5,12 +5,12 @@
     {
       "person": "Rowan M",
       "leaderboard": "2022-01-08",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 51,
+      "totalSeconds": 111,
+      "position": 2,
+      "scrapeTime": "2022-01-08T17:07:23.224Z",
+      "isPending": false
     },
     {
       "person": "Rowan M",
@@ -2037,13 +2037,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 54,
-    "totalSeconds": 54,
+    "seconds": 55,
+    "totalSeconds": 55,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 500,
+  "awardCount": 503,
   "awards": [
     {
       "title": "Gold",
@@ -2372,7 +2372,8 @@
         "2021-12-20",
         "2021-12-24",
         "2022-01-05",
-        "2022-01-07"
+        "2022-01-07",
+        "2022-01-08"
       ]
     },
     {
@@ -2422,7 +2423,8 @@
         "2021-12-05",
         "2021-12-10",
         "2021-12-21",
-        "2021-12-24"
+        "2021-12-24",
+        "2022-01-08"
       ]
     },
     {
@@ -2657,7 +2659,8 @@
       "type": "week-streak",
       "text": "Play for a full week without breaks",
       "dates": [
-        "2021-06-27"
+        "2021-06-27",
+        "2022-01-08"
       ]
     },
     {
