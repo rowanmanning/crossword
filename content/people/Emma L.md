@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Emma L",
+      "leaderboard": "2022-01-08",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Emma L",
       "leaderboard": "2022-01-07",
       "minutes": 0,
       "seconds": 51,
@@ -1683,7 +1693,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 362,
+  "awardCount": 363,
   "awards": [
     {
       "title": "Gold",
@@ -2254,7 +2264,8 @@
         "2021-08-22",
         "2021-09-30",
         "2021-10-15",
-        "2021-12-01"
+        "2021-12-01",
+        "2022-01-07"
       ]
     },
     {
