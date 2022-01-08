@@ -5,12 +5,12 @@
     {
       "person": "Lily2point0",
       "leaderboard": "2022-01-08",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 5,
+      "seconds": 28,
+      "totalSeconds": 328,
+      "position": 4,
+      "scrapeTime": "2022-01-08T08:02:38.300Z",
+      "isPending": false
     },
     {
       "person": "Lily2point0",
@@ -2037,13 +2037,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 40,
-    "totalSeconds": 100,
+    "seconds": 41,
+    "totalSeconds": 101,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 336,
+  "awardCount": 338,
   "awards": [
     {
       "title": "Gold",
@@ -2225,7 +2225,8 @@
         "2021-12-24",
         "2021-12-27",
         "2021-12-30",
-        "2022-01-01"
+        "2022-01-01",
+        "2022-01-08"
       ]
     },
     {
@@ -2399,6 +2400,14 @@
       "text": "Complete a puzzle in less than 30 seconds",
       "dates": [
         "2021-12-29"
+      ]
+    },
+    {
+      "title": "Over Five Minutes",
+      "type": "over-300",
+      "text": "Complete a puzzle in more than 5 minutes",
+      "dates": [
+        "2022-01-08"
       ]
     },
     {

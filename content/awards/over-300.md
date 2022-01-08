@@ -109,7 +109,14 @@
       "dates": [
         "2021-11-13"
       ]
+    },
+    {
+      "person": "Lily2point0",
+      "count": 1,
+      "dates": [
+        "2022-01-08"
+      ]
     }
   ],
-  "totalUnlocks": 40
+  "totalUnlocks": 41
 }
