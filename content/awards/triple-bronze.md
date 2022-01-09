@@ -6,10 +6,11 @@
   "unlocks": [
     {
       "person": "Rowan M",
-      "count": 2,
+      "count": 3,
       "dates": [
         "2021-07-01",
-        "2021-08-06"
+        "2021-08-06",
+        "2022-01-09"
       ]
     },
     {
@@ -27,5 +28,5 @@
       ]
     }
   ],
-  "totalUnlocks": 4
+  "totalUnlocks": 5
 }
