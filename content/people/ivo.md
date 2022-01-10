@@ -5,12 +5,12 @@
     {
       "person": "ivo",
       "leaderboard": "2022-01-10",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 25,
+      "totalSeconds": 25,
+      "position": 1,
+      "scrapeTime": "2022-01-10T09:34:57.079Z",
+      "isPending": false
     },
     {
       "person": "ivo",
@@ -1213,7 +1213,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 213,
+  "awardCount": 215,
   "awards": [
     {
       "title": "Gold",
@@ -1468,7 +1468,8 @@
         "2021-11-26",
         "2021-11-30",
         "2021-12-22",
-        "2021-12-29"
+        "2021-12-29",
+        "2022-01-10"
       ]
     },
     {
@@ -1524,7 +1525,8 @@
       "type": "month-streak",
       "text": "Play for a full month (30 days) without breaks",
       "dates": [
-        "2021-10-13"
+        "2021-10-13",
+        "2022-01-10"
       ]
     },
     {

@@ -40,6 +40,14 @@
       ]
     },
     {
+      "person": "ivo",
+      "count": 2,
+      "dates": [
+        "2021-10-13",
+        "2022-01-10"
+      ]
+    },
+    {
       "person": "Nick Ramsbottom",
       "count": 2,
       "dates": [
@@ -83,13 +91,6 @@
       ]
     },
     {
-      "person": "ivo",
-      "count": 1,
-      "dates": [
-        "2021-10-13"
-      ]
-    },
-    {
       "person": "binaryberry",
       "count": 1,
       "dates": [
@@ -104,5 +105,5 @@
       ]
     }
   ],
-  "totalUnlocks": 21
+  "totalUnlocks": 22
 }
