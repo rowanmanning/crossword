@@ -5,12 +5,12 @@
     {
       "person": "Alice Bartlett",
       "leaderboard": "2022-01-11",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 37,
+      "totalSeconds": 97,
+      "position": 7,
+      "scrapeTime": "2022-01-11T10:02:35.921Z",
+      "isPending": false
     },
     {
       "person": "Alice Bartlett",
@@ -673,7 +673,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 100,
+  "awardCount": 103,
   "awards": [
     {
       "title": "Gold",
@@ -779,7 +779,8 @@
         "2022-01-05",
         "2022-01-06",
         "2022-01-09",
-        "2022-01-10"
+        "2022-01-10",
+        "2022-01-11"
       ]
     },
     {
@@ -863,7 +864,8 @@
         "2021-12-01",
         "2021-12-14",
         "2021-12-22",
-        "2022-01-02"
+        "2022-01-02",
+        "2022-01-11"
       ]
     },
     {
@@ -903,6 +905,14 @@
       "text": "Get the same time as another person but with flipped seconds",
       "dates": [
         "2021-11-11"
+      ]
+    },
+    {
+      "title": "Arjun",
+      "type": "arjun",
+      "text": "Join us",
+      "dates": [
+        "2022-01-11"
       ]
     },
     {
