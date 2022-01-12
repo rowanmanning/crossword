@@ -15,6 +15,16 @@
 		"seconds": 46
 	},
 	{
+		"name": "Lily2point0",
+		"scrapeTime": "2022-01-12T08:37:06.383Z",
+		"seconds": 47
+	},
+	{
+		"name": "Nick Ramsbottom",
+		"scrapeTime": "2022-01-12T08:37:06.383Z",
+		"seconds": 49
+	},
+	{
 		"name": "varjmes",
 		"scrapeTime": "2022-01-12T07:33:09.177Z",
 		"seconds": 55
@@ -66,16 +76,6 @@
 	},
 	{
 		"name": "leaf",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
-		"name": "Lily2point0",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
-		"name": "Nick Ramsbottom",
 		"scrapeTime": null,
 		"seconds": null
 	},
