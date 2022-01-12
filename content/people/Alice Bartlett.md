@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Alice Bartlett",
+      "leaderboard": "2022-01-12",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Alice Bartlett",
       "leaderboard": "2022-01-11",
       "minutes": 1,
       "seconds": 37,
@@ -673,7 +683,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 103,
+  "awardCount": 104,
   "awards": [
     {
       "title": "Gold",
@@ -698,7 +708,8 @@
       "text": "Get the same position two days in a row",
       "dates": [
         "2021-11-13",
-        "2021-12-03"
+        "2021-12-03",
+        "2022-01-11"
       ]
     },
     {
