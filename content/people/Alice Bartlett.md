@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Alice Bartlett",
+      "leaderboard": "2022-01-13",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Alice Bartlett",
       "leaderboard": "2022-01-12",
       "minutes": 1,
       "seconds": 0,
@@ -683,7 +693,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 105,
+  "awardCount": 106,
   "awards": [
     {
       "title": "Gold",
@@ -710,6 +720,14 @@
         "2021-11-13",
         "2021-12-03",
         "2022-01-11"
+      ]
+    },
+    {
+      "title": "Consistent Position ×3",
+      "type": "consistent-3",
+      "text": "Get the same position three days in a row",
+      "dates": [
+        "2022-01-12"
       ]
     },
     {
