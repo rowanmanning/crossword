@@ -5,12 +5,12 @@
     {
       "person": "Rowan M",
       "leaderboard": "2022-01-14",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 0,
+      "totalSeconds": 60,
+      "position": 8,
+      "scrapeTime": "2022-01-14T18:37:34.652Z",
+      "isPending": false
     },
     {
       "person": "Rowan M",
@@ -2103,7 +2103,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 517,
+  "awardCount": 519,
   "awards": [
     {
       "title": "Gold",
@@ -2491,7 +2491,8 @@
         "2021-12-21",
         "2021-12-24",
         "2022-01-08",
-        "2022-01-13"
+        "2022-01-13",
+        "2022-01-14"
       ]
     },
     {
@@ -2841,6 +2842,14 @@
         "2021-08-05",
         "2021-10-05",
         "2021-12-27"
+      ]
+    },
+    {
+      "title": "1 Friday Street",
+      "type": "friday-street",
+      "text": "Get a time of exactly 1:00 on a Friday",
+      "dates": [
+        "2022-01-14"
       ]
     },
     {
