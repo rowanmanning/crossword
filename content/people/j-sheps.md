@@ -5,12 +5,12 @@
     {
       "person": "j-sheps",
       "leaderboard": "2022-01-14",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 3,
+      "totalSeconds": 63,
+      "position": 4,
+      "scrapeTime": "2022-01-14T09:02:09.943Z",
+      "isPending": false
     },
     {
       "person": "j-sheps",
@@ -2103,7 +2103,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 447,
+  "awardCount": 449,
   "awards": [
     {
       "title": "Gold",
@@ -2438,7 +2438,8 @@
         "2021-12-28",
         "2022-01-01",
         "2022-01-08",
-        "2022-01-13"
+        "2022-01-13",
+        "2022-01-14"
       ]
     },
     {
@@ -2653,7 +2654,8 @@
       "text": "Play for a full month (30 days) without breaks",
       "dates": [
         "2021-07-20",
-        "2021-08-26"
+        "2021-08-26",
+        "2022-01-14"
       ]
     },
     {
