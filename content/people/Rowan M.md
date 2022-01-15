@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Rowan M",
+      "leaderboard": "2022-01-16",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Rowan M",
       "leaderboard": "2022-01-15",
       "minutes": 0,
       "seconds": 44,
@@ -2113,7 +2123,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 521,
+  "awardCount": 523,
   "awards": [
     {
       "title": "Gold",
@@ -2163,7 +2173,8 @@
         "2021-12-23",
         "2021-12-28",
         "2022-01-04",
-        "2022-01-06"
+        "2022-01-06",
+        "2022-01-15"
       ]
     },
     {
@@ -2893,6 +2904,14 @@
       "text": "Complete a puzzle before anyone else (or within 30 minutes of the first person)",
       "dates": [
         "2021-12-10"
+      ]
+    },
+    {
+      "title": "Slow and Steady",
+      "type": "slow-and-steady",
+      "text": "Complete a puzzle after everyone else but with the fastest time",
+      "dates": [
+        "2022-01-15"
       ]
     }
   ]
