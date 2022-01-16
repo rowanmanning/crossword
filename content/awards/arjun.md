@@ -73,7 +73,14 @@
       "dates": [
         "2022-01-11"
       ]
+    },
+    {
+      "person": "cb",
+      "count": 1,
+      "dates": [
+        "2022-01-16"
+      ]
     }
   ],
-  "totalUnlocks": 16
+  "totalUnlocks": 17
 }

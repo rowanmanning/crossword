@@ -5,12 +5,12 @@
     {
       "person": "cb",
       "leaderboard": "2022-01-16",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 37,
+      "totalSeconds": 97,
+      "position": 12,
+      "scrapeTime": "2022-01-16T18:36:27.359Z",
+      "isPending": false
     },
     {
       "person": "cb",
@@ -2043,7 +2043,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 511,
+  "awardCount": 515,
   "awards": [
     {
       "title": "Gold",
@@ -2358,7 +2358,8 @@
         "2021-12-18",
         "2021-12-20",
         "2022-01-07",
-        "2022-01-13"
+        "2022-01-13",
+        "2022-01-16"
       ]
     },
     {
@@ -2406,7 +2407,8 @@
         "2021-12-24",
         "2022-01-01",
         "2022-01-08",
-        "2022-01-13"
+        "2022-01-13",
+        "2022-01-16"
       ]
     },
     {
@@ -2654,7 +2656,8 @@
         "2021-09-11",
         "2021-09-19",
         "2021-11-02",
-        "2021-12-05"
+        "2021-12-05",
+        "2022-01-16"
       ]
     },
     {
@@ -2739,6 +2742,14 @@
         "2021-07-30",
         "2021-07-21",
         "2021-06-29"
+      ]
+    },
+    {
+      "title": "Arjun",
+      "type": "arjun",
+      "text": "Join us",
+      "dates": [
+        "2022-01-16"
       ]
     },
     {
