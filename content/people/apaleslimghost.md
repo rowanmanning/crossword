@@ -5,12 +5,12 @@
     {
       "person": "apaleslimghost",
       "leaderboard": "2022-01-16",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 17,
+      "totalSeconds": 17,
+      "position": 1,
+      "scrapeTime": "2022-01-16T08:36:33.135Z",
+      "isPending": false
     },
     {
       "person": "apaleslimghost",
@@ -2095,25 +2095,25 @@
   ],
   "best": {
     "person": "apaleslimghost",
-    "leaderboard": "2022-01-06",
+    "leaderboard": "2022-01-16",
     "minutes": 0,
-    "seconds": 19,
-    "totalSeconds": 19,
-    "position": 2,
-    "scrapeTime": "2022-01-06T07:33:05.497Z",
+    "seconds": 17,
+    "totalSeconds": 17,
+    "position": 1,
+    "scrapeTime": "2022-01-16T08:36:33.135Z",
     "isPending": false
   },
   "mean": {
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 5,
-    "totalSeconds": 65,
+    "seconds": 4,
+    "totalSeconds": 64,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 370,
+  "awardCount": 372,
   "awards": [
     {
       "title": "Gold",
@@ -2271,7 +2271,8 @@
         "2021-12-02",
         "2021-12-29",
         "2022-01-02",
-        "2022-01-06"
+        "2022-01-06",
+        "2022-01-16"
       ]
     },
     {
@@ -2503,7 +2504,8 @@
       "type": "sub-20",
       "text": "Complete a puzzle in less than 20 seconds",
       "dates": [
-        "2022-01-06"
+        "2022-01-06",
+        "2022-01-16"
       ]
     },
     {

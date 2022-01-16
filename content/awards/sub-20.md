@@ -50,6 +50,14 @@
       ]
     },
     {
+      "person": "apaleslimghost",
+      "count": 2,
+      "dates": [
+        "2022-01-06",
+        "2022-01-16"
+      ]
+    },
+    {
       "person": "Emma L",
       "count": 1,
       "dates": [
@@ -76,14 +84,7 @@
       "dates": [
         "2021-12-05"
       ]
-    },
-    {
-      "person": "apaleslimghost",
-      "count": 1,
-      "dates": [
-        "2022-01-06"
-      ]
     }
   ],
-  "totalUnlocks": 20
+  "totalUnlocks": 21
 }
