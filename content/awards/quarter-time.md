@@ -186,6 +186,17 @@
       ]
     },
     {
+      "person": "Alice Bartlett",
+      "count": 5,
+      "dates": [
+        "2021-11-14",
+        "2021-11-18",
+        "2021-11-21",
+        "2021-12-05",
+        "2022-01-16"
+      ]
+    },
+    {
       "person": "joelcarr",
       "count": 4,
       "dates": [
@@ -206,16 +217,6 @@
       ]
     },
     {
-      "person": "Alice Bartlett",
-      "count": 4,
-      "dates": [
-        "2021-11-14",
-        "2021-11-18",
-        "2021-11-21",
-        "2021-12-05"
-      ]
-    },
-    {
       "person": "itsalex",
       "count": 3,
       "dates": [
@@ -232,5 +233,5 @@
       ]
     }
   ],
-  "totalUnlocks": 131
+  "totalUnlocks": 132
 }
