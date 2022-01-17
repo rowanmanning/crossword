@@ -5,12 +5,12 @@
     {
       "person": "binaryberry",
       "leaderboard": "2022-01-17",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 34,
+      "totalSeconds": 94,
+      "position": 5,
+      "scrapeTime": "2022-01-17T07:33:19.062Z",
+      "isPending": false
     },
     {
       "person": "binaryberry",
@@ -2133,7 +2133,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 198,
+  "awardCount": 200,
   "awards": [
     {
       "title": "Bronze",
@@ -2289,7 +2289,8 @@
         "2022-01-06",
         "2022-01-07",
         "2022-01-14",
-        "2022-01-16"
+        "2022-01-16",
+        "2022-01-17"
       ]
     },
     {
@@ -2418,6 +2419,7 @@
       "type": "yin-and-yang",
       "text": "Get the same time as another person but with flipped seconds",
       "dates": [
+        "2022-01-17",
         "2021-12-28",
         "2021-12-16",
         "2021-11-16"
