@@ -5,12 +5,12 @@
     {
       "person": "joelcarr",
       "leaderboard": "2022-01-18",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 3,
+      "seconds": 25,
+      "totalSeconds": 205,
+      "position": 10,
+      "scrapeTime": "2022-01-18T09:34:56.808Z",
+      "isPending": false
     },
     {
       "person": "joelcarr",
@@ -2137,8 +2137,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 55,
-    "totalSeconds": 175,
+    "seconds": 56,
+    "totalSeconds": 176,
     "position": null,
     "scrapeTime": null,
     "isPending": false
