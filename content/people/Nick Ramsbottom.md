@@ -5,12 +5,12 @@
     {
       "person": "Nick Ramsbottom",
       "leaderboard": "2022-01-18",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 41,
+      "totalSeconds": 41,
+      "position": 2,
+      "scrapeTime": "2022-01-18T08:02:13.215Z",
+      "isPending": false
     },
     {
       "person": "Nick Ramsbottom",
@@ -1525,12 +1525,12 @@
   ],
   "best": {
     "person": "Nick Ramsbottom",
-    "leaderboard": "2021-11-26",
+    "leaderboard": "2022-01-18",
     "minutes": 0,
     "seconds": 41,
     "totalSeconds": 41,
-    "position": 6,
-    "scrapeTime": "2021-11-26T07:02:20.868Z",
+    "position": 2,
+    "scrapeTime": "2022-01-18T08:02:13.215Z",
     "isPending": false
   },
   "mean": {
@@ -1543,7 +1543,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 233,
+  "awardCount": 235,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -1610,7 +1610,8 @@
         "2022-01-04",
         "2022-01-06",
         "2022-01-09",
-        "2022-01-16"
+        "2022-01-16",
+        "2022-01-18"
       ]
     },
     {
@@ -1776,7 +1777,8 @@
       "text": "Complete a puzzle in less than 45 seconds",
       "dates": [
         "2021-11-26",
-        "2021-12-19"
+        "2021-12-19",
+        "2022-01-18"
       ]
     },
     {
