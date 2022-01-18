@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "ivo",
+      "leaderboard": "2022-01-18",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "ivo",
       "leaderboard": "2022-01-17",
       "minutes": 0,
       "seconds": 57,
@@ -1283,7 +1293,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 229,
+  "awardCount": 231,
   "awards": [
     {
       "title": "Gold",
@@ -1330,7 +1340,16 @@
         "2021-10-27",
         "2021-11-11",
         "2021-11-19",
-        "2022-01-16"
+        "2022-01-16",
+        "2022-01-17"
+      ]
+    },
+    {
+      "title": "Double Bronze",
+      "type": "double-bronze",
+      "text": "Get the third fastest time two days in a row",
+      "dates": [
+        "2022-01-17"
       ]
     },
     {
