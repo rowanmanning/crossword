@@ -26,6 +26,14 @@
       ]
     },
     {
+      "person": "leaf",
+      "count": 2,
+      "dates": [
+        "2021-12-26",
+        "2022-01-19"
+      ]
+    },
+    {
       "person": "arjun137",
       "count": 1,
       "dates": [
@@ -52,14 +60,7 @@
       "dates": [
         "2021-10-18"
       ]
-    },
-    {
-      "person": "leaf",
-      "count": 1,
-      "dates": [
-        "2021-12-26"
-      ]
     }
   ],
-  "totalUnlocks": 14
+  "totalUnlocks": 15
 }

@@ -5,12 +5,12 @@
     {
       "person": "leaf",
       "leaderboard": "2022-01-19",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 13,
+      "totalSeconds": 133,
+      "position": 10,
+      "scrapeTime": "2022-01-19T23:33:03.450Z",
+      "isPending": false
     },
     {
       "person": "leaf",
@@ -2153,7 +2153,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 301,
+  "awardCount": 304,
   "awards": [
     {
       "title": "Gold",
@@ -2339,7 +2339,8 @@
         "2021-12-01",
         "2021-12-09",
         "2021-12-31",
-        "2022-01-01"
+        "2022-01-01",
+        "2022-01-19"
       ]
     },
     {
@@ -2568,7 +2569,8 @@
       "type": "holiday",
       "text": "Come back to the crossword after a week off",
       "dates": [
-        "2021-12-26"
+        "2021-12-26",
+        "2022-01-19"
       ]
     },
     {
@@ -2595,7 +2597,8 @@
         "2021-11-16",
         "2021-12-01",
         "2021-12-02",
-        "2022-01-06"
+        "2022-01-06",
+        "2022-01-19"
       ]
     },
     {
