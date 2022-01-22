@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Rowan M",
+      "leaderboard": "2022-01-22",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Rowan M",
       "leaderboard": "2022-01-21",
       "minutes": 0,
       "seconds": 50,
@@ -2173,7 +2183,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 534,
+  "awardCount": 535,
   "awards": [
     {
       "title": "Gold",
@@ -2402,7 +2412,8 @@
         "2021-11-03",
         "2021-11-08",
         "2021-12-18",
-        "2022-01-03"
+        "2022-01-03",
+        "2022-01-21"
       ]
     },
     {

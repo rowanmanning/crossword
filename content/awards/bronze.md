@@ -297,6 +297,14 @@
       ]
     },
     {
+      "person": "Alice Bartlett",
+      "count": 2,
+      "dates": [
+        "2022-01-13",
+        "2022-01-21"
+      ]
+    },
+    {
       "person": "joelcarr",
       "count": 1,
       "dates": [
@@ -316,14 +324,7 @@
       "dates": [
         "2021-10-18"
       ]
-    },
-    {
-      "person": "Alice Bartlett",
-      "count": 1,
-      "dates": [
-        "2022-01-13"
-      ]
     }
   ],
-  "totalUnlocks": 230
+  "totalUnlocks": 231
 }

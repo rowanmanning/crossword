@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Alice Bartlett",
+      "leaderboard": "2022-01-22",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Alice Bartlett",
       "leaderboard": "2022-01-21",
       "minutes": 0,
       "seconds": 49,
@@ -773,7 +783,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 125,
+  "awardCount": 126,
   "awards": [
     {
       "title": "Gold",
@@ -797,7 +807,8 @@
       "type": "bronze",
       "text": "Get the third fastest time for a day",
       "dates": [
-        "2022-01-13"
+        "2022-01-13",
+        "2022-01-21"
       ]
     },
     {
