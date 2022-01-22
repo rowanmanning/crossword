@@ -5,12 +5,12 @@
     {
       "person": "ivo",
       "leaderboard": "2022-01-22",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 17,
+      "totalSeconds": 137,
+      "position": 6,
+      "scrapeTime": "2022-01-22T14:31:46.158Z",
+      "isPending": false
     },
     {
       "person": "ivo",
@@ -1333,7 +1333,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 239,
+  "awardCount": 240,
   "awards": [
     {
       "title": "Gold",
@@ -1729,6 +1729,14 @@
         "2021-12-12",
         "2021-11-28",
         "2021-09-27"
+      ]
+    },
+    {
+      "title": "Arjun",
+      "type": "arjun",
+      "text": "Join us",
+      "dates": [
+        "2022-01-22"
       ]
     },
     {
