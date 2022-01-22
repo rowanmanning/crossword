@@ -1,5 +1,15 @@
 [
 	{
+		"name": "Rowan M",
+		"scrapeTime": "2022-01-22T08:02:16.487Z",
+		"seconds": 65
+	},
+	{
+		"name": "Nick Ramsbottom",
+		"scrapeTime": "2022-01-22T08:02:16.487Z",
+		"seconds": 197
+	},
+	{
 		"name": "binaryberry",
 		"scrapeTime": "2022-01-22T07:31:47.617Z",
 		"seconds": 210
@@ -65,17 +75,7 @@
 		"seconds": null
 	},
 	{
-		"name": "Nick Ramsbottom",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
 		"name": "Oliver Turner",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
-		"name": "Rowan M",
 		"scrapeTime": null,
 		"seconds": null
 	},
