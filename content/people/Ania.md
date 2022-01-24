@@ -5,12 +5,12 @@
     {
       "person": "Ania",
       "leaderboard": "2022-01-24",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 45,
+      "totalSeconds": 165,
+      "position": 5,
+      "scrapeTime": "2022-01-24T09:02:12.451Z",
+      "isPending": false
     },
     {
       "person": "Ania",
@@ -2203,7 +2203,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 388,
+  "awardCount": 390,
   "awards": [
     {
       "title": "Gold",
@@ -2433,7 +2433,8 @@
         "2022-01-13",
         "2022-01-15",
         "2022-01-17",
-        "2022-01-22"
+        "2022-01-22",
+        "2022-01-24"
       ]
     },
     {
@@ -2715,7 +2716,8 @@
         "2021-12-01",
         "2022-01-01",
         "2022-01-04",
-        "2022-01-05"
+        "2022-01-05",
+        "2022-01-24"
       ]
     },
     {
