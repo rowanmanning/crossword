@@ -189,6 +189,17 @@
       ]
     },
     {
+      "person": "Nick Ramsbottom",
+      "count": 5,
+      "dates": [
+        "2021-10-11",
+        "2021-10-24",
+        "2021-11-21",
+        "2021-12-19",
+        "2022-01-26"
+      ]
+    },
+    {
       "person": "Alice Bartlett",
       "count": 5,
       "dates": [
@@ -210,16 +221,6 @@
       ]
     },
     {
-      "person": "Nick Ramsbottom",
-      "count": 4,
-      "dates": [
-        "2021-10-11",
-        "2021-10-24",
-        "2021-11-21",
-        "2021-12-19"
-      ]
-    },
-    {
       "person": "itsalex",
       "count": 3,
       "dates": [
@@ -236,5 +237,5 @@
       ]
     }
   ],
-  "totalUnlocks": 135
+  "totalUnlocks": 136
 }
