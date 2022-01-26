@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Alice Bartlett",
+      "leaderboard": "2022-01-26",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Alice Bartlett",
       "leaderboard": "2022-01-25",
       "minutes": 1,
       "seconds": 12,
@@ -813,7 +823,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 131,
+  "awardCount": 133,
   "awards": [
     {
       "title": "Gold",
@@ -839,7 +849,16 @@
       "dates": [
         "2022-01-13",
         "2022-01-21",
-        "2022-01-24"
+        "2022-01-24",
+        "2022-01-25"
+      ]
+    },
+    {
+      "title": "Double Bronze",
+      "type": "double-bronze",
+      "text": "Get the third fastest time two days in a row",
+      "dates": [
+        "2022-01-25"
       ]
     },
     {
