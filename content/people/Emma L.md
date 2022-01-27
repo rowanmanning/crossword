@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Emma L",
+      "leaderboard": "2022-01-27",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Emma L",
       "leaderboard": "2022-01-26",
       "minutes": 0,
       "seconds": 23,
@@ -1873,7 +1883,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 403,
+  "awardCount": 405,
   "awards": [
     {
       "title": "Gold",
@@ -1903,7 +1913,8 @@
         "2021-12-31",
         "2022-01-01",
         "2022-01-19",
-        "2022-01-20"
+        "2022-01-20",
+        "2022-01-26"
       ]
     },
     {
@@ -2456,7 +2467,8 @@
       "text": "Get the twinning award and the fastest time for a day",
       "dates": [
         "2021-08-06",
-        "2021-09-06"
+        "2021-09-06",
+        "2022-01-26"
       ]
     },
     {
