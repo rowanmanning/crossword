@@ -646,7 +646,14 @@
         "2021-12-14",
         "2022-01-16"
       ]
+    },
+    {
+      "person": "Otherowan",
+      "count": 1,
+      "dates": [
+        "2022-01-28"
+      ]
     }
   ],
-  "totalUnlocks": 547
+  "totalUnlocks": 548
 }
