@@ -5,12 +5,12 @@
     {
       "person": "binaryberry",
       "leaderboard": "2022-01-29",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 4,
+      "seconds": 20,
+      "totalSeconds": 260,
+      "position": 10,
+      "scrapeTime": "2022-01-29T13:31:39.533Z",
+      "isPending": false
     },
     {
       "person": "binaryberry",
@@ -2247,13 +2247,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 19,
-    "totalSeconds": 139,
+    "seconds": 20,
+    "totalSeconds": 140,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 217,
+  "awardCount": 219,
   "awards": [
     {
       "title": "Bronze",
@@ -2356,7 +2356,8 @@
         "2022-01-01",
         "2022-01-08",
         "2022-01-13",
-        "2022-01-19"
+        "2022-01-19",
+        "2022-01-29"
       ]
     },
     {
@@ -2571,6 +2572,14 @@
       "text": "Nice…",
       "dates": [
         "2021-07-08"
+      ]
+    },
+    {
+      "title": "Blaze It",
+      "type": "blaze",
+      "text": "That's illegal and I don't condone it",
+      "dates": [
+        "2022-01-29"
       ]
     },
     {
