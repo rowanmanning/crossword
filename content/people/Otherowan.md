@@ -5,12 +5,12 @@
     {
       "person": "Otherowan",
       "leaderboard": "2022-01-29",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 3,
+      "seconds": 37,
+      "totalSeconds": 217,
+      "position": 11,
+      "scrapeTime": "2022-01-29T17:36:06.609Z",
+      "isPending": false
     },
     {
       "person": "Otherowan",
@@ -36,15 +36,23 @@
   "mean": {
     "person": null,
     "leaderboard": null,
-    "minutes": 0,
-    "seconds": 44,
-    "totalSeconds": 44,
+    "minutes": 2,
+    "seconds": 11,
+    "totalSeconds": 131,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1,
+  "awardCount": 2,
   "awards": [
+    {
+      "title": "Double Time",
+      "type": "double-time",
+      "text": "Double your completion time from one day to the next",
+      "dates": [
+        "2022-01-29"
+      ]
+    },
     {
       "title": "Sub 45 Seconds",
       "type": "sub-45",
