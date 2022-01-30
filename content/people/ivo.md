@@ -5,12 +5,12 @@
     {
       "person": "ivo",
       "leaderboard": "2022-01-30",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 59,
+      "totalSeconds": 179,
+      "position": 9,
+      "scrapeTime": "2022-01-30T11:31:46.358Z",
+      "isPending": false
     },
     {
       "person": "ivo",
@@ -1407,8 +1407,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 45,
-    "totalSeconds": 105,
+    "seconds": 46,
+    "totalSeconds": 106,
     "position": null,
     "scrapeTime": null,
     "isPending": false
