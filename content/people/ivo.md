@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "ivo",
+      "leaderboard": "2022-01-31",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "ivo",
       "leaderboard": "2022-01-30",
       "minutes": 2,
       "seconds": 59,
@@ -1413,7 +1423,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 252,
+  "awardCount": 253,
   "awards": [
     {
       "title": "Gold",
@@ -1506,7 +1516,8 @@
       "text": "Get the same position three days in a row",
       "dates": [
         "2021-11-08",
-        "2021-11-22"
+        "2021-11-22",
+        "2022-01-30"
       ]
     },
     {

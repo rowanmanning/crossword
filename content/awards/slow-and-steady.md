@@ -27,19 +27,20 @@
       ]
     },
     {
+      "person": "Rowan M",
+      "count": 2,
+      "dates": [
+        "2022-01-15",
+        "2022-01-30"
+      ]
+    },
+    {
       "person": "itsalex",
       "count": 1,
       "dates": [
         "2021-11-14"
       ]
-    },
-    {
-      "person": "Rowan M",
-      "count": 1,
-      "dates": [
-        "2022-01-15"
-      ]
     }
   ],
-  "totalUnlocks": 12
+  "totalUnlocks": 13
 }

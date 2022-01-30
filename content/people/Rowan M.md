@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Rowan M",
+      "leaderboard": "2022-01-31",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Rowan M",
       "leaderboard": "2022-01-30",
       "minutes": 0,
       "seconds": 49,
@@ -2263,7 +2273,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 558,
+  "awardCount": 561,
   "awards": [
     {
       "title": "Gold",
@@ -2315,7 +2325,8 @@
         "2022-01-04",
         "2022-01-06",
         "2022-01-15",
-        "2022-01-29"
+        "2022-01-29",
+        "2022-01-30"
       ]
     },
     {
@@ -2332,7 +2343,8 @@
         "2021-10-22",
         "2021-10-31",
         "2021-11-11",
-        "2021-12-09"
+        "2021-12-09",
+        "2022-01-30"
       ]
     },
     {
@@ -3086,7 +3098,8 @@
       "type": "slow-and-steady",
       "text": "Complete a puzzle after everyone else but with the fastest time",
       "dates": [
-        "2022-01-15"
+        "2022-01-15",
+        "2022-01-30"
       ]
     }
   ]

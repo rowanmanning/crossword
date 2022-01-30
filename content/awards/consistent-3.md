@@ -45,6 +45,15 @@
       ]
     },
     {
+      "person": "ivo",
+      "count": 3,
+      "dates": [
+        "2021-11-08",
+        "2021-11-22",
+        "2022-01-30"
+      ]
+    },
+    {
       "person": "leaf",
       "count": 2,
       "dates": [
@@ -69,14 +78,6 @@
       ]
     },
     {
-      "person": "ivo",
-      "count": 2,
-      "dates": [
-        "2021-11-08",
-        "2021-11-22"
-      ]
-    },
-    {
       "person": "Emma L",
       "count": 1,
       "dates": [
@@ -98,5 +99,5 @@
       ]
     }
   ],
-  "totalUnlocks": 27
+  "totalUnlocks": 28
 }
