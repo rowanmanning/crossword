@@ -5,12 +5,12 @@
     {
       "person": "Otherowan",
       "leaderboard": "2022-01-30",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 5,
+      "seconds": 14,
+      "totalSeconds": 314,
+      "position": 11,
+      "scrapeTime": "2022-01-30T15:33:18.073Z",
+      "isPending": false
     },
     {
       "person": "Otherowan",
@@ -46,14 +46,14 @@
   "mean": {
     "person": null,
     "leaderboard": null,
-    "minutes": 2,
-    "seconds": 11,
-    "totalSeconds": 131,
+    "minutes": 3,
+    "seconds": 12,
+    "totalSeconds": 192,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 2,
+  "awardCount": 4,
   "awards": [
     {
       "title": "Double Time",
@@ -69,6 +69,22 @@
       "text": "Complete a puzzle in less than 45 seconds",
       "dates": [
         "2022-01-28"
+      ]
+    },
+    {
+      "title": "Over Five Minutes",
+      "type": "over-300",
+      "text": "Complete a puzzle in more than 5 minutes",
+      "dates": [
+        "2022-01-30"
+      ]
+    },
+    {
+      "title": "Three Day Streak",
+      "type": "three-day-streak",
+      "text": "Play for three days in a row",
+      "dates": [
+        "2022-01-30"
       ]
     }
   ]
