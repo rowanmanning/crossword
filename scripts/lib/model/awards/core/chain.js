@@ -9,7 +9,7 @@ module.exports = class ChainAward extends BaseAward {
 	}
 
 	calculateDates() {
-		return this.person.timesExcludingToday
+		return this.person.times
 			.reduce((dates, time) => {
 				const sequences = time.leaderboard.timesGroupedBySequence.filter(({length}) => length === this.chainLength);
 				const matchingSequences = sequences.filter(({times}) => times.includes(time));

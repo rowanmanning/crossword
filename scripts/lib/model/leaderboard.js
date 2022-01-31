@@ -126,22 +126,30 @@ module.exports = class Leaderboard {
 				let currentStreak = streaks.pop();
 				if (time.isPending) {
 					streaks.push(currentStreak);
-					currentStreak = [];
-				} else if (currentStreak.length && time.totalSeconds === currentStreak[currentStreak.length - 1].totalSeconds + 1) {
-					currentStreak.push(time);
+					currentStreak = {
+						times: [],
+						length: 0
+					};
+				} else if (currentStreak.times.length && time.totalSeconds === currentStreak.times[currentStreak.times.length - 1].totalSeconds + 1) {
+					currentStreak.times.push(time);
+					currentStreak.length += 1;
+				} else if (currentStreak.times.length && time.totalSeconds === currentStreak.times[currentStreak.times.length - 1].totalSeconds) {
+					currentStreak.times.push(time);
 				} else {
 					streaks.push(currentStreak);
-					currentStreak = [time];
+					currentStreak = {
+						times: [time],
+						length: 1
+					};
 				}
 				streaks.push(currentStreak);
 				return streaks;
-			}, [[]])
-			.map(streak => {
-				return {
-					length: streak.length,
-					times: streak
-				};
-			});
+			}, [
+				{
+					times: [],
+					length: 0
+				}
+			]);
 		return this.memo.timesGroupedBySequence;
 	}
 
