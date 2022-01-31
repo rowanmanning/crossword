@@ -5,12 +5,12 @@
     {
       "person": "Rowan M",
       "leaderboard": "2022-01-31",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 29,
+      "totalSeconds": 29,
+      "position": 7,
+      "scrapeTime": "2022-01-31T15:34:04.277Z",
+      "isPending": false
     },
     {
       "person": "Rowan M",
@@ -2273,7 +2273,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 561,
+  "awardCount": 563,
   "awards": [
     {
       "title": "Gold",
@@ -2867,7 +2867,8 @@
         "2021-12-19",
         "2021-12-23",
         "2022-01-23",
-        "2022-01-28"
+        "2022-01-28",
+        "2022-01-31"
       ]
     },
     {
@@ -2948,7 +2949,8 @@
       "type": "month-streak",
       "text": "Play for a full month (30 days) without breaks",
       "dates": [
-        "2021-07-20"
+        "2021-07-20",
+        "2022-01-31"
       ]
     },
     {
