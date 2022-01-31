@@ -5,12 +5,12 @@
     {
       "person": "Otherowan",
       "leaderboard": "2022-01-31",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 6,
+      "totalSeconds": 66,
+      "position": 7,
+      "scrapeTime": "2022-01-31T09:02:16.087Z",
+      "isPending": false
     },
     {
       "person": "Otherowan",
@@ -56,21 +56,37 @@
   "mean": {
     "person": null,
     "leaderboard": null,
-    "minutes": 3,
-    "seconds": 12,
-    "totalSeconds": 192,
+    "minutes": 2,
+    "seconds": 41,
+    "totalSeconds": 161,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 4,
+  "awardCount": 6,
   "awards": [
+    {
+      "title": "Quarter Time",
+      "type": "quarter-time",
+      "text": "Quarter your completion time from one day to the next",
+      "dates": [
+        "2022-01-31"
+      ]
+    },
     {
       "title": "Double Time",
       "type": "double-time",
       "text": "Double your completion time from one day to the next",
       "dates": [
         "2022-01-29"
+      ]
+    },
+    {
+      "title": "Sub Two Minutes",
+      "type": "sub-120",
+      "text": "Complete a puzzle in less than two minutes",
+      "dates": [
+        "2022-01-31"
       ]
     },
     {
