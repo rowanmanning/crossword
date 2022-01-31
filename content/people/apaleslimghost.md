@@ -2263,7 +2263,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 405,
+  "awardCount": 407,
   "awards": [
     {
       "title": "Gold",
@@ -2708,14 +2708,13 @@
       "type": "chain-3",
       "text": "Participate in a chain of three sequential times",
       "dates": [
-        "2021-08-01",
-        "2021-10-15",
-        "2021-10-29",
-        "2021-11-14",
-        "2021-11-29",
-        "2021-11-30",
+        "2021-12-17",
         "2021-12-14",
-        "2021-12-17"
+        "2021-11-29",
+        "2021-11-14",
+        "2021-10-29",
+        "2021-10-15",
+        "2021-08-01"
       ]
     },
     {
@@ -2723,10 +2722,20 @@
       "type": "chain-4",
       "text": "Participate in a chain of four sequential times",
       "dates": [
-        "2021-07-22",
-        "2021-08-25",
+        "2021-12-29",
+        "2021-11-30",
+        "2021-11-25",
         "2021-11-09",
-        "2021-11-25"
+        "2021-08-25",
+        "2021-07-22"
+      ]
+    },
+    {
+      "title": "Chain 5",
+      "type": "chain-5",
+      "text": "Participate in a chain of five sequential times",
+      "dates": [
+        "2022-01-31"
       ]
     },
     {

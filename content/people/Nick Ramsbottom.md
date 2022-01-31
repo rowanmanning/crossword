@@ -1673,7 +1673,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 262,
+  "awardCount": 263,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -1952,8 +1952,16 @@
       "type": "chain-3",
       "text": "Participate in a chain of three sequential times",
       "dates": [
-        "2021-10-02",
-        "2021-11-03"
+        "2021-11-03",
+        "2021-10-02"
+      ]
+    },
+    {
+      "title": "Chain 5",
+      "type": "chain-5",
+      "text": "Participate in a chain of five sequential times",
+      "dates": [
+        "2022-01-31"
       ]
     },
     {

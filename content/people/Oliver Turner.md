@@ -2428,9 +2428,9 @@
       "type": "chain-3",
       "text": "Participate in a chain of three sequential times",
       "dates": [
-        "2021-07-16",
+        "2021-10-29",
         "2021-08-01",
-        "2021-10-29"
+        "2021-07-16"
       ]
     },
     {
