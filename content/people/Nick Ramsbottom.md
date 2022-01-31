@@ -5,12 +5,12 @@
     {
       "person": "Nick Ramsbottom",
       "leaderboard": "2022-01-31",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 25,
+      "totalSeconds": 25,
+      "position": 2,
+      "scrapeTime": "2022-01-31T07:32:00.406Z",
+      "isPending": false
     },
     {
       "person": "Nick Ramsbottom",
@@ -1655,12 +1655,12 @@
   ],
   "best": {
     "person": "Nick Ramsbottom",
-    "leaderboard": "2022-01-18",
+    "leaderboard": "2022-01-31",
     "minutes": 0,
-    "seconds": 41,
-    "totalSeconds": 41,
-    "position": 5,
-    "scrapeTime": "2022-01-18T08:02:13.215Z",
+    "seconds": 25,
+    "totalSeconds": 25,
+    "position": 2,
+    "scrapeTime": "2022-01-31T07:32:00.406Z",
     "isPending": false
   },
   "mean": {
@@ -1673,7 +1673,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 259,
+  "awardCount": 261,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -1756,7 +1756,8 @@
         "2021-10-24",
         "2021-11-21",
         "2021-12-19",
-        "2022-01-26"
+        "2022-01-26",
+        "2022-01-31"
       ]
     },
     {
@@ -1924,6 +1925,14 @@
         "2021-11-26",
         "2021-12-19",
         "2022-01-18"
+      ]
+    },
+    {
+      "title": "Sub 30 Seconds",
+      "type": "sub-30",
+      "text": "Complete a puzzle in less than 30 seconds",
+      "dates": [
+        "2022-01-31"
       ]
     },
     {
