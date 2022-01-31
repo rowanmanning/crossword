@@ -1673,7 +1673,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 261,
+  "awardCount": 262,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -2023,6 +2023,7 @@
       "type": "yin-and-yang",
       "text": "Get the same time as another person but with flipped seconds",
       "dates": [
+        "2022-01-31",
         "2022-01-17",
         "2022-01-07",
         "2021-11-29",
