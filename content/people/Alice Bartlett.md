@@ -5,12 +5,12 @@
     {
       "person": "Alice Bartlett",
       "leaderboard": "2022-01-31",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 28,
+      "totalSeconds": 28,
+      "position": 6,
+      "scrapeTime": "2022-01-31T10:34:03.260Z",
+      "isPending": false
     },
     {
       "person": "Alice Bartlett",
@@ -867,13 +867,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 42,
-    "totalSeconds": 102,
+    "seconds": 41,
+    "totalSeconds": 101,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 138,
+  "awardCount": 142,
   "awards": [
     {
       "title": "Gold",
@@ -945,7 +945,8 @@
         "2021-12-14",
         "2021-12-25",
         "2021-12-29",
-        "2022-01-18"
+        "2022-01-18",
+        "2022-01-31"
       ]
     },
     {
@@ -1064,7 +1065,8 @@
       "type": "sub-30",
       "text": "Complete a puzzle in less than 30 seconds",
       "dates": [
-        "2021-11-11"
+        "2021-11-11",
+        "2022-01-31"
       ]
     },
     {
@@ -1117,7 +1119,8 @@
         "2021-12-14",
         "2021-12-22",
         "2022-01-02",
-        "2022-01-11"
+        "2022-01-11",
+        "2022-01-31"
       ]
     },
     {
@@ -1141,7 +1144,8 @@
         "2021-11-22",
         "2021-12-15",
         "2021-12-20",
-        "2022-01-01"
+        "2022-01-01",
+        "2022-01-31"
       ]
     },
     {

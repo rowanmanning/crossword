@@ -5,12 +5,12 @@
     {
       "person": "Ania",
       "leaderboard": "2022-01-31",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 24,
+      "totalSeconds": 24,
+      "position": 3,
+      "scrapeTime": "2022-01-31T10:34:03.260Z",
+      "isPending": false
     },
     {
       "person": "Ania",
@@ -2273,7 +2273,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 402,
+  "awardCount": 405,
   "awards": [
     {
       "title": "Gold",
@@ -2421,7 +2421,8 @@
         "2022-01-14",
         "2022-01-16",
         "2022-01-18",
-        "2022-01-30"
+        "2022-01-30",
+        "2022-01-31"
       ]
     },
     {
@@ -2693,7 +2694,8 @@
         "2021-12-07",
         "2021-12-22",
         "2022-01-23",
-        "2022-01-28"
+        "2022-01-28",
+        "2022-01-31"
       ]
     },
     {
@@ -2821,6 +2823,7 @@
       "type": "yin-and-yang",
       "text": "Get the same time as another person but with flipped seconds",
       "dates": [
+        "2022-01-31",
         "2021-12-28",
         "2021-11-27",
         "2021-11-10",
