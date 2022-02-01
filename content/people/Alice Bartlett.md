@@ -5,12 +5,12 @@
     {
       "person": "Alice Bartlett",
       "leaderboard": "2022-02-01",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 10,
+      "totalSeconds": 70,
+      "position": 10,
+      "scrapeTime": "2022-02-01T09:02:10.858Z",
+      "isPending": false
     },
     {
       "person": "Alice Bartlett",
@@ -883,7 +883,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 142,
+  "awardCount": 144,
   "awards": [
     {
       "title": "Gold",
@@ -992,7 +992,8 @@
         "2022-01-15",
         "2022-01-17",
         "2022-01-19",
-        "2022-01-22"
+        "2022-01-22",
+        "2022-02-01"
       ]
     },
     {
@@ -1038,7 +1039,8 @@
         "2022-01-26",
         "2022-01-27",
         "2022-01-29",
-        "2022-01-30"
+        "2022-01-30",
+        "2022-02-01"
       ]
     },
     {

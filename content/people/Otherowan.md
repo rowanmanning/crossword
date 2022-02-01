@@ -5,12 +5,12 @@
     {
       "person": "Otherowan",
       "leaderboard": "2022-02-01",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 53,
+      "totalSeconds": 53,
+      "position": 8,
+      "scrapeTime": "2022-02-01T09:02:10.858Z",
+      "isPending": false
     },
     {
       "person": "Otherowan",
@@ -67,13 +67,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 41,
-    "totalSeconds": 161,
+    "seconds": 19,
+    "totalSeconds": 139,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 6,
+  "awardCount": 7,
   "awards": [
     {
       "title": "Quarter Time",
@@ -97,6 +97,14 @@
       "text": "Complete a puzzle in less than two minutes",
       "dates": [
         "2022-01-31"
+      ]
+    },
+    {
+      "title": "Sub Minute",
+      "type": "sub-60",
+      "text": "Complete a puzzle in less than a minute",
+      "dates": [
+        "2022-02-01"
       ]
     },
     {
