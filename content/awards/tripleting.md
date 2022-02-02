@@ -26,6 +26,15 @@
       ]
     },
     {
+      "person": "itsalex",
+      "count": 3,
+      "dates": [
+        "2021-08-23",
+        "2021-09-30",
+        "2022-02-01"
+      ]
+    },
+    {
       "person": "Rowan M",
       "count": 3,
       "dates": [
@@ -53,11 +62,11 @@
       ]
     },
     {
-      "person": "itsalex",
+      "person": "Emma L",
       "count": 2,
       "dates": [
-        "2021-08-23",
-        "2021-09-30"
+        "2021-10-18",
+        "2022-02-01"
       ]
     },
     {
@@ -83,13 +92,6 @@
       ]
     },
     {
-      "person": "Emma L",
-      "count": 1,
-      "dates": [
-        "2021-10-18"
-      ]
-    },
-    {
       "person": "Lily2point0",
       "count": 1,
       "dates": [
@@ -102,7 +104,14 @@
       "dates": [
         "2021-12-22"
       ]
+    },
+    {
+      "person": "cb",
+      "count": 1,
+      "dates": [
+        "2022-02-01"
+      ]
     }
   ],
-  "totalUnlocks": 27
+  "totalUnlocks": 30
 }

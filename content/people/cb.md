@@ -2917,7 +2917,14 @@
         "2022-01-24",
         "2022-01-25",
         "2022-01-26",
-        "2022-01-31",
+        "2022-01-31"
+      ]
+    },
+    {
+      "title": "Tripleting",
+      "type": "tripleting",
+      "text": "Get the same time as two other people",
+      "dates": [
         "2022-02-01"
       ]
     },

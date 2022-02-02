@@ -5,12 +5,12 @@
     {
       "person": "itsalex",
       "leaderboard": "2022-02-01",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 40,
+      "totalSeconds": 40,
+      "position": 2,
+      "scrapeTime": "2022-02-02T01:24:12.738Z",
+      "isPending": false
     },
     {
       "person": "itsalex",
@@ -2253,7 +2253,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 276,
+  "awardCount": 279,
   "awards": [
     {
       "title": "Gold",
@@ -2424,7 +2424,8 @@
         "2021-09-28",
         "2021-09-30",
         "2021-10-03",
-        "2021-10-17"
+        "2021-10-17",
+        "2022-02-01"
       ]
     },
     {
@@ -2568,7 +2569,8 @@
         "2021-12-12",
         "2021-12-23",
         "2021-12-24",
-        "2022-01-14"
+        "2022-01-14",
+        "2022-02-01"
       ]
     },
     {
@@ -2709,7 +2711,8 @@
       "text": "Get the same time as two other people",
       "dates": [
         "2021-08-23",
-        "2021-09-30"
+        "2021-09-30",
+        "2022-02-01"
       ]
     },
     {
