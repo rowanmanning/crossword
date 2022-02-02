@@ -5,12 +5,12 @@
     {
       "person": "Otherowan",
       "leaderboard": "2022-02-02",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 34,
+      "totalSeconds": 94,
+      "position": 4,
+      "scrapeTime": "2022-02-02T12:02:33.096Z",
+      "isPending": false
     },
     {
       "person": "Otherowan",
@@ -77,13 +77,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 19,
-    "totalSeconds": 139,
+    "seconds": 12,
+    "totalSeconds": 132,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 7,
+  "awardCount": 9,
   "awards": [
     {
       "title": "Quarter Time",
@@ -106,7 +106,8 @@
       "type": "sub-120",
       "text": "Complete a puzzle in less than two minutes",
       "dates": [
-        "2022-01-31"
+        "2022-01-31",
+        "2022-02-02"
       ]
     },
     {
@@ -139,6 +140,14 @@
       "text": "Play for three days in a row",
       "dates": [
         "2022-01-30"
+      ]
+    },
+    {
+      "title": "Twinning",
+      "type": "twinning",
+      "text": "Get the same time as another person",
+      "dates": [
+        "2022-02-02"
       ]
     }
   ]
