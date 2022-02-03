@@ -5,12 +5,12 @@
     {
       "person": "Otherowan",
       "leaderboard": "2022-02-03",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 50,
+      "totalSeconds": 50,
+      "position": 4,
+      "scrapeTime": "2022-02-03T09:32:30.617Z",
+      "isPending": false
     },
     {
       "person": "Otherowan",
@@ -87,13 +87,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 12,
-    "totalSeconds": 132,
+    "seconds": 0,
+    "totalSeconds": 120,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 9,
+  "awardCount": 11,
   "awards": [
     {
       "title": "Quarter Time",
@@ -125,7 +125,8 @@
       "type": "sub-60",
       "text": "Complete a puzzle in less than a minute",
       "dates": [
-        "2022-02-01"
+        "2022-02-01",
+        "2022-02-03"
       ]
     },
     {
@@ -150,6 +151,14 @@
       "text": "Play for three days in a row",
       "dates": [
         "2022-01-30"
+      ]
+    },
+    {
+      "title": "Week-Long Streak",
+      "type": "week-streak",
+      "text": "Play for a full week without breaks",
+      "dates": [
+        "2022-02-03"
       ]
     },
     {
