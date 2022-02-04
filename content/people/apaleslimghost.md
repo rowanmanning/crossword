@@ -5,12 +5,12 @@
     {
       "person": "apaleslimghost",
       "leaderboard": "2022-02-04",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 21,
+      "totalSeconds": 141,
+      "position": 2,
+      "scrapeTime": "2022-02-04T07:31:46.963Z",
+      "isPending": false
     },
     {
       "person": "apaleslimghost",
@@ -2297,13 +2297,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 4,
-    "totalSeconds": 64,
+    "seconds": 5,
+    "totalSeconds": 65,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 414,
+  "awardCount": 416,
   "awards": [
     {
       "title": "Gold",
@@ -2530,7 +2530,8 @@
         "2022-01-17",
         "2022-01-19",
         "2022-01-22",
-        "2022-01-29"
+        "2022-01-29",
+        "2022-02-04"
       ]
     },
     {
@@ -2887,6 +2888,7 @@
       "type": "yin-and-yang",
       "text": "Get the same time as another person but with flipped seconds",
       "dates": [
+        "2022-02-04",
         "2021-12-25",
         "2021-11-28",
         "2021-11-16",
