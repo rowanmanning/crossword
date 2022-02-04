@@ -78,7 +78,14 @@
       "dates": [
         "2022-01-28"
       ]
+    },
+    {
+      "person": "Rowan M",
+      "count": 1,
+      "dates": [
+        "2022-02-04"
+      ]
     }
   ],
-  "totalUnlocks": 15
+  "totalUnlocks": 16
 }
