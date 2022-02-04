@@ -5,12 +5,12 @@
     {
       "person": "Otherowan",
       "leaderboard": "2022-02-04",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 3,
+      "seconds": 40,
+      "totalSeconds": 220,
+      "position": 9,
+      "scrapeTime": "2022-02-04T09:31:49.102Z",
+      "isPending": false
     },
     {
       "person": "Otherowan",
@@ -97,13 +97,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 0,
-    "totalSeconds": 120,
+    "seconds": 13,
+    "totalSeconds": 133,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 11,
+  "awardCount": 12,
   "awards": [
     {
       "title": "Quarter Time",
@@ -118,7 +118,8 @@
       "type": "double-time",
       "text": "Double your completion time from one day to the next",
       "dates": [
-        "2022-01-29"
+        "2022-01-29",
+        "2022-02-04"
       ]
     },
     {
