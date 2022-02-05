@@ -5,12 +5,12 @@
     {
       "person": "ivo",
       "leaderboard": "2022-02-05",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 54,
+      "totalSeconds": 54,
+      "position": 1,
+      "scrapeTime": "2022-02-05T11:31:40.647Z",
+      "isPending": false
     },
     {
       "person": "ivo",
@@ -1473,7 +1473,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 265,
+  "awardCount": 268,
   "awards": [
     {
       "title": "Gold",
@@ -1600,7 +1600,8 @@
         "2022-01-20",
         "2022-01-26",
         "2022-01-31",
-        "2022-02-03"
+        "2022-02-03",
+        "2022-02-05"
       ]
     },
     {
@@ -1744,7 +1745,8 @@
         "2022-01-20",
         "2022-01-27",
         "2022-02-01",
-        "2022-02-03"
+        "2022-02-03",
+        "2022-02-05"
       ]
     },
     {
@@ -1808,6 +1810,14 @@
         "2021-11-17",
         "2021-11-20",
         "2022-01-08"
+      ]
+    },
+    {
+      "title": "Nice Try, Joel",
+      "type": "nice-try-joel",
+      "text": "Complete a puzzle in less than a minute on a Saturday",
+      "dates": [
+        "2022-02-05"
       ]
     },
     {
