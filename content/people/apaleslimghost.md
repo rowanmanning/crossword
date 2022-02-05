@@ -5,12 +5,12 @@
     {
       "person": "apaleslimghost",
       "leaderboard": "2022-02-05",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 57,
+      "totalSeconds": 57,
+      "position": 1,
+      "scrapeTime": "2022-02-05T08:33:16.505Z",
+      "isPending": false
     },
     {
       "person": "apaleslimghost",
@@ -2313,7 +2313,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 416,
+  "awardCount": 419,
   "awards": [
     {
       "title": "Gold",
@@ -2485,7 +2485,8 @@
         "2022-01-18",
         "2022-01-20",
         "2022-01-24",
-        "2022-01-31"
+        "2022-01-31",
+        "2022-02-05"
       ]
     },
     {
@@ -2647,7 +2648,8 @@
         "2022-01-21",
         "2022-01-24",
         "2022-01-26",
-        "2022-01-27"
+        "2022-01-27",
+        "2022-02-05"
       ]
     },
     {
@@ -2756,7 +2758,8 @@
       "text": "Complete a puzzle in less than a minute on a Saturday",
       "dates": [
         "2021-12-25",
-        "2022-01-15"
+        "2022-01-15",
+        "2022-02-05"
       ]
     },
     {

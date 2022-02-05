@@ -39,6 +39,15 @@
       ]
     },
     {
+      "person": "apaleslimghost",
+      "count": 3,
+      "dates": [
+        "2021-12-25",
+        "2022-01-15",
+        "2022-02-05"
+      ]
+    },
+    {
       "person": "itsalex",
       "count": 2,
       "dates": [
@@ -52,14 +61,6 @@
       "dates": [
         "2021-10-02",
         "2021-12-11"
-      ]
-    },
-    {
-      "person": "apaleslimghost",
-      "count": 2,
-      "dates": [
-        "2021-12-25",
-        "2022-01-15"
       ]
     },
     {
@@ -91,5 +92,5 @@
       ]
     }
   ],
-  "totalUnlocks": 26
+  "totalUnlocks": 27
 }
