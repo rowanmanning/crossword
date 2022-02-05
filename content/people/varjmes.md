@@ -5,12 +5,12 @@
     {
       "person": "varjmes",
       "leaderboard": "2022-02-05",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 12,
+      "totalSeconds": 72,
+      "position": 1,
+      "scrapeTime": "2022-02-05T07:31:46.258Z",
+      "isPending": false
     },
     {
       "person": "varjmes",
@@ -2323,7 +2323,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 441,
+  "awardCount": 443,
   "awards": [
     {
       "title": "Gold",
@@ -2488,7 +2488,8 @@
         "2022-01-14",
         "2022-01-16",
         "2022-01-23",
-        "2022-01-26"
+        "2022-01-26",
+        "2022-02-05"
       ]
     },
     {
@@ -2657,7 +2658,8 @@
         "2022-01-21",
         "2022-01-22",
         "2022-01-24",
-        "2022-02-02"
+        "2022-02-02",
+        "2022-02-05"
       ]
     },
     {
