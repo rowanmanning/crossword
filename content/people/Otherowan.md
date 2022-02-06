@@ -5,12 +5,12 @@
     {
       "person": "Otherowan",
       "leaderboard": "2022-02-06",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 39,
+      "totalSeconds": 39,
+      "position": 4,
+      "scrapeTime": "2022-02-06T08:33:52.870Z",
+      "isPending": false
     },
     {
       "person": "Otherowan",
@@ -105,26 +105,34 @@
   ],
   "best": {
     "person": "Otherowan",
-    "leaderboard": "2022-01-28",
+    "leaderboard": "2022-02-06",
     "minutes": 0,
-    "seconds": 44,
-    "totalSeconds": 44,
-    "position": 6,
-    "scrapeTime": "2022-01-28T15:34:15.526Z",
+    "seconds": 39,
+    "totalSeconds": 39,
+    "position": 4,
+    "scrapeTime": "2022-02-06T08:33:52.870Z",
     "isPending": false
   },
   "mean": {
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 10,
-    "totalSeconds": 130,
+    "seconds": 1,
+    "totalSeconds": 121,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 13,
+  "awardCount": 15,
   "awards": [
+    {
+      "title": "Half Time",
+      "type": "half-time",
+      "text": "Half your completion time from one day to the next",
+      "dates": [
+        "2022-02-06"
+      ]
+    },
     {
       "title": "Quarter Time",
       "type": "quarter-time",
@@ -166,7 +174,8 @@
       "type": "sub-45",
       "text": "Complete a puzzle in less than 45 seconds",
       "dates": [
-        "2022-01-28"
+        "2022-01-28",
+        "2022-02-06"
       ]
     },
     {
