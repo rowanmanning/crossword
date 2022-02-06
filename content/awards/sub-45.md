@@ -645,19 +645,20 @@
       ]
     },
     {
+      "person": "Alice Bartlett",
+      "count": 3,
+      "dates": [
+        "2021-12-14",
+        "2022-01-16",
+        "2022-02-06"
+      ]
+    },
+    {
       "person": "arjun137",
       "count": 2,
       "dates": [
         "2021-06-23",
         "2021-07-13"
-      ]
-    },
-    {
-      "person": "Alice Bartlett",
-      "count": 2,
-      "dates": [
-        "2021-12-14",
-        "2022-01-16"
       ]
     },
     {
@@ -669,5 +670,5 @@
       ]
     }
   ],
-  "totalUnlocks": 562
+  "totalUnlocks": 563
 }
