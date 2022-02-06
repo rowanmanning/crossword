@@ -5,12 +5,12 @@
     {
       "person": "Rowan M",
       "leaderboard": "2022-02-07",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 34,
+      "totalSeconds": 34,
+      "position": 1,
+      "scrapeTime": "2022-02-06T23:31:53.504Z",
+      "isPending": false
     },
     {
       "person": "Rowan M",
@@ -2343,7 +2343,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 580,
+  "awardCount": 583,
   "awards": [
     {
       "title": "Gold",
@@ -2914,7 +2914,8 @@
         "2022-01-18",
         "2022-01-26",
         "2022-01-27",
-        "2022-02-06"
+        "2022-02-06",
+        "2022-02-07"
       ]
     },
     {
@@ -3111,6 +3112,7 @@
       "type": "yin-and-yang",
       "text": "Get the same time as another person but with flipped seconds",
       "dates": [
+        "2022-02-07",
         "2022-01-11",
         "2021-12-25",
         "2021-11-03",
@@ -3186,7 +3188,8 @@
       "type": "quick-draw",
       "text": "Complete a puzzle before anyone else (or within 30 minutes of the first person)",
       "dates": [
-        "2021-12-10"
+        "2021-12-10",
+        "2022-02-07"
       ]
     },
     {
