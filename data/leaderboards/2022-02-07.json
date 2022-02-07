@@ -20,6 +20,16 @@
 		"seconds": 44
 	},
 	{
+		"name": "apaleslimghost",
+		"scrapeTime": "2022-02-07T07:31:41.382Z",
+		"seconds": 76
+	},
+	{
+		"name": "binaryberry",
+		"scrapeTime": "2022-02-07T07:31:41.382Z",
+		"seconds": 97
+	},
+	{
 		"name": "Alice Bartlett",
 		"scrapeTime": null,
 		"seconds": null
@@ -30,17 +40,7 @@
 		"seconds": null
 	},
 	{
-		"name": "apaleslimghost",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
 		"name": "arjun137",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
-		"name": "binaryberry",
 		"scrapeTime": null,
 		"seconds": null
 	},
