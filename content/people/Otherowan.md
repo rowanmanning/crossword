@@ -5,12 +5,12 @@
     {
       "person": "Otherowan",
       "leaderboard": "2022-02-07",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 47,
+      "totalSeconds": 107,
+      "position": 7,
+      "scrapeTime": "2022-02-07T08:35:20.639Z",
+      "isPending": false
     },
     {
       "person": "Otherowan",
@@ -127,13 +127,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 1,
-    "totalSeconds": 121,
+    "seconds": 0,
+    "totalSeconds": 120,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 15,
+  "awardCount": 17,
   "awards": [
     {
       "title": "Half Time",
@@ -157,7 +157,8 @@
       "text": "Double your completion time from one day to the next",
       "dates": [
         "2022-01-29",
-        "2022-02-04"
+        "2022-02-04",
+        "2022-02-07"
       ]
     },
     {
@@ -167,7 +168,8 @@
       "dates": [
         "2022-01-31",
         "2022-02-02",
-        "2022-02-05"
+        "2022-02-05",
+        "2022-02-07"
       ]
     },
     {

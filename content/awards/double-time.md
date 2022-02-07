@@ -650,12 +650,13 @@
     },
     {
       "person": "Otherowan",
-      "count": 2,
+      "count": 3,
       "dates": [
         "2022-01-29",
-        "2022-02-04"
+        "2022-02-04",
+        "2022-02-07"
       ]
     }
   ],
-  "totalUnlocks": 544
+  "totalUnlocks": 545
 }
