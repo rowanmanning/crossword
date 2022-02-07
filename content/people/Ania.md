@@ -5,12 +5,12 @@
     {
       "person": "Ania",
       "leaderboard": "2022-02-07",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 42,
+      "totalSeconds": 42,
+      "position": 3,
+      "scrapeTime": "2022-02-07T09:32:46.585Z",
+      "isPending": false
     },
     {
       "person": "Ania",
@@ -2343,7 +2343,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 420,
+  "awardCount": 423,
   "awards": [
     {
       "title": "Gold",
@@ -2760,7 +2760,8 @@
         "2022-01-06",
         "2022-01-10",
         "2022-01-12",
-        "2022-01-16"
+        "2022-01-16",
+        "2022-02-07"
       ]
     },
     {
@@ -2819,6 +2820,7 @@
       "type": "chain-4",
       "text": "Participate in a chain of four sequential times",
       "dates": [
+        "2022-02-07",
         "2021-11-16"
       ]
     },
@@ -2949,7 +2951,8 @@
         "2021-07-30",
         "2021-10-31",
         "2021-12-19",
-        "2021-12-23"
+        "2021-12-23",
+        "2022-02-07"
       ]
     },
     {
