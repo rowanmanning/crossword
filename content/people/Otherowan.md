@@ -8,7 +8,7 @@
       "minutes": 2,
       "seconds": 9,
       "totalSeconds": 129,
-      "position": 3,
+      "position": 5,
       "scrapeTime": "2022-02-08T07:02:15.238Z",
       "isPending": false
     },
@@ -143,7 +143,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 17,
+  "awardCount": 18,
   "awards": [
     {
       "title": "Half Time",
@@ -229,7 +229,8 @@
       "type": "twinning",
       "text": "Get the same time as another person",
       "dates": [
-        "2022-02-02"
+        "2022-02-02",
+        "2022-02-08"
       ]
     }
   ]
