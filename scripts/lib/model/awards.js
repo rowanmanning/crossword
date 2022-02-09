@@ -47,6 +47,11 @@ module.exports = {
 	OverTenMinutesAward: require('./awards/over-600'),
 	NiceTryJoelAward: require('./awards/nice-try-joel'),
 
+	// Date-specific awards
+	AnniversaryAward: require('./awards/anniversary'),
+	ChristmasAward: require('./awards/christmas'),
+	ValentinesAward: require('./awards/valentines'),
+
 	// Chaining awards
 	ChainThreeAward: require('./awards/chain-3'),
 	ChainFourAward: require('./awards/chain-4'),

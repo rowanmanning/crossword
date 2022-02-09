@@ -70,6 +70,11 @@ module.exports = class Leaderboard {
 		return new Time(seconds[seconds.length - 1] - seconds[0]);
 	}
 
+	get dateObject() {
+		const timestamp = Date.parse(`${this.date}`);
+		return timestamp ? new Date(timestamp) : null;
+	}
+
 	get day() {
 		const days = [
 			'Sunday',
@@ -80,9 +85,23 @@ module.exports = class Leaderboard {
 			'Friday',
 			'Saturday'
 		];
-		const timestamp = Date.parse(`${this.date}`);
-		const date = timestamp ? new Date(timestamp) : null;
+		const date = this.dateObject;
 		return date ? days[date.getUTCDay()] : null;
+	}
+
+	get dayOfMonth() {
+		const date = this.dateObject;
+		return date ? date.getUTCDate() : null;
+	}
+
+	get month() {
+		const date = this.dateObject;
+		return date ? date.getUTCMonth() + 1 : null;
+	}
+
+	get year() {
+		const date = this.dateObject;
+		return date ? date.getUTCFullYear() : null;
 	}
 
 	get timesByScrapeTime() {
