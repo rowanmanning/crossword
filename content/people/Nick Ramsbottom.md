@@ -5,12 +5,12 @@
     {
       "person": "Nick Ramsbottom",
       "leaderboard": "2022-02-09",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 4,
+      "seconds": 12,
+      "totalSeconds": 252,
+      "position": 4,
+      "scrapeTime": "2022-02-09T07:31:42.658Z",
+      "isPending": false
     },
     {
       "person": "Nick Ramsbottom",
