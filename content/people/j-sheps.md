@@ -2363,7 +2363,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 509,
+  "awardCount": 510,
   "awards": [
     {
       "title": "Gold",
@@ -2901,6 +2901,14 @@
       "text": "Complete a puzzle in less than a minute on a Saturday",
       "dates": [
         "2021-10-16"
+      ]
+    },
+    {
+      "title": "Ho Ho Ho",
+      "type": "christmas",
+      "text": "Play the crossword on Christmas day",
+      "dates": [
+        "2021-12-25"
       ]
     },
     {

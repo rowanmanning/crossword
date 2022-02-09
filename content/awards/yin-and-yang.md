@@ -2,7 +2,7 @@
   "title": "Yin and Yang",
   "id": "yin-and-yang",
   "text": "Get the same time as another person but with flipped seconds",
-  "order": "451",
+  "order": "481",
   "unlocks": [
     {
       "person": "cb",

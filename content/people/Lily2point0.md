@@ -2363,7 +2363,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 393,
+  "awardCount": 394,
   "awards": [
     {
       "title": "Gold",
@@ -2776,6 +2776,14 @@
       "title": "Nice Try, Joel",
       "type": "nice-try-joel",
       "text": "Complete a puzzle in less than a minute on a Saturday",
+      "dates": [
+        "2021-12-25"
+      ]
+    },
+    {
+      "title": "Ho Ho Ho",
+      "type": "christmas",
+      "text": "Play the crossword on Christmas day",
       "dates": [
         "2021-12-25"
       ]

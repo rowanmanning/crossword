@@ -1763,7 +1763,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 275,
+  "awardCount": 276,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -2042,6 +2042,14 @@
         "2021-10-10",
         "2021-11-06",
         "2021-11-20"
+      ]
+    },
+    {
+      "title": "Ho Ho Ho",
+      "type": "christmas",
+      "text": "Play the crossword on Christmas day",
+      "dates": [
+        "2021-12-25"
       ]
     },
     {

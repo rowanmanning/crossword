@@ -2343,7 +2343,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 13,
+  "awardCount": 14,
   "awards": [
     {
       "title": "Half Time",
@@ -2395,6 +2395,14 @@
       "dates": [
         "2021-06-23",
         "2021-07-13"
+      ]
+    },
+    {
+      "title": "Ho Ho Ho",
+      "type": "christmas",
+      "text": "Play the crossword on Christmas day",
+      "dates": [
+        "2021-12-25"
       ]
     },
     {

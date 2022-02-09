@@ -2363,7 +2363,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 424,
+  "awardCount": 425,
   "awards": [
     {
       "title": "Gold",
@@ -2818,6 +2818,14 @@
         "2021-06-26",
         "2021-07-31",
         "2021-11-13"
+      ]
+    },
+    {
+      "title": "Ho Ho Ho",
+      "type": "christmas",
+      "text": "Play the crossword on Christmas day",
+      "dates": [
+        "2021-12-25"
       ]
     },
     {

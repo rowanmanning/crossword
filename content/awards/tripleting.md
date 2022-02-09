@@ -2,7 +2,7 @@
   "title": "Tripleting",
   "id": "tripleting",
   "text": "Get the same time as two other people",
-  "order": "401",
+  "order": "431",
   "unlocks": [
     {
       "person": "j-sheps",

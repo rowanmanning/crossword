@@ -2,7 +2,7 @@
   "title": "Quintupleting",
   "id": "quintupleting",
   "text": "Get the same time as four other people",
-  "order": "421",
+  "order": "451",
   "unlocks": [
     {
       "person": "cb",

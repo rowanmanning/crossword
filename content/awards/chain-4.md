@@ -2,7 +2,7 @@
   "title": "Chain 4",
   "id": "chain-4",
   "text": "Participate in a chain of four sequential times",
-  "order": "311",
+  "order": "341",
   "unlocks": [
     {
       "person": "apaleslimghost",

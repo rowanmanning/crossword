@@ -2,7 +2,7 @@
   "title": "Chain 3",
   "id": "chain-3",
   "text": "Participate in a chain of three sequential times",
-  "order": "301",
+  "order": "331",
   "unlocks": [
     {
       "person": "Rowan M",
