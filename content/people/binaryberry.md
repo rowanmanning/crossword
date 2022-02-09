@@ -5,12 +5,12 @@
     {
       "person": "binaryberry",
       "leaderboard": "2022-02-09",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 22,
+      "totalSeconds": 142,
+      "position": 1,
+      "scrapeTime": "2022-02-09T06:36:06.483Z",
+      "isPending": false
     },
     {
       "person": "binaryberry",
@@ -2363,7 +2363,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 238,
+  "awardCount": 241,
   "awards": [
     {
       "title": "Bronze",
@@ -2472,7 +2472,8 @@
         "2022-01-13",
         "2022-01-19",
         "2022-01-29",
-        "2022-02-04"
+        "2022-02-04",
+        "2022-02-09"
       ]
     },
     {
@@ -2647,6 +2648,14 @@
       ]
     },
     {
+      "title": "Quarter-Long Streak",
+      "type": "quarter-streak",
+      "text": "Play for a full quarter, give that OKR a 1",
+      "dates": [
+        "2022-02-09"
+      ]
+    },
+    {
       "title": "Holiday",
       "type": "holiday",
       "text": "Come back to the crossword after a week off",
@@ -2782,7 +2791,8 @@
         "2022-02-01",
         "2022-02-02",
         "2022-02-05",
-        "2022-02-08"
+        "2022-02-08",
+        "2022-02-09"
       ]
     }
   ]
