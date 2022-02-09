@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Otherowan",
+      "leaderboard": "2022-02-09",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Otherowan",
       "leaderboard": "2022-02-08",
       "minutes": 2,
       "seconds": 9,
@@ -143,8 +153,16 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 18,
+  "awardCount": 19,
   "awards": [
+    {
+      "title": "Consistent Position ×2",
+      "type": "consistent-2",
+      "text": "Get the same position two days in a row",
+      "dates": [
+        "2022-02-08"
+      ]
+    },
     {
       "title": "Half Time",
       "type": "half-time",

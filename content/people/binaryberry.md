@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "binaryberry",
+      "leaderboard": "2022-02-09",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "binaryberry",
       "leaderboard": "2022-02-08",
       "minutes": 1,
       "seconds": 6,
@@ -2353,7 +2363,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 237,
+  "awardCount": 238,
   "awards": [
     {
       "title": "Bronze",
@@ -2716,7 +2726,8 @@
       "type": "beast",
       "text": "His number is six hundred and sixty-six",
       "dates": [
-        "2021-12-07"
+        "2021-12-07",
+        "2022-02-08"
       ]
     },
     {

@@ -280,7 +280,14 @@
         "2022-01-11",
         "2022-01-19"
       ]
+    },
+    {
+      "person": "Otherowan",
+      "count": 1,
+      "dates": [
+        "2022-02-08"
+      ]
     }
   ],
-  "totalUnlocks": 187
+  "totalUnlocks": 188
 }
