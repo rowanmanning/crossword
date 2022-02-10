@@ -5,6 +5,14 @@
   "order": "401",
   "unlocks": [
     {
+      "person": "Ania",
+      "count": 2,
+      "dates": [
+        "2021-11-05",
+        "2022-02-10"
+      ]
+    },
+    {
       "person": "Lily2point0",
       "count": 1,
       "dates": [
@@ -40,13 +48,6 @@
       ]
     },
     {
-      "person": "Ania",
-      "count": 1,
-      "dates": [
-        "2021-11-05"
-      ]
-    },
-    {
       "person": "binaryberry",
       "count": 1,
       "dates": [
@@ -54,5 +55,5 @@
       ]
     }
   ],
-  "totalUnlocks": 7
+  "totalUnlocks": 8
 }

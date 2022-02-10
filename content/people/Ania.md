@@ -5,12 +5,12 @@
     {
       "person": "Ania",
       "leaderboard": "2022-02-10",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 36,
+      "totalSeconds": 36,
+      "position": 2,
+      "scrapeTime": "2022-02-10T09:32:29.136Z",
+      "isPending": false
     },
     {
       "person": "Ania",
@@ -2367,13 +2367,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 34,
-    "totalSeconds": 94,
+    "seconds": 33,
+    "totalSeconds": 93,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 426,
+  "awardCount": 429,
   "awards": [
     {
       "title": "Gold",
@@ -2552,7 +2552,8 @@
         "2021-12-22",
         "2022-01-12",
         "2022-01-23",
-        "2022-01-28"
+        "2022-01-28",
+        "2022-02-10"
       ]
     },
     {
@@ -2793,7 +2794,8 @@
         "2022-01-10",
         "2022-01-12",
         "2022-01-16",
-        "2022-02-07"
+        "2022-02-07",
+        "2022-02-10"
       ]
     },
     {
@@ -2909,7 +2911,8 @@
       "type": "quarter-streak",
       "text": "Play for a full quarter, give that OKR a 1",
       "dates": [
-        "2021-11-05"
+        "2021-11-05",
+        "2022-02-10"
       ]
     },
     {
