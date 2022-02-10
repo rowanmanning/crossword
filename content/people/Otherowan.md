@@ -5,12 +5,12 @@
     {
       "person": "Otherowan",
       "leaderboard": "2022-02-10",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 11,
+      "totalSeconds": 71,
+      "position": 5,
+      "scrapeTime": "2022-02-10T08:02:18.665Z",
+      "isPending": false
     },
     {
       "person": "Otherowan",
@@ -157,13 +157,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 4,
-    "totalSeconds": 124,
+    "seconds": 0,
+    "totalSeconds": 120,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 19,
+  "awardCount": 21,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -178,7 +178,8 @@
       "type": "half-time",
       "text": "Half your completion time from one day to the next",
       "dates": [
-        "2022-02-06"
+        "2022-02-06",
+        "2022-02-10"
       ]
     },
     {
@@ -207,7 +208,8 @@
         "2022-01-31",
         "2022-02-02",
         "2022-02-05",
-        "2022-02-07"
+        "2022-02-07",
+        "2022-02-10"
       ]
     },
     {
