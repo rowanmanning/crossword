@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "cb",
+      "leaderboard": "2022-02-11",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "cb",
       "leaderboard": "2022-02-10",
       "minutes": 0,
       "seconds": 23,
@@ -2293,7 +2303,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 595,
+  "awardCount": 598,
   "awards": [
     {
       "title": "Gold",
@@ -2360,7 +2370,8 @@
         "2022-01-26",
         "2022-01-27",
         "2022-01-28",
-        "2022-02-07"
+        "2022-02-07",
+        "2022-02-10"
       ]
     },
     {
@@ -2545,6 +2556,14 @@
         "2022-01-04",
         "2022-01-20",
         "2022-02-08"
+      ]
+    },
+    {
+      "title": "Podium Climbing",
+      "type": "podium-climbing",
+      "text": "Unlock third, second, then first place awards in order",
+      "dates": [
+        "2022-02-10"
       ]
     },
     {
@@ -3071,7 +3090,8 @@
         "2021-12-06",
         "2022-01-02",
         "2022-01-03",
-        "2022-01-26"
+        "2022-01-26",
+        "2022-02-10"
       ]
     },
     {

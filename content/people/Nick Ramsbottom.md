@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Nick Ramsbottom",
+      "leaderboard": "2022-02-11",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Nick Ramsbottom",
       "leaderboard": "2022-02-10",
       "minutes": 1,
       "seconds": 48,
@@ -1773,7 +1783,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 278,
+  "awardCount": 279,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -2200,6 +2210,14 @@
         "2021-12-30",
         "2022-01-16",
         "2022-01-24"
+      ]
+    },
+    {
+      "title": "Unlucky for Some",
+      "type": "unlucky",
+      "text": "Come 13th three times",
+      "dates": [
+        "2022-02-10"
       ]
     },
     {
