@@ -5,12 +5,12 @@
     {
       "person": "varjmes",
       "leaderboard": "2022-02-11",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 37,
+      "totalSeconds": 97,
+      "position": 6,
+      "scrapeTime": "2022-02-11T08:02:30.746Z",
+      "isPending": false
     },
     {
       "person": "varjmes",
@@ -2383,7 +2383,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 455,
+  "awardCount": 457,
   "awards": [
     {
       "title": "Gold",
@@ -2723,7 +2723,8 @@
         "2022-01-24",
         "2022-02-02",
         "2022-02-05",
-        "2022-02-08"
+        "2022-02-08",
+        "2022-02-11"
       ]
     },
     {
@@ -2991,7 +2992,8 @@
       "type": "arjun",
       "text": "Join us",
       "dates": [
-        "2021-10-14"
+        "2021-10-14",
+        "2022-02-11"
       ]
     },
     {
