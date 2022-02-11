@@ -668,7 +668,14 @@
         "2022-02-04",
         "2022-02-07"
       ]
+    },
+    {
+      "person": "JRedondo",
+      "count": 1,
+      "dates": [
+        "2022-02-11"
+      ]
     }
   ],
-  "totalUnlocks": 557
+  "totalUnlocks": 558
 }

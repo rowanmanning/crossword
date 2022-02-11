@@ -5,12 +5,12 @@
     {
       "person": "JRedondo",
       "leaderboard": "2022-02-11",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 6,
+      "seconds": 4,
+      "totalSeconds": 364,
+      "position": 10,
+      "scrapeTime": "2022-02-11T10:02:28.065Z",
+      "isPending": false
     },
     {
       "person": "JRedondo",
@@ -36,13 +36,30 @@
   "mean": {
     "person": null,
     "leaderboard": null,
-    "minutes": 2,
-    "seconds": 41,
-    "totalSeconds": 161,
+    "minutes": 4,
+    "seconds": 23,
+    "totalSeconds": 263,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 0,
-  "awards": []
+  "awardCount": 2,
+  "awards": [
+    {
+      "title": "Double Time",
+      "type": "double-time",
+      "text": "Double your completion time from one day to the next",
+      "dates": [
+        "2022-02-11"
+      ]
+    },
+    {
+      "title": "Over Five Minutes",
+      "type": "over-300",
+      "text": "Complete a puzzle in more than 5 minutes",
+      "dates": [
+        "2022-02-11"
+      ]
+    }
+  ]
 }
