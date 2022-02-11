@@ -5,12 +5,12 @@
     {
       "person": "Nick Ramsbottom",
       "leaderboard": "2022-02-11",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 3,
+      "totalSeconds": 63,
+      "position": 4,
+      "scrapeTime": "2022-02-11T07:31:39.871Z",
+      "isPending": false
     },
     {
       "person": "Nick Ramsbottom",
@@ -1783,7 +1783,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 279,
+  "awardCount": 281,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -2004,7 +2004,8 @@
         "2022-02-03",
         "2022-02-05",
         "2022-02-06",
-        "2022-02-10"
+        "2022-02-10",
+        "2022-02-11"
       ]
     },
     {
@@ -2119,6 +2120,14 @@
       "dates": [
         "2021-10-18",
         "2021-12-13"
+      ]
+    },
+    {
+      "title": "Quarter-Long Streak",
+      "type": "quarter-streak",
+      "text": "Play for a full quarter, give that OKR a 1",
+      "dates": [
+        "2022-02-11"
       ]
     },
     {
