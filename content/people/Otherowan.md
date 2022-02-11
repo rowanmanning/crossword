@@ -5,12 +5,12 @@
     {
       "person": "Otherowan",
       "leaderboard": "2022-02-11",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 12,
+      "totalSeconds": 72,
+      "position": 2,
+      "scrapeTime": "2022-02-11T06:03:11.475Z",
+      "isPending": false
     },
     {
       "person": "Otherowan",
@@ -166,14 +166,14 @@
   "mean": {
     "person": null,
     "leaderboard": null,
-    "minutes": 2,
-    "seconds": 0,
-    "totalSeconds": 120,
+    "minutes": 1,
+    "seconds": 57,
+    "totalSeconds": 117,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 21,
+  "awardCount": 23,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -219,7 +219,8 @@
         "2022-02-02",
         "2022-02-05",
         "2022-02-07",
-        "2022-02-10"
+        "2022-02-10",
+        "2022-02-11"
       ]
     },
     {
@@ -271,6 +272,14 @@
       "dates": [
         "2022-02-02",
         "2022-02-08"
+      ]
+    },
+    {
+      "title": "Quick Draw",
+      "type": "quick-draw",
+      "text": "Complete a puzzle before anyone else (or within 30 minutes of the first person)",
+      "dates": [
+        "2022-02-11"
       ]
     }
   ]
