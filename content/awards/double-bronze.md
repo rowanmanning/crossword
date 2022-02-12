@@ -83,17 +83,18 @@
       ]
     },
     {
+      "person": "ivo",
+      "count": 2,
+      "dates": [
+        "2022-01-17",
+        "2022-02-11"
+      ]
+    },
+    {
       "person": "Oliver Turner",
       "count": 1,
       "dates": [
         "2021-07-20"
-      ]
-    },
-    {
-      "person": "ivo",
-      "count": 1,
-      "dates": [
-        "2022-01-17"
       ]
     },
     {
@@ -104,5 +105,5 @@
       ]
     }
   ],
-  "totalUnlocks": 33
+  "totalUnlocks": 34
 }
