@@ -8,7 +8,7 @@
       "minutes": 2,
       "seconds": 31,
       "totalSeconds": 151,
-      "position": 6,
+      "position": 7,
       "scrapeTime": "2022-02-12T07:02:03.959Z",
       "isPending": false
     },
@@ -1793,7 +1793,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 282,
+  "awardCount": 283,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -2161,7 +2161,8 @@
         "2022-01-18",
         "2022-01-20",
         "2022-01-24",
-        "2022-02-08"
+        "2022-02-08",
+        "2022-02-12"
       ]
     },
     {
