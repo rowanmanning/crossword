@@ -20,6 +20,16 @@
 		"seconds": 151
 	},
 	{
+		"name": "Lily2point0",
+		"scrapeTime": "2022-02-12T08:34:08.314Z",
+		"seconds": 245
+	},
+	{
+		"name": "Otherowan",
+		"scrapeTime": "2022-02-12T08:34:08.314Z",
+		"seconds": 263
+	},
+	{
 		"name": "Alice Bartlett",
 		"scrapeTime": null,
 		"seconds": null
@@ -70,17 +80,7 @@
 		"seconds": null
 	},
 	{
-		"name": "Lily2point0",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
 		"name": "Oliver Turner",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
-		"name": "Otherowan",
 		"scrapeTime": null,
 		"seconds": null
 	},
