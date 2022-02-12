@@ -5,12 +5,12 @@
     {
       "person": "apaleslimghost",
       "leaderboard": "2022-02-12",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 42,
+      "totalSeconds": 42,
+      "position": 1,
+      "scrapeTime": "2022-02-12T07:31:49.127Z",
+      "isPending": false
     },
     {
       "person": "apaleslimghost",
@@ -2377,13 +2377,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 5,
-    "totalSeconds": 65,
+    "seconds": 4,
+    "totalSeconds": 64,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 435,
+  "awardCount": 438,
   "awards": [
     {
       "title": "Gold",
@@ -2792,7 +2792,8 @@
         "2022-02-01",
         "2022-02-02",
         "2022-02-03",
-        "2022-02-08"
+        "2022-02-08",
+        "2022-02-12"
       ]
     },
     {
@@ -2842,7 +2843,8 @@
       "dates": [
         "2021-12-25",
         "2022-01-15",
-        "2022-02-05"
+        "2022-02-05",
+        "2022-02-12"
       ]
     },
     {
@@ -3022,6 +3024,14 @@
         "2021-08-19",
         "2021-08-24",
         "2021-09-18"
+      ]
+    },
+    {
+      "title": "Don't Panic",
+      "type": "dont-panic",
+      "text": "A towel is about the most massively useful thing an interstellar hitchhiker can have",
+      "dates": [
+        "2022-02-12"
       ]
     },
     {
