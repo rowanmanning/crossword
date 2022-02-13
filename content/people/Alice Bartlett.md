@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Alice Bartlett",
+      "leaderboard": "2022-02-14",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Alice Bartlett",
       "leaderboard": "2022-02-13",
       "minutes": 1,
       "seconds": 39,
@@ -1003,7 +1013,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 162,
+  "awardCount": 164,
   "awards": [
     {
       "title": "Gold",
@@ -1255,6 +1265,14 @@
       ]
     },
     {
+      "title": "I Choo Choo Choose You",
+      "type": "valentines",
+      "text": "Play the crossword on Valentines day",
+      "dates": [
+        "2022-02-14"
+      ]
+    },
+    {
       "title": "Chain 3",
       "type": "chain-3",
       "text": "Participate in a chain of three sequential times",
@@ -1360,7 +1378,8 @@
       "type": "unlucky",
       "text": "Come 13th three times",
       "dates": [
-        "2021-12-03"
+        "2021-12-03",
+        "2022-02-13"
       ]
     },
     {

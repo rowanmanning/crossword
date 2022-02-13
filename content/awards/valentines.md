@@ -3,6 +3,140 @@
   "id": "valentines",
   "text": "Play the crossword on Valentines day",
   "order": "321",
-  "unlocks": [],
-  "totalUnlocks": 0
+  "unlocks": [
+    {
+      "person": "Alice Bartlett",
+      "count": 1,
+      "dates": [
+        "2022-02-14"
+      ]
+    },
+    {
+      "person": "Ania",
+      "count": 1,
+      "dates": [
+        "2022-02-14"
+      ]
+    },
+    {
+      "person": "apaleslimghost",
+      "count": 1,
+      "dates": [
+        "2022-02-14"
+      ]
+    },
+    {
+      "person": "arjun137",
+      "count": 1,
+      "dates": [
+        "2022-02-14"
+      ]
+    },
+    {
+      "person": "binaryberry",
+      "count": 1,
+      "dates": [
+        "2022-02-14"
+      ]
+    },
+    {
+      "person": "cb",
+      "count": 1,
+      "dates": [
+        "2022-02-14"
+      ]
+    },
+    {
+      "person": "Emma L",
+      "count": 1,
+      "dates": [
+        "2022-02-14"
+      ]
+    },
+    {
+      "person": "itsalex",
+      "count": 1,
+      "dates": [
+        "2022-02-14"
+      ]
+    },
+    {
+      "person": "ivo",
+      "count": 1,
+      "dates": [
+        "2022-02-14"
+      ]
+    },
+    {
+      "person": "j-sheps",
+      "count": 1,
+      "dates": [
+        "2022-02-14"
+      ]
+    },
+    {
+      "person": "joelcarr",
+      "count": 1,
+      "dates": [
+        "2022-02-14"
+      ]
+    },
+    {
+      "person": "JRedondo",
+      "count": 1,
+      "dates": [
+        "2022-02-14"
+      ]
+    },
+    {
+      "person": "leaf",
+      "count": 1,
+      "dates": [
+        "2022-02-14"
+      ]
+    },
+    {
+      "person": "Lily2point0",
+      "count": 1,
+      "dates": [
+        "2022-02-14"
+      ]
+    },
+    {
+      "person": "Nick Ramsbottom",
+      "count": 1,
+      "dates": [
+        "2022-02-14"
+      ]
+    },
+    {
+      "person": "Oliver Turner",
+      "count": 1,
+      "dates": [
+        "2022-02-14"
+      ]
+    },
+    {
+      "person": "Otherowan",
+      "count": 1,
+      "dates": [
+        "2022-02-14"
+      ]
+    },
+    {
+      "person": "Rowan M",
+      "count": 1,
+      "dates": [
+        "2022-02-14"
+      ]
+    },
+    {
+      "person": "varjmes",
+      "count": 1,
+      "dates": [
+        "2022-02-14"
+      ]
+    }
+  ],
+  "totalUnlocks": 19
 }

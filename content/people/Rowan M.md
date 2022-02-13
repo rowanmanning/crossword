@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Rowan M",
+      "leaderboard": "2022-02-14",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Rowan M",
       "leaderboard": "2022-02-13",
       "minutes": 0,
       "seconds": 34,
@@ -2403,7 +2413,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 603,
+  "awardCount": 604,
   "awards": [
     {
       "title": "Gold",
@@ -3061,6 +3071,14 @@
       "text": "Play the crossword on Christmas day",
       "dates": [
         "2021-12-25"
+      ]
+    },
+    {
+      "title": "I Choo Choo Choose You",
+      "type": "valentines",
+      "text": "Play the crossword on Valentines day",
+      "dates": [
+        "2022-02-14"
       ]
     },
     {

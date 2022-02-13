@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "JRedondo",
+      "leaderboard": "2022-02-14",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "JRedondo",
       "leaderboard": "2022-02-13",
       "minutes": null,
       "seconds": null,
@@ -63,7 +73,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 2,
+  "awardCount": 3,
   "awards": [
     {
       "title": "Double Time",
@@ -79,6 +89,14 @@
       "text": "Complete a puzzle in more than 5 minutes",
       "dates": [
         "2022-02-11"
+      ]
+    },
+    {
+      "title": "I Choo Choo Choose You",
+      "type": "valentines",
+      "text": "Play the crossword on Valentines day",
+      "dates": [
+        "2022-02-14"
       ]
     }
   ]

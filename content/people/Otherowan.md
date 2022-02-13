@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Otherowan",
+      "leaderboard": "2022-02-14",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Otherowan",
       "leaderboard": "2022-02-13",
       "minutes": 1,
       "seconds": 3,
@@ -193,7 +203,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 26,
+  "awardCount": 27,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -270,6 +280,14 @@
       "text": "Complete a puzzle in more than 5 minutes",
       "dates": [
         "2022-01-30"
+      ]
+    },
+    {
+      "title": "I Choo Choo Choose You",
+      "type": "valentines",
+      "text": "Play the crossword on Valentines day",
+      "dates": [
+        "2022-02-14"
       ]
     },
     {

@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "ivo",
+      "leaderboard": "2022-02-14",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "ivo",
       "leaderboard": "2022-02-13",
       "minutes": 0,
       "seconds": 35,
@@ -1553,7 +1563,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 287,
+  "awardCount": 289,
   "awards": [
     {
       "title": "Gold",
@@ -1642,7 +1652,8 @@
         "2021-11-21",
         "2022-01-06",
         "2022-01-29",
-        "2022-02-02"
+        "2022-02-02",
+        "2022-02-13"
       ]
     },
     {
@@ -1923,6 +1934,14 @@
       "text": "Play the crossword on Christmas day",
       "dates": [
         "2021-12-25"
+      ]
+    },
+    {
+      "title": "I Choo Choo Choose You",
+      "type": "valentines",
+      "text": "Play the crossword on Valentines day",
+      "dates": [
+        "2022-02-14"
       ]
     },
     {

@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "j-sheps",
+      "leaderboard": "2022-02-14",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "j-sheps",
       "leaderboard": "2022-02-13",
       "minutes": 0,
       "seconds": 30,
@@ -2403,7 +2413,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 518,
+  "awardCount": 520,
   "awards": [
     {
       "title": "Gold",
@@ -2515,7 +2525,8 @@
         "2021-12-03",
         "2022-02-03",
         "2022-02-07",
-        "2022-02-08"
+        "2022-02-08",
+        "2022-02-13"
       ]
     },
     {
@@ -2955,6 +2966,14 @@
       "text": "Play the crossword on Christmas day",
       "dates": [
         "2021-12-25"
+      ]
+    },
+    {
+      "title": "I Choo Choo Choose You",
+      "type": "valentines",
+      "text": "Play the crossword on Valentines day",
+      "dates": [
+        "2022-02-14"
       ]
     },
     {

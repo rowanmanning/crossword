@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Ania",
+      "leaderboard": "2022-02-14",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Ania",
       "leaderboard": "2022-02-13",
       "minutes": 0,
       "seconds": 46,
@@ -2403,7 +2413,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 436,
+  "awardCount": 437,
   "awards": [
     {
       "title": "Gold",
@@ -2876,6 +2886,14 @@
       "text": "Play the crossword on Christmas day",
       "dates": [
         "2021-12-25"
+      ]
+    },
+    {
+      "title": "I Choo Choo Choose You",
+      "type": "valentines",
+      "text": "Play the crossword on Valentines day",
+      "dates": [
+        "2022-02-14"
       ]
     },
     {

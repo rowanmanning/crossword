@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "varjmes",
+      "leaderboard": "2022-02-14",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "varjmes",
       "leaderboard": "2022-02-13",
       "minutes": 0,
       "seconds": 43,
@@ -2403,7 +2413,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 462,
+  "awardCount": 464,
   "awards": [
     {
       "title": "Gold",
@@ -2905,6 +2915,14 @@
       ]
     },
     {
+      "title": "I Choo Choo Choose You",
+      "type": "valentines",
+      "text": "Play the crossword on Valentines day",
+      "dates": [
+        "2022-02-14"
+      ]
+    },
+    {
       "title": "Chain 3",
       "type": "chain-3",
       "text": "Participate in a chain of three sequential times",
@@ -3060,7 +3078,8 @@
         "2021-12-12",
         "2022-01-03",
         "2022-01-17",
-        "2022-02-03"
+        "2022-02-03",
+        "2022-02-13"
       ]
     },
     {
