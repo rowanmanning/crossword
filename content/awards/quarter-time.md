@@ -244,19 +244,20 @@
       ]
     },
     {
+      "person": "Otherowan",
+      "count": 2,
+      "dates": [
+        "2022-01-31",
+        "2022-02-13"
+      ]
+    },
+    {
       "person": "arjun137",
       "count": 1,
       "dates": [
         "2021-07-13"
       ]
-    },
-    {
-      "person": "Otherowan",
-      "count": 1,
-      "dates": [
-        "2022-01-31"
-      ]
     }
   ],
-  "totalUnlocks": 151
+  "totalUnlocks": 152
 }

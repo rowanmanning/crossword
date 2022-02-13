@@ -5,12 +5,12 @@
     {
       "person": "Otherowan",
       "leaderboard": "2022-02-13",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 3,
+      "totalSeconds": 63,
+      "position": 5,
+      "scrapeTime": "2022-02-13T08:34:13.047Z",
+      "isPending": false
     },
     {
       "person": "Otherowan",
@@ -187,13 +187,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 6,
-    "totalSeconds": 126,
+    "seconds": 2,
+    "totalSeconds": 122,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 24,
+  "awardCount": 26,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -217,7 +217,8 @@
       "type": "quarter-time",
       "text": "Quarter your completion time from one day to the next",
       "dates": [
-        "2022-01-31"
+        "2022-01-31",
+        "2022-02-13"
       ]
     },
     {
@@ -241,7 +242,8 @@
         "2022-02-05",
         "2022-02-07",
         "2022-02-10",
-        "2022-02-11"
+        "2022-02-11",
+        "2022-02-13"
       ]
     },
     {
