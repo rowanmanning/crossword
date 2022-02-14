@@ -1,5 +1,10 @@
 [
 	{
+		"name": "Nick Ramsbottom",
+		"scrapeTime": "2022-02-14T08:02:43.422Z",
+		"seconds": 56
+	},
+	{
 		"name": "varjmes",
 		"scrapeTime": "2022-02-14T00:04:47.933Z",
 		"seconds": 93
@@ -71,11 +76,6 @@
 	},
 	{
 		"name": "leaf",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
-		"name": "Nick Ramsbottom",
 		"scrapeTime": null,
 		"seconds": null
 	},
