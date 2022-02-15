@@ -26,13 +26,6 @@
       ]
     },
     {
-      "person": "arjun137",
-      "count": 1,
-      "dates": [
-        "2022-02-14"
-      ]
-    },
-    {
       "person": "binaryberry",
       "count": 1,
       "dates": [
@@ -48,13 +41,6 @@
     },
     {
       "person": "Emma L",
-      "count": 1,
-      "dates": [
-        "2022-02-14"
-      ]
-    },
-    {
-      "person": "itsalex",
       "count": 1,
       "dates": [
         "2022-02-14"
@@ -82,20 +68,6 @@
       ]
     },
     {
-      "person": "JRedondo",
-      "count": 1,
-      "dates": [
-        "2022-02-14"
-      ]
-    },
-    {
-      "person": "leaf",
-      "count": 1,
-      "dates": [
-        "2022-02-14"
-      ]
-    },
-    {
       "person": "Lily2point0",
       "count": 1,
       "dates": [
@@ -104,13 +76,6 @@
     },
     {
       "person": "Nick Ramsbottom",
-      "count": 1,
-      "dates": [
-        "2022-02-14"
-      ]
-    },
-    {
-      "person": "Oliver Turner",
       "count": 1,
       "dates": [
         "2022-02-14"
@@ -138,5 +103,5 @@
       ]
     }
   ],
-  "totalUnlocks": 19
+  "totalUnlocks": 14
 }

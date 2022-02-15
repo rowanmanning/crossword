@@ -26,13 +26,6 @@
       ]
     },
     {
-      "person": "arjun137",
-      "count": 1,
-      "dates": [
-        "2021-12-25"
-      ]
-    },
-    {
       "person": "binaryberry",
       "count": 1,
       "dates": [
@@ -54,13 +47,6 @@
       ]
     },
     {
-      "person": "itsalex",
-      "count": 1,
-      "dates": [
-        "2021-12-25"
-      ]
-    },
-    {
       "person": "ivo",
       "count": 1,
       "dates": [
@@ -69,20 +55,6 @@
     },
     {
       "person": "j-sheps",
-      "count": 1,
-      "dates": [
-        "2021-12-25"
-      ]
-    },
-    {
-      "person": "joelcarr",
-      "count": 1,
-      "dates": [
-        "2021-12-25"
-      ]
-    },
-    {
-      "person": "leaf",
       "count": 1,
       "dates": [
         "2021-12-25"
@@ -103,13 +75,6 @@
       ]
     },
     {
-      "person": "Oliver Turner",
-      "count": 1,
-      "dates": [
-        "2021-12-25"
-      ]
-    },
-    {
       "person": "Rowan M",
       "count": 1,
       "dates": [
@@ -124,5 +89,5 @@
       ]
     }
   ],
-  "totalUnlocks": 17
+  "totalUnlocks": 12
 }

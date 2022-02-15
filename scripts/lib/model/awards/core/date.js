@@ -27,7 +27,12 @@ module.exports = class DateAward extends BaseAward {
 	}
 
 	calculateDates() {
-		const instances = this.person.times.filter(({leaderboard}) => this.isValidDate(leaderboard));
+		const instances = this.person.times.filter(({isPending, leaderboard}) => {
+			return (
+				!isPending &&
+				this.isValidDate(leaderboard)
+			);
+		});
 		if (instances.length) {
 			return instances.map(({leaderboard}) => leaderboard.date);
 		}

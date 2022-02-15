@@ -83,7 +83,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 3,
+  "awardCount": 2,
   "awards": [
     {
       "title": "Double Time",
@@ -99,14 +99,6 @@
       "text": "Complete a puzzle in more than 5 minutes",
       "dates": [
         "2022-02-11"
-      ]
-    },
-    {
-      "title": "I Choo Choo Choose You",
-      "type": "valentines",
-      "text": "Play the crossword on Valentines day",
-      "dates": [
-        "2022-02-14"
       ]
     }
   ]

@@ -2393,7 +2393,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 118,
+  "awardCount": 116,
   "awards": [
     {
       "title": "Gold",
@@ -2571,22 +2571,6 @@
         "2021-08-20",
         "2021-11-03",
         "2021-12-31"
-      ]
-    },
-    {
-      "title": "Ho Ho Ho",
-      "type": "christmas",
-      "text": "Play the crossword on Christmas day",
-      "dates": [
-        "2021-12-25"
-      ]
-    },
-    {
-      "title": "I Choo Choo Choose You",
-      "type": "valentines",
-      "text": "Play the crossword on Valentines day",
-      "dates": [
-        "2022-02-14"
       ]
     },
     {

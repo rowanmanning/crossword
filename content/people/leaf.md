@@ -2423,7 +2423,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 307,
+  "awardCount": 305,
   "awards": [
     {
       "title": "Gold",
@@ -2789,22 +2789,6 @@
       "text": "Complete a puzzle in less than a minute on a Saturday",
       "dates": [
         "2021-10-02"
-      ]
-    },
-    {
-      "title": "Ho Ho Ho",
-      "type": "christmas",
-      "text": "Play the crossword on Christmas day",
-      "dates": [
-        "2021-12-25"
-      ]
-    },
-    {
-      "title": "I Choo Choo Choose You",
-      "type": "valentines",
-      "text": "Play the crossword on Valentines day",
-      "dates": [
-        "2022-02-14"
       ]
     },
     {

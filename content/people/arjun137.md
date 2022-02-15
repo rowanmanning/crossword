@@ -2403,7 +2403,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 15,
+  "awardCount": 13,
   "awards": [
     {
       "title": "Half Time",
@@ -2455,22 +2455,6 @@
       "dates": [
         "2021-06-23",
         "2021-07-13"
-      ]
-    },
-    {
-      "title": "Ho Ho Ho",
-      "type": "christmas",
-      "text": "Play the crossword on Christmas day",
-      "dates": [
-        "2021-12-25"
-      ]
-    },
-    {
-      "title": "I Choo Choo Choose You",
-      "type": "valentines",
-      "text": "Play the crossword on Valentines day",
-      "dates": [
-        "2022-02-14"
       ]
     },
     {
