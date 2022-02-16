@@ -93,6 +93,14 @@
       ]
     },
     {
+      "person": "JRedondo",
+      "count": 2,
+      "dates": [
+        "2022-02-11",
+        "2022-02-16"
+      ]
+    },
+    {
       "person": "apaleslimghost",
       "count": 1,
       "dates": [
@@ -126,14 +134,7 @@
       "dates": [
         "2022-01-30"
       ]
-    },
-    {
-      "person": "JRedondo",
-      "count": 1,
-      "dates": [
-        "2022-02-11"
-      ]
     }
   ],
-  "totalUnlocks": 46
+  "totalUnlocks": 47
 }
