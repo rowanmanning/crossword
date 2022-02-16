@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "apaleslimghost",
+      "leaderboard": "2022-02-16",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "apaleslimghost",
       "leaderboard": "2022-02-15",
       "minutes": 0,
       "seconds": 33,
@@ -2413,7 +2423,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 447,
+  "awardCount": 449,
   "awards": [
     {
       "title": "Gold",
@@ -2529,7 +2539,8 @@
         "2022-01-10",
         "2022-01-15",
         "2022-02-01",
-        "2022-02-06"
+        "2022-02-06",
+        "2022-02-15"
       ]
     },
     {
@@ -2562,7 +2573,8 @@
       "type": "podium",
       "text": "Unlock third, second, and first place awards",
       "dates": [
-        "2022-01-02"
+        "2022-01-02",
+        "2022-02-15"
       ]
     },
     {

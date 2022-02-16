@@ -63,6 +63,14 @@
       ]
     },
     {
+      "person": "apaleslimghost",
+      "count": 2,
+      "dates": [
+        "2022-01-02",
+        "2022-02-15"
+      ]
+    },
+    {
       "person": "Oliver Turner",
       "count": 1,
       "dates": [
@@ -82,14 +90,7 @@
       "dates": [
         "2021-11-04"
       ]
-    },
-    {
-      "person": "apaleslimghost",
-      "count": 1,
-      "dates": [
-        "2022-01-02"
-      ]
     }
   ],
-  "totalUnlocks": 32
+  "totalUnlocks": 33
 }
