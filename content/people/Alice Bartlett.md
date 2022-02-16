@@ -5,12 +5,12 @@
     {
       "person": "Alice Bartlett",
       "leaderboard": "2022-02-16",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 3,
+      "totalSeconds": 63,
+      "position": 3,
+      "scrapeTime": "2022-02-16T09:32:19.682Z",
+      "isPending": false
     },
     {
       "person": "Alice Bartlett",
@@ -1033,7 +1033,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 168,
+  "awardCount": 170,
   "awards": [
     {
       "title": "Gold",
@@ -1202,7 +1202,8 @@
         "2022-02-04",
         "2022-02-07",
         "2022-02-13",
-        "2022-02-15"
+        "2022-02-15",
+        "2022-02-16"
       ]
     },
     {
@@ -1300,6 +1301,7 @@
       "type": "chain-3",
       "text": "Participate in a chain of three sequential times",
       "dates": [
+        "2022-02-16",
         "2021-12-15"
       ]
     },
