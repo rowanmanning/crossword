@@ -60,17 +60,17 @@
 		"seconds": 81
 	},
 	{
+		"name": "j-sheps",
+		"scrapeTime": "2022-02-17T18:35:27.596Z",
+		"seconds": 82
+	},
+	{
 		"name": "itsalex",
 		"scrapeTime": "2022-02-17T11:02:07.867Z",
 		"seconds": 88
 	},
 	{
 		"name": "arjun137",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
-		"name": "j-sheps",
 		"scrapeTime": null,
 		"seconds": null
 	},
