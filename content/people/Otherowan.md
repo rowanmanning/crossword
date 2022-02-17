@@ -5,12 +5,12 @@
     {
       "person": "Otherowan",
       "leaderboard": "2022-02-17",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 21,
+      "totalSeconds": 81,
+      "position": 7,
+      "scrapeTime": "2022-02-17T09:02:19.297Z",
+      "isPending": false
     },
     {
       "person": "Otherowan",
@@ -227,13 +227,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 56,
-    "totalSeconds": 116,
+    "seconds": 55,
+    "totalSeconds": 115,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 30,
+  "awardCount": 32,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -286,7 +286,8 @@
         "2022-02-13",
         "2022-02-14",
         "2022-02-15",
-        "2022-02-16"
+        "2022-02-16",
+        "2022-02-17"
       ]
     },
     {
@@ -345,7 +346,8 @@
       "text": "Get the same time as another person",
       "dates": [
         "2022-02-02",
-        "2022-02-08"
+        "2022-02-08",
+        "2022-02-17"
       ]
     },
     {
