@@ -5,12 +5,12 @@
     {
       "person": "Rowan M",
       "leaderboard": "2022-02-17",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 30,
+      "totalSeconds": 30,
+      "position": 1,
+      "scrapeTime": "2022-02-17T06:03:12.985Z",
+      "isPending": false
     },
     {
       "person": "Rowan M",
@@ -2443,7 +2443,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 609,
+  "awardCount": 611,
   "awards": [
     {
       "title": "Gold",
@@ -3034,7 +3034,8 @@
         "2022-02-07",
         "2022-02-08",
         "2022-02-11",
-        "2022-02-13"
+        "2022-02-13",
+        "2022-02-17"
       ]
     },
     {
@@ -3329,7 +3330,8 @@
       "text": "Complete a puzzle before anyone else (or within 30 minutes of the first person)",
       "dates": [
         "2021-12-10",
-        "2022-02-07"
+        "2022-02-07",
+        "2022-02-17"
       ]
     },
     {
