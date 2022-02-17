@@ -109,6 +109,16 @@
       ]
     },
     {
+      "person": "apaleslimghost",
+      "count": 4,
+      "dates": [
+        "2021-10-16",
+        "2021-11-05",
+        "2021-12-24",
+        "2022-02-16"
+      ]
+    },
+    {
       "person": "Alice Bartlett",
       "count": 4,
       "dates": [
@@ -128,15 +138,6 @@
       ]
     },
     {
-      "person": "apaleslimghost",
-      "count": 3,
-      "dates": [
-        "2021-10-16",
-        "2021-11-05",
-        "2021-12-24"
-      ]
-    },
-    {
       "person": "Rowan M",
       "count": 1,
       "dates": [
@@ -151,5 +152,5 @@
       ]
     }
   ],
-  "totalUnlocks": 68
+  "totalUnlocks": 69
 }
