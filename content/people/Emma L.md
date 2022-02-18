@@ -8,7 +8,7 @@
       "minutes": 1,
       "seconds": 14,
       "totalSeconds": 74,
-      "position": 4,
+      "position": 6,
       "scrapeTime": "2022-02-18T08:02:15.445Z",
       "isPending": false
     },
@@ -2103,7 +2103,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 462,
+  "awardCount": 463,
   "awards": [
     {
       "title": "Gold",
@@ -2628,6 +2628,7 @@
       "type": "chain-3",
       "text": "Participate in a chain of three sequential times",
       "dates": [
+        "2022-02-18",
         "2021-12-06",
         "2021-11-29",
         "2021-11-10",

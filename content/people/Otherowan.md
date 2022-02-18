@@ -5,12 +5,12 @@
     {
       "person": "Otherowan",
       "leaderboard": "2022-02-18",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 13,
+      "totalSeconds": 73,
+      "position": 5,
+      "scrapeTime": "2022-02-18T09:32:25.511Z",
+      "isPending": false
     },
     {
       "person": "Otherowan",
@@ -237,13 +237,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 55,
-    "totalSeconds": 115,
+    "seconds": 53,
+    "totalSeconds": 113,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 33,
+  "awardCount": 35,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -297,7 +297,8 @@
         "2022-02-14",
         "2022-02-15",
         "2022-02-16",
-        "2022-02-17"
+        "2022-02-17",
+        "2022-02-18"
       ]
     },
     {
@@ -332,6 +333,14 @@
       "text": "Play the crossword on Valentines day",
       "dates": [
         "2022-02-14"
+      ]
+    },
+    {
+      "title": "Chain 3",
+      "type": "chain-3",
+      "text": "Participate in a chain of three sequential times",
+      "dates": [
+        "2022-02-18"
       ]
     },
     {
