@@ -150,7 +150,14 @@
       "dates": [
         "2021-09-21"
       ]
+    },
+    {
+      "person": "Otherowan",
+      "count": 1,
+      "dates": [
+        "2022-02-17"
+      ]
     }
   ],
-  "totalUnlocks": 69
+  "totalUnlocks": 70
 }
