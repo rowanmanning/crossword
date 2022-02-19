@@ -5,12 +5,12 @@
     {
       "person": "Rowan M",
       "leaderboard": "2022-02-19",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 14,
+      "totalSeconds": 134,
+      "position": 3,
+      "scrapeTime": "2022-02-19T08:34:10.484Z",
+      "isPending": false
     },
     {
       "person": "Rowan M",
@@ -2463,7 +2463,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 613,
+  "awardCount": 615,
   "awards": [
     {
       "title": "Gold",
@@ -2841,7 +2841,8 @@
         "2022-02-04",
         "2022-02-09",
         "2022-02-12",
-        "2022-02-14"
+        "2022-02-14",
+        "2022-02-19"
       ]
     },
     {
@@ -3177,7 +3178,8 @@
       "text": "Play for three days in a row",
       "dates": [
         "2021-06-23",
-        "2022-01-04"
+        "2022-01-04",
+        "2022-02-19"
       ]
     },
     {
