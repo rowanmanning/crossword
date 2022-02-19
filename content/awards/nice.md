@@ -38,6 +38,14 @@
       ]
     },
     {
+      "person": "Rowan M",
+      "count": 2,
+      "dates": [
+        "2022-02-04",
+        "2022-02-20"
+      ]
+    },
+    {
       "person": "binaryberry",
       "count": 1,
       "dates": [
@@ -78,14 +86,7 @@
       "dates": [
         "2022-01-28"
       ]
-    },
-    {
-      "person": "Rowan M",
-      "count": 1,
-      "dates": [
-        "2022-02-04"
-      ]
     }
   ],
-  "totalUnlocks": 16
+  "totalUnlocks": 17
 }
