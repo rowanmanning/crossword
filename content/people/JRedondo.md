@@ -5,12 +5,12 @@
     {
       "person": "JRedondo",
       "leaderboard": "2022-02-21",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 5,
+      "seconds": 41,
+      "totalSeconds": 341,
+      "position": 13,
+      "scrapeTime": "2022-02-21T09:33:09.938Z",
+      "isPending": false
     },
     {
       "person": "JRedondo",
@@ -137,13 +137,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 4,
-    "seconds": 41,
-    "totalSeconds": 281,
+    "seconds": 56,
+    "totalSeconds": 296,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 3,
+  "awardCount": 4,
   "awards": [
     {
       "title": "Double Time",
@@ -159,7 +159,8 @@
       "text": "Complete a puzzle in more than 5 minutes",
       "dates": [
         "2022-02-11",
-        "2022-02-16"
+        "2022-02-16",
+        "2022-02-21"
       ]
     }
   ]
