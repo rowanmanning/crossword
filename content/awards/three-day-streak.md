@@ -197,6 +197,14 @@
       ]
     },
     {
+      "person": "Otherowan",
+      "count": 2,
+      "dates": [
+        "2022-01-30",
+        "2022-02-22"
+      ]
+    },
+    {
       "person": "Lily2point0",
       "count": 1,
       "dates": [
@@ -216,14 +224,7 @@
       "dates": [
         "2021-06-25"
       ]
-    },
-    {
-      "person": "Otherowan",
-      "count": 1,
-      "dates": [
-        "2022-01-30"
-      ]
     }
   ],
-  "totalUnlocks": 112
+  "totalUnlocks": 113
 }

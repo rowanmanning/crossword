@@ -5,12 +5,12 @@
     {
       "person": "Otherowan",
       "leaderboard": "2022-02-22",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 44,
+      "totalSeconds": 104,
+      "position": 5,
+      "scrapeTime": "2022-02-22T09:02:26.903Z",
+      "isPending": false
     },
     {
       "person": "Otherowan",
@@ -283,7 +283,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 38,
+  "awardCount": 40,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -341,7 +341,8 @@
         "2022-02-16",
         "2022-02-17",
         "2022-02-18",
-        "2022-02-21"
+        "2022-02-21",
+        "2022-02-22"
       ]
     },
     {
@@ -391,7 +392,8 @@
       "type": "three-day-streak",
       "text": "Play for three days in a row",
       "dates": [
-        "2022-01-30"
+        "2022-01-30",
+        "2022-02-22"
       ]
     },
     {
