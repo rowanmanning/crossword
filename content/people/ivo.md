@@ -5,12 +5,12 @@
     {
       "person": "ivo",
       "leaderboard": "2022-02-22",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 0,
+      "totalSeconds": 120,
+      "position": 6,
+      "scrapeTime": "2022-02-22T09:32:46.616Z",
+      "isPending": false
     },
     {
       "person": "ivo",
@@ -1637,13 +1637,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 42,
-    "totalSeconds": 102,
+    "seconds": 43,
+    "totalSeconds": 103,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 304,
+  "awardCount": 305,
   "awards": [
     {
       "title": "Gold",
@@ -2145,6 +2145,14 @@
       "text": "A towel is about the most massively useful thing an interstellar hitchhiker can have",
       "dates": [
         "2021-10-28"
+      ]
+    },
+    {
+      "title": "Two for Tuesday",
+      "type": "two-for-tuesday",
+      "text": "Get a time of exactly 2:00 on a Tuesday",
+      "dates": [
+        "2022-02-22"
       ]
     },
     {
