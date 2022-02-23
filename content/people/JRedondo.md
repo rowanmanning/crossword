@@ -5,12 +5,12 @@
     {
       "person": "JRedondo",
       "leaderboard": "2022-02-23",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 5,
+      "seconds": 11,
+      "totalSeconds": 311,
+      "position": 10,
+      "scrapeTime": "2022-02-23T10:02:15.258Z",
+      "isPending": false
     },
     {
       "person": "JRedondo",
@@ -157,13 +157,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 4,
-    "seconds": 53,
-    "totalSeconds": 293,
+    "seconds": 56,
+    "totalSeconds": 296,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 4,
+  "awardCount": 6,
   "awards": [
     {
       "title": "Double Time",
@@ -180,7 +180,16 @@
       "dates": [
         "2022-02-11",
         "2022-02-16",
-        "2022-02-21"
+        "2022-02-21",
+        "2022-02-23"
+      ]
+    },
+    {
+      "title": "Three Day Streak",
+      "type": "three-day-streak",
+      "text": "Play for three days in a row",
+      "dates": [
+        "2022-02-23"
       ]
     }
   ]

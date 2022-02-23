@@ -225,7 +225,14 @@
       "dates": [
         "2021-06-25"
       ]
+    },
+    {
+      "person": "JRedondo",
+      "count": 1,
+      "dates": [
+        "2022-02-23"
+      ]
     }
   ],
-  "totalUnlocks": 114
+  "totalUnlocks": 115
 }
