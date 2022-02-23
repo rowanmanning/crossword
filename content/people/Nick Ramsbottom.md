@@ -8,7 +8,7 @@
       "minutes": 0,
       "seconds": 53,
       "totalSeconds": 53,
-      "position": 2,
+      "position": 3,
       "scrapeTime": "2022-02-23T06:36:13.742Z",
       "isPending": false
     },
@@ -1903,7 +1903,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 300,
+  "awardCount": 301,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -2311,6 +2311,7 @@
       "type": "yin-and-yang",
       "text": "Get the same time as another person but with flipped seconds",
       "dates": [
+        "2022-02-23",
         "2022-02-20",
         "2022-02-18",
         "2022-02-04",
