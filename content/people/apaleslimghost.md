@@ -5,12 +5,12 @@
     {
       "person": "apaleslimghost",
       "leaderboard": "2022-02-24",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 19,
+      "totalSeconds": 19,
+      "position": 1,
+      "scrapeTime": "2022-02-24T14:02:19.723Z",
+      "isPending": false
     },
     {
       "person": "apaleslimghost",
@@ -2497,13 +2497,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 4,
-    "totalSeconds": 64,
+    "seconds": 3,
+    "totalSeconds": 63,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 470,
+  "awardCount": 471,
   "awards": [
     {
       "title": "Gold",
@@ -2972,7 +2972,8 @@
       "text": "Complete a puzzle in less than 20 seconds",
       "dates": [
         "2022-01-06",
-        "2022-01-16"
+        "2022-01-16",
+        "2022-02-24"
       ]
     },
     {

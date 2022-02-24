@@ -43,19 +43,20 @@
       ]
     },
     {
+      "person": "apaleslimghost",
+      "count": 3,
+      "dates": [
+        "2022-01-06",
+        "2022-01-16",
+        "2022-02-24"
+      ]
+    },
+    {
       "person": "Ania",
       "count": 2,
       "dates": [
         "2021-08-02",
         "2021-09-26"
-      ]
-    },
-    {
-      "person": "apaleslimghost",
-      "count": 2,
-      "dates": [
-        "2022-01-06",
-        "2022-01-16"
       ]
     },
     {
@@ -87,5 +88,5 @@
       ]
     }
   ],
-  "totalUnlocks": 22
+  "totalUnlocks": 23
 }
