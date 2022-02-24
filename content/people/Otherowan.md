@@ -5,12 +5,12 @@
     {
       "person": "Otherowan",
       "leaderboard": "2022-02-24",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 51,
+      "totalSeconds": 51,
+      "position": 4,
+      "scrapeTime": "2022-02-24T09:32:50.617Z",
+      "isPending": false
     },
     {
       "person": "Otherowan",
@@ -297,13 +297,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 54,
-    "totalSeconds": 114,
+    "seconds": 51,
+    "totalSeconds": 111,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 41,
+  "awardCount": 43,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -320,7 +320,8 @@
       "dates": [
         "2022-02-06",
         "2022-02-10",
-        "2022-02-21"
+        "2022-02-21",
+        "2022-02-24"
       ]
     },
     {
@@ -372,7 +373,8 @@
       "text": "Complete a puzzle in less than a minute",
       "dates": [
         "2022-02-01",
-        "2022-02-03"
+        "2022-02-03",
+        "2022-02-24"
       ]
     },
     {
