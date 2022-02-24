@@ -1,7 +1,22 @@
 [
 	{
+		"name": "Nick Ramsbottom",
+		"scrapeTime": "2022-02-24T08:02:22.329Z",
+		"seconds": 53
+	},
+	{
+		"name": "Emma L",
+		"scrapeTime": "2022-02-24T08:02:22.329Z",
+		"seconds": 56
+	},
+	{
 		"name": "binaryberry",
 		"scrapeTime": "2022-02-24T06:36:11.832Z",
+		"seconds": 73
+	},
+	{
+		"name": "Lily2point0",
+		"scrapeTime": "2022-02-24T08:02:22.329Z",
 		"seconds": 73
 	},
 	{
@@ -26,11 +41,6 @@
 	},
 	{
 		"name": "cb",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
-		"name": "Emma L",
 		"scrapeTime": null,
 		"seconds": null
 	},
@@ -61,16 +71,6 @@
 	},
 	{
 		"name": "leaf",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
-		"name": "Lily2point0",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
-		"name": "Nick Ramsbottom",
 		"scrapeTime": null,
 		"seconds": null
 	},
