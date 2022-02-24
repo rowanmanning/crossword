@@ -38,17 +38,18 @@
       ]
     },
     {
+      "person": "ivo",
+      "count": 2,
+      "dates": [
+        "2021-12-07",
+        "2022-02-23"
+      ]
+    },
+    {
       "person": "Ania",
       "count": 1,
       "dates": [
         "2021-11-09"
-      ]
-    },
-    {
-      "person": "ivo",
-      "count": 1,
-      "dates": [
-        "2021-12-07"
       ]
     },
     {
@@ -66,5 +67,5 @@
       ]
     }
   ],
-  "totalUnlocks": 19
+  "totalUnlocks": 20
 }

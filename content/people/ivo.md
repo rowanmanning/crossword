@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "ivo",
+      "leaderboard": "2022-02-24",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "ivo",
       "leaderboard": "2022-02-23",
       "minutes": 1,
       "seconds": 58,
@@ -1653,7 +1663,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 306,
+  "awardCount": 307,
   "awards": [
     {
       "title": "Gold",
@@ -2196,7 +2206,8 @@
       "type": "unlucky",
       "text": "Come 13th three times",
       "dates": [
-        "2021-12-07"
+        "2021-12-07",
+        "2022-02-23"
       ]
     }
   ]
