@@ -5,12 +5,12 @@
     {
       "person": "varjmes",
       "leaderboard": "2022-02-24",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 42,
+      "totalSeconds": 42,
+      "position": 3,
+      "scrapeTime": "2022-02-24T11:02:12.993Z",
+      "isPending": false
     },
     {
       "person": "varjmes",
@@ -2513,7 +2513,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 478,
+  "awardCount": 482,
   "awards": [
     {
       "title": "Gold",
@@ -2979,7 +2979,8 @@
         "2022-02-06",
         "2022-02-07",
         "2022-02-13",
-        "2022-02-18"
+        "2022-02-18",
+        "2022-02-24"
       ]
     },
     {
@@ -3113,7 +3114,8 @@
         "2022-01-27",
         "2022-01-31",
         "2022-02-07",
-        "2022-02-17"
+        "2022-02-17",
+        "2022-02-24"
       ]
     },
     {
@@ -3133,6 +3135,7 @@
       "type": "yin-and-yang",
       "text": "Get the same time as another person but with flipped seconds",
       "dates": [
+        "2022-02-24",
         "2022-02-13",
         "2022-02-12",
         "2022-02-05",
@@ -3166,7 +3169,8 @@
       "text": "A towel is about the most massively useful thing an interstellar hitchhiker can have",
       "dates": [
         "2021-11-03",
-        "2021-11-29"
+        "2021-11-29",
+        "2022-02-24"
       ]
     },
     {
