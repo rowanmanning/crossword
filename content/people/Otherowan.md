@@ -5,12 +5,12 @@
     {
       "person": "Otherowan",
       "leaderboard": "2022-02-25",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 53,
+      "totalSeconds": 53,
+      "position": 7,
+      "scrapeTime": "2022-02-25T15:34:27.124Z",
+      "isPending": false
     },
     {
       "person": "Otherowan",
@@ -307,13 +307,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 51,
-    "totalSeconds": 111,
+    "seconds": 49,
+    "totalSeconds": 109,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 43,
+  "awardCount": 45,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -384,7 +384,8 @@
       "dates": [
         "2022-02-01",
         "2022-02-03",
-        "2022-02-24"
+        "2022-02-24",
+        "2022-02-25"
       ]
     },
     {
@@ -417,6 +418,7 @@
       "type": "chain-3",
       "text": "Participate in a chain of three sequential times",
       "dates": [
+        "2022-02-25",
         "2022-02-18"
       ]
     },

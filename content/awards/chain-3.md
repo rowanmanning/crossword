@@ -72,8 +72,9 @@
     },
     {
       "person": "Emma L",
-      "count": 8,
+      "count": 9,
       "dates": [
+        "2022-02-25",
         "2022-02-18",
         "2021-12-06",
         "2021-11-29",
@@ -141,6 +142,15 @@
       ]
     },
     {
+      "person": "Alice Bartlett",
+      "count": 3,
+      "dates": [
+        "2022-02-25",
+        "2022-02-16",
+        "2021-12-15"
+      ]
+    },
+    {
       "person": "Nick Ramsbottom",
       "count": 2,
       "dates": [
@@ -157,19 +167,19 @@
       ]
     },
     {
-      "person": "Alice Bartlett",
-      "count": 2,
-      "dates": [
-        "2022-02-16",
-        "2021-12-15"
-      ]
-    },
-    {
       "person": "ivo",
       "count": 2,
       "dates": [
         "2022-02-16",
         "2021-12-14"
+      ]
+    },
+    {
+      "person": "Otherowan",
+      "count": 2,
+      "dates": [
+        "2022-02-25",
+        "2022-02-18"
       ]
     },
     {
@@ -185,14 +195,7 @@
       "dates": [
         "2021-12-15"
       ]
-    },
-    {
-      "person": "Otherowan",
-      "count": 1,
-      "dates": [
-        "2022-02-18"
-      ]
     }
   ],
-  "totalUnlocks": 87
+  "totalUnlocks": 90
 }
