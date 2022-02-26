@@ -5,12 +5,12 @@
     {
       "person": "Otherowan",
       "leaderboard": "2022-02-26",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 3,
+      "totalSeconds": 123,
+      "position": 7,
+      "scrapeTime": "2022-02-26T14:31:56.866Z",
+      "isPending": false
     },
     {
       "person": "Otherowan",
@@ -317,13 +317,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 49,
-    "totalSeconds": 109,
+    "seconds": 50,
+    "totalSeconds": 110,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 46,
+  "awardCount": 48,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -363,7 +363,8 @@
         "2022-02-04",
         "2022-02-07",
         "2022-02-12",
-        "2022-02-20"
+        "2022-02-20",
+        "2022-02-26"
       ]
     },
     {
@@ -447,7 +448,8 @@
       "type": "week-streak",
       "text": "Play for a full week without breaks",
       "dates": [
-        "2022-02-03"
+        "2022-02-03",
+        "2022-02-26"
       ]
     },
     {
