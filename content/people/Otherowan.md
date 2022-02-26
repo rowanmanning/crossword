@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Otherowan",
+      "leaderboard": "2022-02-26",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Otherowan",
       "leaderboard": "2022-02-25",
       "minutes": 0,
       "seconds": 53,
@@ -313,14 +323,15 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 45,
+  "awardCount": 46,
   "awards": [
     {
       "title": "Consistent Position ×2",
       "type": "consistent-2",
       "text": "Get the same position two days in a row",
       "dates": [
-        "2022-02-08"
+        "2022-02-08",
+        "2022-02-25"
       ]
     },
     {

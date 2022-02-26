@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "itsalex",
+      "leaderboard": "2022-02-26",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "itsalex",
       "leaderboard": "2022-02-25",
       "minutes": 0,
       "seconds": 18,
@@ -2493,7 +2503,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 305,
+  "awardCount": 307,
   "awards": [
     {
       "title": "Gold",
@@ -2530,7 +2540,8 @@
         "2021-12-24",
         "2022-02-09",
         "2022-02-10",
-        "2022-02-19"
+        "2022-02-19",
+        "2022-02-25"
       ]
     },
     {
@@ -3035,7 +3046,8 @@
       "type": "slow-and-steady",
       "text": "Complete a puzzle after everyone else but with the fastest time",
       "dates": [
-        "2021-11-14"
+        "2021-11-14",
+        "2022-02-25"
       ]
     }
   ]
