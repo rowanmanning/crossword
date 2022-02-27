@@ -11,7 +11,14 @@
         "2021-09-16",
         "2021-12-27"
       ]
+    },
+    {
+      "person": "cb",
+      "count": 1,
+      "dates": [
+        "2022-02-27"
+      ]
     }
   ],
-  "totalUnlocks": 2
+  "totalUnlocks": 3
 }
