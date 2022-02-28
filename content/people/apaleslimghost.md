@@ -5,12 +5,12 @@
     {
       "person": "apaleslimghost",
       "leaderboard": "2022-02-28",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 42,
+      "totalSeconds": 42,
+      "position": 1,
+      "scrapeTime": "2022-02-28T07:32:04.455Z",
+      "isPending": false
     },
     {
       "person": "apaleslimghost",
@@ -2543,7 +2543,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 477,
+  "awardCount": 479,
   "awards": [
     {
       "title": "Gold",
@@ -2984,7 +2984,8 @@
         "2022-02-17",
         "2022-02-20",
         "2022-02-23",
-        "2022-02-25"
+        "2022-02-25",
+        "2022-02-28"
       ]
     },
     {
@@ -3235,7 +3236,8 @@
       "text": "A towel is about the most massively useful thing an interstellar hitchhiker can have",
       "dates": [
         "2022-02-12",
-        "2022-02-14"
+        "2022-02-14",
+        "2022-02-28"
       ]
     },
     {
