@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Lily2point0",
+      "leaderboard": "2022-03-01",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Lily2point0",
       "leaderboard": "2022-02-28",
       "minutes": 1,
       "seconds": 50,
@@ -2553,7 +2563,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 431,
+  "awardCount": 432,
   "awards": [
     {
       "title": "Gold",
@@ -3184,6 +3194,14 @@
         "2021-12-03",
         "2021-12-27",
         "2022-02-06"
+      ]
+    },
+    {
+      "title": "Unlucky for Some",
+      "type": "unlucky",
+      "text": "Come 13th three times",
+      "dates": [
+        "2022-02-28"
       ]
     },
     {

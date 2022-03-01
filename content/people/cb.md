@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "cb",
+      "leaderboard": "2022-03-01",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "cb",
       "leaderboard": "2022-02-28",
       "minutes": 0,
       "seconds": 25,
@@ -2473,7 +2483,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 644,
+  "awardCount": 646,
   "awards": [
     {
       "title": "Gold",
@@ -2649,7 +2659,8 @@
         "2022-02-22",
         "2022-02-25",
         "2022-02-26",
-        "2022-02-27"
+        "2022-02-27",
+        "2022-02-28"
       ]
     },
     {
@@ -2672,6 +2683,14 @@
       "text": "Get the second fastest time three days in a row",
       "dates": [
         "2022-02-27"
+      ]
+    },
+    {
+      "title": "Quadruple Silver",
+      "type": "quadruple-silver",
+      "text": "Get the second fastest time four days in a row",
+      "dates": [
+        "2022-02-28"
       ]
     },
     {
