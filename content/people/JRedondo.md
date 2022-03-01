@@ -5,12 +5,12 @@
     {
       "person": "JRedondo",
       "leaderboard": "2022-03-01",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 7,
+      "seconds": 9,
+      "totalSeconds": 429,
+      "position": 12,
+      "scrapeTime": "2022-03-01T11:02:21.917Z",
+      "isPending": false
     },
     {
       "person": "JRedondo",
@@ -216,14 +216,14 @@
   "mean": {
     "person": null,
     "leaderboard": null,
-    "minutes": 4,
-    "seconds": 52,
-    "totalSeconds": 292,
+    "minutes": 5,
+    "seconds": 6,
+    "totalSeconds": 306,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 7,
+  "awardCount": 8,
   "awards": [
     {
       "title": "Double Time",
@@ -242,7 +242,8 @@
         "2022-02-16",
         "2022-02-21",
         "2022-02-23",
-        "2022-02-28"
+        "2022-02-28",
+        "2022-03-01"
       ]
     },
     {
