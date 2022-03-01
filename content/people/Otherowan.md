@@ -5,12 +5,12 @@
     {
       "person": "Otherowan",
       "leaderboard": "2022-03-01",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 58,
+      "totalSeconds": 118,
+      "position": 11,
+      "scrapeTime": "2022-03-01T11:31:47.649Z",
+      "isPending": false
     },
     {
       "person": "Otherowan",
@@ -353,7 +353,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 51,
+  "awardCount": 52,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -418,7 +418,8 @@
         "2022-02-21",
         "2022-02-22",
         "2022-02-23",
-        "2022-02-28"
+        "2022-02-28",
+        "2022-03-01"
       ]
     },
     {
