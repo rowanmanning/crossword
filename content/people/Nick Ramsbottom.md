@@ -5,12 +5,12 @@
     {
       "person": "Nick Ramsbottom",
       "leaderboard": "2022-03-01",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 42,
+      "totalSeconds": 42,
+      "position": 1,
+      "scrapeTime": "2022-03-01T06:02:37.399Z",
+      "isPending": false
     },
     {
       "person": "Nick Ramsbottom",
@@ -1963,7 +1963,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 307,
+  "awardCount": 310,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -2242,7 +2242,8 @@
       "dates": [
         "2021-11-26",
         "2021-12-19",
-        "2022-01-18"
+        "2022-01-18",
+        "2022-03-01"
       ]
     },
     {
@@ -2407,6 +2408,14 @@
       ]
     },
     {
+      "title": "Don't Panic",
+      "type": "dont-panic",
+      "text": "A towel is about the most massively useful thing an interstellar hitchhiker can have",
+      "dates": [
+        "2022-03-01"
+      ]
+    },
+    {
       "title": "The Number of The Beast",
       "type": "beast",
       "text": "His number is six hundred and sixty-six",
@@ -2465,7 +2474,8 @@
         "2022-02-02",
         "2022-02-03",
         "2022-02-04",
-        "2022-02-23"
+        "2022-02-23",
+        "2022-03-01"
       ]
     }
   ]
