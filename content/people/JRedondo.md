@@ -5,12 +5,12 @@
     {
       "person": "JRedondo",
       "leaderboard": "2022-03-02",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 48,
+      "totalSeconds": 168,
+      "position": 4,
+      "scrapeTime": "2022-03-02T08:02:48.791Z",
+      "isPending": false
     },
     {
       "person": "JRedondo",
@@ -226,14 +226,14 @@
   "mean": {
     "person": null,
     "leaderboard": null,
-    "minutes": 5,
-    "seconds": 6,
-    "totalSeconds": 306,
+    "minutes": 4,
+    "seconds": 53,
+    "totalSeconds": 293,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 9,
+  "awardCount": 11,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -241,6 +241,14 @@
       "text": "Get the same position two days in a row",
       "dates": [
         "2022-03-01"
+      ]
+    },
+    {
+      "title": "Half Time",
+      "type": "half-time",
+      "text": "Half your completion time from one day to the next",
+      "dates": [
+        "2022-03-02"
       ]
     },
     {
@@ -269,7 +277,8 @@
       "type": "three-day-streak",
       "text": "Play for three days in a row",
       "dates": [
-        "2022-02-23"
+        "2022-02-23",
+        "2022-03-02"
       ]
     }
   ]

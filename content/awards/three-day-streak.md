@@ -207,6 +207,14 @@
       ]
     },
     {
+      "person": "JRedondo",
+      "count": 2,
+      "dates": [
+        "2022-02-23",
+        "2022-03-02"
+      ]
+    },
+    {
       "person": "Lily2point0",
       "count": 1,
       "dates": [
@@ -226,14 +234,7 @@
       "dates": [
         "2021-06-25"
       ]
-    },
-    {
-      "person": "JRedondo",
-      "count": 1,
-      "dates": [
-        "2022-02-23"
-      ]
     }
   ],
-  "totalUnlocks": 116
+  "totalUnlocks": 117
 }
