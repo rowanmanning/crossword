@@ -5,12 +5,12 @@
     {
       "person": "Otherowan",
       "leaderboard": "2022-03-02",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 38,
+      "totalSeconds": 38,
+      "position": 2,
+      "scrapeTime": "2022-03-02T12:40:56.679Z",
+      "isPending": false
     },
     {
       "person": "Otherowan",
@@ -345,25 +345,25 @@
   ],
   "best": {
     "person": "Otherowan",
-    "leaderboard": "2022-02-06",
+    "leaderboard": "2022-03-02",
     "minutes": 0,
-    "seconds": 39,
-    "totalSeconds": 39,
-    "position": 8,
-    "scrapeTime": "2022-02-06T08:33:52.870Z",
+    "seconds": 38,
+    "totalSeconds": 38,
+    "position": 2,
+    "scrapeTime": "2022-03-02T12:40:56.679Z",
     "isPending": false
   },
   "mean": {
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 47,
-    "totalSeconds": 107,
+    "seconds": 45,
+    "totalSeconds": 105,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 52,
+  "awardCount": 54,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -383,7 +383,8 @@
         "2022-02-10",
         "2022-02-21",
         "2022-02-24",
-        "2022-02-27"
+        "2022-02-27",
+        "2022-03-02"
       ]
     },
     {
@@ -450,7 +451,8 @@
       "text": "Complete a puzzle in less than 45 seconds",
       "dates": [
         "2022-01-28",
-        "2022-02-06"
+        "2022-02-06",
+        "2022-03-02"
       ]
     },
     {
