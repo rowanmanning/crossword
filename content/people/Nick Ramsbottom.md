@@ -8,7 +8,7 @@
       "minutes": 1,
       "seconds": 15,
       "totalSeconds": 75,
-      "position": 5,
+      "position": 6,
       "scrapeTime": "2022-03-02T06:02:49.406Z",
       "isPending": false
     },
@@ -1973,7 +1973,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 311,
+  "awardCount": 312,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -2298,6 +2298,7 @@
       "type": "chain-3",
       "text": "Participate in a chain of three sequential times",
       "dates": [
+        "2022-03-02",
         "2021-11-03",
         "2021-10-02"
       ]
