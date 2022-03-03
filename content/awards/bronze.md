@@ -370,7 +370,14 @@
       "dates": [
         "2021-10-18"
       ]
+    },
+    {
+      "person": "Otherowan",
+      "count": 1,
+      "dates": [
+        "2022-03-02"
+      ]
     }
   ],
-  "totalUnlocks": 277
+  "totalUnlocks": 278
 }
