@@ -6,11 +6,12 @@
   "unlocks": [
     {
       "person": "apaleslimghost",
-      "count": 3,
+      "count": 4,
       "dates": [
         "2021-08-19",
         "2021-08-24",
-        "2021-09-18"
+        "2021-09-18",
+        "2022-03-04"
       ]
     },
     {
@@ -88,5 +89,5 @@
       ]
     }
   ],
-  "totalUnlocks": 17
+  "totalUnlocks": 18
 }
