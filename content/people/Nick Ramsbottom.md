@@ -5,12 +5,12 @@
     {
       "person": "Nick Ramsbottom",
       "leaderboard": "2022-03-04",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 37,
+      "totalSeconds": 97,
+      "position": 1,
+      "scrapeTime": "2022-03-04T06:36:22.439Z",
+      "isPending": false
     },
     {
       "person": "Nick Ramsbottom",
@@ -1993,7 +1993,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 314,
+  "awardCount": 316,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -2231,7 +2231,8 @@
         "2022-02-27",
         "2022-02-28",
         "2022-03-02",
-        "2022-03-03"
+        "2022-03-03",
+        "2022-03-04"
       ]
     },
     {
@@ -2429,7 +2430,8 @@
       "type": "arjun",
       "text": "Join us",
       "dates": [
-        "2021-10-31"
+        "2021-10-31",
+        "2022-03-04"
       ]
     },
     {
