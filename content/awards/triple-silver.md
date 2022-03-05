@@ -14,11 +14,12 @@
     },
     {
       "person": "cb",
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2022-02-27"
+        "2022-02-27",
+        "2022-03-04"
       ]
     }
   ],
-  "totalUnlocks": 3
+  "totalUnlocks": 4
 }

@@ -91,6 +91,17 @@
       ]
     },
     {
+      "person": "Alice Bartlett",
+      "count": 5,
+      "dates": [
+        "2021-11-22",
+        "2021-12-20",
+        "2022-01-19",
+        "2022-02-02",
+        "2022-03-04"
+      ]
+    },
+    {
       "person": "leaf",
       "count": 4,
       "dates": [
@@ -131,16 +142,6 @@
       ]
     },
     {
-      "person": "Alice Bartlett",
-      "count": 4,
-      "dates": [
-        "2021-11-22",
-        "2021-12-20",
-        "2022-01-19",
-        "2022-02-02"
-      ]
-    },
-    {
       "person": "Rowan M",
       "count": 1,
       "dates": [
@@ -169,5 +170,5 @@
       ]
     }
   ],
-  "totalUnlocks": 74
+  "totalUnlocks": 75
 }
