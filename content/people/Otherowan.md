@@ -5,12 +5,12 @@
     {
       "person": "Otherowan",
       "leaderboard": "2022-03-05",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 30,
+      "totalSeconds": 150,
+      "position": 7,
+      "scrapeTime": "2022-03-05T17:32:05.385Z",
+      "isPending": false
     },
     {
       "person": "Otherowan",
@@ -387,13 +387,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 46,
-    "totalSeconds": 106,
+    "seconds": 47,
+    "totalSeconds": 107,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 59,
+  "awardCount": 60,
   "awards": [
     {
       "title": "Bronze",
@@ -548,6 +548,14 @@
         "2022-02-08",
         "2022-02-17",
         "2022-03-03"
+      ]
+    },
+    {
+      "title": "Dentist",
+      "type": "dentist",
+      "text": "Now this won't hurt a bit…",
+      "dates": [
+        "2022-03-05"
       ]
     },
     {
