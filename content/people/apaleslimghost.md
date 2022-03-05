@@ -5,12 +5,12 @@
     {
       "person": "apaleslimghost",
       "leaderboard": "2022-03-05",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 17,
+      "totalSeconds": 137,
+      "position": 4,
+      "scrapeTime": "2022-03-05T08:34:40.792Z",
+      "isPending": false
     },
     {
       "person": "apaleslimghost",
@@ -2587,13 +2587,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 3,
-    "totalSeconds": 63,
+    "seconds": 4,
+    "totalSeconds": 64,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 489,
+  "awardCount": 490,
   "awards": [
     {
       "title": "Gold",
@@ -3276,7 +3276,8 @@
       "text": "Join us",
       "dates": [
         "2021-07-15",
-        "2022-01-01"
+        "2022-01-01",
+        "2022-03-05"
       ]
     },
     {
