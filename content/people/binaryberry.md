@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "binaryberry",
+      "leaderboard": "2022-03-06",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "binaryberry",
       "leaderboard": "2022-03-05",
       "minutes": 3,
       "seconds": 30,
@@ -2603,7 +2613,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 284,
+  "awardCount": 285,
   "awards": [
     {
       "title": "Bronze",
@@ -2634,7 +2644,8 @@
         "2022-02-19",
         "2022-02-21",
         "2022-02-24",
-        "2022-03-01"
+        "2022-03-01",
+        "2022-03-05"
       ]
     },
     {

@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Alice Bartlett",
+      "leaderboard": "2022-03-06",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Alice Bartlett",
       "leaderboard": "2022-03-05",
       "minutes": 2,
       "seconds": 4,
@@ -1203,7 +1213,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 194,
+  "awardCount": 195,
   "awards": [
     {
       "title": "Gold",
@@ -1578,7 +1588,8 @@
       "type": "beast",
       "text": "His number is six hundred and sixty-six",
       "dates": [
-        "2022-01-04"
+        "2022-01-04",
+        "2022-03-05"
       ]
     },
     {
