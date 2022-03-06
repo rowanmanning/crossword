@@ -5,12 +5,12 @@
     {
       "person": "Otherowan",
       "leaderboard": "2022-03-06",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 28,
+      "totalSeconds": 28,
+      "position": 3,
+      "scrapeTime": "2022-03-06T10:33:47.862Z",
+      "isPending": false
     },
     {
       "person": "Otherowan",
@@ -385,25 +385,25 @@
   ],
   "best": {
     "person": "Otherowan",
-    "leaderboard": "2022-03-02",
+    "leaderboard": "2022-03-06",
     "minutes": 0,
-    "seconds": 38,
-    "totalSeconds": 38,
+    "seconds": 28,
+    "totalSeconds": 28,
     "position": 3,
-    "scrapeTime": "2022-03-02T12:40:56.679Z",
+    "scrapeTime": "2022-03-06T10:33:47.862Z",
     "isPending": false
   },
   "mean": {
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 47,
-    "totalSeconds": 107,
+    "seconds": 45,
+    "totalSeconds": 105,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 60,
+  "awardCount": 62,
   "awards": [
     {
       "title": "Bronze",
@@ -441,7 +441,8 @@
       "text": "Quarter your completion time from one day to the next",
       "dates": [
         "2022-01-31",
-        "2022-02-13"
+        "2022-02-13",
+        "2022-03-06"
       ]
     },
     {
@@ -504,6 +505,14 @@
         "2022-01-28",
         "2022-02-06",
         "2022-03-02"
+      ]
+    },
+    {
+      "title": "Sub 30 Seconds",
+      "type": "sub-30",
+      "text": "Complete a puzzle in less than 30 seconds",
+      "dates": [
+        "2022-03-06"
       ]
     },
     {
