@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "j-sheps",
+      "leaderboard": "2022-03-08",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "j-sheps",
       "leaderboard": "2022-03-07",
       "minutes": 1,
       "seconds": 3,
@@ -2623,7 +2633,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 568,
+  "awardCount": 569,
   "awards": [
     {
       "title": "Gold",
@@ -3450,6 +3460,14 @@
         "2021-10-15",
         "2021-12-04",
         "2022-02-23"
+      ]
+    },
+    {
+      "title": "Unlucky for Some",
+      "type": "unlucky",
+      "text": "Come 13th three times",
+      "dates": [
+        "2022-03-07"
       ]
     },
     {
