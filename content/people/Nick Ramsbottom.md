@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Nick Ramsbottom",
+      "leaderboard": "2022-03-09",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Nick Ramsbottom",
       "leaderboard": "2022-03-08",
       "minutes": 0,
       "seconds": 55,
@@ -2033,7 +2043,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 320,
+  "awardCount": 321,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -2501,7 +2511,8 @@
       "text": "His number is six hundred and sixty-six",
       "dates": [
         "2021-11-21",
-        "2021-12-27"
+        "2021-12-27",
+        "2022-03-08"
       ]
     },
     {

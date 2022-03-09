@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "binaryberry",
+      "leaderboard": "2022-03-09",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "binaryberry",
       "leaderboard": "2022-03-08",
       "minutes": 2,
       "seconds": 17,
@@ -2633,7 +2643,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 292,
+  "awardCount": 293,
   "awards": [
     {
       "title": "Bronze",
@@ -2667,6 +2677,14 @@
         "2022-03-01",
         "2022-03-05",
         "2022-03-07"
+      ]
+    },
+    {
+      "title": "Consistent Position ×3",
+      "type": "consistent-3",
+      "text": "Get the same position three days in a row",
+      "dates": [
+        "2022-03-08"
       ]
     },
     {

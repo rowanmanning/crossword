@@ -55,6 +55,15 @@
       ]
     },
     {
+      "person": "Rowan M",
+      "count": 3,
+      "dates": [
+        "2021-10-13",
+        "2021-11-04",
+        "2022-03-08"
+      ]
+    },
+    {
       "person": "leaf",
       "count": 2,
       "dates": [
@@ -68,14 +77,6 @@
       "dates": [
         "2021-07-09",
         "2021-08-11"
-      ]
-    },
-    {
-      "person": "Rowan M",
-      "count": 2,
-      "dates": [
-        "2021-10-13",
-        "2021-11-04"
       ]
     },
     {
@@ -98,7 +99,14 @@
       "dates": [
         "2022-01-12"
       ]
+    },
+    {
+      "person": "binaryberry",
+      "count": 1,
+      "dates": [
+        "2022-03-08"
+      ]
     }
   ],
-  "totalUnlocks": 29
+  "totalUnlocks": 31
 }

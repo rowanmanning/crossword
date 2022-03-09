@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Rowan M",
+      "leaderboard": "2022-03-09",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Rowan M",
       "leaderboard": "2022-03-08",
       "minutes": 1,
       "seconds": 7,
@@ -2633,7 +2643,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 653,
+  "awardCount": 654,
   "awards": [
     {
       "title": "Gold",
@@ -2903,7 +2913,8 @@
       "text": "Get the same position three days in a row",
       "dates": [
         "2021-10-13",
-        "2021-11-04"
+        "2021-11-04",
+        "2022-03-08"
       ]
     },
     {
