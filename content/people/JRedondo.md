@@ -5,12 +5,12 @@
     {
       "person": "JRedondo",
       "leaderboard": "2022-03-09",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 6,
+      "seconds": 19,
+      "totalSeconds": 379,
+      "position": 14,
+      "scrapeTime": "2022-03-09T17:35:59.335Z",
+      "isPending": false
     },
     {
       "person": "JRedondo",
@@ -297,13 +297,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 4,
-    "seconds": 50,
-    "totalSeconds": 290,
+    "seconds": 57,
+    "totalSeconds": 297,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 11,
+  "awardCount": 12,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -339,7 +339,8 @@
         "2022-02-21",
         "2022-02-23",
         "2022-02-28",
-        "2022-03-01"
+        "2022-03-01",
+        "2022-03-09"
       ]
     },
     {
