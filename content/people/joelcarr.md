@@ -5,12 +5,12 @@
     {
       "person": "joelcarr",
       "leaderboard": "2022-03-09",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 19,
+      "seconds": 37,
+      "totalSeconds": 1177,
+      "position": 7,
+      "scrapeTime": "2022-03-09T08:36:31.458Z",
+      "isPending": false
     },
     {
       "person": "joelcarr",
@@ -2636,14 +2636,14 @@
   "mean": {
     "person": null,
     "leaderboard": null,
-    "minutes": 2,
-    "seconds": 57,
-    "totalSeconds": 177,
+    "minutes": 3,
+    "seconds": 4,
+    "totalSeconds": 184,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 163,
+  "awardCount": 165,
   "awards": [
     {
       "title": "Bronze",
@@ -2756,7 +2756,8 @@
         "2022-01-27",
         "2022-02-04",
         "2022-02-09",
-        "2022-03-03"
+        "2022-03-03",
+        "2022-03-09"
       ]
     },
     {
@@ -2834,6 +2835,14 @@
         "2022-01-25",
         "2022-02-09",
         "2022-03-03"
+      ]
+    },
+    {
+      "title": "Over Ten Minutes",
+      "type": "over-600",
+      "text": "Complete a puzzle in more than 10 minutes",
+      "dates": [
+        "2022-03-09"
       ]
     },
     {

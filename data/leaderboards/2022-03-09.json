@@ -1,5 +1,10 @@
 [
 	{
+		"name": "itsalex",
+		"scrapeTime": "2022-03-09T08:36:31.458Z",
+		"seconds": 35
+	},
+	{
 		"name": "varjmes",
 		"scrapeTime": "2022-03-09T07:32:00.720Z",
 		"seconds": 56
@@ -23,6 +28,11 @@
 		"name": "binaryberry",
 		"scrapeTime": "2022-03-09T05:02:20.834Z",
 		"seconds": 146
+	},
+	{
+		"name": "joelcarr",
+		"scrapeTime": "2022-03-09T08:36:31.458Z",
+		"seconds": 1177
 	},
 	{
 		"name": "Alice Bartlett",
@@ -50,22 +60,12 @@
 		"seconds": null
 	},
 	{
-		"name": "itsalex",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
 		"name": "ivo",
 		"scrapeTime": null,
 		"seconds": null
 	},
 	{
 		"name": "j-sheps",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
-		"name": "joelcarr",
 		"scrapeTime": null,
 		"seconds": null
 	},
