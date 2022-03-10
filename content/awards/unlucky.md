@@ -80,7 +80,14 @@
       "dates": [
         "2022-03-07"
       ]
+    },
+    {
+      "person": "Otherowan",
+      "count": 1,
+      "dates": [
+        "2022-03-09"
+      ]
     }
   ],
-  "totalUnlocks": 23
+  "totalUnlocks": 24
 }

@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Rowan M",
+      "leaderboard": "2022-03-10",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Rowan M",
       "leaderboard": "2022-03-09",
       "minutes": 1,
       "seconds": 18,
@@ -2643,7 +2653,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 655,
+  "awardCount": 656,
   "awards": [
     {
       "title": "Gold",
@@ -2915,6 +2925,14 @@
         "2021-10-13",
         "2021-11-04",
         "2022-03-08"
+      ]
+    },
+    {
+      "title": "Consistent Position ×4",
+      "type": "consistent-4",
+      "text": "Get the same position four days in a row",
+      "dates": [
+        "2022-03-09"
       ]
     },
     {

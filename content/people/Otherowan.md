@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Otherowan",
+      "leaderboard": "2022-03-10",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Otherowan",
       "leaderboard": "2022-03-09",
       "minutes": 2,
       "seconds": 25,
@@ -433,7 +443,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 65,
+  "awardCount": 66,
   "awards": [
     {
       "title": "Bronze",
@@ -623,6 +633,14 @@
       "text": "What's your emergency?",
       "dates": [
         "2022-02-17"
+      ]
+    },
+    {
+      "title": "Unlucky for Some",
+      "type": "unlucky",
+      "text": "Come 13th three times",
+      "dates": [
+        "2022-03-09"
       ]
     },
     {
