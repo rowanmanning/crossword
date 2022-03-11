@@ -5,12 +5,12 @@
     {
       "person": "ivo",
       "leaderboard": "2022-03-11",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 17,
+      "totalSeconds": 77,
+      "position": 5,
+      "scrapeTime": "2022-03-11T09:02:24.663Z",
+      "isPending": false
     },
     {
       "person": "ivo",
@@ -1813,7 +1813,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 335,
+  "awardCount": 338,
   "awards": [
     {
       "title": "Gold",
@@ -1961,7 +1961,8 @@
         "2022-02-15",
         "2022-02-25",
         "2022-03-01",
-        "2022-03-06"
+        "2022-03-06",
+        "2022-03-11"
       ]
     },
     {
@@ -2100,7 +2101,8 @@
         "2022-02-28",
         "2022-03-02",
         "2022-03-03",
-        "2022-03-04"
+        "2022-03-04",
+        "2022-03-11"
       ]
     },
     {
@@ -2276,6 +2278,14 @@
       "dates": [
         "2021-10-13",
         "2022-01-10"
+      ]
+    },
+    {
+      "title": "Quarter-Long Streak",
+      "type": "quarter-streak",
+      "text": "Play for a full quarter, give that OKR a 1",
+      "dates": [
+        "2022-03-11"
       ]
     },
     {
