@@ -5,12 +5,12 @@
     {
       "person": "itsalex",
       "leaderboard": "2022-03-12",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 0,
+      "totalSeconds": 60,
+      "position": 1,
+      "scrapeTime": "2022-03-12T11:02:08.007Z",
+      "isPending": false
     },
     {
       "person": "itsalex",
@@ -2643,7 +2643,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 339,
+  "awardCount": 342,
   "awards": [
     {
       "title": "Gold",
@@ -2925,7 +2925,8 @@
         "2021-11-17",
         "2022-01-30",
         "2022-02-17",
-        "2022-02-22"
+        "2022-02-22",
+        "2022-03-12"
       ]
     },
     {
@@ -3063,7 +3064,8 @@
       "dates": [
         "2021-08-07",
         "2021-08-14",
-        "2022-02-19"
+        "2022-02-19",
+        "2022-03-12"
       ]
     },
     {
@@ -3105,7 +3107,8 @@
       "text": "Play for a full week without breaks",
       "dates": [
         "2021-07-03",
-        "2021-08-28"
+        "2021-08-28",
+        "2022-03-12"
       ]
     },
     {
