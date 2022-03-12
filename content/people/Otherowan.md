@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Otherowan",
+      "leaderboard": "2022-03-12",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Otherowan",
       "leaderboard": "2022-03-11",
       "minutes": 1,
       "seconds": 3,
@@ -453,7 +463,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 70,
+  "awardCount": 71,
   "awards": [
     {
       "title": "Bronze",
@@ -469,7 +479,8 @@
       "text": "Get the same position two days in a row",
       "dates": [
         "2022-02-08",
-        "2022-02-25"
+        "2022-02-25",
+        "2022-03-11"
       ]
     },
     {
