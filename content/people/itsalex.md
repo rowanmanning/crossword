@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "itsalex",
+      "leaderboard": "2022-03-13",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "itsalex",
       "leaderboard": "2022-03-12",
       "minutes": 1,
       "seconds": 0,
@@ -2643,7 +2653,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 342,
+  "awardCount": 344,
   "awards": [
     {
       "title": "Gold",
@@ -2689,7 +2699,8 @@
         "2022-03-07",
         "2022-03-09",
         "2022-03-10",
-        "2022-03-11"
+        "2022-03-11",
+        "2022-03-12"
       ]
     },
     {
@@ -2713,6 +2724,14 @@
       "text": "Get the fastest time three days in a row",
       "dates": [
         "2022-03-11"
+      ]
+    },
+    {
+      "title": "Quadruple Gold",
+      "type": "quadruple-gold",
+      "text": "Get the fastest time four days in a row",
+      "dates": [
+        "2022-03-12"
       ]
     },
     {
