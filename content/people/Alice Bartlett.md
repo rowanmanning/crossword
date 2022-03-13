@@ -5,12 +5,12 @@
     {
       "person": "Alice Bartlett",
       "leaderboard": "2022-03-13",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 57,
+      "totalSeconds": 57,
+      "position": 11,
+      "scrapeTime": "2022-03-13T19:31:50.203Z",
+      "isPending": false
     },
     {
       "person": "Alice Bartlett",
@@ -1283,7 +1283,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 208,
+  "awardCount": 211,
   "awards": [
     {
       "title": "Gold",
@@ -1362,7 +1362,8 @@
         "2022-01-31",
         "2022-02-06",
         "2022-02-27",
-        "2022-03-06"
+        "2022-03-06",
+        "2022-03-13"
       ]
     },
     {
@@ -1500,7 +1501,8 @@
         "2022-02-10",
         "2022-02-14",
         "2022-02-25",
-        "2022-02-27"
+        "2022-02-27",
+        "2022-03-13"
       ]
     },
     {
@@ -1610,6 +1612,14 @@
         "2022-01-15",
         "2022-02-04",
         "2022-02-18"
+      ]
+    },
+    {
+      "title": "Month-Long Streak",
+      "type": "month-streak",
+      "text": "Play for a full month (30 days) without breaks",
+      "dates": [
+        "2022-03-13"
       ]
     },
     {
