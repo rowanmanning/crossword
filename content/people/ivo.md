@@ -5,12 +5,12 @@
     {
       "person": "ivo",
       "leaderboard": "2022-03-15",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 26,
+      "totalSeconds": 26,
+      "position": 1,
+      "scrapeTime": "2022-03-15T17:04:03.975Z",
+      "isPending": false
     },
     {
       "person": "ivo",
@@ -1853,7 +1853,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 342,
+  "awardCount": 344,
   "awards": [
     {
       "title": "Gold",
@@ -2236,7 +2236,8 @@
         "2022-01-26",
         "2022-02-06",
         "2022-02-15",
-        "2022-03-01"
+        "2022-03-01",
+        "2022-03-15"
       ]
     },
     {
@@ -2302,7 +2303,8 @@
       "text": "Play for three days in a row",
       "dates": [
         "2021-09-16",
-        "2021-12-14"
+        "2021-12-14",
+        "2022-03-15"
       ]
     },
     {
