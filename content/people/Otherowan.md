@@ -5,12 +5,12 @@
     {
       "person": "Otherowan",
       "leaderboard": "2022-03-15",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 59,
+      "totalSeconds": 59,
+      "position": 8,
+      "scrapeTime": "2022-03-15T15:34:06.350Z",
+      "isPending": false
     },
     {
       "person": "Otherowan",
@@ -487,13 +487,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 45,
-    "totalSeconds": 105,
+    "seconds": 44,
+    "totalSeconds": 104,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 73,
+  "awardCount": 76,
   "awards": [
     {
       "title": "Bronze",
@@ -524,7 +524,8 @@
         "2022-02-24",
         "2022-02-27",
         "2022-03-02",
-        "2022-03-10"
+        "2022-03-10",
+        "2022-03-15"
       ]
     },
     {
@@ -592,7 +593,8 @@
         "2022-02-25",
         "2022-02-27",
         "2022-03-07",
-        "2022-03-13"
+        "2022-03-13",
+        "2022-03-15"
       ]
     },
     {
@@ -644,7 +646,8 @@
       "text": "Play for three days in a row",
       "dates": [
         "2022-01-30",
-        "2022-02-22"
+        "2022-02-22",
+        "2022-03-15"
       ]
     },
     {
