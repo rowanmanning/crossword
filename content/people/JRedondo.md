@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "JRedondo",
+      "leaderboard": "2022-03-16",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "JRedondo",
       "leaderboard": "2022-03-15",
       "minutes": 2,
       "seconds": 55,
@@ -363,7 +373,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 12,
+  "awardCount": 13,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -410,6 +420,14 @@
       "dates": [
         "2022-02-23",
         "2022-03-02"
+      ]
+    },
+    {
+      "title": "Unlucky for Some",
+      "type": "unlucky",
+      "text": "Come 13th three times",
+      "dates": [
+        "2022-03-15"
       ]
     }
   ]

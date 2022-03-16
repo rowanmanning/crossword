@@ -77,6 +77,14 @@
       ]
     },
     {
+      "person": "ivo",
+      "count": 2,
+      "dates": [
+        "2022-01-10",
+        "2022-03-15"
+      ]
+    },
+    {
       "person": "apaleslimghost",
       "count": 2,
       "dates": [
@@ -97,14 +105,7 @@
       "dates": [
         "2021-10-20"
       ]
-    },
-    {
-      "person": "ivo",
-      "count": 1,
-      "dates": [
-        "2022-01-10"
-      ]
     }
   ],
-  "totalUnlocks": 47
+  "totalUnlocks": 48
 }

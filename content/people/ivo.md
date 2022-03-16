@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "ivo",
+      "leaderboard": "2022-03-16",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "ivo",
       "leaderboard": "2022-03-15",
       "minutes": 0,
       "seconds": 26,
@@ -1853,7 +1863,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 345,
+  "awardCount": 348,
   "awards": [
     {
       "title": "Gold",
@@ -1869,7 +1879,8 @@
         "2022-02-05",
         "2022-02-15",
         "2022-03-01",
-        "2022-03-14"
+        "2022-03-14",
+        "2022-03-15"
       ]
     },
     {
@@ -1877,7 +1888,8 @@
       "type": "double-gold",
       "text": "Get the fastest time two days in a row",
       "dates": [
-        "2022-01-10"
+        "2022-01-10",
+        "2022-03-15"
       ]
     },
     {
@@ -2370,7 +2382,8 @@
       "type": "twinning-in-gold",
       "text": "Get the twinning award and the fastest time for a day",
       "dates": [
-        "2021-10-18"
+        "2021-10-18",
+        "2022-03-15"
       ]
     },
     {
