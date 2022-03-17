@@ -1,5 +1,10 @@
 [
 	{
+		"name": "itsalex",
+		"scrapeTime": "2022-03-17T08:02:19.969Z",
+		"seconds": 31
+	},
+	{
 		"name": "apaleslimghost",
 		"scrapeTime": "2022-03-17T07:31:55.165Z",
 		"seconds": 51
@@ -15,6 +20,11 @@
 		"seconds": 71
 	},
 	{
+		"name": "Ania",
+		"scrapeTime": "2022-03-17T08:02:19.969Z",
+		"seconds": 82
+	},
+	{
 		"name": "Emma L",
 		"scrapeTime": "2022-03-17T07:31:55.165Z",
 		"seconds": 88
@@ -25,14 +35,14 @@
 		"seconds": 103
 	},
 	{
+		"name": "varjmes",
+		"scrapeTime": "2022-03-17T08:02:19.969Z",
+		"seconds": 104
+	},
+	{
 		"name": "binaryberry",
 		"scrapeTime": "2022-03-17T04:02:23.744Z",
 		"seconds": 162
-	},
-	{
-		"name": "Ania",
-		"scrapeTime": null,
-		"seconds": null
 	},
 	{
 		"name": "arjun137",
@@ -41,11 +51,6 @@
 	},
 	{
 		"name": "cb",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
-		"name": "itsalex",
 		"scrapeTime": null,
 		"seconds": null
 	},
@@ -86,11 +91,6 @@
 	},
 	{
 		"name": "Rowan M",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
-		"name": "varjmes",
 		"scrapeTime": null,
 		"seconds": null
 	}
