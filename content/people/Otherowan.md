@@ -5,12 +5,12 @@
     {
       "person": "Otherowan",
       "leaderboard": "2022-03-19",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 15,
+      "totalSeconds": 75,
+      "position": 9,
+      "scrapeTime": "2022-03-19T18:37:06.910Z",
+      "isPending": false
     },
     {
       "person": "Otherowan",
@@ -527,13 +527,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 44,
-    "totalSeconds": 104,
+    "seconds": 43,
+    "totalSeconds": 103,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 80,
+  "awardCount": 83,
   "awards": [
     {
       "title": "Bronze",
@@ -566,7 +566,8 @@
         "2022-02-27",
         "2022-03-02",
         "2022-03-10",
-        "2022-03-15"
+        "2022-03-15",
+        "2022-03-19"
       ]
     },
     {
@@ -622,7 +623,8 @@
         "2022-03-04",
         "2022-03-10",
         "2022-03-11",
-        "2022-03-17"
+        "2022-03-17",
+        "2022-03-19"
       ]
     },
     {
@@ -700,7 +702,8 @@
       "text": "Play for a full week without breaks",
       "dates": [
         "2022-02-03",
-        "2022-02-26"
+        "2022-02-26",
+        "2022-03-19"
       ]
     },
     {

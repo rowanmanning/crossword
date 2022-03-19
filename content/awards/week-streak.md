@@ -112,6 +112,15 @@
       ]
     },
     {
+      "person": "Otherowan",
+      "count": 3,
+      "dates": [
+        "2022-02-03",
+        "2022-02-26",
+        "2022-03-19"
+      ]
+    },
+    {
       "person": "Oliver Turner",
       "count": 2,
       "dates": [
@@ -125,14 +134,6 @@
       "dates": [
         "2021-10-31",
         "2021-11-18"
-      ]
-    },
-    {
-      "person": "Otherowan",
-      "count": 2,
-      "dates": [
-        "2022-02-03",
-        "2022-02-26"
       ]
     },
     {
@@ -157,5 +158,5 @@
       ]
     }
   ],
-  "totalUnlocks": 56
+  "totalUnlocks": 57
 }

@@ -5,12 +5,12 @@
     {
       "person": "j-sheps",
       "leaderboard": "2022-03-19",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 52,
+      "totalSeconds": 52,
+      "position": 5,
+      "scrapeTime": "2022-03-19T18:37:06.910Z",
+      "isPending": false
     },
     {
       "person": "j-sheps",
@@ -2743,7 +2743,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 589,
+  "awardCount": 591,
   "awards": [
     {
       "title": "Gold",
@@ -3203,7 +3203,8 @@
         "2022-03-14",
         "2022-03-15",
         "2022-03-16",
-        "2022-03-18"
+        "2022-03-18",
+        "2022-03-19"
       ]
     },
     {
@@ -3332,7 +3333,8 @@
       "type": "nice-try-joel",
       "text": "Complete a puzzle in less than a minute on a Saturday",
       "dates": [
-        "2021-10-16"
+        "2021-10-16",
+        "2022-03-19"
       ]
     },
     {
