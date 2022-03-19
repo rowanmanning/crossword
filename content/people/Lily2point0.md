@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Lily2point0",
+      "leaderboard": "2022-03-20",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Lily2point0",
       "leaderboard": "2022-03-19",
       "minutes": 1,
       "seconds": 37,
@@ -2743,7 +2753,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 462,
+  "awardCount": 463,
   "awards": [
     {
       "title": "Gold",
@@ -3409,7 +3419,8 @@
       "type": "unlucky",
       "text": "Come 13th three times",
       "dates": [
-        "2022-02-28"
+        "2022-02-28",
+        "2022-03-19"
       ]
     },
     {

@@ -48,6 +48,14 @@
       ]
     },
     {
+      "person": "Lily2point0",
+      "count": 2,
+      "dates": [
+        "2022-02-28",
+        "2022-03-19"
+      ]
+    },
+    {
       "person": "Ania",
       "count": 1,
       "dates": [
@@ -66,13 +74,6 @@
       "count": 1,
       "dates": [
         "2022-02-10"
-      ]
-    },
-    {
-      "person": "Lily2point0",
-      "count": 1,
-      "dates": [
-        "2022-02-28"
       ]
     },
     {
@@ -97,5 +98,5 @@
       ]
     }
   ],
-  "totalUnlocks": 26
+  "totalUnlocks": 27
 }
