@@ -5,12 +5,12 @@
     {
       "person": "ivo",
       "leaderboard": "2022-03-19",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 4,
+      "totalSeconds": 64,
+      "position": 3,
+      "scrapeTime": "2022-03-19T10:34:19.010Z",
+      "isPending": false
     },
     {
       "person": "ivo",
@@ -1893,7 +1893,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 357,
+  "awardCount": 359,
   "awards": [
     {
       "title": "Gold",
@@ -2197,7 +2197,8 @@
         "2022-03-03",
         "2022-03-04",
         "2022-03-11",
-        "2022-03-17"
+        "2022-03-17",
+        "2022-03-19"
       ]
     },
     {
@@ -2369,7 +2370,8 @@
       "text": "Play for a full week without breaks",
       "dates": [
         "2021-09-20",
-        "2021-12-18"
+        "2021-12-18",
+        "2022-03-19"
       ]
     },
     {
