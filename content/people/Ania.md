@@ -5,12 +5,12 @@
     {
       "person": "Ania",
       "leaderboard": "2022-03-19",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 26,
+      "totalSeconds": 26,
+      "position": 1,
+      "scrapeTime": "2022-03-19T11:02:18.217Z",
+      "isPending": false
     },
     {
       "person": "Ania",
@@ -2743,7 +2743,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 495,
+  "awardCount": 497,
   "awards": [
     {
       "title": "Gold",
@@ -3238,7 +3238,8 @@
         "2022-01-23",
         "2022-01-28",
         "2022-01-31",
-        "2022-02-06"
+        "2022-02-06",
+        "2022-03-19"
       ]
     },
     {
@@ -3258,6 +3259,14 @@
         "2021-06-26",
         "2021-07-31",
         "2021-11-13"
+      ]
+    },
+    {
+      "title": "Nice Try, Joel",
+      "type": "nice-try-joel",
+      "text": "Complete a puzzle in less than a minute on a Saturday",
+      "dates": [
+        "2022-03-19"
       ]
     },
     {
