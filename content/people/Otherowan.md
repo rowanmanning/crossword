@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Otherowan",
+      "leaderboard": "2022-03-21",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Otherowan",
       "leaderboard": "2022-03-20",
       "minutes": 0,
       "seconds": 53,
@@ -543,7 +553,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 86,
+  "awardCount": 87,
   "awards": [
     {
       "title": "Bronze",
@@ -751,6 +761,14 @@
       "text": "Now this won't hurt a bit…",
       "dates": [
         "2022-03-05"
+      ]
+    },
+    {
+      "title": "The Number of The Beast",
+      "type": "beast",
+      "text": "His number is six hundred and sixty-six",
+      "dates": [
+        "2022-03-20"
       ]
     },
     {
