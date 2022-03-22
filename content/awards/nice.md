@@ -31,6 +31,14 @@
       ]
     },
     {
+      "person": "joelcarr",
+      "count": 2,
+      "dates": [
+        "2021-11-29",
+        "2022-03-22"
+      ]
+    },
+    {
       "person": "Nick Ramsbottom",
       "count": 2,
       "dates": [
@@ -61,13 +69,6 @@
       ]
     },
     {
-      "person": "joelcarr",
-      "count": 1,
-      "dates": [
-        "2021-11-29"
-      ]
-    },
-    {
       "person": "cb",
       "count": 1,
       "dates": [
@@ -89,5 +90,5 @@
       ]
     }
   ],
-  "totalUnlocks": 18
+  "totalUnlocks": 19
 }
