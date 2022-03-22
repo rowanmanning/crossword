@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "itsalex",
+      "leaderboard": "2022-03-22",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "itsalex",
       "leaderboard": "2022-03-21",
       "minutes": 0,
       "seconds": 39,
@@ -2733,7 +2743,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 359,
+  "awardCount": 360,
   "awards": [
     {
       "title": "Gold",
@@ -3332,7 +3342,8 @@
       "text": "His number is six hundred and sixty-six",
       "dates": [
         "2021-07-20",
-        "2021-08-29"
+        "2021-08-29",
+        "2022-03-21"
       ]
     },
     {

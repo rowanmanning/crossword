@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Otherowan",
+      "leaderboard": "2022-03-22",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Otherowan",
       "leaderboard": "2022-03-21",
       "minutes": 0,
       "seconds": 33,
@@ -553,14 +563,15 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 88,
+  "awardCount": 89,
   "awards": [
     {
       "title": "Bronze",
       "type": "bronze",
       "text": "Get the third fastest time for a day",
       "dates": [
-        "2022-03-02"
+        "2022-03-02",
+        "2022-03-21"
       ]
     },
     {
