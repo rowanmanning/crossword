@@ -75,8 +75,9 @@
     },
     {
       "person": "Emma L",
-      "count": 9,
+      "count": 10,
       "dates": [
+        "2022-03-23",
         "2022-02-25",
         "2022-02-18",
         "2021-12-06",
@@ -173,6 +174,15 @@
       ]
     },
     {
+      "person": "Otherowan",
+      "count": 3,
+      "dates": [
+        "2022-03-23",
+        "2022-02-25",
+        "2022-02-18"
+      ]
+    },
+    {
       "person": "binaryberry",
       "count": 2,
       "dates": [
@@ -181,17 +191,10 @@
       ]
     },
     {
-      "person": "Otherowan",
+      "person": "itsalex",
       "count": 2,
       "dates": [
-        "2022-02-25",
-        "2022-02-18"
-      ]
-    },
-    {
-      "person": "itsalex",
-      "count": 1,
-      "dates": [
+        "2022-03-23",
         "2021-08-05"
       ]
     },
@@ -203,5 +206,5 @@
       ]
     }
   ],
-  "totalUnlocks": 96
+  "totalUnlocks": 99
 }

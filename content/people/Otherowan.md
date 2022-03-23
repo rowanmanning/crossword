@@ -5,12 +5,12 @@
     {
       "person": "Otherowan",
       "leaderboard": "2022-03-23",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 34,
+      "totalSeconds": 34,
+      "position": 4,
+      "scrapeTime": "2022-03-23T12:42:06.697Z",
+      "isPending": false
     },
     {
       "person": "Otherowan",
@@ -567,13 +567,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 40,
-    "totalSeconds": 100,
+    "seconds": 39,
+    "totalSeconds": 99,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 93,
+  "awardCount": 96,
   "awards": [
     {
       "title": "Bronze",
@@ -703,7 +703,8 @@
         "2022-02-06",
         "2022-03-02",
         "2022-03-21",
-        "2022-03-22"
+        "2022-03-22",
+        "2022-03-23"
       ]
     },
     {
@@ -735,6 +736,7 @@
       "type": "chain-3",
       "text": "Participate in a chain of three sequential times",
       "dates": [
+        "2022-03-23",
         "2022-02-25",
         "2022-02-18"
       ]
@@ -777,6 +779,7 @@
       "type": "yin-and-yang",
       "text": "Get the same time as another person but with flipped seconds",
       "dates": [
+        "2022-03-23",
         "2022-03-20"
       ]
     },
