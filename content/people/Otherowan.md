@@ -573,7 +573,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 96,
+  "awardCount": 97,
   "awards": [
     {
       "title": "Bronze",
@@ -771,7 +771,8 @@
         "2022-02-17",
         "2022-03-03",
         "2022-03-10",
-        "2022-03-22"
+        "2022-03-22",
+        "2022-03-23"
       ]
     },
     {
