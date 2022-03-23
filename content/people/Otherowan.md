@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Otherowan",
+      "leaderboard": "2022-03-23",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Otherowan",
       "leaderboard": "2022-03-22",
       "minutes": 0,
       "seconds": 38,
@@ -563,7 +573,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 91,
+  "awardCount": 93,
   "awards": [
     {
       "title": "Bronze",
@@ -571,7 +581,16 @@
       "text": "Get the third fastest time for a day",
       "dates": [
         "2022-03-02",
-        "2022-03-21"
+        "2022-03-21",
+        "2022-03-22"
+      ]
+    },
+    {
+      "title": "Double Bronze",
+      "type": "double-bronze",
+      "text": "Get the third fastest time two days in a row",
+      "dates": [
+        "2022-03-22"
       ]
     },
     {
