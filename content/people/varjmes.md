@@ -5,12 +5,12 @@
     {
       "person": "varjmes",
       "leaderboard": "2022-03-24",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 34,
+      "totalSeconds": 34,
+      "position": 2,
+      "scrapeTime": "2022-03-24T07:32:03.084Z",
+      "isPending": false
     },
     {
       "person": "varjmes",
@@ -2793,7 +2793,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 531,
+  "awardCount": 533,
   "awards": [
     {
       "title": "Gold",
@@ -3297,7 +3297,8 @@
         "2022-03-08",
         "2022-03-14",
         "2022-03-16",
-        "2022-03-23"
+        "2022-03-23",
+        "2022-03-24"
       ]
     },
     {
@@ -3382,7 +3383,8 @@
       "type": "three-day-streak",
       "text": "Play for three days in a row",
       "dates": [
-        "2021-06-23"
+        "2021-06-23",
+        "2022-03-24"
       ]
     },
     {

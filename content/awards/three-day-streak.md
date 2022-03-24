@@ -209,6 +209,14 @@
       ]
     },
     {
+      "person": "varjmes",
+      "count": 2,
+      "dates": [
+        "2021-06-23",
+        "2022-03-24"
+      ]
+    },
+    {
       "person": "Emma L",
       "count": 2,
       "dates": [
@@ -232,13 +240,6 @@
       ]
     },
     {
-      "person": "varjmes",
-      "count": 1,
-      "dates": [
-        "2021-06-23"
-      ]
-    },
-    {
       "person": "arjun137",
       "count": 1,
       "dates": [
@@ -246,5 +247,5 @@
       ]
     }
   ],
-  "totalUnlocks": 127
+  "totalUnlocks": 128
 }
