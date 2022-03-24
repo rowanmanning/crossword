@@ -5,12 +5,12 @@
     {
       "person": "JRedondo",
       "leaderboard": "2022-03-24",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 37,
+      "totalSeconds": 157,
+      "position": 10,
+      "scrapeTime": "2022-03-24T12:41:50.466Z",
+      "isPending": false
     },
     {
       "person": "JRedondo",
@@ -435,25 +435,25 @@
   ],
   "best": {
     "person": "JRedondo",
-    "leaderboard": "2022-02-10",
+    "leaderboard": "2022-03-24",
     "minutes": 2,
-    "seconds": 41,
-    "totalSeconds": 161,
-    "position": 14,
-    "scrapeTime": "2022-02-10T17:07:05.343Z",
+    "seconds": 37,
+    "totalSeconds": 157,
+    "position": 10,
+    "scrapeTime": "2022-03-24T12:41:50.466Z",
     "isPending": false
   },
   "mean": {
     "person": null,
     "leaderboard": null,
     "minutes": 4,
-    "seconds": 34,
-    "totalSeconds": 274,
+    "seconds": 27,
+    "totalSeconds": 267,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 13,
+  "awardCount": 14,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -499,7 +499,8 @@
       "text": "Play for three days in a row",
       "dates": [
         "2022-02-23",
-        "2022-03-02"
+        "2022-03-02",
+        "2022-03-24"
       ]
     },
     {
