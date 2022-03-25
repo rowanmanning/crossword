@@ -227,6 +227,15 @@
       ]
     },
     {
+      "person": "Otherowan",
+      "count": 3,
+      "dates": [
+        "2022-03-25",
+        "2022-03-23",
+        "2022-03-20"
+      ]
+    },
+    {
       "person": "Alice Bartlett",
       "count": 2,
       "dates": [
@@ -235,20 +244,19 @@
       ]
     },
     {
-      "person": "Otherowan",
-      "count": 2,
-      "dates": [
-        "2022-03-23",
-        "2022-03-20"
-      ]
-    },
-    {
       "person": "joelcarr",
       "count": 1,
       "dates": [
         "2021-09-06"
       ]
+    },
+    {
+      "person": "JRedondo",
+      "count": 1,
+      "dates": [
+        "2022-03-25"
+      ]
     }
   ],
-  "totalUnlocks": 143
+  "totalUnlocks": 145
 }

@@ -8,7 +8,7 @@
       "minutes": 0,
       "seconds": 54,
       "totalSeconds": 54,
-      "position": 8,
+      "position": 9,
       "scrapeTime": "2022-03-25T07:32:20.125Z",
       "isPending": false
     },
@@ -449,7 +449,7 @@
     "minutes": 0,
     "seconds": 54,
     "totalSeconds": 54,
-    "position": 8,
+    "position": 9,
     "scrapeTime": "2022-03-25T07:32:20.125Z",
     "isPending": false
   },
@@ -463,7 +463,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 16,
+  "awardCount": 17,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -520,6 +520,14 @@
         "2022-02-23",
         "2022-03-02",
         "2022-03-24"
+      ]
+    },
+    {
+      "title": "Yin and Yang",
+      "type": "yin-and-yang",
+      "text": "Get the same time as another person but with flipped seconds",
+      "dates": [
+        "2022-03-25"
       ]
     },
     {
