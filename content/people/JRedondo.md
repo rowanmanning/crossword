@@ -5,12 +5,12 @@
     {
       "person": "JRedondo",
       "leaderboard": "2022-03-25",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 54,
+      "totalSeconds": 54,
+      "position": 5,
+      "scrapeTime": "2022-03-25T07:32:20.125Z",
+      "isPending": false
     },
     {
       "person": "JRedondo",
@@ -445,25 +445,25 @@
   ],
   "best": {
     "person": "JRedondo",
-    "leaderboard": "2022-03-24",
-    "minutes": 2,
-    "seconds": 37,
-    "totalSeconds": 157,
-    "position": 13,
-    "scrapeTime": "2022-03-24T12:41:50.466Z",
+    "leaderboard": "2022-03-25",
+    "minutes": 0,
+    "seconds": 54,
+    "totalSeconds": 54,
+    "position": 5,
+    "scrapeTime": "2022-03-25T07:32:20.125Z",
     "isPending": false
   },
   "mean": {
     "person": null,
     "leaderboard": null,
     "minutes": 4,
-    "seconds": 27,
-    "totalSeconds": 267,
+    "seconds": 16,
+    "totalSeconds": 256,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 14,
+  "awardCount": 16,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -478,7 +478,8 @@
       "type": "half-time",
       "text": "Half your completion time from one day to the next",
       "dates": [
-        "2022-03-02"
+        "2022-03-02",
+        "2022-03-25"
       ]
     },
     {
@@ -487,6 +488,14 @@
       "text": "Double your completion time from one day to the next",
       "dates": [
         "2022-02-11"
+      ]
+    },
+    {
+      "title": "Sub Minute",
+      "type": "sub-60",
+      "text": "Complete a puzzle in less than a minute",
+      "dates": [
+        "2022-03-25"
       ]
     },
     {
