@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Emma L",
+      "leaderboard": "2022-03-28",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Emma L",
       "leaderboard": "2022-03-27",
       "minutes": 1,
       "seconds": 52,
@@ -2473,7 +2483,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 537,
+  "awardCount": 538,
   "awards": [
     {
       "title": "Gold",
@@ -3251,7 +3261,8 @@
       "type": "emergency",
       "text": "What's your emergency?",
       "dates": [
-        "2022-02-25"
+        "2022-02-25",
+        "2022-03-27"
       ]
     },
     {

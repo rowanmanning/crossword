@@ -157,6 +157,14 @@
       ]
     },
     {
+      "person": "Emma L",
+      "count": 2,
+      "dates": [
+        "2022-02-25",
+        "2022-03-27"
+      ]
+    },
+    {
       "person": "Rowan M",
       "count": 1,
       "dates": [
@@ -169,14 +177,7 @@
       "dates": [
         "2021-09-21"
       ]
-    },
-    {
-      "person": "Emma L",
-      "count": 1,
-      "dates": [
-        "2022-02-25"
-      ]
     }
   ],
-  "totalUnlocks": 83
+  "totalUnlocks": 84
 }
