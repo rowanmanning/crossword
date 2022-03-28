@@ -15,6 +15,16 @@
 		"seconds": 32
 	},
 	{
+		"name": "apaleslimghost",
+		"scrapeTime": "2022-03-28T06:37:11.285Z",
+		"seconds": 64
+	},
+	{
+		"name": "binaryberry",
+		"scrapeTime": "2022-03-28T06:37:11.285Z",
+		"seconds": 72
+	},
+	{
 		"name": "Lily2point0",
 		"scrapeTime": "2022-03-27T22:33:40.158Z",
 		"seconds": 84
@@ -30,17 +40,7 @@
 		"seconds": null
 	},
 	{
-		"name": "apaleslimghost",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
 		"name": "arjun137",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
-		"name": "binaryberry",
 		"scrapeTime": null,
 		"seconds": null
 	},
