@@ -5,12 +5,12 @@
     {
       "person": "Otherowan",
       "leaderboard": "2022-03-28",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 28,
+      "totalSeconds": 28,
+      "position": 3,
+      "scrapeTime": "2022-03-28T08:37:27.868Z",
+      "isPending": false
     },
     {
       "person": "Otherowan",
@@ -605,25 +605,25 @@
   ],
   "best": {
     "person": "Otherowan",
-    "leaderboard": "2022-03-06",
+    "leaderboard": "2022-03-28",
     "minutes": 0,
     "seconds": 28,
     "totalSeconds": 28,
-    "position": 4,
-    "scrapeTime": "2022-03-06T10:33:47.862Z",
+    "position": 3,
+    "scrapeTime": "2022-03-28T08:37:27.868Z",
     "isPending": false
   },
   "mean": {
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 36,
-    "totalSeconds": 96,
+    "seconds": 35,
+    "totalSeconds": 95,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 103,
+  "awardCount": 105,
   "awards": [
     {
       "title": "Bronze",
@@ -668,7 +668,8 @@
         "2022-03-02",
         "2022-03-10",
         "2022-03-15",
-        "2022-03-19"
+        "2022-03-19",
+        "2022-03-28"
       ]
     },
     {
@@ -766,7 +767,8 @@
       "type": "sub-30",
       "text": "Complete a puzzle in less than 30 seconds",
       "dates": [
-        "2022-03-06"
+        "2022-03-06",
+        "2022-03-28"
       ]
     },
     {
