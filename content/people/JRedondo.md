@@ -5,12 +5,12 @@
     {
       "person": "JRedondo",
       "leaderboard": "2022-03-28",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 30,
+      "totalSeconds": 90,
+      "position": 12,
+      "scrapeTime": "2022-03-28T16:40:15.305Z",
+      "isPending": false
     },
     {
       "person": "JRedondo",
@@ -487,13 +487,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 4,
-    "seconds": 16,
-    "totalSeconds": 256,
+    "seconds": 8,
+    "totalSeconds": 248,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 17,
+  "awardCount": 18,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -518,6 +518,14 @@
       "text": "Double your completion time from one day to the next",
       "dates": [
         "2022-02-11"
+      ]
+    },
+    {
+      "title": "Sub Two Minutes",
+      "type": "sub-120",
+      "text": "Complete a puzzle in less than two minutes",
+      "dates": [
+        "2022-03-28"
       ]
     },
     {
