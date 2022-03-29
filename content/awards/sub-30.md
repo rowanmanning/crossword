@@ -324,7 +324,14 @@
       "dates": [
         "2022-01-31"
       ]
+    },
+    {
+      "person": "binaryberry",
+      "count": 1,
+      "dates": [
+        "2022-03-29"
+      ]
     }
   ],
-  "totalUnlocks": 231
+  "totalUnlocks": 232
 }

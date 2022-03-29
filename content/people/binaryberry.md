@@ -5,12 +5,12 @@
     {
       "person": "binaryberry",
       "leaderboard": "2022-03-29",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 23,
+      "totalSeconds": 23,
+      "position": 1,
+      "scrapeTime": "2022-03-29T06:03:02.102Z",
+      "isPending": false
     },
     {
       "person": "binaryberry",
@@ -2825,12 +2825,12 @@
   ],
   "best": {
     "person": "binaryberry",
-    "leaderboard": "2021-11-14",
+    "leaderboard": "2022-03-29",
     "minutes": 0,
-    "seconds": 34,
-    "totalSeconds": 34,
-    "position": 6,
-    "scrapeTime": "2021-11-14T02:13:26.001Z",
+    "seconds": 23,
+    "totalSeconds": 23,
+    "position": 1,
+    "scrapeTime": "2022-03-29T06:03:02.102Z",
     "isPending": false
   },
   "mean": {
@@ -2843,7 +2843,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 329,
+  "awardCount": 331,
   "awards": [
     {
       "title": "Bronze",
@@ -2923,7 +2923,8 @@
         "2022-03-10",
         "2022-03-15",
         "2022-03-20",
-        "2022-03-28"
+        "2022-03-28",
+        "2022-03-29"
       ]
     },
     {
@@ -3117,6 +3118,14 @@
         "2021-11-29",
         "2022-01-05",
         "2022-02-10"
+      ]
+    },
+    {
+      "title": "Sub 30 Seconds",
+      "type": "sub-30",
+      "text": "Complete a puzzle in less than 30 seconds",
+      "dates": [
+        "2022-03-29"
       ]
     },
     {
