@@ -5,12 +5,12 @@
     {
       "person": "Nick Ramsbottom",
       "leaderboard": "2022-03-31",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 36,
+      "totalSeconds": 36,
+      "position": 6,
+      "scrapeTime": "2022-03-31T09:33:47.194Z",
+      "isPending": false
     },
     {
       "person": "Nick Ramsbottom",
@@ -2257,13 +2257,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 48,
-    "totalSeconds": 108,
+    "seconds": 47,
+    "totalSeconds": 107,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 357,
+  "awardCount": 359,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -2577,7 +2577,8 @@
         "2022-03-01",
         "2022-03-15",
         "2022-03-22",
-        "2022-03-29"
+        "2022-03-29",
+        "2022-03-31"
       ]
     },
     {
@@ -2621,6 +2622,7 @@
       "type": "chain-3",
       "text": "Participate in a chain of three sequential times",
       "dates": [
+        "2022-03-31",
         "2022-03-02",
         "2021-11-03",
         "2021-10-02"
