@@ -5,12 +5,12 @@
     {
       "person": "JRedondo",
       "leaderboard": "2022-03-31",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 58,
+      "totalSeconds": 178,
+      "position": 12,
+      "scrapeTime": "2022-03-31T10:35:37.891Z",
+      "isPending": false
     },
     {
       "person": "JRedondo",
@@ -517,8 +517,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 4,
-    "seconds": 8,
-    "totalSeconds": 248,
+    "seconds": 4,
+    "totalSeconds": 244,
     "position": null,
     "scrapeTime": null,
     "isPending": false
