@@ -30,6 +30,11 @@
 		"seconds": 35
 	},
 	{
+		"name": "itsalex",
+		"scrapeTime": "2022-03-31T10:02:45.126Z",
+		"seconds": 35
+	},
+	{
 		"name": "Nick Ramsbottom",
 		"scrapeTime": "2022-03-31T09:33:47.194Z",
 		"seconds": 36
@@ -61,11 +66,6 @@
 	},
 	{
 		"name": "cb",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
-		"name": "itsalex",
 		"scrapeTime": null,
 		"seconds": null
 	},
