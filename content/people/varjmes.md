@@ -5,12 +5,12 @@
     {
       "person": "varjmes",
       "leaderboard": "2022-03-31",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 31,
+      "totalSeconds": 31,
+      "position": 2,
+      "scrapeTime": "2022-03-31T06:36:56.331Z",
+      "isPending": false
     },
     {
       "person": "varjmes",
@@ -2857,13 +2857,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 19,
-    "totalSeconds": 79,
+    "seconds": 18,
+    "totalSeconds": 78,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 542,
+  "awardCount": 545,
   "awards": [
     {
       "title": "Gold",
@@ -3048,7 +3048,8 @@
         "2022-03-06",
         "2022-03-13",
         "2022-03-18",
-        "2022-03-22"
+        "2022-03-22",
+        "2022-03-31"
       ]
     },
     {
@@ -3375,7 +3376,8 @@
         "2022-03-16",
         "2022-03-23",
         "2022-03-24",
-        "2022-03-25"
+        "2022-03-25",
+        "2022-03-31"
       ]
     },
     {
@@ -3461,7 +3463,8 @@
       "text": "Play for three days in a row",
       "dates": [
         "2021-06-23",
-        "2022-03-24"
+        "2022-03-24",
+        "2022-03-31"
       ]
     },
     {
