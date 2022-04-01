@@ -150,6 +150,14 @@
       ]
     },
     {
+      "person": "Rowan M",
+      "count": 2,
+      "dates": [
+        "2021-08-21",
+        "2022-03-31"
+      ]
+    },
+    {
       "person": "Otherowan",
       "count": 2,
       "dates": [
@@ -166,13 +174,6 @@
       ]
     },
     {
-      "person": "Rowan M",
-      "count": 1,
-      "dates": [
-        "2021-08-21"
-      ]
-    },
-    {
       "person": "cb",
       "count": 1,
       "dates": [
@@ -180,5 +181,5 @@
       ]
     }
   ],
-  "totalUnlocks": 85
+  "totalUnlocks": 86
 }
