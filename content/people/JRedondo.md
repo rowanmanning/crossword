@@ -5,12 +5,12 @@
     {
       "person": "JRedondo",
       "leaderboard": "2022-04-01",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 34,
+      "totalSeconds": 154,
+      "position": 1,
+      "scrapeTime": "2022-04-01T03:24:08.402Z",
+      "isPending": false
     },
     {
       "person": "JRedondo",
@@ -527,13 +527,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 4,
-    "seconds": 4,
-    "totalSeconds": 244,
+    "seconds": 0,
+    "totalSeconds": 240,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 18,
+  "awardCount": 19,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -614,6 +614,14 @@
       "text": "Come 13th three times",
       "dates": [
         "2022-03-15"
+      ]
+    },
+    {
+      "title": "Quick Draw",
+      "type": "quick-draw",
+      "text": "Complete a puzzle before anyone else (or within 30 minutes of the first person)",
+      "dates": [
+        "2022-04-01"
       ]
     }
   ]
