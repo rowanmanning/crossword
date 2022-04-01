@@ -8,7 +8,7 @@
       "minutes": 0,
       "seconds": 45,
       "totalSeconds": 45,
-      "position": 5,
+      "position": 6,
       "scrapeTime": "2022-04-01T07:32:43.737Z",
       "isPending": false
     },
@@ -2273,7 +2273,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 360,
+  "awardCount": 361,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -2644,6 +2644,7 @@
       "type": "chain-5",
       "text": "Participate in a chain of five sequential times",
       "dates": [
+        "2022-04-01",
         "2022-01-31"
       ]
     },

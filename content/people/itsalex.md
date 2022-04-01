@@ -5,12 +5,12 @@
     {
       "person": "itsalex",
       "leaderboard": "2022-04-01",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 44,
+      "totalSeconds": 44,
+      "position": 5,
+      "scrapeTime": "2022-04-01T09:33:10.963Z",
+      "isPending": false
     },
     {
       "person": "itsalex",
@@ -2843,7 +2843,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 386,
+  "awardCount": 389,
   "awards": [
     {
       "title": "Gold",
@@ -3236,7 +3236,8 @@
         "2022-03-23",
         "2022-03-27",
         "2022-03-28",
-        "2022-03-31"
+        "2022-03-31",
+        "2022-04-01"
       ]
     },
     {
@@ -3325,6 +3326,14 @@
       ]
     },
     {
+      "title": "Chain 5",
+      "type": "chain-5",
+      "text": "Participate in a chain of five sequential times",
+      "dates": [
+        "2022-04-01"
+      ]
+    },
+    {
       "title": "Three Day Streak",
       "type": "three-day-streak",
       "text": "Play for three days in a row",
@@ -3341,7 +3350,8 @@
         "2022-03-08",
         "2022-03-18",
         "2022-03-23",
-        "2022-03-27"
+        "2022-03-27",
+        "2022-04-01"
       ]
     },
     {

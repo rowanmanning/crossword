@@ -3449,7 +3449,6 @@
       "type": "chain-3",
       "text": "Participate in a chain of three sequential times",
       "dates": [
-        "2022-04-01",
         "2022-03-31",
         "2022-03-23",
         "2021-12-15",
@@ -3469,6 +3468,14 @@
         "2022-02-07",
         "2021-11-16",
         "2021-08-25"
+      ]
+    },
+    {
+      "title": "Chain 5",
+      "type": "chain-5",
+      "text": "Participate in a chain of five sequential times",
+      "dates": [
+        "2022-04-01"
       ]
     },
     {
