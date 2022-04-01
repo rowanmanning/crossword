@@ -2273,7 +2273,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 361,
+  "awardCount": 362,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -2712,7 +2712,8 @@
         "2022-03-03",
         "2022-03-10",
         "2022-03-21",
-        "2022-03-29"
+        "2022-03-29",
+        "2022-04-01"
       ]
     },
     {

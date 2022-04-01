@@ -13,6 +13,14 @@
       ]
     },
     {
+      "person": "j-sheps",
+      "count": 2,
+      "dates": [
+        "2022-04-01",
+        "2022-01-31"
+      ]
+    },
+    {
       "person": "Nick Ramsbottom",
       "count": 2,
       "dates": [
@@ -42,13 +50,6 @@
       ]
     },
     {
-      "person": "j-sheps",
-      "count": 1,
-      "dates": [
-        "2022-01-31"
-      ]
-    },
-    {
       "person": "itsalex",
       "count": 1,
       "dates": [
@@ -70,5 +71,5 @@
       ]
     }
   ],
-  "totalUnlocks": 11
+  "totalUnlocks": 12
 }
