@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "varjmes",
+      "leaderboard": "2022-04-03",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "varjmes",
       "leaderboard": "2022-04-02",
       "minutes": 2,
       "seconds": 4,
@@ -2883,7 +2893,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 552,
+  "awardCount": 553,
   "awards": [
     {
       "title": "Gold",
@@ -3652,6 +3662,14 @@
         "2022-01-05",
         "2022-01-21",
         "2022-03-22"
+      ]
+    },
+    {
+      "title": "Unlucky for Some",
+      "type": "unlucky",
+      "text": "Come 13th three times",
+      "dates": [
+        "2022-04-02"
       ]
     },
     {
