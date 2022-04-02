@@ -5,12 +5,12 @@
     {
       "person": "Otherowan",
       "leaderboard": "2022-04-02",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 54,
+      "totalSeconds": 54,
+      "position": 5,
+      "scrapeTime": "2022-04-02T18:35:41.091Z",
+      "isPending": false
     },
     {
       "person": "Otherowan",
@@ -673,7 +673,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 116,
+  "awardCount": 118,
   "awards": [
     {
       "title": "Bronze",
@@ -800,7 +800,8 @@
         "2022-03-20",
         "2022-03-24",
         "2022-03-25",
-        "2022-03-30"
+        "2022-03-30",
+        "2022-04-02"
       ]
     },
     {
@@ -833,6 +834,14 @@
       "text": "Complete a puzzle in more than 5 minutes",
       "dates": [
         "2022-01-30"
+      ]
+    },
+    {
+      "title": "Nice Try, Joel",
+      "type": "nice-try-joel",
+      "text": "Complete a puzzle in less than a minute on a Saturday",
+      "dates": [
+        "2022-04-02"
       ]
     },
     {
