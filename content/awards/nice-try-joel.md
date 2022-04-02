@@ -86,6 +86,14 @@
       ]
     },
     {
+      "person": "ivo",
+      "count": 2,
+      "dates": [
+        "2022-02-05",
+        "2022-04-02"
+      ]
+    },
+    {
       "person": "leaf",
       "count": 1,
       "dates": [
@@ -107,13 +115,6 @@
       ]
     },
     {
-      "person": "ivo",
-      "count": 1,
-      "dates": [
-        "2022-02-05"
-      ]
-    },
-    {
       "person": "Ania",
       "count": 1,
       "dates": [
@@ -128,5 +129,5 @@
       ]
     }
   ],
-  "totalUnlocks": 45
+  "totalUnlocks": 46
 }

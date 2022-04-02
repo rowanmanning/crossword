@@ -5,12 +5,12 @@
     {
       "person": "ivo",
       "leaderboard": "2022-04-02",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 51,
+      "totalSeconds": 51,
+      "position": 4,
+      "scrapeTime": "2022-04-02T21:32:24.782Z",
+      "isPending": false
     },
     {
       "person": "ivo",
@@ -2027,13 +2027,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 36,
-    "totalSeconds": 96,
+    "seconds": 35,
+    "totalSeconds": 95,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 387,
+  "awardCount": 390,
   "awards": [
     {
       "title": "Gold",
@@ -2381,7 +2381,8 @@
         "2022-03-09",
         "2022-03-13",
         "2022-03-21",
-        "2022-03-22"
+        "2022-03-22",
+        "2022-04-02"
       ]
     },
     {
@@ -2473,7 +2474,8 @@
       "type": "nice-try-joel",
       "text": "Complete a puzzle in less than a minute on a Saturday",
       "dates": [
-        "2022-02-05"
+        "2022-02-05",
+        "2022-04-02"
       ]
     },
     {
@@ -2497,6 +2499,7 @@
       "type": "chain-3",
       "text": "Participate in a chain of three sequential times",
       "dates": [
+        "2022-04-02",
         "2022-03-31",
         "2022-03-30",
         "2022-03-02",
