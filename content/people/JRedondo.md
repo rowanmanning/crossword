@@ -5,12 +5,12 @@
     {
       "person": "JRedondo",
       "leaderboard": "2022-04-02",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 4,
+      "seconds": 46,
+      "totalSeconds": 286,
+      "position": 1,
+      "scrapeTime": "2022-04-02T03:39:04.284Z",
+      "isPending": false
     },
     {
       "person": "JRedondo",
@@ -537,13 +537,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 4,
-    "seconds": 0,
-    "totalSeconds": 240,
+    "seconds": 2,
+    "totalSeconds": 242,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 19,
+  "awardCount": 21,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -607,7 +607,8 @@
       "dates": [
         "2022-02-23",
         "2022-03-02",
-        "2022-03-24"
+        "2022-03-24",
+        "2022-04-02"
       ]
     },
     {
@@ -631,7 +632,8 @@
       "type": "quick-draw",
       "text": "Complete a puzzle before anyone else (or within 30 minutes of the first person)",
       "dates": [
-        "2022-04-01"
+        "2022-04-01",
+        "2022-04-02"
       ]
     }
   ]

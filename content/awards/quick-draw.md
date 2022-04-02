@@ -249,6 +249,14 @@
       ]
     },
     {
+      "person": "JRedondo",
+      "count": 2,
+      "dates": [
+        "2022-04-01",
+        "2022-04-02"
+      ]
+    },
+    {
       "person": "leaf",
       "count": 1,
       "dates": [
@@ -261,14 +269,7 @@
       "dates": [
         "2022-02-11"
       ]
-    },
-    {
-      "person": "JRedondo",
-      "count": 1,
-      "dates": [
-        "2022-04-01"
-      ]
     }
   ],
-  "totalUnlocks": 193
+  "totalUnlocks": 194
 }
