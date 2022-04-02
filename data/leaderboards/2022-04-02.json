@@ -1,5 +1,15 @@
 [
 	{
+		"name": "Nick Ramsbottom",
+		"scrapeTime": "2022-04-02T06:36:31.858Z",
+		"seconds": 89
+	},
+	{
+		"name": "varjmes",
+		"scrapeTime": "2022-04-02T06:36:31.858Z",
+		"seconds": 124
+	},
+	{
 		"name": "binaryberry",
 		"scrapeTime": "2022-04-02T05:31:49.056Z",
 		"seconds": 125
@@ -70,11 +80,6 @@
 		"seconds": null
 	},
 	{
-		"name": "Nick Ramsbottom",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
 		"name": "Oliver Turner",
 		"scrapeTime": null,
 		"seconds": null
@@ -86,11 +91,6 @@
 	},
 	{
 		"name": "Rowan M",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
-		"name": "varjmes",
 		"scrapeTime": null,
 		"seconds": null
 	}
