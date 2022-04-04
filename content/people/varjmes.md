@@ -5,12 +5,12 @@
     {
       "person": "varjmes",
       "leaderboard": "2022-04-04",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 52,
+      "totalSeconds": 52,
+      "position": 3,
+      "scrapeTime": "2022-04-04T06:37:08.268Z",
+      "isPending": false
     },
     {
       "person": "varjmes",
@@ -2897,13 +2897,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 19,
-    "totalSeconds": 79,
+    "seconds": 18,
+    "totalSeconds": 78,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 556,
+  "awardCount": 558,
   "awards": [
     {
       "title": "Gold",
@@ -3357,7 +3357,8 @@
         "2022-03-15",
         "2022-03-18",
         "2022-03-22",
-        "2022-03-29"
+        "2022-03-29",
+        "2022-04-04"
       ]
     },
     {
@@ -3525,7 +3526,8 @@
       "type": "week-streak",
       "text": "Play for a full week without breaks",
       "dates": [
-        "2021-06-27"
+        "2021-06-27",
+        "2022-04-04"
       ]
     },
     {
