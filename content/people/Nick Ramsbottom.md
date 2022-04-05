@@ -5,12 +5,12 @@
     {
       "person": "Nick Ramsbottom",
       "leaderboard": "2022-04-05",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 9,
+      "totalSeconds": 69,
+      "position": 1,
+      "scrapeTime": "2022-04-05T06:03:08.149Z",
+      "isPending": false
     },
     {
       "person": "Nick Ramsbottom",
@@ -2307,13 +2307,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 47,
-    "totalSeconds": 107,
+    "seconds": 46,
+    "totalSeconds": 106,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 365,
+  "awardCount": 367,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -2573,7 +2573,8 @@
         "2022-03-26",
         "2022-03-27",
         "2022-04-02",
-        "2022-04-03"
+        "2022-04-03",
+        "2022-04-05"
       ]
     },
     {
@@ -2804,7 +2805,8 @@
       "text": "Nice…",
       "dates": [
         "2021-12-03",
-        "2022-01-04"
+        "2022-01-04",
+        "2022-04-05"
       ]
     },
     {
