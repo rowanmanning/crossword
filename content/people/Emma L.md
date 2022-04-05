@@ -5,12 +5,12 @@
     {
       "person": "Emma L",
       "leaderboard": "2022-04-05",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 42,
+      "totalSeconds": 42,
+      "position": 1,
+      "scrapeTime": "2022-04-05T07:02:14.140Z",
+      "isPending": false
     },
     {
       "person": "Emma L",
@@ -2557,13 +2557,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 57,
-    "totalSeconds": 57,
+    "seconds": 56,
+    "totalSeconds": 56,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 558,
+  "awardCount": 560,
   "awards": [
     {
       "title": "Gold",
@@ -3088,7 +3088,8 @@
         "2022-03-31",
         "2022-04-02",
         "2022-04-03",
-        "2022-04-04"
+        "2022-04-04",
+        "2022-04-05"
       ]
     },
     {
@@ -3339,7 +3340,8 @@
       "text": "A towel is about the most massively useful thing an interstellar hitchhiker can have",
       "dates": [
         "2021-09-10",
-        "2022-01-03"
+        "2022-01-03",
+        "2022-04-05"
       ]
     },
     {
