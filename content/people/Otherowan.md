@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Otherowan",
+      "leaderboard": "2022-04-06",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Otherowan",
       "leaderboard": "2022-04-05",
       "minutes": 0,
       "seconds": 58,
@@ -703,7 +713,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 123,
+  "awardCount": 124,
   "awards": [
     {
       "title": "Bronze",
@@ -733,7 +743,8 @@
         "2022-02-08",
         "2022-02-25",
         "2022-03-11",
-        "2022-03-16"
+        "2022-03-16",
+        "2022-04-05"
       ]
     },
     {
