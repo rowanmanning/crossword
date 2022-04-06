@@ -5,12 +5,12 @@
     {
       "person": "Emma L",
       "leaderboard": "2022-04-06",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 7,
+      "totalSeconds": 7,
+      "position": 1,
+      "scrapeTime": "2022-04-06T18:35:56.551Z",
+      "isPending": false
     },
     {
       "person": "Emma L",
@@ -2555,12 +2555,12 @@
   ],
   "best": {
     "person": "Emma L",
-    "leaderboard": "2021-09-26",
+    "leaderboard": "2022-04-06",
     "minutes": 0,
-    "seconds": 18,
-    "totalSeconds": 18,
-    "position": 2,
-    "scrapeTime": null,
+    "seconds": 7,
+    "totalSeconds": 7,
+    "position": 1,
+    "scrapeTime": "2022-04-06T18:35:56.551Z",
     "isPending": false
   },
   "mean": {
@@ -2573,7 +2573,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 561,
+  "awardCount": 563,
   "awards": [
     {
       "title": "Gold",
@@ -2826,7 +2826,8 @@
         "2021-11-21",
         "2021-12-19",
         "2022-01-31",
-        "2022-03-28"
+        "2022-03-28",
+        "2022-04-06"
       ]
     },
     {
@@ -3137,7 +3138,8 @@
       "type": "sub-20",
       "text": "Complete a puzzle in less than 20 seconds",
       "dates": [
-        "2021-09-26"
+        "2021-09-26",
+        "2022-04-06"
       ]
     },
     {
