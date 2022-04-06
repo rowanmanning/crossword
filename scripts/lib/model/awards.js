@@ -91,6 +91,9 @@ module.exports = {
 
 	// Scrape time awards
 	QuickDrawAward: require('./awards/quick-draw'),
-	SlowAndSteady: require('./awards/slow-and-steady')
+	SlowAndSteady: require('./awards/slow-and-steady'),
+
+	// Special awards
+	GlitchAward: require('./awards/glitch')
 
 };
