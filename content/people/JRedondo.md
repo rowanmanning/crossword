@@ -5,12 +5,12 @@
     {
       "person": "JRedondo",
       "leaderboard": "2022-04-06",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 7,
+      "totalSeconds": 127,
+      "position": 12,
+      "scrapeTime": "2022-04-06T12:43:36.157Z",
+      "isPending": false
     },
     {
       "person": "JRedondo",
@@ -577,13 +577,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 4,
-    "seconds": 5,
-    "totalSeconds": 245,
+    "seconds": 0,
+    "totalSeconds": 240,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 23,
+  "awardCount": 24,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -600,7 +600,8 @@
       "text": "Half your completion time from one day to the next",
       "dates": [
         "2022-03-02",
-        "2022-03-25"
+        "2022-03-25",
+        "2022-04-06"
       ]
     },
     {
