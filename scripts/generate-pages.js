@@ -30,8 +30,11 @@ async function generatePages() {
 		const leaderboard = leaderboards.get(date);
 
 		// Loop over people for leaderboard data
-		for (const {name, seconds, scrapeTime} of data) {
-			const time = new Time(seconds);
+		for (const {name, seconds, scrapeTime, isGlitch} of data) {
+			const time = new Time({
+				seconds,
+				isGlitch
+			});
 
 			// Create person if they don't exist
 			if (!people.has(name)) {

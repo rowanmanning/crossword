@@ -29,6 +29,10 @@ module.exports = class Person {
 		});
 	}
 
+	get timesExcludingGlitched() {
+		return this.times.filter(({isGlitch}) => !isGlitch);
+	}
+
 	get timesExcludingToday() {
 		if (this.memo.timesExcludingToday) {
 			return this.memo.timesExcludingToday;
@@ -150,7 +154,7 @@ module.exports = class Person {
 		if (this.memo.best) {
 			return this.memo.best;
 		}
-		this.memo.best = this.times.reduce((best, current) => {
+		this.memo.best = this.timesExcludingGlitched.reduce((best, current) => {
 			return (current < best ? current : best);
 		});
 		return this.memo.best;
@@ -160,12 +164,16 @@ module.exports = class Person {
 		if (this.memo.mean) {
 			return this.memo.mean;
 		}
-		const seconds = this.times.filter(time => time < Infinity).map(time => time.totalSeconds);
+		const seconds = this.timesExcludingGlitched
+			.filter(time => time < Infinity)
+			.map(time => time.totalSeconds);
 		if (!seconds.length) {
 			this.memo.mean = new Time();
 			return this.memo.mean;
 		}
-		this.memo.mean = new Time(Math.ceil(seconds.reduce((numA, numB) => numA + numB, 0) / seconds.length));
+		this.memo.mean = new Time({
+			seconds: Math.ceil(seconds.reduce((numA, numB) => numA + numB, 0) / seconds.length)
+		});
 		return this.memo.mean;
 	}
 

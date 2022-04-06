@@ -2,10 +2,11 @@
 
 module.exports = class Time {
 
-	constructor(seconds) {
+	constructor({seconds, isGlitch} = {}) {
 		this._leaderboard = null;
 		this._person = null;
 		this._scrapeTime = null;
+		this.isGlitch = Boolean(isGlitch);
 		this.totalSeconds = seconds;
 		this.position = null;
 	}

@@ -55,7 +55,9 @@ module.exports = class Leaderboard {
 		if (!seconds.length) {
 			return new Time();
 		}
-		return new Time(Math.ceil(seconds.reduce((numA, numB) => numA + numB, 0) / seconds.length));
+		return new Time({
+			seconds: Math.ceil(seconds.reduce((numA, numB) => numA + numB, 0) / seconds.length)
+		});
 	}
 
 	get best() {
@@ -67,7 +69,9 @@ module.exports = class Leaderboard {
 		if (seconds.length <= 1) {
 			return new Time();
 		}
-		return new Time(seconds[seconds.length - 1] - seconds[0]);
+		return new Time({
+			seconds: seconds[seconds.length - 1] - seconds[0]
+		});
 	}
 
 	get dateObject() {

@@ -19,6 +19,25 @@ Fetch and archive the New York Times crossword leaderboard - [crossword.rowanman
   4. Visit [http://localhost:1313/](http://localhost:1313/)
 
 
+## Manually editing times
+
+Times should rarely (if ever) be manually added or edited. Some cases where this is fine to do:
+
+### Glitched times
+
+If someone reports that the time on the site isn't their _actual_ time (normally it's an extremely fast time less than 10 seconds), that's a glitched time. If a time is marked as glitched, it retains all the awards and position on the leaderboard, but no longer counts towards the best or average times for that person.
+
+Once a day is over you can modify the times for that day (doing so before a day is over will result in your changes being overwritten).
+
+To mark a time as glitched, find the offending time in [`data/leaderboards`](data/leaderboards) and add a `"isGlitch": true` property to the JSON for that time. Then run the page generation script with:
+
+```
+./scripts/generate-pages.js
+```
+
+Commit all of the changes, yours _and_ the ones made by the script.
+
+
 ## Contributing
 
 [The contributing guide is available here](docs/contributing.md). All contributors must follow [Crossword's code of conduct](docs/code_of_conduct.md).
