@@ -5,12 +5,12 @@
     {
       "person": "joelcarr",
       "leaderboard": "2022-04-06",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 49,
+      "totalSeconds": 49,
+      "position": 7,
+      "scrapeTime": "2022-04-06T08:02:25.494Z",
+      "isPending": false
     },
     {
       "person": "joelcarr",
@@ -2905,25 +2905,25 @@
   ],
   "best": {
     "person": "joelcarr",
-    "leaderboard": "2022-03-29",
+    "leaderboard": "2022-04-06",
     "minutes": 0,
-    "seconds": 53,
-    "totalSeconds": 53,
-    "position": 9,
-    "scrapeTime": "2022-03-29T15:35:37.778Z",
+    "seconds": 49,
+    "totalSeconds": 49,
+    "position": 7,
+    "scrapeTime": "2022-04-06T08:02:25.494Z",
     "isPending": false
   },
   "mean": {
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 57,
-    "totalSeconds": 177,
+    "seconds": 56,
+    "totalSeconds": 176,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 182,
+  "awardCount": 185,
   "awards": [
     {
       "title": "Bronze",
@@ -2999,7 +2999,8 @@
         "2022-01-31",
         "2022-03-04",
         "2022-03-21",
-        "2022-03-29"
+        "2022-03-29",
+        "2022-04-06"
       ]
     },
     {
@@ -3106,7 +3107,8 @@
         "2021-09-06",
         "2022-01-04",
         "2022-01-10",
-        "2022-03-29"
+        "2022-03-29",
+        "2022-04-06"
       ]
     },
     {
@@ -3184,7 +3186,8 @@
         "2022-02-09",
         "2022-02-23",
         "2022-03-10",
-        "2022-03-23"
+        "2022-03-23",
+        "2022-04-06"
       ]
     },
     {
