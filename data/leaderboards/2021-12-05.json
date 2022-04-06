@@ -2,7 +2,8 @@
 	{
 		"name": "Alice Bartlett",
 		"scrapeTime": "2021-12-05T06:02:28.033Z",
-		"seconds": 6
+		"seconds": 6,
+		"isGlitch": true
 	},
 	{
 		"name": "itsalex",

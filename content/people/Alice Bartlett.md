@@ -1505,25 +1505,25 @@
   ],
   "best": {
     "person": "Alice Bartlett",
-    "leaderboard": "2021-12-05",
+    "leaderboard": "2021-11-11",
     "minutes": 0,
-    "seconds": 6,
-    "totalSeconds": 6,
-    "position": 1,
-    "scrapeTime": "2021-12-05T06:02:28.033Z",
+    "seconds": 25,
+    "totalSeconds": 25,
+    "position": 2,
+    "scrapeTime": null,
     "isPending": false
   },
   "mean": {
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 33,
-    "totalSeconds": 93,
+    "seconds": 34,
+    "totalSeconds": 94,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 234,
+  "awardCount": 235,
   "awards": [
     {
       "title": "Gold",
@@ -1988,6 +1988,14 @@
         "2022-01-15",
         "2022-03-10",
         "2022-03-23"
+      ]
+    },
+    {
+      "title": "Glitch",
+      "type": "glitch",
+      "text": "Get a glitched time (and admit to it!)",
+      "dates": [
+        "2021-12-05"
       ]
     }
   ]
