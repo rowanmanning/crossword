@@ -2,7 +2,8 @@
 	{
 		"name": "Emma L",
 		"scrapeTime": "2022-04-06T18:35:56.551Z",
-		"seconds": 7
+		"seconds": 7,
+		"isGlitch": true
 	},
 	{
 		"name": "itsalex",

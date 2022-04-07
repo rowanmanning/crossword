@@ -2565,12 +2565,12 @@
   ],
   "best": {
     "person": "Emma L",
-    "leaderboard": "2022-04-06",
+    "leaderboard": "2021-09-26",
     "minutes": 0,
-    "seconds": 7,
-    "totalSeconds": 7,
-    "position": 1,
-    "scrapeTime": "2022-04-06T18:35:56.551Z",
+    "seconds": 18,
+    "totalSeconds": 18,
+    "position": 2,
+    "scrapeTime": null,
     "isPending": false
   },
   "mean": {
@@ -2583,7 +2583,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 566,
+  "awardCount": 567,
   "awards": [
     {
       "title": "Gold",
@@ -3415,6 +3415,14 @@
         "2022-03-07",
         "2022-03-20",
         "2022-03-21"
+      ]
+    },
+    {
+      "title": "Glitch",
+      "type": "glitch",
+      "text": "Get a glitched time (and admit to it!)",
+      "dates": [
+        "2022-04-06"
       ]
     }
   ]
