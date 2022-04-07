@@ -5,12 +5,12 @@
     {
       "person": "Nick Ramsbottom",
       "leaderboard": "2022-04-07",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 48,
+      "totalSeconds": 48,
+      "position": 5,
+      "scrapeTime": "2022-04-07T08:36:09.361Z",
+      "isPending": false
     },
     {
       "person": "Nick Ramsbottom",
@@ -2333,7 +2333,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 369,
+  "awardCount": 371,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -2638,7 +2638,8 @@
         "2022-03-28",
         "2022-03-30",
         "2022-04-01",
-        "2022-04-04"
+        "2022-04-04",
+        "2022-04-07"
       ]
     },
     {
@@ -2702,6 +2703,14 @@
         "2022-03-02",
         "2021-11-03",
         "2021-10-02"
+      ]
+    },
+    {
+      "title": "Chain 4",
+      "type": "chain-4",
+      "text": "Participate in a chain of four sequential times",
+      "dates": [
+        "2022-04-07"
       ]
     },
     {
