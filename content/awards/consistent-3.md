@@ -82,6 +82,14 @@
       ]
     },
     {
+      "person": "binaryberry",
+      "count": 2,
+      "dates": [
+        "2022-03-08",
+        "2022-04-07"
+      ]
+    },
+    {
       "person": "Emma L",
       "count": 1,
       "dates": [
@@ -101,14 +109,7 @@
       "dates": [
         "2022-01-12"
       ]
-    },
-    {
-      "person": "binaryberry",
-      "count": 1,
-      "dates": [
-        "2022-03-08"
-      ]
     }
   ],
-  "totalUnlocks": 33
+  "totalUnlocks": 34
 }
