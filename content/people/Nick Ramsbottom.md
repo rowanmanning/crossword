@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Nick Ramsbottom",
+      "leaderboard": "2022-04-10",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Nick Ramsbottom",
       "leaderboard": "2022-04-09",
       "minutes": 1,
       "seconds": 17,
@@ -2353,8 +2363,16 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 373,
+  "awardCount": 374,
   "awards": [
+    {
+      "title": "Bronze",
+      "type": "bronze",
+      "text": "Get the third fastest time for a day",
+      "dates": [
+        "2022-04-09"
+      ]
+    },
     {
       "title": "Consistent Position ×2",
       "type": "consistent-2",
