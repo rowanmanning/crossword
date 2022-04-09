@@ -5,12 +5,12 @@
     {
       "person": "cb",
       "leaderboard": "2022-04-09",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 47,
+      "totalSeconds": 47,
+      "position": 1,
+      "scrapeTime": "2022-04-09T13:06:17.155Z",
+      "isPending": false
     },
     {
       "person": "cb",
@@ -2873,7 +2873,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 746,
+  "awardCount": 749,
   "awards": [
     {
       "title": "Gold",
@@ -3437,7 +3437,8 @@
         "2022-03-11",
         "2022-03-14",
         "2022-04-02",
-        "2022-04-04"
+        "2022-04-04",
+        "2022-04-09"
       ]
     },
     {
@@ -3648,7 +3649,8 @@
         "2022-01-15",
         "2022-01-22",
         "2022-03-19",
-        "2022-04-02"
+        "2022-04-02",
+        "2022-04-09"
       ]
     },
     {
@@ -3744,6 +3746,14 @@
         "2021-11-25",
         "2021-12-28",
         "2022-02-08"
+      ]
+    },
+    {
+      "title": "Quarter-Long Streak",
+      "type": "quarter-streak",
+      "text": "Play for a full quarter, give that OKR a 1",
+      "dates": [
+        "2022-04-09"
       ]
     },
     {
