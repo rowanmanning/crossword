@@ -5,12 +5,12 @@
     {
       "person": "Nick Ramsbottom",
       "leaderboard": "2022-04-10",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 41,
+      "totalSeconds": 41,
+      "position": 2,
+      "scrapeTime": "2022-04-09T23:32:58.507Z",
+      "isPending": false
     },
     {
       "person": "Nick Ramsbottom",
@@ -2357,13 +2357,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 46,
-    "totalSeconds": 106,
+    "seconds": 45,
+    "totalSeconds": 105,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 374,
+  "awardCount": 375,
   "awards": [
     {
       "title": "Bronze",
@@ -2695,7 +2695,8 @@
         "2022-03-22",
         "2022-03-29",
         "2022-03-31",
-        "2022-04-06"
+        "2022-04-06",
+        "2022-04-10"
       ]
     },
     {
