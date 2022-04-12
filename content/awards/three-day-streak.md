@@ -170,6 +170,16 @@
       ]
     },
     {
+      "person": "Rowan M",
+      "count": 4,
+      "dates": [
+        "2021-06-23",
+        "2022-01-04",
+        "2022-02-19",
+        "2022-04-12"
+      ]
+    },
+    {
       "person": "Oliver Turner",
       "count": 4,
       "dates": [
@@ -220,15 +230,6 @@
       ]
     },
     {
-      "person": "Rowan M",
-      "count": 3,
-      "dates": [
-        "2021-06-23",
-        "2022-01-04",
-        "2022-02-19"
-      ]
-    },
-    {
       "person": "varjmes",
       "count": 3,
       "dates": [
@@ -260,5 +261,5 @@
       ]
     }
   ],
-  "totalUnlocks": 141
+  "totalUnlocks": 142
 }
