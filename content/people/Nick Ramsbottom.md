@@ -5,12 +5,12 @@
     {
       "person": "Nick Ramsbottom",
       "leaderboard": "2022-04-14",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 44,
+      "totalSeconds": 44,
+      "position": 11,
+      "scrapeTime": "2022-04-14T21:33:26.307Z",
+      "isPending": false
     },
     {
       "person": "Nick Ramsbottom",
@@ -2403,7 +2403,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 377,
+  "awardCount": 379,
   "awards": [
     {
       "title": "Bronze",
@@ -2737,7 +2737,8 @@
         "2022-03-29",
         "2022-03-31",
         "2022-04-06",
-        "2022-04-10"
+        "2022-04-10",
+        "2022-04-14"
       ]
     },
     {
@@ -2781,6 +2782,7 @@
       "type": "chain-3",
       "text": "Participate in a chain of three sequential times",
       "dates": [
+        "2022-04-14",
         "2022-03-31",
         "2022-03-02",
         "2021-11-03",
