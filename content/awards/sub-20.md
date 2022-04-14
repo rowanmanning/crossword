@@ -76,6 +76,14 @@
       ]
     },
     {
+      "person": "Otherowan",
+      "count": 2,
+      "dates": [
+        "2022-04-11",
+        "2022-04-14"
+      ]
+    },
+    {
       "person": "varjmes",
       "count": 1,
       "dates": [
@@ -95,14 +103,7 @@
       "dates": [
         "2021-12-05"
       ]
-    },
-    {
-      "person": "Otherowan",
-      "count": 1,
-      "dates": [
-        "2022-04-11"
-      ]
     }
   ],
-  "totalUnlocks": 33
+  "totalUnlocks": 34
 }

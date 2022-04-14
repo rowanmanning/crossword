@@ -5,12 +5,12 @@
     {
       "person": "Otherowan",
       "leaderboard": "2022-04-14",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 14,
+      "totalSeconds": 14,
+      "position": 1,
+      "scrapeTime": "2022-04-14T15:36:19.899Z",
+      "isPending": false
     },
     {
       "person": "Otherowan",
@@ -775,25 +775,25 @@
   ],
   "best": {
     "person": "Otherowan",
-    "leaderboard": "2022-04-11",
+    "leaderboard": "2022-04-14",
     "minutes": 0,
-    "seconds": 18,
-    "totalSeconds": 18,
+    "seconds": 14,
+    "totalSeconds": 14,
     "position": 1,
-    "scrapeTime": "2022-04-11T11:32:07.554Z",
+    "scrapeTime": "2022-04-14T15:36:19.899Z",
     "isPending": false
   },
   "mean": {
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 29,
-    "totalSeconds": 89,
+    "seconds": 28,
+    "totalSeconds": 88,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 137,
+  "awardCount": 139,
   "awards": [
     {
       "title": "Gold",
@@ -861,7 +861,8 @@
       "dates": [
         "2022-01-31",
         "2022-02-13",
-        "2022-03-06"
+        "2022-03-06",
+        "2022-04-14"
       ]
     },
     {
@@ -974,7 +975,8 @@
       "type": "sub-20",
       "text": "Complete a puzzle in less than 20 seconds",
       "dates": [
-        "2022-04-11"
+        "2022-04-11",
+        "2022-04-14"
       ]
     },
     {
