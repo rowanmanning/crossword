@@ -392,19 +392,20 @@
       ]
     },
     {
+      "person": "Otherowan",
+      "count": 2,
+      "dates": [
+        "2022-04-11",
+        "2022-04-14"
+      ]
+    },
+    {
       "person": "Alice Bartlett",
       "count": 1,
       "dates": [
         "2021-12-05"
       ]
-    },
-    {
-      "person": "Otherowan",
-      "count": 1,
-      "dates": [
-        "2022-04-11"
-      ]
     }
   ],
-  "totalUnlocks": 317
+  "totalUnlocks": 318
 }
