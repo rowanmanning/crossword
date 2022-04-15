@@ -181,6 +181,16 @@
       ]
     },
     {
+      "person": "varjmes",
+      "count": 4,
+      "dates": [
+        "2021-06-23",
+        "2022-03-24",
+        "2022-03-31",
+        "2022-04-15"
+      ]
+    },
+    {
       "person": "Oliver Turner",
       "count": 4,
       "dates": [
@@ -231,15 +241,6 @@
       ]
     },
     {
-      "person": "varjmes",
-      "count": 3,
-      "dates": [
-        "2021-06-23",
-        "2022-03-24",
-        "2022-03-31"
-      ]
-    },
-    {
       "person": "Emma L",
       "count": 2,
       "dates": [
@@ -262,5 +263,5 @@
       ]
     }
   ],
-  "totalUnlocks": 143
+  "totalUnlocks": 144
 }
