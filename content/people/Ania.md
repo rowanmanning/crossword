@@ -5,12 +5,12 @@
     {
       "person": "Ania",
       "leaderboard": "2022-04-15",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 37,
+      "totalSeconds": 97,
+      "position": 5,
+      "scrapeTime": "2022-04-15T09:02:22.072Z",
+      "isPending": false
     },
     {
       "person": "Ania",
@@ -3013,7 +3013,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 547,
+  "awardCount": 549,
   "awards": [
     {
       "title": "Gold",
@@ -3405,7 +3405,8 @@
         "2022-04-04",
         "2022-04-09",
         "2022-04-13",
-        "2022-04-14"
+        "2022-04-14",
+        "2022-04-15"
       ]
     },
     {
@@ -3743,7 +3744,8 @@
       "type": "arjun",
       "text": "Join us",
       "dates": [
-        "2022-04-04"
+        "2022-04-04",
+        "2022-04-15"
       ]
     },
     {

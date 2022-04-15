@@ -70,6 +70,14 @@
       ]
     },
     {
+      "person": "Ania",
+      "count": 2,
+      "dates": [
+        "2022-04-04",
+        "2022-04-15"
+      ]
+    },
+    {
       "person": "joelcarr",
       "count": 1,
       "dates": [
@@ -96,14 +104,7 @@
       "dates": [
         "2022-01-22"
       ]
-    },
-    {
-      "person": "Ania",
-      "count": 1,
-      "dates": [
-        "2022-04-04"
-      ]
     }
   ],
-  "totalUnlocks": 28
+  "totalUnlocks": 29
 }
