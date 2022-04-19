@@ -120,20 +120,21 @@
       ]
     },
     {
+      "person": "varjmes",
+      "count": 3,
+      "dates": [
+        "2021-06-27",
+        "2022-04-04",
+        "2022-04-19"
+      ]
+    },
+    {
       "person": "Nick Ramsbottom",
       "count": 3,
       "dates": [
         "2021-08-26",
         "2021-09-25",
         "2021-11-20"
-      ]
-    },
-    {
-      "person": "varjmes",
-      "count": 2,
-      "dates": [
-        "2021-06-27",
-        "2022-04-04"
       ]
     },
     {
@@ -167,5 +168,5 @@
       ]
     }
   ],
-  "totalUnlocks": 66
+  "totalUnlocks": 67
 }
