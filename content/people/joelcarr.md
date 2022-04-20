@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "joelcarr",
+      "leaderboard": "2022-04-20",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "joelcarr",
       "leaderboard": "2022-04-19",
       "minutes": 4,
       "seconds": 2,
