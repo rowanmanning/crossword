@@ -3063,7 +3063,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 655,
+  "awardCount": 656,
   "awards": [
     {
       "title": "Gold",
@@ -3739,6 +3739,7 @@
       "type": "chain-4",
       "text": "Participate in a chain of four sequential times",
       "dates": [
+        "2022-04-20",
         "2022-04-07",
         "2022-02-07",
         "2021-12-29",
