@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "cb",
+      "leaderboard": "2022-04-21",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "cb",
       "leaderboard": "2022-04-20",
       "minutes": 0,
       "seconds": 22,
@@ -2983,7 +2993,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 782,
+  "awardCount": 784,
   "awards": [
     {
       "title": "Gold",
@@ -3071,7 +3081,8 @@
         "2022-04-09",
         "2022-04-12",
         "2022-04-16",
-        "2022-04-17"
+        "2022-04-17",
+        "2022-04-20"
       ]
     },
     {
@@ -3328,7 +3339,8 @@
       "type": "podium-climbing",
       "text": "Unlock third, second, then first place awards in order",
       "dates": [
-        "2022-02-10"
+        "2022-02-10",
+        "2022-04-20"
       ]
     },
     {
