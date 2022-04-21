@@ -5,12 +5,12 @@
     {
       "person": "Otherowan",
       "leaderboard": "2022-04-21",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 17,
+      "totalSeconds": 137,
+      "position": 7,
+      "scrapeTime": "2022-04-21T23:02:24.868Z",
+      "isPending": false
     },
     {
       "person": "Otherowan",
@@ -857,13 +857,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 25,
-    "totalSeconds": 85,
+    "seconds": 26,
+    "totalSeconds": 86,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 155,
+  "awardCount": 157,
   "awards": [
     {
       "title": "Gold",
@@ -959,7 +959,8 @@
         "2022-04-03",
         "2022-04-09",
         "2022-04-12",
-        "2022-04-15"
+        "2022-04-15",
+        "2022-04-21"
       ]
     },
     {
@@ -1157,6 +1158,14 @@
         "2022-03-25",
         "2022-03-23",
         "2022-03-20"
+      ]
+    },
+    {
+      "title": "Arjun",
+      "type": "arjun",
+      "text": "Join us",
+      "dates": [
+        "2022-04-21"
       ]
     },
     {
