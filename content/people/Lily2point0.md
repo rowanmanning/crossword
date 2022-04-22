@@ -5,12 +5,12 @@
     {
       "person": "Lily2point0",
       "leaderboard": "2022-04-22",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 0,
+      "totalSeconds": 60,
+      "position": 1,
+      "scrapeTime": "2022-04-22T04:44:52.104Z",
+      "isPending": false
     },
     {
       "person": "Lily2point0",
@@ -3083,7 +3083,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 528,
+  "awardCount": 532,
   "awards": [
     {
       "title": "Gold",
@@ -3232,7 +3232,8 @@
         "2022-04-04",
         "2022-04-10",
         "2022-04-14",
-        "2022-04-20"
+        "2022-04-20",
+        "2022-04-22"
       ]
     },
     {
@@ -3470,7 +3471,8 @@
         "2022-04-09",
         "2022-04-11",
         "2022-04-13",
-        "2022-04-15"
+        "2022-04-15",
+        "2022-04-22"
       ]
     },
     {
@@ -3768,6 +3770,14 @@
       ]
     },
     {
+      "title": "1 Friday Street",
+      "type": "friday-street",
+      "text": "Get a time of exactly 1:00 on a Friday",
+      "dates": [
+        "2022-04-22"
+      ]
+    },
+    {
       "title": "The Number of The Beast",
       "type": "beast",
       "text": "His number is six hundred and sixty-six",
@@ -3855,7 +3865,8 @@
         "2022-04-17",
         "2022-04-18",
         "2022-04-19",
-        "2022-04-21"
+        "2022-04-21",
+        "2022-04-22"
       ]
     }
   ]
