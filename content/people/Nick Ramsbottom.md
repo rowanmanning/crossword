@@ -5,12 +5,12 @@
     {
       "person": "Nick Ramsbottom",
       "leaderboard": "2022-04-22",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 53,
+      "totalSeconds": 53,
+      "position": 9,
+      "scrapeTime": "2022-04-22T13:13:33.636Z",
+      "isPending": false
     },
     {
       "person": "Nick Ramsbottom",
@@ -2483,7 +2483,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 380,
+  "awardCount": 382,
   "awards": [
     {
       "title": "Bronze",
@@ -2801,7 +2801,8 @@
         "2022-03-30",
         "2022-04-01",
         "2022-04-04",
-        "2022-04-07"
+        "2022-04-07",
+        "2022-04-22"
       ]
     },
     {
@@ -2971,6 +2972,7 @@
       "type": "yin-and-yang",
       "text": "Get the same time as another person but with flipped seconds",
       "dates": [
+        "2022-04-22",
         "2022-03-11",
         "2022-03-09",
         "2022-02-23",
