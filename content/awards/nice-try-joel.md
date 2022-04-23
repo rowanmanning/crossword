@@ -104,6 +104,14 @@
       ]
     },
     {
+      "person": "Otherowan",
+      "count": 2,
+      "dates": [
+        "2022-04-02",
+        "2022-04-23"
+      ]
+    },
+    {
       "person": "leaf",
       "count": 1,
       "dates": [
@@ -130,14 +138,7 @@
       "dates": [
         "2022-03-19"
       ]
-    },
-    {
-      "person": "Otherowan",
-      "count": 1,
-      "dates": [
-        "2022-04-02"
-      ]
     }
   ],
-  "totalUnlocks": 56
+  "totalUnlocks": 57
 }
