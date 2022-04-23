@@ -5,12 +5,12 @@
     {
       "person": "ivo",
       "leaderboard": "2022-04-23",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 53,
+      "totalSeconds": 53,
+      "position": 4,
+      "scrapeTime": "2022-04-23T09:33:26.622Z",
+      "isPending": false
     },
     {
       "person": "ivo",
@@ -2243,7 +2243,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 426,
+  "awardCount": 428,
   "awards": [
     {
       "title": "Gold",
@@ -2608,7 +2608,8 @@
         "2022-04-02",
         "2022-04-05",
         "2022-04-07",
-        "2022-04-19"
+        "2022-04-19",
+        "2022-04-23"
       ]
     },
     {
@@ -2711,7 +2712,8 @@
       "text": "Complete a puzzle in less than a minute on a Saturday",
       "dates": [
         "2022-02-05",
-        "2022-04-02"
+        "2022-04-02",
+        "2022-04-23"
       ]
     },
     {
