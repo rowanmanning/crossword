@@ -5,12 +5,12 @@
     {
       "person": "Emma L",
       "leaderboard": "2022-04-24",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 30,
+      "totalSeconds": 30,
+      "position": 5,
+      "scrapeTime": "2022-04-24T07:32:38.374Z",
+      "isPending": false
     },
     {
       "person": "Emma L",
@@ -2753,7 +2753,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 612,
+  "awardCount": 614,
   "awards": [
     {
       "title": "Gold",
@@ -3314,7 +3314,8 @@
         "2022-04-17",
         "2022-04-19",
         "2022-04-20",
-        "2022-04-23"
+        "2022-04-23",
+        "2022-04-24"
       ]
     },
     {
@@ -3391,6 +3392,7 @@
       "type": "chain-3",
       "text": "Participate in a chain of three sequential times",
       "dates": [
+        "2022-04-24",
         "2022-03-31",
         "2022-03-28",
         "2022-03-23",
