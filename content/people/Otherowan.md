@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Otherowan",
+      "leaderboard": "2022-04-25",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Otherowan",
       "leaderboard": "2022-04-24",
       "minutes": 0,
       "seconds": 14,
@@ -893,7 +903,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 164,
+  "awardCount": 165,
   "awards": [
     {
       "title": "Gold",
@@ -901,7 +911,8 @@
       "text": "Get the fastest time for a day",
       "dates": [
         "2022-04-11",
-        "2022-04-14"
+        "2022-04-14",
+        "2022-04-24"
       ]
     },
     {
