@@ -61,6 +61,15 @@
       ]
     },
     {
+      "person": "Otherowan",
+      "count": 3,
+      "dates": [
+        "2022-04-11",
+        "2022-04-14",
+        "2022-04-24"
+      ]
+    },
+    {
       "person": "Ania",
       "count": 2,
       "dates": [
@@ -85,14 +94,6 @@
       ]
     },
     {
-      "person": "Otherowan",
-      "count": 2,
-      "dates": [
-        "2022-04-11",
-        "2022-04-14"
-      ]
-    },
-    {
       "person": "j-sheps",
       "count": 1,
       "dates": [
@@ -107,5 +108,5 @@
       ]
     }
   ],
-  "totalUnlocks": 36
+  "totalUnlocks": 37
 }
