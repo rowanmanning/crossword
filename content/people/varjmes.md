@@ -5,12 +5,12 @@
     {
       "person": "varjmes",
       "leaderboard": "2022-04-24",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 17,
+      "totalSeconds": 17,
+      "position": 1,
+      "scrapeTime": "2022-04-24T04:38:17.161Z",
+      "isPending": false
     },
     {
       "person": "varjmes",
@@ -3085,12 +3085,12 @@
   ],
   "best": {
     "person": "varjmes",
-    "leaderboard": "2021-09-28",
+    "leaderboard": "2022-04-24",
     "minutes": 0,
-    "seconds": 18,
-    "totalSeconds": 18,
+    "seconds": 17,
+    "totalSeconds": 17,
     "position": 1,
-    "scrapeTime": null,
+    "scrapeTime": "2022-04-24T04:38:17.161Z",
     "isPending": false
   },
   "mean": {
@@ -3103,7 +3103,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 593,
+  "awardCount": 596,
   "awards": [
     {
       "title": "Gold",
@@ -3292,7 +3292,8 @@
         "2022-03-18",
         "2022-03-22",
         "2022-03-31",
-        "2022-04-10"
+        "2022-04-10",
+        "2022-04-24"
       ]
     },
     {
@@ -3670,7 +3671,8 @@
       "type": "sub-20",
       "text": "Complete a puzzle in less than 20 seconds",
       "dates": [
-        "2021-09-28"
+        "2021-09-28",
+        "2022-04-24"
       ]
     },
     {
@@ -3744,7 +3746,8 @@
         "2021-06-23",
         "2022-03-24",
         "2022-03-31",
-        "2022-04-15"
+        "2022-04-15",
+        "2022-04-24"
       ]
     },
     {
