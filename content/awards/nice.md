@@ -15,6 +15,15 @@
       ]
     },
     {
+      "person": "itsalex",
+      "count": 3,
+      "dates": [
+        "2021-08-29",
+        "2021-10-02",
+        "2022-04-26"
+      ]
+    },
+    {
       "person": "Nick Ramsbottom",
       "count": 3,
       "dates": [
@@ -29,14 +38,6 @@
       "dates": [
         "2021-07-27",
         "2021-08-06"
-      ]
-    },
-    {
-      "person": "itsalex",
-      "count": 2,
-      "dates": [
-        "2021-08-29",
-        "2021-10-02"
       ]
     },
     {
@@ -98,5 +99,5 @@
       ]
     }
   ],
-  "totalUnlocks": 21
+  "totalUnlocks": 22
 }
