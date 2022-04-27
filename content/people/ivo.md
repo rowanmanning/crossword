@@ -5,12 +5,12 @@
     {
       "person": "ivo",
       "leaderboard": "2022-04-27",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 23,
+      "totalSeconds": 23,
+      "position": 2,
+      "scrapeTime": "2022-04-27T15:37:06.493Z",
+      "isPending": false
     },
     {
       "person": "ivo",
@@ -2283,7 +2283,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 433,
+  "awardCount": 436,
   "awards": [
     {
       "title": "Gold",
@@ -2479,7 +2479,8 @@
         "2022-02-10",
         "2022-02-27",
         "2022-04-14",
-        "2022-04-17"
+        "2022-04-17",
+        "2022-04-27"
       ]
     },
     {
@@ -2733,7 +2734,8 @@
         "2022-03-29",
         "2022-03-30",
         "2022-04-14",
-        "2022-04-18"
+        "2022-04-18",
+        "2022-04-27"
       ]
     },
     {
@@ -2837,7 +2839,8 @@
       "text": "Play for a full month (30 days) without breaks",
       "dates": [
         "2021-10-13",
-        "2022-01-10"
+        "2022-01-10",
+        "2022-04-27"
       ]
     },
     {
