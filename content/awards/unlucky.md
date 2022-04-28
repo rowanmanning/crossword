@@ -36,6 +36,15 @@
       ]
     },
     {
+      "person": "Lily2point0",
+      "count": 3,
+      "dates": [
+        "2022-02-28",
+        "2022-03-19",
+        "2022-04-27"
+      ]
+    },
+    {
       "person": "Alice Bartlett",
       "count": 2,
       "dates": [
@@ -49,14 +58,6 @@
       "dates": [
         "2021-12-07",
         "2022-02-23"
-      ]
-    },
-    {
-      "person": "Lily2point0",
-      "count": 2,
-      "dates": [
-        "2022-02-28",
-        "2022-03-19"
       ]
     },
     {
@@ -109,5 +110,5 @@
       ]
     }
   ],
-  "totalUnlocks": 32
+  "totalUnlocks": 33
 }
