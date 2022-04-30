@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Ania",
+      "leaderboard": "2022-04-30",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Ania",
       "leaderboard": "2022-04-29",
       "minutes": 1,
       "seconds": 41,
@@ -3153,7 +3163,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 575,
+  "awardCount": 576,
   "awards": [
     {
       "title": "Gold",
@@ -3986,7 +3996,8 @@
       "type": "unlucky",
       "text": "Come 13th three times",
       "dates": [
-        "2021-11-09"
+        "2021-11-09",
+        "2022-04-29"
       ]
     }
   ]

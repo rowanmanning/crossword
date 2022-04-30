@@ -45,6 +45,14 @@
       ]
     },
     {
+      "person": "Ania",
+      "count": 2,
+      "dates": [
+        "2021-11-09",
+        "2022-04-29"
+      ]
+    },
+    {
       "person": "Alice Bartlett",
       "count": 2,
       "dates": [
@@ -58,13 +66,6 @@
       "dates": [
         "2021-12-07",
         "2022-02-23"
-      ]
-    },
-    {
-      "person": "Ania",
-      "count": 1,
-      "dates": [
-        "2021-11-09"
       ]
     },
     {
@@ -110,5 +111,5 @@
       ]
     }
   ],
-  "totalUnlocks": 33
+  "totalUnlocks": 34
 }
