@@ -58,6 +58,8 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           personal_token: ${{ secrets.DEPLOY_KEY }}
+          user_name: 'RowBot'
+          user_email: '48598026+rowanbot@users.noreply.github.com'
           publish_dir: ./build
           publish_branch: build
           cname: crossword.rowanmanning.com

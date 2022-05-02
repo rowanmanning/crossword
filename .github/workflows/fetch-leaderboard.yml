@@ -47,7 +47,7 @@ jobs:
           DEPLOY_KEY: ${{ secrets.DEPLOY_KEY }}
         run: |
           git config --global user.name "RowBot"
-          git config --global user.email "rowbot@rowanmanning.com"
+          git config --global user.email "48598026+rowanbot@users.noreply.github.com"
           git remote set-url origin "https://rowanbot:${DEPLOY_KEY}@github.com/${GITHUB_REPOSITORY}.git"
           git checkout main
           git add .
