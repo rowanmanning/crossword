@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "cb",
+      "leaderboard": "2022-05-03",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "cb",
       "leaderboard": "2022-05-02",
       "minutes": 0,
       "seconds": 37,
@@ -3103,7 +3113,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 817,
+  "awardCount": 819,
   "awards": [
     {
       "title": "Gold",
@@ -3324,7 +3334,8 @@
         "2022-04-26",
         "2022-04-28",
         "2022-04-30",
-        "2022-05-01"
+        "2022-05-01",
+        "2022-05-02"
       ]
     },
     {
@@ -3350,7 +3361,8 @@
       "text": "Get the second fastest time three days in a row",
       "dates": [
         "2022-02-27",
-        "2022-03-04"
+        "2022-03-04",
+        "2022-05-02"
       ]
     },
     {

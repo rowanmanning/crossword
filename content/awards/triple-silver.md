@@ -5,21 +5,22 @@
   "order": "61",
   "unlocks": [
     {
+      "person": "cb",
+      "count": 3,
+      "dates": [
+        "2022-02-27",
+        "2022-03-04",
+        "2022-05-02"
+      ]
+    },
+    {
       "person": "Rowan M",
       "count": 2,
       "dates": [
         "2021-09-16",
         "2021-12-27"
       ]
-    },
-    {
-      "person": "cb",
-      "count": 2,
-      "dates": [
-        "2022-02-27",
-        "2022-03-04"
-      ]
     }
   ],
-  "totalUnlocks": 4
+  "totalUnlocks": 5
 }
