@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "varjmes",
+      "leaderboard": "2022-05-04",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "varjmes",
       "leaderboard": "2022-05-03",
       "minutes": 0,
       "seconds": 39,
@@ -3193,7 +3203,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 614,
+  "awardCount": 615,
   "awards": [
     {
       "title": "Gold",
@@ -3271,7 +3281,8 @@
         "2022-03-05",
         "2022-03-08",
         "2022-03-09",
-        "2022-03-27"
+        "2022-03-27",
+        "2022-05-03"
       ]
     },
     {
