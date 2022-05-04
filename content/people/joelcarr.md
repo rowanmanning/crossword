@@ -5,12 +5,12 @@
     {
       "person": "joelcarr",
       "leaderboard": "2022-05-04",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 1,
+      "totalSeconds": 61,
+      "position": 4,
+      "scrapeTime": "2022-05-04T08:02:39.556Z",
+      "isPending": false
     },
     {
       "person": "joelcarr",
@@ -3197,13 +3197,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 54,
-    "totalSeconds": 174,
+    "seconds": 53,
+    "totalSeconds": 173,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 202,
+  "awardCount": 205,
   "awards": [
     {
       "title": "Bronze",
@@ -3284,7 +3284,8 @@
         "2022-03-29",
         "2022-04-06",
         "2022-04-20",
-        "2022-04-26"
+        "2022-04-26",
+        "2022-05-04"
       ]
     },
     {
@@ -3388,7 +3389,8 @@
         "2022-04-20",
         "2022-04-26",
         "2022-04-27",
-        "2022-04-28"
+        "2022-04-28",
+        "2022-05-04"
       ]
     },
     {
@@ -3510,6 +3512,7 @@
       "type": "yin-and-yang",
       "text": "Get the same time as another person but with flipped seconds",
       "dates": [
+        "2022-05-04",
         "2021-09-06"
       ]
     },
