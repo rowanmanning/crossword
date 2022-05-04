@@ -5,12 +5,12 @@
     {
       "person": "Otherowan",
       "leaderboard": "2022-05-04",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 26,
+      "totalSeconds": 26,
+      "position": 2,
+      "scrapeTime": "2022-05-04T16:42:16.840Z",
+      "isPending": false
     },
     {
       "person": "Otherowan",
@@ -987,13 +987,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 25,
-    "totalSeconds": 85,
+    "seconds": 24,
+    "totalSeconds": 84,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 174,
+  "awardCount": 177,
   "awards": [
     {
       "title": "Gold",
@@ -1070,7 +1070,8 @@
         "2022-02-13",
         "2022-03-06",
         "2022-04-14",
-        "2022-04-24"
+        "2022-04-24",
+        "2022-05-04"
       ]
     },
     {
@@ -1193,7 +1194,8 @@
       "text": "Complete a puzzle in less than 30 seconds",
       "dates": [
         "2022-03-06",
-        "2022-03-28"
+        "2022-03-28",
+        "2022-05-04"
       ]
     },
     {
@@ -1294,6 +1296,14 @@
         "2022-04-15",
         "2022-04-17",
         "2022-04-26"
+      ]
+    },
+    {
+      "title": "Tripleting",
+      "type": "tripleting",
+      "text": "Get the same time as two other people",
+      "dates": [
+        "2022-05-04"
       ]
     },
     {
