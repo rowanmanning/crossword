@@ -70,6 +70,14 @@
       ]
     },
     {
+      "person": "Ania",
+      "count": 2,
+      "dates": [
+        "2021-09-01",
+        "2022-05-06"
+      ]
+    },
+    {
       "person": "apaleslimghost",
       "count": 2,
       "dates": [
@@ -85,13 +93,6 @@
       ]
     },
     {
-      "person": "Ania",
-      "count": 1,
-      "dates": [
-        "2021-09-01"
-      ]
-    },
-    {
       "person": "varjmes",
       "count": 1,
       "dates": [
@@ -99,5 +100,5 @@
       ]
     }
   ],
-  "totalUnlocks": 40
+  "totalUnlocks": 41
 }

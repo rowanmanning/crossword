@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Ania",
+      "leaderboard": "2022-05-07",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Ania",
       "leaderboard": "2022-05-06",
       "minutes": 0,
       "seconds": 30,
@@ -3223,7 +3233,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 591,
+  "awardCount": 593,
   "awards": [
     {
       "title": "Gold",
@@ -3261,7 +3271,8 @@
         "2022-02-16",
         "2022-03-18",
         "2022-04-17",
-        "2022-04-21"
+        "2022-04-21",
+        "2022-05-06"
       ]
     },
     {
@@ -3360,7 +3371,8 @@
       "type": "podium",
       "text": "Unlock third, second, and first place awards",
       "dates": [
-        "2021-09-01"
+        "2021-09-01",
+        "2022-05-06"
       ]
     },
     {
