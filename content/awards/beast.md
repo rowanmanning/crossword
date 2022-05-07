@@ -180,19 +180,20 @@
       ]
     },
     {
+      "person": "Alice Bartlett",
+      "count": 3,
+      "dates": [
+        "2022-01-04",
+        "2022-03-05",
+        "2022-05-07"
+      ]
+    },
+    {
       "person": "binaryberry",
       "count": 2,
       "dates": [
         "2021-12-07",
         "2022-02-08"
-      ]
-    },
-    {
-      "person": "Alice Bartlett",
-      "count": 2,
-      "dates": [
-        "2022-01-04",
-        "2022-03-05"
       ]
     },
     {
@@ -204,5 +205,5 @@
       ]
     }
   ],
-  "totalUnlocks": 109
+  "totalUnlocks": 110
 }

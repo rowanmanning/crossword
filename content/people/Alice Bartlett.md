@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Alice Bartlett",
+      "leaderboard": "2022-05-08",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Alice Bartlett",
       "leaderboard": "2022-05-07",
       "minutes": 1,
       "seconds": 58,
@@ -1833,7 +1843,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 272,
+  "awardCount": 274,
   "awards": [
     {
       "title": "Gold",
@@ -1886,7 +1896,8 @@
         "2022-01-19",
         "2022-03-06",
         "2022-03-20",
-        "2022-04-02"
+        "2022-04-02",
+        "2022-05-07"
       ]
     },
     {
@@ -2295,7 +2306,8 @@
       "text": "His number is six hundred and sixty-six",
       "dates": [
         "2022-01-04",
-        "2022-03-05"
+        "2022-03-05",
+        "2022-05-07"
       ]
     },
     {
