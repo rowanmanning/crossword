@@ -33,6 +33,14 @@
       ]
     },
     {
+      "person": "binaryberry",
+      "count": 2,
+      "dates": [
+        "2021-07-08",
+        "2022-05-08"
+      ]
+    },
+    {
       "person": "leaf",
       "count": 2,
       "dates": [
@@ -54,13 +62,6 @@
       "dates": [
         "2022-02-04",
         "2022-02-20"
-      ]
-    },
-    {
-      "person": "binaryberry",
-      "count": 1,
-      "dates": [
-        "2021-07-08"
       ]
     },
     {
@@ -106,5 +107,5 @@
       ]
     }
   ],
-  "totalUnlocks": 23
+  "totalUnlocks": 24
 }
