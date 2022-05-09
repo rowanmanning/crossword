@@ -40,6 +40,11 @@
 		"seconds": 36
 	},
 	{
+		"name": "ivo",
+		"scrapeTime": "2022-05-09T19:02:22.337Z",
+		"seconds": 38
+	},
+	{
 		"name": "Lily2point0",
 		"scrapeTime": "2022-05-08T22:34:16.929Z",
 		"seconds": 38
@@ -61,11 +66,6 @@
 	},
 	{
 		"name": "arjun137",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
-		"name": "ivo",
 		"scrapeTime": null,
 		"seconds": null
 	},
