@@ -5,12 +5,12 @@
     {
       "person": "Rowan M",
       "leaderboard": "2022-05-10",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 37,
+      "totalSeconds": 37,
+      "position": 6,
+      "scrapeTime": "2022-05-10T19:31:52.461Z",
+      "isPending": false
     },
     {
       "person": "Rowan M",
@@ -3263,7 +3263,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 783,
+  "awardCount": 787,
   "awards": [
     {
       "title": "Gold",
@@ -3984,7 +3984,8 @@
         "2022-04-29",
         "2022-05-01",
         "2022-05-03",
-        "2022-05-04"
+        "2022-05-04",
+        "2022-05-10"
       ]
     },
     {
@@ -4090,6 +4091,7 @@
       "type": "chain-3",
       "text": "Participate in a chain of three sequential times",
       "dates": [
+        "2022-05-10",
         "2022-03-28",
         "2022-03-16",
         "2022-02-03",
@@ -4128,7 +4130,8 @@
         "2021-06-23",
         "2022-01-04",
         "2022-02-19",
-        "2022-04-12"
+        "2022-04-12",
+        "2022-05-10"
       ]
     },
     {
@@ -4205,7 +4208,8 @@
         "2022-04-23",
         "2022-04-25",
         "2022-04-26",
-        "2022-05-04"
+        "2022-05-04",
+        "2022-05-10"
       ]
     },
     {
