@@ -8,7 +8,7 @@
       "minutes": 0,
       "seconds": 43,
       "totalSeconds": 43,
-      "position": 5,
+      "position": 6,
       "scrapeTime": "2022-05-10T04:38:51.524Z",
       "isPending": false
     },
@@ -3263,7 +3263,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 414,
+  "awardCount": 415,
   "awards": [
     {
       "title": "Silver",
@@ -3722,7 +3722,8 @@
         "2022-03-29",
         "2022-04-09",
         "2022-04-10",
-        "2022-04-28"
+        "2022-04-28",
+        "2022-05-10"
       ]
     },
     {
