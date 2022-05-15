@@ -449,19 +449,20 @@
       ]
     },
     {
+      "person": "Otherowan",
+      "count": 2,
+      "dates": [
+        "2022-05-04",
+        "2022-05-15"
+      ]
+    },
+    {
       "person": "binaryberry",
       "count": 1,
       "dates": [
         "2022-03-29"
       ]
-    },
-    {
-      "person": "Otherowan",
-      "count": 1,
-      "dates": [
-        "2022-05-04"
-      ]
     }
   ],
-  "totalUnlocks": 368
+  "totalUnlocks": 369
 }
