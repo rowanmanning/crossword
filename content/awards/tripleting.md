@@ -37,6 +37,16 @@
       ]
     },
     {
+      "person": "apaleslimghost",
+      "count": 4,
+      "dates": [
+        "2021-10-13",
+        "2021-12-06",
+        "2022-01-26",
+        "2022-05-17"
+      ]
+    },
+    {
       "person": "itsalex",
       "count": 3,
       "dates": [
@@ -51,15 +61,6 @@
       "dates": [
         "2021-10-12",
         "2021-10-13",
-        "2022-01-26"
-      ]
-    },
-    {
-      "person": "apaleslimghost",
-      "count": 3,
-      "dates": [
-        "2021-10-13",
-        "2021-12-06",
         "2022-01-26"
       ]
     },
@@ -82,11 +83,27 @@
       ]
     },
     {
+      "person": "ivo",
+      "count": 2,
+      "dates": [
+        "2021-10-12",
+        "2022-05-17"
+      ]
+    },
+    {
       "person": "leaf",
       "count": 2,
       "dates": [
         "2021-12-06",
         "2021-12-26"
+      ]
+    },
+    {
+      "person": "Alice Bartlett",
+      "count": 2,
+      "dates": [
+        "2021-12-22",
+        "2022-05-17"
       ]
     },
     {
@@ -97,24 +114,10 @@
       ]
     },
     {
-      "person": "ivo",
-      "count": 1,
-      "dates": [
-        "2021-10-12"
-      ]
-    },
-    {
       "person": "Lily2point0",
       "count": 1,
       "dates": [
         "2021-12-06"
-      ]
-    },
-    {
-      "person": "Alice Bartlett",
-      "count": 1,
-      "dates": [
-        "2021-12-22"
       ]
     },
     {
@@ -125,5 +128,5 @@
       ]
     }
   ],
-  "totalUnlocks": 36
+  "totalUnlocks": 39
 }

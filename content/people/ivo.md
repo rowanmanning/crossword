@@ -5,12 +5,12 @@
     {
       "person": "ivo",
       "leaderboard": "2022-05-17",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 28,
+      "totalSeconds": 28,
+      "position": 3,
+      "scrapeTime": "2022-05-17T11:04:38.592Z",
+      "isPending": false
     },
     {
       "person": "ivo",
@@ -2483,7 +2483,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 471,
+  "awardCount": 475,
   "awards": [
     {
       "title": "Gold",
@@ -2690,7 +2690,8 @@
         "2022-04-14",
         "2022-04-17",
         "2022-04-27",
-        "2022-05-01"
+        "2022-05-01",
+        "2022-05-17"
       ]
     },
     {
@@ -2964,7 +2965,8 @@
         "2022-04-14",
         "2022-04-18",
         "2022-04-27",
-        "2022-04-28"
+        "2022-04-28",
+        "2022-05-17"
       ]
     },
     {
@@ -3048,7 +3050,8 @@
         "2021-09-16",
         "2021-12-14",
         "2022-03-15",
-        "2022-03-31"
+        "2022-03-31",
+        "2022-05-17"
       ]
     },
     {
@@ -3120,7 +3123,8 @@
       "type": "tripleting",
       "text": "Get the same time as two other people",
       "dates": [
-        "2021-10-12"
+        "2021-10-12",
+        "2022-05-17"
       ]
     },
     {
