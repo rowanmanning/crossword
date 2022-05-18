@@ -5,12 +5,12 @@
     {
       "person": "joelcarr",
       "leaderboard": "2022-05-18",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 6,
+      "totalSeconds": 126,
+      "position": 9,
+      "scrapeTime": "2022-05-18T09:35:09.590Z",
+      "isPending": false
     },
     {
       "person": "joelcarr",
@@ -3343,7 +3343,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 207,
+  "awardCount": 208,
   "awards": [
     {
       "title": "Bronze",
@@ -3634,7 +3634,8 @@
       "type": "holiday",
       "text": "Come back to the crossword after a week off",
       "dates": [
-        "2021-10-18"
+        "2021-10-18",
+        "2022-05-18"
       ]
     },
     {

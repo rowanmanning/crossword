@@ -28,6 +28,14 @@
       ]
     },
     {
+      "person": "joelcarr",
+      "count": 2,
+      "dates": [
+        "2021-10-18",
+        "2022-05-18"
+      ]
+    },
+    {
       "person": "leaf",
       "count": 2,
       "dates": [
@@ -55,14 +63,7 @@
       "dates": [
         "2021-09-13"
       ]
-    },
-    {
-      "person": "joelcarr",
-      "count": 1,
-      "dates": [
-        "2021-10-18"
-      ]
     }
   ],
-  "totalUnlocks": 17
+  "totalUnlocks": 18
 }
