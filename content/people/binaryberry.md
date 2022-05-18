@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "binaryberry",
+      "leaderboard": "2022-05-18",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "binaryberry",
       "leaderboard": "2022-05-17",
       "minutes": 0,
       "seconds": 33,
@@ -3333,7 +3343,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 427,
+  "awardCount": 428,
   "awards": [
     {
       "title": "Silver",
@@ -3871,7 +3881,8 @@
       "text": "His number is six hundred and sixty-six",
       "dates": [
         "2021-12-07",
-        "2022-02-08"
+        "2022-02-08",
+        "2022-05-17"
       ]
     },
     {
