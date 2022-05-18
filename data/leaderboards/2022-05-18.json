@@ -10,6 +10,11 @@
 		"seconds": 50
 	},
 	{
+		"name": "itsalex",
+		"scrapeTime": "2022-05-18T10:36:08.529Z",
+		"seconds": 61
+	},
+	{
 		"name": "Alice Bartlett",
 		"scrapeTime": "2022-05-18T08:03:02.413Z",
 		"seconds": 65
@@ -61,11 +66,6 @@
 	},
 	{
 		"name": "cb",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
-		"name": "itsalex",
 		"scrapeTime": null,
 		"seconds": null
 	},
