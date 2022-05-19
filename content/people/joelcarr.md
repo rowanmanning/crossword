@@ -5,12 +5,12 @@
     {
       "person": "joelcarr",
       "leaderboard": "2022-05-19",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 24,
+      "totalSeconds": 24,
+      "position": 3,
+      "scrapeTime": "2022-05-19T13:15:09.180Z",
+      "isPending": false
     },
     {
       "person": "joelcarr",
@@ -3335,25 +3335,25 @@
   ],
   "best": {
     "person": "joelcarr",
-    "leaderboard": "2022-04-06",
+    "leaderboard": "2022-05-19",
     "minutes": 0,
-    "seconds": 49,
-    "totalSeconds": 49,
-    "position": 11,
-    "scrapeTime": "2022-04-06T08:02:25.494Z",
+    "seconds": 24,
+    "totalSeconds": 24,
+    "position": 3,
+    "scrapeTime": "2022-05-19T13:15:09.180Z",
     "isPending": false
   },
   "mean": {
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 53,
-    "totalSeconds": 173,
+    "seconds": 52,
+    "totalSeconds": 172,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 208,
+  "awardCount": 210,
   "awards": [
     {
       "title": "Bronze",
@@ -3449,7 +3449,8 @@
         "2022-01-04",
         "2022-01-26",
         "2022-02-10",
-        "2022-03-10"
+        "2022-03-10",
+        "2022-05-19"
       ]
     },
     {
@@ -3554,6 +3555,14 @@
         "2022-01-10",
         "2022-03-29",
         "2022-04-06"
+      ]
+    },
+    {
+      "title": "Sub 30 Seconds",
+      "type": "sub-30",
+      "text": "Complete a puzzle in less than 30 seconds",
+      "dates": [
+        "2022-05-19"
       ]
     },
     {
