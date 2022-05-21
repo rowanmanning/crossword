@@ -105,19 +105,20 @@
       ]
     },
     {
+      "person": "Otherowan",
+      "count": 3,
+      "dates": [
+        "2022-04-02",
+        "2022-04-23",
+        "2022-05-21"
+      ]
+    },
+    {
       "person": "j-sheps",
       "count": 2,
       "dates": [
         "2021-10-16",
         "2022-03-19"
-      ]
-    },
-    {
-      "person": "Otherowan",
-      "count": 2,
-      "dates": [
-        "2022-04-02",
-        "2022-04-23"
       ]
     },
     {
@@ -149,5 +150,5 @@
       ]
     }
   ],
-  "totalUnlocks": 66
+  "totalUnlocks": 67
 }

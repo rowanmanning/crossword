@@ -5,12 +5,12 @@
     {
       "person": "Otherowan",
       "leaderboard": "2022-05-21",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 46,
+      "totalSeconds": 46,
+      "position": 3,
+      "scrapeTime": "2022-05-21T12:03:15.225Z",
+      "isPending": false
     },
     {
       "person": "Otherowan",
@@ -1163,7 +1163,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 210,
+  "awardCount": 213,
   "awards": [
     {
       "title": "Gold",
@@ -1243,7 +1243,8 @@
         "2022-05-13",
         "2022-05-15",
         "2022-05-17",
-        "2022-05-19"
+        "2022-05-19",
+        "2022-05-21"
       ]
     },
     {
@@ -1362,7 +1363,8 @@
         "2022-04-26",
         "2022-04-27",
         "2022-04-28",
-        "2022-05-09"
+        "2022-05-09",
+        "2022-05-21"
       ]
     },
     {
@@ -1425,7 +1427,8 @@
       "text": "Complete a puzzle in less than a minute on a Saturday",
       "dates": [
         "2022-04-02",
-        "2022-04-23"
+        "2022-04-23",
+        "2022-05-21"
       ]
     },
     {
