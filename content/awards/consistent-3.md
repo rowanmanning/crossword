@@ -83,6 +83,14 @@
       ]
     },
     {
+      "person": "j-sheps",
+      "count": 2,
+      "dates": [
+        "2022-01-11",
+        "2022-05-22"
+      ]
+    },
+    {
       "person": "binaryberry",
       "count": 2,
       "dates": [
@@ -95,13 +103,6 @@
       "count": 1,
       "dates": [
         "2022-01-06"
-      ]
-    },
-    {
-      "person": "j-sheps",
-      "count": 1,
-      "dates": [
-        "2022-01-11"
       ]
     },
     {
@@ -119,5 +120,5 @@
       ]
     }
   ],
-  "totalUnlocks": 36
+  "totalUnlocks": 37
 }

@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "j-sheps",
+      "leaderboard": "2022-05-23",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "j-sheps",
       "leaderboard": "2022-05-22",
       "minutes": 0,
       "seconds": 54,
@@ -3383,7 +3393,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 716,
+  "awardCount": 717,
   "awards": [
     {
       "title": "Gold",
@@ -3564,7 +3574,8 @@
       "type": "consistent-3",
       "text": "Get the same position three days in a row",
       "dates": [
-        "2022-01-11"
+        "2022-01-11",
+        "2022-05-22"
       ]
     },
     {
