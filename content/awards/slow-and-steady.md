@@ -40,21 +40,22 @@
       ]
     },
     {
+      "person": "Rowan M",
+      "count": 3,
+      "dates": [
+        "2022-01-15",
+        "2022-01-30",
+        "2022-05-27"
+      ]
+    },
+    {
       "person": "j-sheps",
       "count": 2,
       "dates": [
         "2021-11-26",
         "2021-12-06"
       ]
-    },
-    {
-      "person": "Rowan M",
-      "count": 2,
-      "dates": [
-        "2022-01-15",
-        "2022-01-30"
-      ]
     }
   ],
-  "totalUnlocks": 27
+  "totalUnlocks": 28
 }
