@@ -206,12 +206,13 @@
     },
     {
       "person": "Otherowan",
-      "count": 2,
+      "count": 3,
       "dates": [
         "2022-03-20",
-        "2022-04-07"
+        "2022-04-07",
+        "2022-05-28"
       ]
     }
   ],
-  "totalUnlocks": 118
+  "totalUnlocks": 119
 }

@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Otherowan",
+      "leaderboard": "2022-05-29",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Otherowan",
       "leaderboard": "2022-05-28",
       "minutes": 2,
       "seconds": 24,
@@ -1233,7 +1243,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 224,
+  "awardCount": 225,
   "awards": [
     {
       "title": "Gold",
@@ -1641,7 +1651,8 @@
       "text": "His number is six hundred and sixty-six",
       "dates": [
         "2022-03-20",
-        "2022-04-07"
+        "2022-04-07",
+        "2022-05-28"
       ]
     },
     {
