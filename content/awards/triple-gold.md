@@ -14,17 +14,18 @@
       ]
     },
     {
+      "person": "itsalex",
+      "count": 2,
+      "dates": [
+        "2022-03-11",
+        "2022-05-30"
+      ]
+    },
+    {
       "person": "Emma L",
       "count": 1,
       "dates": [
         "2021-09-07"
-      ]
-    },
-    {
-      "person": "itsalex",
-      "count": 1,
-      "dates": [
-        "2022-03-11"
       ]
     },
     {
@@ -35,5 +36,5 @@
       ]
     }
   ],
-  "totalUnlocks": 6
+  "totalUnlocks": 7
 }

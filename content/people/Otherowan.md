@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Otherowan",
+      "leaderboard": "2022-05-31",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Otherowan",
       "leaderboard": "2022-05-30",
       "minutes": 0,
       "seconds": 30,
@@ -1253,7 +1263,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 230,
+  "awardCount": 231,
   "awards": [
     {
       "title": "Gold",
@@ -1271,7 +1281,8 @@
       "text": "Get the second fastest time for a day",
       "dates": [
         "2022-05-04",
-        "2022-05-15"
+        "2022-05-15",
+        "2022-05-30"
       ]
     },
     {
