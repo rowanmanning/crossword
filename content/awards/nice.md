@@ -106,7 +106,14 @@
       "dates": [
         "2022-05-07"
       ]
+    },
+    {
+      "person": "Otherowan",
+      "count": 1,
+      "dates": [
+        "2022-06-03"
+      ]
     }
   ],
-  "totalUnlocks": 25
+  "totalUnlocks": 26
 }
