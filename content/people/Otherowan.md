@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Otherowan",
+      "leaderboard": "2022-06-05",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Otherowan",
       "leaderboard": "2022-06-04",
       "minutes": 3,
       "seconds": 40,
@@ -1303,7 +1313,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 240,
+  "awardCount": 241,
   "awards": [
     {
       "title": "Gold",
@@ -1743,7 +1753,8 @@
       "text": "What's your emergency?",
       "dates": [
         "2022-02-17",
-        "2022-03-19"
+        "2022-03-19",
+        "2022-06-04"
       ]
     },
     {
