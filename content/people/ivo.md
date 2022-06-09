@@ -5,12 +5,12 @@
     {
       "person": "ivo",
       "leaderboard": "2022-06-09",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 39,
+      "totalSeconds": 39,
+      "position": 2,
+      "scrapeTime": "2022-06-09T11:32:04.885Z",
+      "isPending": false
     },
     {
       "person": "ivo",
@@ -2707,13 +2707,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 30,
-    "totalSeconds": 90,
+    "seconds": 29,
+    "totalSeconds": 89,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 512,
+  "awardCount": 514,
   "awards": [
     {
       "title": "Gold",
@@ -3196,7 +3196,8 @@
         "2022-05-29",
         "2022-05-30",
         "2022-06-06",
-        "2022-06-08"
+        "2022-06-08",
+        "2022-06-09"
       ]
     },
     {
@@ -3274,6 +3275,7 @@
       "type": "chain-3",
       "text": "Participate in a chain of three sequential times",
       "dates": [
+        "2022-06-09",
         "2022-04-11",
         "2022-04-05",
         "2022-04-02",
