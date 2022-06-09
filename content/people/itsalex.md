@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "itsalex",
+      "leaderboard": "2022-06-09",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "itsalex",
       "leaderboard": "2022-06-08",
       "minutes": 0,
       "seconds": 27,
@@ -3523,7 +3533,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 569,
+  "awardCount": 571,
   "awards": [
     {
       "title": "Gold",
@@ -3597,7 +3607,8 @@
         "2022-06-03",
         "2022-06-04",
         "2022-06-06",
-        "2022-06-07"
+        "2022-06-07",
+        "2022-06-08"
       ]
     },
     {
@@ -3630,7 +3641,8 @@
       "text": "Get the fastest time three days in a row",
       "dates": [
         "2022-03-11",
-        "2022-05-30"
+        "2022-05-30",
+        "2022-06-08"
       ]
     },
     {
