@@ -5,12 +5,12 @@
     {
       "person": "Otherowan",
       "leaderboard": "2022-06-10",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 17,
+      "totalSeconds": 77,
+      "position": 9,
+      "scrapeTime": "2022-06-10T20:02:32.230Z",
+      "isPending": false
     },
     {
       "person": "Otherowan",
@@ -1363,7 +1363,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 250,
+  "awardCount": 252,
   "awards": [
     {
       "title": "Gold",
@@ -1553,7 +1553,8 @@
         "2022-05-31",
         "2022-06-03",
         "2022-06-06",
-        "2022-06-07"
+        "2022-06-07",
+        "2022-06-10"
       ]
     },
     {
@@ -1717,6 +1718,14 @@
         "2022-04-03",
         "2022-04-20",
         "2022-05-18"
+      ]
+    },
+    {
+      "title": "Month-Long Streak",
+      "type": "month-streak",
+      "text": "Play for a full month (30 days) without breaks",
+      "dates": [
+        "2022-06-10"
       ]
     },
     {
