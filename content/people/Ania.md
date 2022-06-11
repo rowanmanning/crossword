@@ -5,12 +5,12 @@
     {
       "person": "Ania",
       "leaderboard": "2022-06-11",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 3,
+      "seconds": 8,
+      "totalSeconds": 188,
+      "position": 6,
+      "scrapeTime": "2022-06-11T11:02:16.047Z",
+      "isPending": false
     },
     {
       "person": "Ania",
@@ -3583,7 +3583,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 634,
+  "awardCount": 636,
   "awards": [
     {
       "title": "Gold",
@@ -3908,7 +3908,8 @@
         "2022-05-02",
         "2022-05-18",
         "2022-05-20",
-        "2022-05-23"
+        "2022-05-23",
+        "2022-06-11"
       ]
     },
     {
@@ -4323,6 +4324,14 @@
       "dates": [
         "2021-11-05",
         "2022-02-10"
+      ]
+    },
+    {
+      "title": "Holiday",
+      "type": "holiday",
+      "text": "Come back to the crossword after a week off",
+      "dates": [
+        "2022-06-11"
       ]
     },
     {
