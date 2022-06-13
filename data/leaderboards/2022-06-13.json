@@ -35,6 +35,11 @@
 		"seconds": 31
 	},
 	{
+		"name": "Rowan M",
+		"scrapeTime": "2022-06-13T15:40:04.482Z",
+		"seconds": 39
+	},
+	{
 		"name": "binaryberry",
 		"scrapeTime": "2022-06-13T07:32:59.182Z",
 		"seconds": 47
@@ -81,11 +86,6 @@
 	},
 	{
 		"name": "Otherowan",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
-		"name": "Rowan M",
 		"scrapeTime": null,
 		"seconds": null
 	},
