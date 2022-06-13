@@ -5,12 +5,12 @@
     {
       "person": "ivo",
       "leaderboard": "2022-06-13",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 18,
+      "totalSeconds": 18,
+      "position": 3,
+      "scrapeTime": "2022-06-13T11:02:24.719Z",
+      "isPending": false
     },
     {
       "person": "ivo",
@@ -2735,12 +2735,12 @@
   ],
   "best": {
     "person": "ivo",
-    "leaderboard": "2021-12-22",
+    "leaderboard": "2022-06-13",
     "minutes": 0,
-    "seconds": 22,
-    "totalSeconds": 22,
-    "position": 1,
-    "scrapeTime": "2021-12-22T10:35:41.692Z",
+    "seconds": 18,
+    "totalSeconds": 18,
+    "position": 3,
+    "scrapeTime": "2022-06-13T11:02:24.719Z",
     "isPending": false
   },
   "mean": {
@@ -2753,7 +2753,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 518,
+  "awardCount": 521,
   "awards": [
     {
       "title": "Gold",
@@ -2971,7 +2971,8 @@
         "2022-04-17",
         "2022-04-27",
         "2022-05-01",
-        "2022-05-17"
+        "2022-05-17",
+        "2022-06-13"
       ]
     },
     {
@@ -3274,6 +3275,14 @@
       ]
     },
     {
+      "title": "Sub 20 Seconds",
+      "type": "sub-20",
+      "text": "Complete a puzzle in less than 20 seconds",
+      "dates": [
+        "2022-06-13"
+      ]
+    },
+    {
       "title": "Over Five Minutes",
       "type": "over-300",
       "text": "Complete a puzzle in more than 5 minutes",
@@ -3426,7 +3435,8 @@
         "2022-05-11",
         "2022-05-21",
         "2022-05-29",
-        "2022-06-06"
+        "2022-06-06",
+        "2022-06-13"
       ]
     },
     {
