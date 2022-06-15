@@ -20,6 +20,11 @@
 		"seconds": 76
 	},
 	{
+		"name": "Ania",
+		"scrapeTime": "2022-06-15T08:38:16.722Z",
+		"seconds": 104
+	},
+	{
 		"name": "binaryberry",
 		"scrapeTime": "2022-06-15T05:05:33.893Z",
 		"seconds": 111
@@ -31,11 +36,6 @@
 	},
 	{
 		"name": "Alice Bartlett",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
-		"name": "Ania",
 		"scrapeTime": null,
 		"seconds": null
 	},
