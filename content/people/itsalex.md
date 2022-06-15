@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "itsalex",
+      "leaderboard": "2022-06-15",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "itsalex",
       "leaderboard": "2022-06-14",
       "minutes": 0,
       "seconds": 17,
@@ -3583,7 +3593,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 586,
+  "awardCount": 590,
   "awards": [
     {
       "title": "Gold",
@@ -3659,7 +3669,8 @@
         "2022-06-06",
         "2022-06-07",
         "2022-06-08",
-        "2022-06-09"
+        "2022-06-09",
+        "2022-06-14"
       ]
     },
     {
@@ -3839,7 +3850,8 @@
         "2021-07-28",
         "2021-08-19",
         "2021-08-26",
-        "2022-05-26"
+        "2022-05-26",
+        "2022-06-14"
       ]
     },
     {
@@ -3847,7 +3859,8 @@
       "type": "podium-climbing",
       "text": "Unlock third, second, then first place awards in order",
       "dates": [
-        "2021-07-28"
+        "2021-07-28",
+        "2022-06-14"
       ]
     },
     {
@@ -4434,7 +4447,8 @@
         "2022-04-22",
         "2022-05-03",
         "2022-05-23",
-        "2022-06-06"
+        "2022-06-06",
+        "2022-06-14"
       ]
     }
   ]

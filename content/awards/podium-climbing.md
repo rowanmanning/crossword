@@ -15,20 +15,21 @@
       ]
     },
     {
+      "person": "itsalex",
+      "count": 2,
+      "dates": [
+        "2021-07-28",
+        "2022-06-14"
+      ]
+    },
+    {
       "person": "cb",
       "count": 2,
       "dates": [
         "2022-02-10",
         "2022-04-20"
       ]
-    },
-    {
-      "person": "itsalex",
-      "count": 1,
-      "dates": [
-        "2021-07-28"
-      ]
     }
   ],
-  "totalUnlocks": 7
+  "totalUnlocks": 8
 }
