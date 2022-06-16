@@ -5,6 +5,21 @@
 		"seconds": 24
 	},
 	{
+		"name": "j-sheps",
+		"scrapeTime": "2022-06-16T08:39:27.253Z",
+		"seconds": 31
+	},
+	{
+		"name": "Ania",
+		"scrapeTime": "2022-06-16T08:39:27.253Z",
+		"seconds": 34
+	},
+	{
+		"name": "ivo",
+		"scrapeTime": "2022-06-16T08:39:27.253Z",
+		"seconds": 35
+	},
+	{
 		"name": "binaryberry",
 		"scrapeTime": "2022-06-16T03:50:48.257Z",
 		"seconds": 43
@@ -25,11 +40,6 @@
 		"seconds": null
 	},
 	{
-		"name": "Ania",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
 		"name": "apaleslimghost",
 		"scrapeTime": null,
 		"seconds": null
@@ -46,16 +56,6 @@
 	},
 	{
 		"name": "itsalex",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
-		"name": "ivo",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
-		"name": "j-sheps",
 		"scrapeTime": null,
 		"seconds": null
 	},
