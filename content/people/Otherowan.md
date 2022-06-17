@@ -5,12 +5,12 @@
     {
       "person": "Otherowan",
       "leaderboard": "2022-06-17",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 42,
+      "totalSeconds": 42,
+      "position": 7,
+      "scrapeTime": "2022-06-17T21:02:55.112Z",
+      "isPending": false
     },
     {
       "person": "Otherowan",
@@ -1427,13 +1427,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 21,
-    "totalSeconds": 81,
+    "seconds": 20,
+    "totalSeconds": 80,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 262,
+  "awardCount": 266,
   "awards": [
     {
       "title": "Gold",
@@ -1695,7 +1695,8 @@
         "2022-05-30",
         "2022-06-01",
         "2022-06-05",
-        "2022-06-16"
+        "2022-06-16",
+        "2022-06-17"
       ]
     },
     {
@@ -1766,6 +1767,7 @@
       "type": "chain-4",
       "text": "Participate in a chain of four sequential times",
       "dates": [
+        "2022-06-17",
         "2022-05-13",
         "2022-04-07"
       ]
@@ -1780,7 +1782,8 @@
         "2022-03-15",
         "2022-03-30",
         "2022-04-16",
-        "2022-05-14"
+        "2022-05-14",
+        "2022-06-17"
       ]
     },
     {
@@ -1873,6 +1876,14 @@
       "text": "3.141 592 653 589 793 238 462 643…",
       "dates": [
         "2022-03-08"
+      ]
+    },
+    {
+      "title": "Don't Panic",
+      "type": "dont-panic",
+      "text": "A towel is about the most massively useful thing an interstellar hitchhiker can have",
+      "dates": [
+        "2022-06-17"
       ]
     },
     {
