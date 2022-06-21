@@ -3,6 +3,14 @@
   "id": "anniversary",
   "text": "Play the crossword on the anniversary of this website",
   "order": "301",
-  "unlocks": [],
-  "totalUnlocks": 0
+  "unlocks": [
+    {
+      "person": "Lily2point0",
+      "count": 1,
+      "dates": [
+        "2022-06-21"
+      ]
+    }
+  ],
+  "totalUnlocks": 1
 }

@@ -5,12 +5,12 @@
     {
       "person": "Lily2point0",
       "leaderboard": "2022-06-21",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 53,
+      "totalSeconds": 53,
+      "position": 1,
+      "scrapeTime": "2022-06-21T03:53:13.097Z",
+      "isPending": false
     },
     {
       "person": "Lily2point0",
@@ -3683,7 +3683,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 637,
+  "awardCount": 640,
   "awards": [
     {
       "title": "Gold",
@@ -4205,7 +4205,8 @@
         "2022-06-03",
         "2022-06-08",
         "2022-06-13",
-        "2022-06-15"
+        "2022-06-15",
+        "2022-06-21"
       ]
     },
     {
@@ -4273,6 +4274,14 @@
       "text": "Complete a puzzle in less than a minute on a Saturday",
       "dates": [
         "2021-12-25"
+      ]
+    },
+    {
+      "title": "Happy Anniversary!",
+      "type": "anniversary",
+      "text": "Play the crossword on the anniversary of this website",
+      "dates": [
+        "2022-06-21"
       ]
     },
     {
@@ -4571,7 +4580,8 @@
         "2022-05-31",
         "2022-06-02",
         "2022-06-19",
-        "2022-06-20"
+        "2022-06-20",
+        "2022-06-21"
       ]
     }
   ]
