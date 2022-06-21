@@ -5,6 +5,13 @@
   "order": "301",
   "unlocks": [
     {
+      "person": "Ania",
+      "count": 1,
+      "dates": [
+        "2022-06-21"
+      ]
+    },
+    {
       "person": "apaleslimghost",
       "count": 1,
       "dates": [
@@ -54,5 +61,5 @@
       ]
     }
   ],
-  "totalUnlocks": 7
+  "totalUnlocks": 8
 }
