@@ -5,12 +5,12 @@
     {
       "person": "j-sheps",
       "leaderboard": "2022-06-21",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 38,
+      "totalSeconds": 38,
+      "position": 3,
+      "scrapeTime": "2022-06-21T07:32:34.673Z",
+      "isPending": false
     },
     {
       "person": "j-sheps",
@@ -3683,7 +3683,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 775,
+  "awardCount": 777,
   "awards": [
     {
       "title": "Gold",
@@ -4352,7 +4352,8 @@
         "2022-06-10",
         "2022-06-14",
         "2022-06-16",
-        "2022-06-17"
+        "2022-06-17",
+        "2022-06-21"
       ]
     },
     {
@@ -4409,6 +4410,14 @@
         "2021-10-16",
         "2022-03-19",
         "2022-05-21"
+      ]
+    },
+    {
+      "title": "Happy Anniversary!",
+      "type": "anniversary",
+      "text": "Play the crossword on the anniversary of this website",
+      "dates": [
+        "2022-06-21"
       ]
     },
     {

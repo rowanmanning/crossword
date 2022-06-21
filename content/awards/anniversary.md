@@ -5,7 +5,28 @@
   "order": "301",
   "unlocks": [
     {
+      "person": "apaleslimghost",
+      "count": 1,
+      "dates": [
+        "2022-06-21"
+      ]
+    },
+    {
       "person": "binaryberry",
+      "count": 1,
+      "dates": [
+        "2022-06-21"
+      ]
+    },
+    {
+      "person": "Emma L",
+      "count": 1,
+      "dates": [
+        "2022-06-21"
+      ]
+    },
+    {
+      "person": "j-sheps",
       "count": 1,
       "dates": [
         "2022-06-21"
@@ -26,5 +47,5 @@
       ]
     }
   ],
-  "totalUnlocks": 3
+  "totalUnlocks": 6
 }
