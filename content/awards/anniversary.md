@@ -5,12 +5,26 @@
   "order": "301",
   "unlocks": [
     {
+      "person": "binaryberry",
+      "count": 1,
+      "dates": [
+        "2022-06-21"
+      ]
+    },
+    {
       "person": "Lily2point0",
+      "count": 1,
+      "dates": [
+        "2022-06-21"
+      ]
+    },
+    {
+      "person": "Rowan M",
       "count": 1,
       "dates": [
         "2022-06-21"
       ]
     }
   ],
-  "totalUnlocks": 1
+  "totalUnlocks": 3
 }

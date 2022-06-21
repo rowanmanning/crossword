@@ -5,12 +5,12 @@
     {
       "person": "Rowan M",
       "leaderboard": "2022-06-21",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 19,
+      "totalSeconds": 19,
+      "position": 1,
+      "scrapeTime": "2022-06-21T04:13:32.450Z",
+      "isPending": false
     },
     {
       "person": "Rowan M",
@@ -3683,7 +3683,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 888,
+  "awardCount": 891,
   "awards": [
     {
       "title": "Gold",
@@ -4092,7 +4092,8 @@
         "2022-05-22",
         "2022-06-10",
         "2022-06-12",
-        "2022-06-19"
+        "2022-06-19",
+        "2022-06-21"
       ]
     },
     {
@@ -4548,7 +4549,8 @@
         "2022-01-06",
         "2022-03-22",
         "2022-04-14",
-        "2022-06-10"
+        "2022-06-10",
+        "2022-06-21"
       ]
     },
     {
@@ -4569,6 +4571,14 @@
         "2022-05-28",
         "2022-06-04",
         "2022-06-11"
+      ]
+    },
+    {
+      "title": "Happy Anniversary!",
+      "type": "anniversary",
+      "text": "Play the crossword on the anniversary of this website",
+      "dates": [
+        "2022-06-21"
       ]
     },
     {
