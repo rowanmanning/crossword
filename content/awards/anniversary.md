@@ -26,6 +26,13 @@
       ]
     },
     {
+      "person": "ivo",
+      "count": 1,
+      "dates": [
+        "2022-06-21"
+      ]
+    },
+    {
       "person": "j-sheps",
       "count": 1,
       "dates": [
@@ -47,5 +54,5 @@
       ]
     }
   ],
-  "totalUnlocks": 6
+  "totalUnlocks": 7
 }
