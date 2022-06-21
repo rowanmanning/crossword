@@ -61,6 +61,13 @@
       ]
     },
     {
+      "person": "Otherowan",
+      "count": 1,
+      "dates": [
+        "2022-06-21"
+      ]
+    },
+    {
       "person": "Rowan M",
       "count": 1,
       "dates": [
@@ -68,5 +75,5 @@
       ]
     }
   ],
-  "totalUnlocks": 9
+  "totalUnlocks": 10
 }

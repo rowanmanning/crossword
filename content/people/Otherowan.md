@@ -5,12 +5,12 @@
     {
       "person": "Otherowan",
       "leaderboard": "2022-06-21",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 38,
+      "totalSeconds": 38,
+      "position": 6,
+      "scrapeTime": "2022-06-21T21:32:42.092Z",
+      "isPending": false
     },
     {
       "person": "Otherowan",
@@ -1473,7 +1473,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 269,
+  "awardCount": 273,
   "awards": [
     {
       "title": "Gold",
@@ -1739,7 +1739,8 @@
         "2022-06-01",
         "2022-06-05",
         "2022-06-16",
-        "2022-06-17"
+        "2022-06-17",
+        "2022-06-21"
       ]
     },
     {
@@ -1780,6 +1781,14 @@
         "2022-04-02",
         "2022-04-23",
         "2022-05-21"
+      ]
+    },
+    {
+      "title": "Happy Anniversary!",
+      "type": "anniversary",
+      "text": "Play the crossword on the anniversary of this website",
+      "dates": [
+        "2022-06-21"
       ]
     },
     {
@@ -1839,7 +1848,8 @@
         "2022-03-19",
         "2022-04-03",
         "2022-04-20",
-        "2022-05-18"
+        "2022-05-18",
+        "2022-06-21"
       ]
     },
     {
@@ -1874,7 +1884,8 @@
         "2022-05-19",
         "2022-05-24",
         "2022-05-29",
-        "2022-06-16"
+        "2022-06-16",
+        "2022-06-21"
       ]
     },
     {
