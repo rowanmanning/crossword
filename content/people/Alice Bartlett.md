@@ -5,12 +5,12 @@
     {
       "person": "Alice Bartlett",
       "leaderboard": "2022-06-22",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 7,
+      "totalSeconds": 67,
+      "position": 5,
+      "scrapeTime": "2022-06-22T19:31:52.735Z",
+      "isPending": false
     },
     {
       "person": "Alice Bartlett",
@@ -2287,13 +2287,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 31,
-    "totalSeconds": 91,
+    "seconds": 30,
+    "totalSeconds": 90,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 309,
+  "awardCount": 311,
   "awards": [
     {
       "title": "Gold",
@@ -2542,7 +2542,8 @@
         "2022-05-23",
         "2022-05-24",
         "2022-05-30",
-        "2022-06-04"
+        "2022-06-04",
+        "2022-06-22"
       ]
     },
     {
@@ -2713,6 +2714,14 @@
       "text": "Play for a full month (30 days) without breaks",
       "dates": [
         "2022-03-13"
+      ]
+    },
+    {
+      "title": "Holiday",
+      "type": "holiday",
+      "text": "Come back to the crossword after a week off",
+      "dates": [
+        "2022-06-22"
       ]
     },
     {
