@@ -25,6 +25,11 @@
 		"seconds": 103
 	},
 	{
+		"name": "ivo",
+		"scrapeTime": "2022-06-22T09:34:08.321Z",
+		"seconds": 123
+	},
+	{
 		"name": "Alice Bartlett",
 		"scrapeTime": null,
 		"seconds": null
@@ -41,11 +46,6 @@
 	},
 	{
 		"name": "cb",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
-		"name": "ivo",
 		"scrapeTime": null,
 		"seconds": null
 	},
