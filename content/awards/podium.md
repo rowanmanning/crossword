@@ -69,6 +69,15 @@
       ]
     },
     {
+      "person": "apaleslimghost",
+      "count": 3,
+      "dates": [
+        "2022-01-02",
+        "2022-02-15",
+        "2022-06-23"
+      ]
+    },
+    {
       "person": "j-sheps",
       "count": 2,
       "dates": [
@@ -82,14 +91,6 @@
       "dates": [
         "2021-09-01",
         "2022-05-06"
-      ]
-    },
-    {
-      "person": "apaleslimghost",
-      "count": 2,
-      "dates": [
-        "2022-01-02",
-        "2022-02-15"
       ]
     },
     {
@@ -107,5 +108,5 @@
       ]
     }
   ],
-  "totalUnlocks": 48
+  "totalUnlocks": 49
 }
