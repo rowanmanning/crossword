@@ -5,12 +5,12 @@
     {
       "person": "itsalex",
       "leaderboard": "2022-06-24",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 22,
+      "totalSeconds": 22,
+      "position": 1,
+      "scrapeTime": "2022-06-24T04:43:40.318Z",
+      "isPending": false
     },
     {
       "person": "itsalex",
@@ -3683,7 +3683,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 609,
+  "awardCount": 611,
   "awards": [
     {
       "title": "Gold",
@@ -4273,7 +4273,8 @@
         "2022-06-09",
         "2022-06-15",
         "2022-06-19",
-        "2022-06-22"
+        "2022-06-22",
+        "2022-06-24"
       ]
     },
     {
@@ -4540,6 +4541,14 @@
       "text": "What's your emergency?",
       "dates": [
         "2022-04-19"
+      ]
+    },
+    {
+      "title": "Quick Draw",
+      "type": "quick-draw",
+      "text": "Complete a puzzle before anyone else (or within 30 minutes of the first person)",
+      "dates": [
+        "2022-06-24"
       ]
     },
     {

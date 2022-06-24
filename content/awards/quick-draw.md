@@ -369,7 +369,14 @@
       "dates": [
         "2022-02-11"
       ]
+    },
+    {
+      "person": "itsalex",
+      "count": 1,
+      "dates": [
+        "2022-06-24"
+      ]
     }
   ],
-  "totalUnlocks": 294
+  "totalUnlocks": 295
 }
