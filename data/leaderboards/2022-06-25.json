@@ -15,22 +15,22 @@
 		"seconds": 95
 	},
 	{
+		"name": "apaleslimghost",
+		"scrapeTime": "2022-06-25T07:32:09.602Z",
+		"seconds": 124
+	},
+	{
+		"name": "binaryberry",
+		"scrapeTime": "2022-06-25T07:32:09.602Z",
+		"seconds": 155
+	},
+	{
 		"name": "Ania",
 		"scrapeTime": null,
 		"seconds": null
 	},
 	{
-		"name": "apaleslimghost",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
 		"name": "arjun137",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
-		"name": "binaryberry",
 		"scrapeTime": null,
 		"seconds": null
 	},
