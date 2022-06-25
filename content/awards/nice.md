@@ -67,6 +67,14 @@
       ]
     },
     {
+      "person": "Emma L",
+      "count": 2,
+      "dates": [
+        "2022-01-28",
+        "2022-06-26"
+      ]
+    },
+    {
       "person": "varjmes",
       "count": 1,
       "dates": [
@@ -85,13 +93,6 @@
       "count": 1,
       "dates": [
         "2021-12-26"
-      ]
-    },
-    {
-      "person": "Emma L",
-      "count": 1,
-      "dates": [
-        "2022-01-28"
       ]
     },
     {
@@ -116,5 +117,5 @@
       ]
     }
   ],
-  "totalUnlocks": 27
+  "totalUnlocks": 28
 }
