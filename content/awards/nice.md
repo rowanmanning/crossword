@@ -75,6 +75,14 @@
       ]
     },
     {
+      "person": "Alice Bartlett",
+      "count": 2,
+      "dates": [
+        "2022-04-03",
+        "2022-06-29"
+      ]
+    },
+    {
       "person": "varjmes",
       "count": 1,
       "dates": [
@@ -96,13 +104,6 @@
       ]
     },
     {
-      "person": "Alice Bartlett",
-      "count": 1,
-      "dates": [
-        "2022-04-03"
-      ]
-    },
-    {
       "person": "ivo",
       "count": 1,
       "dates": [
@@ -117,5 +118,5 @@
       ]
     }
   ],
-  "totalUnlocks": 28
+  "totalUnlocks": 29
 }
