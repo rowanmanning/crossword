@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Lily2point0",
+      "leaderboard": "2022-07-01",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Lily2point0",
       "leaderboard": "2022-06-30",
       "minutes": 0,
       "seconds": 46,
@@ -3773,7 +3783,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 655,
+  "awardCount": 656,
   "awards": [
     {
       "title": "Gold",
@@ -3802,7 +3812,8 @@
       "text": "Get the third fastest time for a day",
       "dates": [
         "2021-06-25",
-        "2022-02-21"
+        "2022-02-21",
+        "2022-06-30"
       ]
     },
     {
