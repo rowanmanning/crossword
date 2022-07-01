@@ -67,6 +67,14 @@
       ]
     },
     {
+      "person": "Ania",
+      "count": 2,
+      "dates": [
+        "2021-12-26",
+        "2022-07-01"
+      ]
+    },
+    {
       "person": "Emma L",
       "count": 2,
       "dates": [
@@ -97,13 +105,6 @@
       ]
     },
     {
-      "person": "Ania",
-      "count": 1,
-      "dates": [
-        "2021-12-26"
-      ]
-    },
-    {
       "person": "ivo",
       "count": 1,
       "dates": [
@@ -118,5 +119,5 @@
       ]
     }
   ],
-  "totalUnlocks": 29
+  "totalUnlocks": 30
 }
