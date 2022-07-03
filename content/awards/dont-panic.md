@@ -114,6 +114,14 @@
       ]
     },
     {
+      "person": "Otherowan",
+      "count": 2,
+      "dates": [
+        "2022-06-17",
+        "2022-07-03"
+      ]
+    },
+    {
       "person": "arjun137",
       "count": 1,
       "dates": [
@@ -154,14 +162,7 @@
       "dates": [
         "2022-03-01"
       ]
-    },
-    {
-      "person": "Otherowan",
-      "count": 1,
-      "dates": [
-        "2022-06-17"
-      ]
     }
   ],
-  "totalUnlocks": 62
+  "totalUnlocks": 63
 }
