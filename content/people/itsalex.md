@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "itsalex",
+      "leaderboard": "2022-07-09",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "itsalex",
       "leaderboard": "2022-07-08",
       "minutes": 0,
       "seconds": 16,
@@ -3823,7 +3833,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 653,
+  "awardCount": 657,
   "awards": [
     {
       "title": "Gold",
@@ -3913,7 +3923,8 @@
         "2022-07-01",
         "2022-07-02",
         "2022-07-03",
-        "2022-07-04"
+        "2022-07-04",
+        "2022-07-08"
       ]
     },
     {
@@ -4107,7 +4118,8 @@
         "2021-08-19",
         "2021-08-26",
         "2022-05-26",
-        "2022-06-14"
+        "2022-06-14",
+        "2022-07-08"
       ]
     },
     {
@@ -4116,7 +4128,8 @@
       "text": "Unlock third, second, then first place awards in order",
       "dates": [
         "2021-07-28",
-        "2022-06-14"
+        "2022-06-14",
+        "2022-07-08"
       ]
     },
     {
@@ -4748,7 +4761,8 @@
         "2022-05-03",
         "2022-05-23",
         "2022-06-06",
-        "2022-06-14"
+        "2022-06-14",
+        "2022-07-08"
       ]
     }
   ]

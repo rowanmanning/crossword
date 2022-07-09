@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Rowan M",
+      "leaderboard": "2022-07-09",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Rowan M",
       "leaderboard": "2022-07-08",
       "minutes": 0,
       "seconds": 49,
@@ -3853,7 +3863,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 921,
+  "awardCount": 922,
   "awards": [
     {
       "title": "Gold",
@@ -4175,7 +4185,8 @@
         "2022-03-07",
         "2022-03-26",
         "2022-05-16",
-        "2022-06-09"
+        "2022-06-09",
+        "2022-07-08"
       ]
     },
     {
