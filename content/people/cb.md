@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "cb",
+      "leaderboard": "2022-07-15",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "cb",
       "leaderboard": "2022-07-14",
       "minutes": 0,
       "seconds": 19,
@@ -3833,7 +3843,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1004,
+  "awardCount": 1008,
   "awards": [
     {
       "title": "Gold",
@@ -3943,7 +3953,8 @@
         "2022-06-16",
         "2022-07-06",
         "2022-07-07",
-        "2022-07-09"
+        "2022-07-09",
+        "2022-07-14"
       ]
     },
     {
@@ -4255,7 +4266,8 @@
         "2022-05-20",
         "2022-06-07",
         "2022-06-10",
-        "2022-06-18"
+        "2022-06-18",
+        "2022-07-14"
       ]
     },
     {
@@ -4264,7 +4276,8 @@
       "text": "Unlock third, second, then first place awards in order",
       "dates": [
         "2022-02-10",
-        "2022-04-20"
+        "2022-04-20",
+        "2022-07-14"
       ]
     },
     {
@@ -5048,7 +5061,8 @@
         "2022-04-12",
         "2022-05-03",
         "2022-05-27",
-        "2022-05-28"
+        "2022-05-28",
+        "2022-07-14"
       ]
     },
     {
