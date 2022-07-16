@@ -5,12 +5,12 @@
     {
       "person": "itsalex",
       "leaderboard": "2022-07-16",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 45,
+      "totalSeconds": 45,
+      "position": 1,
+      "scrapeTime": "2022-07-16T07:02:17.229Z",
+      "isPending": false
     },
     {
       "person": "itsalex",
@@ -3903,7 +3903,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 676,
+  "awardCount": 680,
   "awards": [
     {
       "title": "Gold",
@@ -4305,7 +4305,8 @@
         "2022-06-25",
         "2022-06-28",
         "2022-07-04",
-        "2022-07-09"
+        "2022-07-09",
+        "2022-07-16"
       ]
     },
     {
@@ -4393,7 +4394,8 @@
         "2022-06-11",
         "2022-06-25",
         "2022-07-02",
-        "2022-07-06"
+        "2022-07-06",
+        "2022-07-16"
       ]
     },
     {
@@ -4603,7 +4605,8 @@
         "2022-06-18",
         "2022-06-25",
         "2022-07-02",
-        "2022-07-09"
+        "2022-07-09",
+        "2022-07-16"
       ]
     },
     {
@@ -4832,7 +4835,8 @@
       "type": "quick-draw",
       "text": "Complete a puzzle before anyone else (or within 30 minutes of the first person)",
       "dates": [
-        "2022-06-24"
+        "2022-06-24",
+        "2022-07-16"
       ]
     },
     {
