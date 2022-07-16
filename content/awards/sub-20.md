@@ -100,6 +100,15 @@
       ]
     },
     {
+      "person": "j-sheps",
+      "count": 3,
+      "dates": [
+        "2021-11-26",
+        "2022-06-13",
+        "2022-07-17"
+      ]
+    },
+    {
       "person": "Otherowan",
       "count": 3,
       "dates": [
@@ -125,14 +134,6 @@
       ]
     },
     {
-      "person": "j-sheps",
-      "count": 2,
-      "dates": [
-        "2021-11-26",
-        "2022-06-13"
-      ]
-    },
-    {
       "person": "Alice Bartlett",
       "count": 1,
       "dates": [
@@ -147,5 +148,5 @@
       ]
     }
   ],
-  "totalUnlocks": 70
+  "totalUnlocks": 71
 }

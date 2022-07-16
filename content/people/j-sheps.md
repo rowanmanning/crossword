@@ -5,12 +5,12 @@
     {
       "person": "j-sheps",
       "leaderboard": "2022-07-17",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 14,
+      "totalSeconds": 14,
+      "position": 1,
+      "scrapeTime": "2022-07-16T23:02:26.241Z",
+      "isPending": false
     },
     {
       "person": "j-sheps",
@@ -3925,12 +3925,12 @@
   ],
   "best": {
     "person": "j-sheps",
-    "leaderboard": "2022-06-13",
+    "leaderboard": "2022-07-17",
     "minutes": 0,
-    "seconds": 18,
-    "totalSeconds": 18,
-    "position": 3,
-    "scrapeTime": "2022-06-12T23:02:30.729Z",
+    "seconds": 14,
+    "totalSeconds": 14,
+    "position": 1,
+    "scrapeTime": "2022-07-16T23:02:26.241Z",
     "isPending": false
   },
   "mean": {
@@ -3943,7 +3943,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 816,
+  "awardCount": 818,
   "awards": [
     {
       "title": "Gold",
@@ -4235,7 +4235,8 @@
         "2022-03-13",
         "2022-05-09",
         "2022-05-25",
-        "2022-07-03"
+        "2022-07-03",
+        "2022-07-17"
       ]
     },
     {
@@ -4680,7 +4681,8 @@
       "text": "Complete a puzzle in less than 20 seconds",
       "dates": [
         "2021-11-26",
-        "2022-06-13"
+        "2022-06-13",
+        "2022-07-17"
       ]
     },
     {
