@@ -210,6 +210,16 @@
       ]
     },
     {
+      "person": "Alice Bartlett",
+      "count": 4,
+      "dates": [
+        "2022-01-04",
+        "2022-03-05",
+        "2022-05-07",
+        "2022-07-17"
+      ]
+    },
+    {
       "person": "Nick Ramsbottom",
       "count": 3,
       "dates": [
@@ -217,16 +227,7 @@
         "2021-12-27",
         "2022-03-08"
       ]
-    },
-    {
-      "person": "Alice Bartlett",
-      "count": 3,
-      "dates": [
-        "2022-01-04",
-        "2022-03-05",
-        "2022-05-07"
-      ]
     }
   ],
-  "totalUnlocks": 133
+  "totalUnlocks": 134
 }

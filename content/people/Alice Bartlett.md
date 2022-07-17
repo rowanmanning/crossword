@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Alice Bartlett",
+      "leaderboard": "2022-07-18",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Alice Bartlett",
       "leaderboard": "2022-07-17",
       "minutes": 0,
       "seconds": 34,
@@ -2543,7 +2553,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 328,
+  "awardCount": 329,
   "awards": [
     {
       "title": "Gold",
@@ -3065,7 +3075,8 @@
       "dates": [
         "2022-01-04",
         "2022-03-05",
-        "2022-05-07"
+        "2022-05-07",
+        "2022-07-17"
       ]
     },
     {
