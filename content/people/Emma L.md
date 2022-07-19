@@ -8,7 +8,7 @@
       "minutes": 0,
       "seconds": 18,
       "totalSeconds": 18,
-      "position": 1,
+      "position": 2,
       "scrapeTime": "2022-07-19T04:28:08.080Z",
       "isPending": false
     },
@@ -3599,7 +3599,7 @@
     "minutes": 0,
     "seconds": 18,
     "totalSeconds": 18,
-    "position": 1,
+    "position": 2,
     "scrapeTime": "2022-07-19T04:28:08.080Z",
     "isPending": false
   },
@@ -3613,7 +3613,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 818,
+  "awardCount": 819,
   "awards": [
     {
       "title": "Gold",
@@ -4424,6 +4424,7 @@
       "type": "chain-3",
       "text": "Participate in a chain of three sequential times",
       "dates": [
+        "2022-07-19",
         "2022-06-09",
         "2022-06-07",
         "2022-05-06",

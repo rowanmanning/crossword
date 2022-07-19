@@ -5,12 +5,12 @@
     {
       "person": "Alice Bartlett",
       "leaderboard": "2022-07-19",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 17,
+      "totalSeconds": 17,
+      "position": 1,
+      "scrapeTime": "2022-07-19T19:32:07.801Z",
+      "isPending": false
     },
     {
       "person": "Alice Bartlett",
@@ -2545,25 +2545,25 @@
   ],
   "best": {
     "person": "Alice Bartlett",
-    "leaderboard": "2021-11-11",
+    "leaderboard": "2022-07-19",
     "minutes": 0,
-    "seconds": 25,
-    "totalSeconds": 25,
-    "position": 2,
-    "scrapeTime": null,
+    "seconds": 17,
+    "totalSeconds": 17,
+    "position": 1,
+    "scrapeTime": "2022-07-19T19:32:07.801Z",
     "isPending": false
   },
   "mean": {
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 30,
-    "totalSeconds": 90,
+    "seconds": 29,
+    "totalSeconds": 89,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 331,
+  "awardCount": 335,
   "awards": [
     {
       "title": "Gold",
@@ -2677,7 +2677,8 @@
         "2021-11-21",
         "2021-12-05",
         "2022-01-16",
-        "2022-02-10"
+        "2022-02-10",
+        "2022-07-19"
       ]
     },
     {
@@ -2903,7 +2904,8 @@
       "type": "sub-20",
       "text": "Complete a puzzle in less than 20 seconds",
       "dates": [
-        "2021-12-05"
+        "2021-12-05",
+        "2022-07-19"
       ]
     },
     {
@@ -2951,6 +2953,7 @@
       "type": "chain-3",
       "text": "Participate in a chain of three sequential times",
       "dates": [
+        "2022-07-19",
         "2022-05-10",
         "2022-04-24",
         "2022-02-25",
@@ -2979,7 +2982,8 @@
         "2022-05-16",
         "2022-05-24",
         "2022-07-01",
-        "2022-07-12"
+        "2022-07-12",
+        "2022-07-19"
       ]
     },
     {
