@@ -5,12 +5,12 @@
     {
       "person": "ivo",
       "leaderboard": "2022-07-19",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 13,
+      "totalSeconds": 73,
+      "position": 7,
+      "scrapeTime": "2022-07-19T09:34:52.920Z",
+      "isPending": false
     },
     {
       "person": "ivo",
@@ -3113,7 +3113,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 563,
+  "awardCount": 565,
   "awards": [
     {
       "title": "Gold",
@@ -3505,7 +3505,8 @@
         "2022-06-14",
         "2022-06-25",
         "2022-06-29",
-        "2022-07-04"
+        "2022-07-04",
+        "2022-07-19"
       ]
     },
     {
@@ -3805,6 +3806,14 @@
       "text": "Play for a full quarter, give that OKR a 1",
       "dates": [
         "2022-03-11"
+      ]
+    },
+    {
+      "title": "Holiday",
+      "type": "holiday",
+      "text": "Come back to the crossword after a week off",
+      "dates": [
+        "2022-07-19"
       ]
     },
     {
