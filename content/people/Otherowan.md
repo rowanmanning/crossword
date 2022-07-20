@@ -5,12 +5,12 @@
     {
       "person": "Otherowan",
       "leaderboard": "2022-07-20",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 42,
+      "totalSeconds": 42,
+      "position": 4,
+      "scrapeTime": "2022-07-20T12:44:24.486Z",
+      "isPending": false
     },
     {
       "person": "Otherowan",
@@ -1763,7 +1763,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 322,
+  "awardCount": 325,
   "awards": [
     {
       "title": "Gold",
@@ -2070,7 +2070,8 @@
         "2022-07-03",
         "2022-07-11",
         "2022-07-14",
-        "2022-07-19"
+        "2022-07-19",
+        "2022-07-20"
       ]
     },
     {
@@ -2167,7 +2168,8 @@
         "2022-04-16",
         "2022-05-14",
         "2022-06-17",
-        "2022-06-29"
+        "2022-06-29",
+        "2022-07-20"
       ]
     },
     {
@@ -2273,7 +2275,8 @@
       "text": "A towel is about the most massively useful thing an interstellar hitchhiker can have",
       "dates": [
         "2022-06-17",
-        "2022-07-03"
+        "2022-07-03",
+        "2022-07-20"
       ]
     },
     {
