@@ -481,6 +481,15 @@
       ]
     },
     {
+      "person": "Alice Bartlett",
+      "count": 3,
+      "dates": [
+        "2021-12-05",
+        "2022-05-26",
+        "2022-07-19"
+      ]
+    },
+    {
       "person": "Otherowan",
       "count": 3,
       "dates": [
@@ -496,15 +505,7 @@
         "2021-09-11",
         "2021-10-09"
       ]
-    },
-    {
-      "person": "Alice Bartlett",
-      "count": 2,
-      "dates": [
-        "2021-12-05",
-        "2022-05-26"
-      ]
     }
   ],
-  "totalUnlocks": 417
+  "totalUnlocks": 418
 }
