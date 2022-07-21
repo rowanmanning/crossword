@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Emma L",
+      "leaderboard": "2022-07-21",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Emma L",
       "leaderboard": "2022-07-20",
       "minutes": 0,
       "seconds": 22,
@@ -3623,7 +3633,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 823,
+  "awardCount": 825,
   "awards": [
     {
       "title": "Gold",
@@ -3760,7 +3770,8 @@
         "2022-06-29",
         "2022-07-03",
         "2022-07-18",
-        "2022-07-19"
+        "2022-07-19",
+        "2022-07-20"
       ]
     },
     {
@@ -3776,6 +3787,14 @@
         "2022-05-24",
         "2022-05-29",
         "2022-07-19"
+      ]
+    },
+    {
+      "title": "Triple Silver",
+      "type": "triple-silver",
+      "text": "Get the second fastest time three days in a row",
+      "dates": [
+        "2022-07-20"
       ]
     },
     {
