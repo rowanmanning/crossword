@@ -5,12 +5,12 @@
     {
       "person": "Otherowan",
       "leaderboard": "2022-07-31",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 35,
+      "totalSeconds": 35,
+      "position": 3,
+      "scrapeTime": "2022-07-31T20:02:23.603Z",
+      "isPending": false
     },
     {
       "person": "Otherowan",
@@ -1873,7 +1873,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 344,
+  "awardCount": 347,
   "awards": [
     {
       "title": "Gold",
@@ -1980,7 +1980,8 @@
         "2022-07-07",
         "2022-07-10",
         "2022-07-19",
-        "2022-07-24"
+        "2022-07-24",
+        "2022-07-31"
       ]
     },
     {
@@ -2194,7 +2195,8 @@
         "2022-07-22",
         "2022-07-24",
         "2022-07-28",
-        "2022-07-29"
+        "2022-07-29",
+        "2022-07-31"
       ]
     },
     {
@@ -2365,6 +2367,7 @@
       "type": "yin-and-yang",
       "text": "Get the same time as another person but with flipped seconds",
       "dates": [
+        "2022-07-31",
         "2022-07-24",
         "2022-06-27",
         "2022-06-16",
