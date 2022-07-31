@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Ania",
+      "leaderboard": "2022-08-01",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Ania",
       "leaderboard": "2022-07-31",
       "minutes": 0,
       "seconds": 25,
@@ -4083,7 +4093,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 695,
+  "awardCount": 697,
   "awards": [
     {
       "title": "Gold",
@@ -4102,7 +4112,8 @@
         "2022-03-19",
         "2022-04-08",
         "2022-04-26",
-        "2022-05-05"
+        "2022-05-05",
+        "2022-07-31"
       ]
     },
     {
@@ -4944,7 +4955,8 @@
       "type": "twinning-in-gold",
       "text": "Get the twinning award and the fastest time for a day",
       "dates": [
-        "2021-09-01"
+        "2021-09-01",
+        "2022-07-31"
       ]
     },
     {
