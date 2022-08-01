@@ -5,12 +5,12 @@
     {
       "person": "Ania",
       "leaderboard": "2022-08-01",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 35,
+      "totalSeconds": 35,
+      "position": 5,
+      "scrapeTime": "2022-08-01T17:07:15.934Z",
+      "isPending": false
     },
     {
       "person": "Ania",
@@ -4093,7 +4093,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 697,
+  "awardCount": 700,
   "awards": [
     {
       "title": "Gold",
@@ -4718,7 +4718,8 @@
         "2022-06-16",
         "2022-07-13",
         "2022-07-21",
-        "2022-07-22"
+        "2022-07-22",
+        "2022-08-01"
       ]
     },
     {
@@ -4808,6 +4809,7 @@
       "type": "chain-3",
       "text": "Participate in a chain of three sequential times",
       "dates": [
+        "2022-08-01",
         "2022-07-21",
         "2022-06-16",
         "2022-05-11",
@@ -4873,7 +4875,8 @@
         "2021-07-01",
         "2021-08-14",
         "2021-11-19",
-        "2022-03-17"
+        "2022-03-17",
+        "2022-08-01"
       ]
     },
     {
