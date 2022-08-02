@@ -1,0 +1,37 @@
+{
+  "title": "ellejay",
+  "name": "ellejay",
+  "times": [
+    {
+      "person": "ellejay",
+      "leaderboard": "2022-08-02",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    }
+  ],
+  "best": {
+    "person": "ellejay",
+    "leaderboard": "2022-08-02",
+    "minutes": null,
+    "seconds": null,
+    "totalSeconds": null,
+    "position": null,
+    "scrapeTime": null,
+    "isPending": true
+  },
+  "mean": {
+    "person": null,
+    "leaderboard": null,
+    "minutes": null,
+    "seconds": null,
+    "position": null,
+    "scrapeTime": null,
+    "isPending": true
+  },
+  "awardCount": 0,
+  "awards": []
+}
