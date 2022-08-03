@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "ellejay",
+      "leaderboard": "2022-08-03",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "ellejay",
       "leaderboard": "2022-08-02",
       "minutes": null,
       "seconds": null,
@@ -15,7 +25,7 @@
   ],
   "best": {
     "person": "ellejay",
-    "leaderboard": "2022-08-02",
+    "leaderboard": "2022-08-03",
     "minutes": null,
     "seconds": null,
     "totalSeconds": null,
