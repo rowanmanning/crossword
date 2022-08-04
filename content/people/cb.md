@@ -5,12 +5,12 @@
     {
       "person": "cb",
       "leaderboard": "2022-08-04",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 29,
+      "totalSeconds": 29,
+      "position": 4,
+      "scrapeTime": "2022-08-04T11:33:06.313Z",
+      "isPending": false
     },
     {
       "person": "cb",
@@ -4037,13 +4037,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 46,
-    "totalSeconds": 46,
+    "seconds": 45,
+    "totalSeconds": 45,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1070,
+  "awardCount": 1072,
   "awards": [
     {
       "title": "Gold",
@@ -5039,7 +5039,8 @@
         "2022-07-31",
         "2022-08-01",
         "2022-08-02",
-        "2022-08-03"
+        "2022-08-03",
+        "2022-08-04"
       ]
     },
     {
@@ -5213,7 +5214,8 @@
         "2021-10-12",
         "2021-11-25",
         "2021-12-28",
-        "2022-02-08"
+        "2022-02-08",
+        "2022-08-04"
       ]
     },
     {
