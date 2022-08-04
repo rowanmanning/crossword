@@ -13,6 +13,14 @@
       ]
     },
     {
+      "person": "Rowan M",
+      "count": 2,
+      "dates": [
+        "2022-03-09",
+        "2022-08-03"
+      ]
+    },
+    {
       "person": "leaf",
       "count": 1,
       "dates": [
@@ -32,14 +40,7 @@
       "dates": [
         "2021-08-24"
       ]
-    },
-    {
-      "person": "Rowan M",
-      "count": 1,
-      "dates": [
-        "2022-03-09"
-      ]
     }
   ],
-  "totalUnlocks": 6
+  "totalUnlocks": 7
 }
