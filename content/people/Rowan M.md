@@ -5,12 +5,12 @@
     {
       "person": "Rowan M",
       "leaderboard": "2022-08-05",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 34,
+      "totalSeconds": 34,
+      "position": 2,
+      "scrapeTime": "2022-08-05T15:36:18.283Z",
+      "isPending": false
     },
     {
       "person": "Rowan M",
@@ -4133,7 +4133,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 977,
+  "awardCount": 978,
   "awards": [
     {
       "title": "Gold",
@@ -4989,7 +4989,8 @@
         "2022-08-01",
         "2022-08-02",
         "2022-08-03",
-        "2022-08-04"
+        "2022-08-04",
+        "2022-08-05"
       ]
     },
     {
