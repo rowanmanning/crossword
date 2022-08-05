@@ -5,12 +5,12 @@
     {
       "person": "binaryberry",
       "leaderboard": "2022-08-05",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 30,
+      "totalSeconds": 150,
+      "position": 1,
+      "scrapeTime": "2022-08-05T05:40:07.709Z",
+      "isPending": false
     },
     {
       "person": "binaryberry",
@@ -4133,7 +4133,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 577,
+  "awardCount": 580,
   "awards": [
     {
       "title": "Silver",
@@ -4348,7 +4348,8 @@
         "2022-07-15",
         "2022-07-21",
         "2022-07-23",
-        "2022-07-27"
+        "2022-07-27",
+        "2022-08-05"
       ]
     },
     {
@@ -4767,7 +4768,8 @@
       "type": "dentist",
       "text": "Now this won't hurt a bit…",
       "dates": [
-        "2021-11-02"
+        "2021-11-02",
+        "2022-08-05"
       ]
     },
     {
@@ -4940,7 +4942,8 @@
         "2022-07-24",
         "2022-07-28",
         "2022-08-03",
-        "2022-08-04"
+        "2022-08-04",
+        "2022-08-05"
       ]
     }
   ]
