@@ -5,12 +5,12 @@
     {
       "person": "cb",
       "leaderboard": "2022-08-05",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 0,
+      "totalSeconds": 60,
+      "position": 4,
+      "scrapeTime": "2022-08-05T11:33:15.580Z",
+      "isPending": false
     },
     {
       "person": "cb",
@@ -4047,13 +4047,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 45,
-    "totalSeconds": 45,
+    "seconds": 46,
+    "totalSeconds": 46,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1072,
+  "awardCount": 1075,
   "awards": [
     {
       "title": "Gold",
@@ -4662,7 +4662,8 @@
         "2022-06-18",
         "2022-06-30",
         "2022-07-18",
-        "2022-07-23"
+        "2022-07-23",
+        "2022-08-05"
       ]
     },
     {
@@ -4732,7 +4733,8 @@
         "2022-05-15",
         "2022-05-22",
         "2022-06-11",
-        "2022-06-18"
+        "2022-06-18",
+        "2022-08-05"
       ]
     },
     {
@@ -5389,6 +5391,14 @@
         "2022-03-27",
         "2022-06-20",
         "2022-07-06"
+      ]
+    },
+    {
+      "title": "1 Friday Street",
+      "type": "friday-street",
+      "text": "Get a time of exactly 1:00 on a Friday",
+      "dates": [
+        "2022-08-05"
       ]
     },
     {

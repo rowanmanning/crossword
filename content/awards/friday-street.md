@@ -39,7 +39,14 @@
       "dates": [
         "2022-01-14"
       ]
+    },
+    {
+      "person": "cb",
+      "count": 1,
+      "dates": [
+        "2022-08-05"
+      ]
     }
   ],
-  "totalUnlocks": 6
+  "totalUnlocks": 7
 }
