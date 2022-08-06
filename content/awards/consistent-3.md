@@ -122,7 +122,14 @@
       "dates": [
         "2022-05-11"
       ]
+    },
+    {
+      "person": "Otherowan",
+      "count": 1,
+      "dates": [
+        "2022-08-05"
+      ]
     }
   ],
-  "totalUnlocks": 41
+  "totalUnlocks": 42
 }
