@@ -5,12 +5,12 @@
     {
       "person": "itsalex",
       "leaderboard": "2022-08-10",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 31,
+      "totalSeconds": 31,
+      "position": 3,
+      "scrapeTime": "2022-08-10T23:33:51.803Z",
+      "isPending": false
     },
     {
       "person": "itsalex",
@@ -4147,13 +4147,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 46,
-    "totalSeconds": 46,
+    "seconds": 45,
+    "totalSeconds": 45,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 760,
+  "awardCount": 762,
   "awards": [
     {
       "title": "Gold",
@@ -4784,7 +4784,8 @@
         "2022-07-26",
         "2022-07-27",
         "2022-07-31",
-        "2022-08-07"
+        "2022-08-07",
+        "2022-08-10"
       ]
     },
     {
@@ -4934,6 +4935,7 @@
       "type": "chain-3",
       "text": "Participate in a chain of three sequential times",
       "dates": [
+        "2022-08-10",
         "2022-07-19",
         "2022-05-06",
         "2022-03-31",
