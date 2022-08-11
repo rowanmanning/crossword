@@ -5,12 +5,12 @@
     {
       "person": "Otherowan",
       "leaderboard": "2022-08-11",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 40,
+      "totalSeconds": 40,
+      "position": 2,
+      "scrapeTime": "2022-08-11T16:40:59.693Z",
+      "isPending": false
     },
     {
       "person": "Otherowan",
@@ -1983,7 +1983,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 366,
+  "awardCount": 367,
   "awards": [
     {
       "title": "Gold",
@@ -2328,7 +2328,8 @@
         "2022-07-31",
         "2022-08-02",
         "2022-08-04",
-        "2022-08-08"
+        "2022-08-08",
+        "2022-08-11"
       ]
     },
     {
