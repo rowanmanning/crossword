@@ -86,7 +86,14 @@
       "dates": [
         "2022-07-19"
       ]
+    },
+    {
+      "person": "ellejay",
+      "count": 1,
+      "dates": [
+        "2022-08-12"
+      ]
     }
   ],
-  "totalUnlocks": 23
+  "totalUnlocks": 24
 }

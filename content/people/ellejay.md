@@ -5,12 +5,12 @@
     {
       "person": "ellejay",
       "leaderboard": "2022-08-12",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 4,
+      "seconds": 9,
+      "totalSeconds": 249,
+      "position": 5,
+      "scrapeTime": "2022-08-12T08:02:25.826Z",
+      "isPending": false
     },
     {
       "person": "ellejay",
@@ -116,22 +116,32 @@
   "best": {
     "person": "ellejay",
     "leaderboard": "2022-08-12",
-    "minutes": null,
-    "seconds": null,
-    "totalSeconds": null,
-    "position": null,
-    "scrapeTime": null,
-    "isPending": true
+    "minutes": 4,
+    "seconds": 9,
+    "totalSeconds": 249,
+    "position": 5,
+    "scrapeTime": "2022-08-12T08:02:25.826Z",
+    "isPending": false
   },
   "mean": {
     "person": null,
     "leaderboard": null,
-    "minutes": null,
-    "seconds": null,
+    "minutes": 4,
+    "seconds": 9,
+    "totalSeconds": 249,
     "position": null,
     "scrapeTime": null,
-    "isPending": true
+    "isPending": false
   },
-  "awardCount": 0,
-  "awards": []
+  "awardCount": 1,
+  "awards": [
+    {
+      "title": "Holiday",
+      "type": "holiday",
+      "text": "Come back to the crossword after a week off",
+      "dates": [
+        "2022-08-12"
+      ]
+    }
+  ]
 }
