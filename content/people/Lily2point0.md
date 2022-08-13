@@ -5,12 +5,12 @@
     {
       "person": "Lily2point0",
       "leaderboard": "2022-08-13",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 30,
+      "totalSeconds": 150,
+      "position": 1,
+      "scrapeTime": "2022-08-13T04:39:24.032Z",
+      "isPending": false
     },
     {
       "person": "Lily2point0",
@@ -4213,7 +4213,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 734,
+  "awardCount": 736,
   "awards": [
     {
       "title": "Gold",
@@ -5056,7 +5056,8 @@
       "type": "dentist",
       "text": "Now this won't hurt a bit…",
       "dates": [
-        "2021-08-19"
+        "2021-08-19",
+        "2022-08-13"
       ]
     },
     {
@@ -5205,7 +5206,8 @@
         "2022-07-31",
         "2022-08-02",
         "2022-08-07",
-        "2022-08-08"
+        "2022-08-08",
+        "2022-08-13"
       ]
     }
   ]
