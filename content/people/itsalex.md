@@ -5,12 +5,12 @@
     {
       "person": "itsalex",
       "leaderboard": "2022-08-14",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 29,
+      "totalSeconds": 29,
+      "position": 3,
+      "scrapeTime": "2022-08-14T09:33:44.495Z",
+      "isPending": false
     },
     {
       "person": "itsalex",
@@ -4187,13 +4187,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 46,
-    "totalSeconds": 46,
+    "seconds": 45,
+    "totalSeconds": 45,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 772,
+  "awardCount": 775,
   "awards": [
     {
       "title": "Gold",
@@ -4581,7 +4581,8 @@
         "2022-07-29",
         "2022-07-31",
         "2022-08-01",
-        "2022-08-08"
+        "2022-08-08",
+        "2022-08-14"
       ]
     },
     {
@@ -4904,7 +4905,8 @@
         "2022-08-02",
         "2022-08-03",
         "2022-08-05",
-        "2022-08-11"
+        "2022-08-11",
+        "2022-08-14"
       ]
     },
     {
@@ -5068,7 +5070,8 @@
       "type": "month-streak",
       "text": "Play for a full month (30 days) without breaks",
       "dates": [
-        "2021-07-26"
+        "2021-07-26",
+        "2022-08-14"
       ]
     },
     {
