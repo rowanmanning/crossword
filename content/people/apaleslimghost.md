@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "apaleslimghost",
+      "leaderboard": "2022-08-18",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "apaleslimghost",
       "leaderboard": "2022-08-17",
       "minutes": 0,
       "seconds": 31,
@@ -4243,7 +4253,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 814,
+  "awardCount": 816,
   "awards": [
     {
       "title": "Gold",
@@ -4334,7 +4344,8 @@
         "2022-07-27",
         "2022-08-01",
         "2022-08-15",
-        "2022-08-16"
+        "2022-08-16",
+        "2022-08-17"
       ]
     },
     {
@@ -4347,6 +4358,14 @@
         "2022-01-07",
         "2022-02-14",
         "2022-08-16"
+      ]
+    },
+    {
+      "title": "Triple Silver",
+      "type": "triple-silver",
+      "text": "Get the second fastest time three days in a row",
+      "dates": [
+        "2022-08-17"
       ]
     },
     {
