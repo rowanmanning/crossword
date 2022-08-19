@@ -5,6 +5,16 @@
 		"seconds": 44
 	},
 	{
+		"name": "binaryberry",
+		"scrapeTime": "2022-08-19T05:38:26.250Z",
+		"seconds": 51
+	},
+	{
+		"name": "Lily2point0",
+		"scrapeTime": "2022-08-19T05:38:26.250Z",
+		"seconds": 51
+	},
+	{
 		"name": "alexmuller",
 		"scrapeTime": "2022-08-19T05:10:12.168Z",
 		"seconds": 68
@@ -26,11 +36,6 @@
 	},
 	{
 		"name": "arjun137",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
-		"name": "binaryberry",
 		"scrapeTime": null,
 		"seconds": null
 	},
@@ -71,11 +76,6 @@
 	},
 	{
 		"name": "leaf",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
-		"name": "Lily2point0",
 		"scrapeTime": null,
 		"seconds": null
 	},
