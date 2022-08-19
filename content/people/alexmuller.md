@@ -5,12 +5,12 @@
     {
       "person": "alexmuller",
       "leaderboard": "2022-08-19",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 8,
+      "totalSeconds": 68,
+      "position": 2,
+      "scrapeTime": "2022-08-19T05:10:12.168Z",
+      "isPending": false
     },
     {
       "person": "alexmuller",
@@ -37,13 +37,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 33,
-    "totalSeconds": 33,
+    "seconds": 51,
+    "totalSeconds": 51,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 3,
+  "awardCount": 6,
   "awards": [
     {
       "title": "Bronze",
@@ -51,6 +51,22 @@
       "text": "Get the third fastest time for a day",
       "dates": [
         "2022-08-18"
+      ]
+    },
+    {
+      "title": "Double Time",
+      "type": "double-time",
+      "text": "Double your completion time from one day to the next",
+      "dates": [
+        "2022-08-19"
+      ]
+    },
+    {
+      "title": "Sub Two Minutes",
+      "type": "sub-120",
+      "text": "Complete a puzzle in less than two minutes",
+      "dates": [
+        "2022-08-19"
       ]
     },
     {
@@ -67,6 +83,14 @@
       "text": "Get the same time as another person",
       "dates": [
         "2022-08-18"
+      ]
+    },
+    {
+      "title": "Quick Draw",
+      "type": "quick-draw",
+      "text": "Complete a puzzle before anyone else (or within 30 minutes of the first person)",
+      "dates": [
+        "2022-08-19"
       ]
     }
   ]
