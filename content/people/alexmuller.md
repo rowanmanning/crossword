@@ -43,7 +43,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 6,
+  "awardCount": 7,
   "awards": [
     {
       "title": "Bronze",
@@ -82,7 +82,8 @@
       "type": "twinning",
       "text": "Get the same time as another person",
       "dates": [
-        "2022-08-18"
+        "2022-08-18",
+        "2022-08-19"
       ]
     },
     {
