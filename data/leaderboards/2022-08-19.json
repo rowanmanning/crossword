@@ -20,17 +20,22 @@
 		"seconds": 51
 	},
 	{
+		"name": "ivo",
+		"scrapeTime": "2022-08-19T09:34:41.476Z",
+		"seconds": 57
+	},
+	{
 		"name": "alexmuller",
 		"scrapeTime": "2022-08-19T05:10:12.168Z",
 		"seconds": 68
 	},
 	{
-		"name": "Alice Bartlett",
-		"scrapeTime": null,
-		"seconds": null
+		"name": "Ania",
+		"scrapeTime": "2022-08-19T09:34:41.476Z",
+		"seconds": 93
 	},
 	{
-		"name": "Ania",
+		"name": "Alice Bartlett",
 		"scrapeTime": null,
 		"seconds": null
 	},
@@ -51,11 +56,6 @@
 	},
 	{
 		"name": "ellejay",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
-		"name": "ivo",
 		"scrapeTime": null,
 		"seconds": null
 	},
