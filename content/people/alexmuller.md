@@ -53,7 +53,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 8,
+  "awardCount": 9,
   "awards": [
     {
       "title": "Bronze",
@@ -101,7 +101,8 @@
       "text": "Get the same time as another person",
       "dates": [
         "2022-08-18",
-        "2022-08-19"
+        "2022-08-19",
+        "2022-08-20"
       ]
     },
     {
