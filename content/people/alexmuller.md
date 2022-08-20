@@ -5,12 +5,12 @@
     {
       "person": "alexmuller",
       "leaderboard": "2022-08-20",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 7,
+      "totalSeconds": 127,
+      "position": 3,
+      "scrapeTime": "2022-08-20T06:36:59.779Z",
+      "isPending": false
     },
     {
       "person": "alexmuller",
@@ -46,14 +46,14 @@
   "mean": {
     "person": null,
     "leaderboard": null,
-    "minutes": 0,
-    "seconds": 51,
-    "totalSeconds": 51,
+    "minutes": 1,
+    "seconds": 16,
+    "totalSeconds": 76,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 7,
+  "awardCount": 8,
   "awards": [
     {
       "title": "Bronze",
@@ -85,6 +85,14 @@
       "text": "Complete a puzzle in less than 45 seconds",
       "dates": [
         "2022-08-18"
+      ]
+    },
+    {
+      "title": "Three Day Streak",
+      "type": "three-day-streak",
+      "text": "Play for three days in a row",
+      "dates": [
+        "2022-08-20"
       ]
     },
     {
