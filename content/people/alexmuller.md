@@ -5,12 +5,12 @@
     {
       "person": "alexmuller",
       "leaderboard": "2022-08-21",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 24,
+      "totalSeconds": 24,
+      "position": 1,
+      "scrapeTime": "2022-08-21T06:02:33.868Z",
+      "isPending": false
     },
     {
       "person": "alexmuller",
@@ -45,25 +45,25 @@
   ],
   "best": {
     "person": "alexmuller",
-    "leaderboard": "2022-08-18",
+    "leaderboard": "2022-08-21",
     "minutes": 0,
-    "seconds": 33,
-    "totalSeconds": 33,
-    "position": 3,
-    "scrapeTime": "2022-08-18T11:32:39.620Z",
+    "seconds": 24,
+    "totalSeconds": 24,
+    "position": 1,
+    "scrapeTime": "2022-08-21T06:02:33.868Z",
     "isPending": false
   },
   "mean": {
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 16,
-    "totalSeconds": 76,
+    "seconds": 3,
+    "totalSeconds": 63,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 9,
+  "awardCount": 11,
   "awards": [
     {
       "title": "Bronze",
@@ -71,6 +71,14 @@
       "text": "Get the third fastest time for a day",
       "dates": [
         "2022-08-18"
+      ]
+    },
+    {
+      "title": "Quarter Time",
+      "type": "quarter-time",
+      "text": "Quarter your completion time from one day to the next",
+      "dates": [
+        "2022-08-21"
       ]
     },
     {
@@ -95,6 +103,14 @@
       "text": "Complete a puzzle in less than 45 seconds",
       "dates": [
         "2022-08-18"
+      ]
+    },
+    {
+      "title": "Sub 30 Seconds",
+      "type": "sub-30",
+      "text": "Complete a puzzle in less than 30 seconds",
+      "dates": [
+        "2022-08-21"
       ]
     },
     {
