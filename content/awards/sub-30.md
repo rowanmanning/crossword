@@ -508,9 +508,10 @@
     },
     {
       "person": "Lily2point0",
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2021-12-29"
+        "2021-12-29",
+        "2022-08-22"
       ]
     },
     {
@@ -542,5 +543,5 @@
       ]
     }
   ],
-  "totalUnlocks": 429
+  "totalUnlocks": 430
 }

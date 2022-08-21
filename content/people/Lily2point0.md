@@ -5,12 +5,12 @@
     {
       "person": "Lily2point0",
       "leaderboard": "2022-08-22",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 29,
+      "totalSeconds": 29,
+      "position": 1,
+      "scrapeTime": "2022-08-21T22:34:22.408Z",
+      "isPending": false
     },
     {
       "person": "Lily2point0",
@@ -4285,12 +4285,12 @@
   ],
   "best": {
     "person": "Lily2point0",
-    "leaderboard": "2021-12-29",
+    "leaderboard": "2022-08-22",
     "minutes": 0,
     "seconds": 29,
     "totalSeconds": 29,
-    "position": 2,
-    "scrapeTime": "2021-12-29T09:34:28.345Z",
+    "position": 1,
+    "scrapeTime": "2022-08-21T22:34:22.408Z",
     "isPending": false
   },
   "mean": {
@@ -4303,7 +4303,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 756,
+  "awardCount": 757,
   "awards": [
     {
       "title": "Gold",
@@ -4953,7 +4953,8 @@
       "type": "sub-30",
       "text": "Complete a puzzle in less than 30 seconds",
       "dates": [
-        "2021-12-29"
+        "2021-12-29",
+        "2022-08-22"
       ]
     },
     {
