@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "alexmuller",
+      "leaderboard": "2022-08-22",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "alexmuller",
       "leaderboard": "2022-08-21",
       "minutes": 0,
       "seconds": 24,
@@ -63,8 +73,16 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 11,
+  "awardCount": 12,
   "awards": [
+    {
+      "title": "Gold",
+      "type": "gold",
+      "text": "Get the fastest time for a day",
+      "dates": [
+        "2022-08-21"
+      ]
+    },
     {
       "title": "Bronze",
       "type": "bronze",
