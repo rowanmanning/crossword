@@ -20,11 +20,11 @@ async function fetchLeaderboard() {
 	console.log('Fetching leaderboard HTML');
 	const response = await got('https://www.nytimes.com/puzzles/leaderboards', {
 		headers: {
-			accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+			'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
 			'accept-language': 'en-US,en;q=0.9',
 			'cache-control': 'no-cache',
-			pragma: 'no-cache',
-			cookie: process.env.NYT_COOKIES,
+			'pragma': 'no-cache',
+			'cookie': process.env.NYT_COOKIES,
 			'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36'
 		}
 	});
