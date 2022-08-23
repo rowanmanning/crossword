@@ -16,7 +16,8 @@
   "bugs": "https://github.com/rowanmanning/crossword/issues",
   "license": "GPL-3.0",
   "engines": {
-    "node": ">=14"
+    "node": "16.x",
+    "npm": "8.x"
   },
   "dependencies": {
     "dotenv": "^10.0.0",
@@ -31,5 +32,9 @@
   },
   "scripts": {
     "start": "hugo server"
+  },
+  "volta": {
+    "node": "16.16.0",
+    "npm": "8.17.0"
   }
 }

@@ -33,7 +33,7 @@ jobs:
       # Set up Node.js and install dependencies
       - uses: actions/setup-node@v1
         with:
-          node-version: 14.x
+          node-version: 16
       - uses: actions/cache@v1
         env:
           cache-version: v1
