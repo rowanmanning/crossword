@@ -27,11 +27,14 @@
   },
   "devDependencies": {
     "@rowanmanning/eslint-config": "^3.1.0",
-    "@rowanmanning/make": "^2.1.0",
     "eslint": "^7.28.0"
   },
   "scripts": {
-    "start": "hugo server"
+    "build": "hugo --minify --environment production",
+    "leaderboard:fetch": "./scripts/fetch-leaderboard.js && ./scripts/generate-pages.js",
+    "verify": "npm run verify:eslint",
+    "verify:eslint": "eslint .",
+    "start": "hugo server -D"
   },
   "volta": {
     "node": "16.16.0",

@@ -121,7 +121,7 @@ jobs:
           timezone: America/New_York
 
       - name: Build the website
-        run: hugo --minify --environment production
+        run: npm run build
 
   # Verify code
   verify:
@@ -153,7 +153,7 @@ jobs:
           node-version: 16
 
       - name: Verify code
-        run: make verify
+        run: npm run verify
 
   # Deploy to GitHub Pages production (only on main branch)
   deploy-production:

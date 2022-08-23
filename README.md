@@ -14,9 +14,11 @@ Fetch and archive the New York Times crossword leaderboard - [crossword.rowanman
      git clone https://github.com/rowanmanning/crossword.git && cd crossword && submodule init && git submodule update
      ```
 
-  3. Run `hugo server`
+  3. Install dependencies with `npm install`
 
-  4. Visit [http://localhost:1313/](http://localhost:1313/)
+  4. Run `npm start`
+
+  5. Visit [http://localhost:1313/](http://localhost:1313/)
 
 
 ## Manually editing times

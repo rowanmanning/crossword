@@ -9,10 +9,8 @@ We welcome contributions to Crossword. This guide outlines what's expected of yo
   * [What you can expect from me](#what-you-can-expect-from-me)
   * [Technical](#technical)
     * [Linting](#linting)
-    * [Unit tests](#unit-tests)
-    * [Integration tests](#integration-tests)
-      * [Feed tests](#feed-tests)
-    * [Manual testing](#integration-tests)
+    * [Tests](#tests)
+    * [Manual testing](#manual-testing)
 
 
 ## What I expect from you
@@ -50,7 +48,7 @@ Crossword is linted using [ESLint](https://eslint.org/), configured in the way I
 ESLint errors will fail the build on any PRs. Most editors have an ESLint plugin which will pick up errors, but you can also run the linter manually with the following command:
 
 ```
-make verify
+npm run verify
 ```
 
 ### Tests
