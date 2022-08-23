@@ -8,7 +8,7 @@
       "minutes": 0,
       "seconds": 28,
       "totalSeconds": 28,
-      "position": 2,
+      "position": 3,
       "scrapeTime": "2022-08-23T05:26:15.257Z",
       "isPending": false
     },
@@ -83,7 +83,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 17,
+  "awardCount": 18,
   "awards": [
     {
       "title": "Gold",
@@ -149,6 +149,14 @@
       "text": "Complete a puzzle in less than 30 seconds",
       "dates": [
         "2022-08-21",
+        "2022-08-23"
+      ]
+    },
+    {
+      "title": "Chain 3",
+      "type": "chain-3",
+      "text": "Participate in a chain of three sequential times",
+      "dates": [
         "2022-08-23"
       ]
     },
