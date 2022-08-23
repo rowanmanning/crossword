@@ -1,47 +1,62 @@
 
 name: Fetch leaderboard
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
 
-# Run every 30 minutes
 on:
+
+  # Run every 30 minutes
   schedule:
     - cron: "*/30 * * * *"
+
+  # Allow manual workflow dispatch
   workflow_dispatch: {}
 
 # Jobs
 jobs:
+
+  # Fetch leaderboard
   leaderboard:
-    runs-on: ubuntu-18.04
+    name: Fetch leaderboard
+    runs-on: ubuntu-latest
     steps:
 
-      - uses: actions/checkout@v2
+      - name: Checkout
+        uses: actions/checkout@v2
 
-      - name: Setup timezone
+      - name: Cache node modules
+        uses: actions/cache@v3
+        env:
+          cache-name: cache-node-modules-v1
+        with:
+          path: |
+            ~/.npm
+            node_modules
+          key: ${{ runner.os }}-build-${{ env.cache-name }}-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-build-${{ env.cache-name }}-
+            ${{ runner.os }}-build-
+            ${{ runner.os }}-
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 16
+
+      - name: Install Node.js dependencies
+        run: npm install
+
+      - name: Configure timezone as America/New_York
         uses: zcong1993/setup-timezone@master
         with:
           timezone: America/New_York
 
-      # Set up Node.js and install dependencies
-      - uses: actions/setup-node@v1
-        with:
-          node-version: 16
-      - uses: actions/cache@v1
-        env:
-          cache-version: v1
-        with:
-          path: ~/.npm
-          key: ${{ runner.os }}-${{ env.cache-version }}-${{ hashFiles('**/package-lock.json') }}
-          restore-keys: |
-            ${{ runner.os }}-${{ env.cache-version }}-
-            ${{ runner.os }}-
-      - run: npm install
-
-      # Fetch and process leaderboard
       - name: Fetch leaderboard
         env:
           NYT_COOKIES: ${{ secrets.NYT_COOKIES }}
         run: ./scripts/fetch-leaderboard.js && ./scripts/generate-pages.js
 
-      # Commit new leaderboard to the repo
       - name: Commit to the repo
         env:
           DEPLOY_KEY: ${{ secrets.DEPLOY_KEY }}
