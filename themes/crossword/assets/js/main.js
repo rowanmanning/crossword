@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', () => {
 	// Set up shortcuts
 	hotkeys.filter = ({target}) => {
 		const {tagName} = target;
-		return !(tagName == 'INPUT' || tagName == 'SELECT' || tagName == 'TEXTAREA');
+		return !(tagName === 'INPUT' || tagName === 'SELECT' || tagName === 'TEXTAREA');
 	};
 	hotkeys('left', () => {
 		if (prev) {
