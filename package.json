@@ -22,7 +22,7 @@
   "dependencies": {
     "dotenv": "^10.0.0",
     "got": "^11.8.2",
-    "hotkeys-js": "^3.8.7",
+    "hotkeys-js": "^3.9.5",
     "jsdom": "^16.6.0"
   },
   "devDependencies": {
