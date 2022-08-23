@@ -519,6 +519,14 @@
       ]
     },
     {
+      "person": "alexmuller",
+      "count": 2,
+      "dates": [
+        "2022-08-21",
+        "2022-08-23"
+      ]
+    },
+    {
       "person": "Nick Ramsbottom",
       "count": 1,
       "dates": [
@@ -538,14 +546,7 @@
       "dates": [
         "2022-05-19"
       ]
-    },
-    {
-      "person": "alexmuller",
-      "count": 1,
-      "dates": [
-        "2022-08-21"
-      ]
     }
   ],
-  "totalUnlocks": 434
+  "totalUnlocks": 435
 }

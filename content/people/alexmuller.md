@@ -5,12 +5,12 @@
     {
       "person": "alexmuller",
       "leaderboard": "2022-08-23",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 28,
+      "totalSeconds": 28,
+      "position": 1,
+      "scrapeTime": "2022-08-23T05:26:15.257Z",
+      "isPending": false
     },
     {
       "person": "alexmuller",
@@ -77,13 +77,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 9,
-    "totalSeconds": 69,
+    "seconds": 2,
+    "totalSeconds": 62,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 14,
+  "awardCount": 17,
   "awards": [
     {
       "title": "Gold",
@@ -99,6 +99,14 @@
       "text": "Get the third fastest time for a day",
       "dates": [
         "2022-08-18"
+      ]
+    },
+    {
+      "title": "Half Time",
+      "type": "half-time",
+      "text": "Half your completion time from one day to the next",
+      "dates": [
+        "2022-08-23"
       ]
     },
     {
@@ -140,7 +148,8 @@
       "type": "sub-30",
       "text": "Complete a puzzle in less than 30 seconds",
       "dates": [
-        "2022-08-21"
+        "2022-08-21",
+        "2022-08-23"
       ]
     },
     {
@@ -166,7 +175,8 @@
       "type": "quick-draw",
       "text": "Complete a puzzle before anyone else (or within 30 minutes of the first person)",
       "dates": [
-        "2022-08-19"
+        "2022-08-19",
+        "2022-08-23"
       ]
     }
   ]
