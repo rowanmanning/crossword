@@ -196,7 +196,14 @@
       "dates": [
         "2022-08-18",
         "2022-08-19",
-        "2022-08-20",
+        "2022-08-20"
+      ]
+    },
+    {
+      "title": "Tripleting",
+      "type": "tripleting",
+      "text": "Get the same time as two other people",
+      "dates": [
         "2022-08-24"
       ]
     },
