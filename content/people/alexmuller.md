@@ -5,12 +5,12 @@
     {
       "person": "alexmuller",
       "leaderboard": "2022-08-24",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 29,
+      "totalSeconds": 89,
+      "position": 5,
+      "scrapeTime": "2022-08-24T17:04:30.713Z",
+      "isPending": false
     },
     {
       "person": "alexmuller",
@@ -87,13 +87,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 2,
-    "totalSeconds": 62,
+    "seconds": 6,
+    "totalSeconds": 66,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 19,
+  "awardCount": 23,
   "awards": [
     {
       "title": "Gold",
@@ -134,7 +134,8 @@
       "text": "Double your completion time from one day to the next",
       "dates": [
         "2022-08-19",
-        "2022-08-22"
+        "2022-08-22",
+        "2022-08-24"
       ]
     },
     {
@@ -143,7 +144,8 @@
       "text": "Complete a puzzle in less than two minutes",
       "dates": [
         "2022-08-19",
-        "2022-08-22"
+        "2022-08-22",
+        "2022-08-24"
       ]
     },
     {
@@ -180,13 +182,22 @@
       ]
     },
     {
+      "title": "Week-Long Streak",
+      "type": "week-streak",
+      "text": "Play for a full week without breaks",
+      "dates": [
+        "2022-08-24"
+      ]
+    },
+    {
       "title": "Twinning",
       "type": "twinning",
       "text": "Get the same time as another person",
       "dates": [
         "2022-08-18",
         "2022-08-19",
-        "2022-08-20"
+        "2022-08-20",
+        "2022-08-24"
       ]
     },
     {

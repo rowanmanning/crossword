@@ -205,7 +205,14 @@
       "dates": [
         "2021-08-08"
       ]
+    },
+    {
+      "person": "alexmuller",
+      "count": 1,
+      "dates": [
+        "2022-08-24"
+      ]
     }
   ],
-  "totalUnlocks": 106
+  "totalUnlocks": 107
 }
