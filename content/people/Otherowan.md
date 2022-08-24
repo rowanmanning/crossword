@@ -5,12 +5,12 @@
     {
       "person": "Otherowan",
       "leaderboard": "2022-08-24",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 17,
+      "totalSeconds": 137,
+      "position": 9,
+      "scrapeTime": "2022-08-24T21:33:30.534Z",
+      "isPending": false
     },
     {
       "person": "Otherowan",
@@ -2113,7 +2113,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 390,
+  "awardCount": 392,
   "awards": [
     {
       "title": "Gold",
@@ -2299,7 +2299,8 @@
         "2022-07-15",
         "2022-07-23",
         "2022-08-01",
-        "2022-08-16"
+        "2022-08-16",
+        "2022-08-24"
       ]
     },
     {
@@ -2668,7 +2669,8 @@
       "type": "arjun",
       "text": "Join us",
       "dates": [
-        "2022-04-21"
+        "2022-04-21",
+        "2022-08-24"
       ]
     },
     {
