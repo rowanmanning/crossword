@@ -560,6 +560,14 @@
       ]
     },
     {
+      "person": "alexmuller",
+      "count": 2,
+      "dates": [
+        "2022-08-18",
+        "2022-08-23"
+      ]
+    },
+    {
       "person": "joelcarr",
       "count": 1,
       "dates": [
@@ -579,14 +587,7 @@
       "dates": [
         "2022-04-09"
       ]
-    },
-    {
-      "person": "alexmuller",
-      "count": 1,
-      "dates": [
-        "2022-08-18"
-      ]
     }
   ],
-  "totalUnlocks": 475
+  "totalUnlocks": 476
 }
