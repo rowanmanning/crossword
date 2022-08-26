@@ -5,12 +5,12 @@
     {
       "person": "Rowan M",
       "leaderboard": "2022-08-26",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 43,
+      "totalSeconds": 43,
+      "position": 5,
+      "scrapeTime": "2022-08-26T18:02:16.666Z",
+      "isPending": false
     },
     {
       "person": "Rowan M",
@@ -4343,7 +4343,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1030,
+  "awardCount": 1032,
   "awards": [
     {
       "title": "Gold",
@@ -5233,7 +5233,8 @@
         "2022-08-10",
         "2022-08-11",
         "2022-08-12",
-        "2022-08-18"
+        "2022-08-18",
+        "2022-08-26"
       ]
     },
     {
@@ -5556,6 +5557,7 @@
       "type": "yin-and-yang",
       "text": "Get the same time as another person but with flipped seconds",
       "dates": [
+        "2022-08-26",
         "2022-07-20",
         "2022-07-05",
         "2022-03-26",
