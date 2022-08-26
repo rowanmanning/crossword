@@ -1267,11 +1267,12 @@
     },
     {
       "person": "alexmuller",
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2022-08-18"
+        "2022-08-18",
+        "2022-08-26"
       ]
     }
   ],
-  "totalUnlocks": 1160
+  "totalUnlocks": 1161
 }
