@@ -546,11 +546,12 @@
     },
     {
       "person": "alexmuller",
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2022-08-21"
+        "2022-08-21",
+        "2022-08-27"
       ]
     }
   ],
-  "totalUnlocks": 457
+  "totalUnlocks": 458
 }
