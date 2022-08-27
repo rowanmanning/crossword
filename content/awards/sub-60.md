@@ -1062,7 +1062,14 @@
       "dates": [
         "2022-03-25"
       ]
+    },
+    {
+      "person": "alexmuller",
+      "count": 1,
+      "dates": [
+        "2022-08-27"
+      ]
     }
   ],
-  "totalUnlocks": 945
+  "totalUnlocks": 946
 }

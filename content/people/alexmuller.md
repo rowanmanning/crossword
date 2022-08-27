@@ -5,12 +5,12 @@
     {
       "person": "alexmuller",
       "leaderboard": "2022-08-27",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 55,
+      "totalSeconds": 55,
+      "position": 1,
+      "scrapeTime": "2022-08-27T10:02:12.702Z",
+      "isPending": false
     },
     {
       "person": "alexmuller",
@@ -123,7 +123,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 25,
+  "awardCount": 27,
   "awards": [
     {
       "title": "Gold",
@@ -180,6 +180,14 @@
       ]
     },
     {
+      "title": "Sub Minute",
+      "type": "sub-60",
+      "text": "Complete a puzzle in less than a minute",
+      "dates": [
+        "2022-08-27"
+      ]
+    },
+    {
       "title": "Sub 45 Seconds",
       "type": "sub-45",
       "text": "Complete a puzzle in less than 45 seconds",
@@ -195,6 +203,14 @@
       "dates": [
         "2022-08-21",
         "2022-08-23"
+      ]
+    },
+    {
+      "title": "Nice Try, Joel",
+      "type": "nice-try-joel",
+      "text": "Complete a puzzle in less than a minute on a Saturday",
+      "dates": [
+        "2022-08-27"
       ]
     },
     {
