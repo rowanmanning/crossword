@@ -154,6 +154,14 @@
       ]
     },
     {
+      "person": "Ania",
+      "count": 2,
+      "dates": [
+        "2022-03-19",
+        "2022-08-27"
+      ]
+    },
+    {
       "person": "leaf",
       "count": 1,
       "dates": [
@@ -175,13 +183,6 @@
       ]
     },
     {
-      "person": "Ania",
-      "count": 1,
-      "dates": [
-        "2022-03-19"
-      ]
-    },
-    {
       "person": "alexmuller",
       "count": 1,
       "dates": [
@@ -189,5 +190,5 @@
       ]
     }
   ],
-  "totalUnlocks": 100
+  "totalUnlocks": 101
 }
