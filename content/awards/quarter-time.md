@@ -334,7 +334,14 @@
       "dates": [
         "2022-08-21"
       ]
+    },
+    {
+      "person": "ellejay",
+      "count": 1,
+      "dates": [
+        "2022-08-29"
+      ]
     }
   ],
-  "totalUnlocks": 223
+  "totalUnlocks": 224
 }

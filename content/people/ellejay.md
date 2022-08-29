@@ -5,12 +5,12 @@
     {
       "person": "ellejay",
       "leaderboard": "2022-08-29",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 58,
+      "totalSeconds": 58,
+      "position": 5,
+      "scrapeTime": "2022-08-29T18:02:16.491Z",
+      "isPending": false
     },
     {
       "person": "ellejay",
@@ -285,32 +285,49 @@
   ],
   "best": {
     "person": "ellejay",
-    "leaderboard": "2022-08-12",
-    "minutes": 4,
-    "seconds": 9,
-    "totalSeconds": 249,
-    "position": 10,
-    "scrapeTime": "2022-08-12T08:02:25.826Z",
+    "leaderboard": "2022-08-29",
+    "minutes": 0,
+    "seconds": 58,
+    "totalSeconds": 58,
+    "position": 5,
+    "scrapeTime": "2022-08-29T18:02:16.491Z",
     "isPending": false
   },
   "mean": {
     "person": null,
     "leaderboard": null,
-    "minutes": 4,
-    "seconds": 9,
-    "totalSeconds": 249,
+    "minutes": 2,
+    "seconds": 34,
+    "totalSeconds": 154,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1,
+  "awardCount": 4,
   "awards": [
+    {
+      "title": "Quarter Time",
+      "type": "quarter-time",
+      "text": "Quarter your completion time from one day to the next",
+      "dates": [
+        "2022-08-29"
+      ]
+    },
+    {
+      "title": "Sub Minute",
+      "type": "sub-60",
+      "text": "Complete a puzzle in less than a minute",
+      "dates": [
+        "2022-08-29"
+      ]
+    },
     {
       "title": "Holiday",
       "type": "holiday",
       "text": "Come back to the crossword after a week off",
       "dates": [
-        "2022-08-12"
+        "2022-08-12",
+        "2022-08-29"
       ]
     }
   ]
