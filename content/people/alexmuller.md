@@ -5,12 +5,12 @@
     {
       "person": "alexmuller",
       "leaderboard": "2022-08-29",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 32,
+      "totalSeconds": 32,
+      "position": 1,
+      "scrapeTime": "2022-08-29T08:38:48.955Z",
+      "isPending": false
     },
     {
       "person": "alexmuller",
@@ -136,14 +136,14 @@
   "mean": {
     "person": null,
     "leaderboard": null,
-    "minutes": 1,
-    "seconds": 0,
-    "totalSeconds": 60,
+    "minutes": 0,
+    "seconds": 58,
+    "totalSeconds": 58,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 30,
+  "awardCount": 31,
   "awards": [
     {
       "title": "Gold",
@@ -223,7 +223,8 @@
       "text": "Complete a puzzle in less than 45 seconds",
       "dates": [
         "2022-08-18",
-        "2022-08-26"
+        "2022-08-26",
+        "2022-08-29"
       ]
     },
     {
