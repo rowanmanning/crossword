@@ -5,12 +5,12 @@
     {
       "person": "ellejay",
       "leaderboard": "2022-08-30",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 3,
+      "seconds": 30,
+      "totalSeconds": 210,
+      "position": 10,
+      "scrapeTime": "2022-08-30T19:02:30.838Z",
+      "isPending": false
     },
     {
       "person": "ellejay",
@@ -307,13 +307,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 34,
-    "totalSeconds": 154,
+    "seconds": 53,
+    "totalSeconds": 173,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 4,
+  "awardCount": 5,
   "awards": [
     {
       "title": "Quarter Time",
@@ -321,6 +321,14 @@
       "text": "Quarter your completion time from one day to the next",
       "dates": [
         "2022-08-29"
+      ]
+    },
+    {
+      "title": "Double Time",
+      "type": "double-time",
+      "text": "Double your completion time from one day to the next",
+      "dates": [
+        "2022-08-30"
       ]
     },
     {

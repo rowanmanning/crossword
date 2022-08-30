@@ -1062,7 +1062,14 @@
       "dates": [
         "2022-02-11"
       ]
+    },
+    {
+      "person": "ellejay",
+      "count": 1,
+      "dates": [
+        "2022-08-30"
+      ]
     }
   ],
-  "totalUnlocks": 939
+  "totalUnlocks": 940
 }
