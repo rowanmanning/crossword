@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "alexmuller",
+      "leaderboard": "2022-08-30",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "alexmuller",
       "leaderboard": "2022-08-29",
       "minutes": 0,
       "seconds": 32,
@@ -143,7 +153,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 32,
+  "awardCount": 34,
   "awards": [
     {
       "title": "Gold",
@@ -168,7 +178,16 @@
       "text": "Get the third fastest time for a day",
       "dates": [
         "2022-08-18",
-        "2022-08-23"
+        "2022-08-23",
+        "2022-08-29"
+      ]
+    },
+    {
+      "title": "Podium",
+      "type": "podium",
+      "text": "Unlock third, second, and first place awards",
+      "dates": [
+        "2022-08-29"
       ]
     },
     {
