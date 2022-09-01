@@ -91,6 +91,14 @@
       ]
     },
     {
+      "person": "ivo",
+      "count": 2,
+      "dates": [
+        "2022-05-07",
+        "2022-09-01"
+      ]
+    },
+    {
       "person": "varjmes",
       "count": 1,
       "dates": [
@@ -105,13 +113,6 @@
       ]
     },
     {
-      "person": "ivo",
-      "count": 1,
-      "dates": [
-        "2022-05-07"
-      ]
-    },
-    {
       "person": "Otherowan",
       "count": 1,
       "dates": [
@@ -119,5 +120,5 @@
       ]
     }
   ],
-  "totalUnlocks": 30
+  "totalUnlocks": 31
 }
