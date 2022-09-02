@@ -151,8 +151,9 @@
     },
     {
       "person": "apaleslimghost",
-      "count": 12,
+      "count": 13,
       "dates": [
+        "2022-09-02",
         "2022-06-09",
         "2022-05-11",
         "2022-05-10",
@@ -186,8 +187,9 @@
     },
     {
       "person": "Otherowan",
-      "count": 8,
+      "count": 9,
       "dates": [
+        "2022-09-02",
         "2022-06-16",
         "2022-06-07",
         "2022-05-10",
@@ -278,19 +280,20 @@
       ]
     },
     {
+      "person": "alexmuller",
+      "count": 2,
+      "dates": [
+        "2022-09-02",
+        "2022-08-23"
+      ]
+    },
+    {
       "person": "joelcarr",
       "count": 1,
       "dates": [
         "2021-12-15"
       ]
-    },
-    {
-      "person": "alexmuller",
-      "count": 1,
-      "dates": [
-        "2022-08-23"
-      ]
     }
   ],
-  "totalUnlocks": 179
+  "totalUnlocks": 182
 }
