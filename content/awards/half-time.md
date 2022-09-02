@@ -840,19 +840,20 @@
       ]
     },
     {
+      "person": "alexmuller",
+      "count": 2,
+      "dates": [
+        "2022-08-23",
+        "2022-09-02"
+      ]
+    },
+    {
       "person": "arjun137",
       "count": 1,
       "dates": [
         "2021-06-28"
       ]
-    },
-    {
-      "person": "alexmuller",
-      "count": 1,
-      "dates": [
-        "2022-08-23"
-      ]
     }
   ],
-  "totalUnlocks": 729
+  "totalUnlocks": 730
 }

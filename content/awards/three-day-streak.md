@@ -340,6 +340,14 @@
       ]
     },
     {
+      "person": "alexmuller",
+      "count": 2,
+      "dates": [
+        "2022-08-20",
+        "2022-09-02"
+      ]
+    },
+    {
       "person": "Lily2point0",
       "count": 1,
       "dates": [
@@ -352,14 +360,7 @@
       "dates": [
         "2021-06-25"
       ]
-    },
-    {
-      "person": "alexmuller",
-      "count": 1,
-      "dates": [
-        "2022-08-20"
-      ]
     }
   ],
-  "totalUnlocks": 236
+  "totalUnlocks": 237
 }
