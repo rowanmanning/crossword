@@ -5,12 +5,12 @@
     {
       "person": "Ania",
       "leaderboard": "2022-09-03",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 0,
+      "totalSeconds": 60,
+      "position": 2,
+      "scrapeTime": "2022-09-03T10:35:42.840Z",
+      "isPending": false
     },
     {
       "person": "Ania",
@@ -4423,7 +4423,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 739,
+  "awardCount": 741,
   "awards": [
     {
       "title": "Gold",
@@ -4909,7 +4909,8 @@
         "2022-08-19",
         "2022-08-23",
         "2022-08-24",
-        "2022-08-31"
+        "2022-08-31",
+        "2022-09-03"
       ]
     },
     {
@@ -5135,7 +5136,8 @@
       "text": "Complete a puzzle in less than a minute on a Saturday",
       "dates": [
         "2022-03-19",
-        "2022-08-27"
+        "2022-08-27",
+        "2022-09-03"
       ]
     },
     {
