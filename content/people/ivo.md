@@ -5,12 +5,12 @@
     {
       "person": "ivo",
       "leaderboard": "2022-09-03",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 58,
+      "totalSeconds": 58,
+      "position": 2,
+      "scrapeTime": "2022-09-03T20:02:15.985Z",
+      "isPending": false
     },
     {
       "person": "ivo",
@@ -3573,7 +3573,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 654,
+  "awardCount": 658,
   "awards": [
     {
       "title": "Gold",
@@ -3905,7 +3905,8 @@
         "2022-08-15",
         "2022-08-22",
         "2022-08-24",
-        "2022-08-31"
+        "2022-08-31",
+        "2022-09-03"
       ]
     },
     {
@@ -4063,7 +4064,8 @@
         "2022-07-07",
         "2022-07-27",
         "2022-08-09",
-        "2022-08-19"
+        "2022-08-19",
+        "2022-09-03"
       ]
     },
     {
@@ -4223,7 +4225,8 @@
         "2022-02-05",
         "2022-04-02",
         "2022-04-23",
-        "2022-05-21"
+        "2022-05-21",
+        "2022-09-03"
       ]
     },
     {
@@ -4275,6 +4278,7 @@
       "type": "chain-4",
       "text": "Participate in a chain of four sequential times",
       "dates": [
+        "2022-09-03",
         "2022-04-20",
         "2021-11-30",
         "2021-11-25",

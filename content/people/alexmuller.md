@@ -5,12 +5,12 @@
     {
       "person": "alexmuller",
       "leaderboard": "2022-09-03",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 1,
+      "totalSeconds": 61,
+      "position": 5,
+      "scrapeTime": "2022-09-03T20:02:15.985Z",
+      "isPending": false
     },
     {
       "person": "alexmuller",
@@ -193,7 +193,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 41,
+  "awardCount": 43,
   "awards": [
     {
       "title": "Gold",
@@ -268,7 +268,8 @@
         "2022-08-24",
         "2022-08-25",
         "2022-08-31",
-        "2022-09-01"
+        "2022-09-01",
+        "2022-09-03"
       ]
     },
     {
@@ -315,6 +316,14 @@
       "dates": [
         "2022-09-02",
         "2022-08-23"
+      ]
+    },
+    {
+      "title": "Chain 4",
+      "type": "chain-4",
+      "text": "Participate in a chain of four sequential times",
+      "dates": [
+        "2022-09-03"
       ]
     },
     {
