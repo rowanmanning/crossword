@@ -5154,7 +5154,14 @@
       "dates": [
         "2021-10-18",
         "2022-02-01",
-        "2022-05-04",
+        "2022-05-04"
+      ]
+    },
+    {
+      "title": "Quadrupleting",
+      "type": "quadrupleting",
+      "text": "Get the same time as three other people",
+      "dates": [
         "2022-09-04"
       ]
     },

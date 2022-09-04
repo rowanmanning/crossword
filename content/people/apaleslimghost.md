@@ -5412,7 +5412,14 @@
         "2022-01-26",
         "2022-05-17",
         "2022-05-25",
-        "2022-06-09",
+        "2022-06-09"
+      ]
+    },
+    {
+      "title": "Quadrupleting",
+      "type": "quadrupleting",
+      "text": "Get the same time as three other people",
+      "dates": [
         "2022-09-04"
       ]
     },

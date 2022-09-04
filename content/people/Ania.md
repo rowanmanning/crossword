@@ -5,12 +5,12 @@
     {
       "person": "Ania",
       "leaderboard": "2022-09-04",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 33,
+      "totalSeconds": 33,
+      "position": 1,
+      "scrapeTime": "2022-09-04T14:32:54.516Z",
+      "isPending": false
     },
     {
       "person": "Ania",
@@ -4433,7 +4433,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 742,
+  "awardCount": 744,
   "awards": [
     {
       "title": "Gold",
@@ -5085,7 +5085,8 @@
         "2022-07-21",
         "2022-07-22",
         "2022-08-01",
-        "2022-08-12"
+        "2022-08-12",
+        "2022-09-04"
       ]
     },
     {
@@ -5331,6 +5332,14 @@
       "dates": [
         "2021-08-23",
         "2022-05-25"
+      ]
+    },
+    {
+      "title": "Quadrupleting",
+      "type": "quadrupleting",
+      "text": "Get the same time as three other people",
+      "dates": [
+        "2022-09-04"
       ]
     },
     {
