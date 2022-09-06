@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "alexmuller",
+      "leaderboard": "2022-09-06",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "alexmuller",
       "leaderboard": "2022-09-05",
       "minutes": 0,
       "seconds": 33,
@@ -213,7 +223,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 47,
+  "awardCount": 49,
   "awards": [
     {
       "title": "Gold",
@@ -221,7 +231,8 @@
       "text": "Get the fastest time for a day",
       "dates": [
         "2022-08-21",
-        "2022-08-27"
+        "2022-08-27",
+        "2022-09-05"
       ]
     },
     {
@@ -384,6 +395,14 @@
       "text": "Get the same time as two other people",
       "dates": [
         "2022-08-24"
+      ]
+    },
+    {
+      "title": "Twinning In Gold",
+      "type": "twinning-in-gold",
+      "text": "Get the twinning award and the fastest time for a day",
+      "dates": [
+        "2022-09-05"
       ]
     },
     {
