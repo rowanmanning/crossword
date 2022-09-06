@@ -6,8 +6,9 @@
   "unlocks": [
     {
       "person": "apaleslimghost",
-      "count": 2,
+      "count": 3,
       "dates": [
+        "2022-09-06",
         "2022-04-01",
         "2022-01-31"
       ]
@@ -29,6 +30,22 @@
       ]
     },
     {
+      "person": "Emma L",
+      "count": 2,
+      "dates": [
+        "2022-09-06",
+        "2022-01-31"
+      ]
+    },
+    {
+      "person": "ivo",
+      "count": 2,
+      "dates": [
+        "2022-09-06",
+        "2022-04-01"
+      ]
+    },
+    {
       "person": "Ania",
       "count": 1,
       "dates": [
@@ -43,21 +60,7 @@
       ]
     },
     {
-      "person": "Emma L",
-      "count": 1,
-      "dates": [
-        "2022-01-31"
-      ]
-    },
-    {
       "person": "itsalex",
-      "count": 1,
-      "dates": [
-        "2022-04-01"
-      ]
-    },
-    {
-      "person": "ivo",
       "count": 1,
       "dates": [
         "2022-04-01"
@@ -69,7 +72,21 @@
       "dates": [
         "2022-04-01"
       ]
+    },
+    {
+      "person": "Otherowan",
+      "count": 1,
+      "dates": [
+        "2022-09-06"
+      ]
+    },
+    {
+      "person": "Rowan M",
+      "count": 1,
+      "dates": [
+        "2022-09-06"
+      ]
     }
   ],
-  "totalUnlocks": 12
+  "totalUnlocks": 17
 }

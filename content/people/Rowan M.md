@@ -5,12 +5,12 @@
     {
       "person": "Rowan M",
       "leaderboard": "2022-09-06",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 30,
+      "totalSeconds": 30,
+      "position": 5,
+      "scrapeTime": "2022-09-06T14:35:38.237Z",
+      "isPending": false
     },
     {
       "person": "Rowan M",
@@ -4453,7 +4453,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1055,
+  "awardCount": 1057,
   "awards": [
     {
       "title": "Gold",
@@ -5362,7 +5362,8 @@
         "2022-09-01",
         "2022-09-02",
         "2022-09-04",
-        "2022-09-05"
+        "2022-09-05",
+        "2022-09-06"
       ]
     },
     {
@@ -5540,6 +5541,14 @@
         "2021-11-09",
         "2021-08-25",
         "2021-07-22"
+      ]
+    },
+    {
+      "title": "Chain 5",
+      "type": "chain-5",
+      "text": "Participate in a chain of five sequential times",
+      "dates": [
+        "2022-09-06"
       ]
     },
     {
