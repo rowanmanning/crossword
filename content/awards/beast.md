@@ -245,7 +245,14 @@
         "2021-12-27",
         "2022-03-08"
       ]
+    },
+    {
+      "person": "alexmuller",
+      "count": 1,
+      "dates": [
+        "2022-09-07"
+      ]
     }
   ],
-  "totalUnlocks": 152
+  "totalUnlocks": 153
 }

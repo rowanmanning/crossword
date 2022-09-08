@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "alexmuller",
+      "leaderboard": "2022-09-08",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "alexmuller",
       "leaderboard": "2022-09-07",
       "minutes": 0,
       "seconds": 43,
@@ -233,7 +243,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 50,
+  "awardCount": 51,
   "awards": [
     {
       "title": "Gold",
@@ -414,6 +424,14 @@
       "text": "Get the twinning award and the fastest time for a day",
       "dates": [
         "2022-09-05"
+      ]
+    },
+    {
+      "title": "The Number of The Beast",
+      "type": "beast",
+      "text": "His number is six hundred and sixty-six",
+      "dates": [
+        "2022-09-07"
       ]
     },
     {
