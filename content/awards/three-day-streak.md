@@ -336,19 +336,20 @@
       ]
     },
     {
+      "person": "alexmuller",
+      "count": 3,
+      "dates": [
+        "2022-08-20",
+        "2022-09-02",
+        "2022-09-09"
+      ]
+    },
+    {
       "person": "Emma L",
       "count": 2,
       "dates": [
         "2021-07-28",
         "2021-08-04"
-      ]
-    },
-    {
-      "person": "alexmuller",
-      "count": 2,
-      "dates": [
-        "2022-08-20",
-        "2022-09-02"
       ]
     },
     {
@@ -366,5 +367,5 @@
       ]
     }
   ],
-  "totalUnlocks": 241
+  "totalUnlocks": 242
 }

@@ -5,12 +5,12 @@
     {
       "person": "alexmuller",
       "leaderboard": "2022-09-09",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 39,
+      "totalSeconds": 39,
+      "position": 2,
+      "scrapeTime": "2022-09-09T19:03:14.736Z",
+      "isPending": false
     },
     {
       "person": "alexmuller",
@@ -247,13 +247,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 1,
-    "totalSeconds": 61,
+    "seconds": 0,
+    "totalSeconds": 60,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 53,
+  "awardCount": 56,
   "awards": [
     {
       "title": "Gold",
@@ -297,7 +297,8 @@
       "text": "Half your completion time from one day to the next",
       "dates": [
         "2022-08-23",
-        "2022-09-02"
+        "2022-09-02",
+        "2022-09-09"
       ]
     },
     {
@@ -355,7 +356,8 @@
         "2022-09-02",
         "2022-09-04",
         "2022-09-05",
-        "2022-09-07"
+        "2022-09-07",
+        "2022-09-09"
       ]
     },
     {
@@ -398,7 +400,8 @@
       "text": "Play for three days in a row",
       "dates": [
         "2022-08-20",
-        "2022-09-02"
+        "2022-09-02",
+        "2022-09-09"
       ]
     },
     {
