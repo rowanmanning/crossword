@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "alexmuller",
+      "leaderboard": "2022-09-10",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "alexmuller",
       "leaderboard": "2022-09-09",
       "minutes": 0,
       "seconds": 39,
@@ -253,7 +263,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 56,
+  "awardCount": 57,
   "awards": [
     {
       "title": "Gold",
@@ -270,7 +280,8 @@
       "type": "silver",
       "text": "Get the second fastest time for a day",
       "dates": [
-        "2022-08-28"
+        "2022-08-28",
+        "2022-09-09"
       ]
     },
     {

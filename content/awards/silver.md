@@ -584,19 +584,20 @@
       ]
     },
     {
+      "person": "alexmuller",
+      "count": 2,
+      "dates": [
+        "2022-08-28",
+        "2022-09-09"
+      ]
+    },
+    {
       "person": "binaryberry",
       "count": 1,
       "dates": [
         "2022-03-29"
       ]
-    },
-    {
-      "person": "alexmuller",
-      "count": 1,
-      "dates": [
-        "2022-08-28"
-      ]
     }
   ],
-  "totalUnlocks": 497
+  "totalUnlocks": 498
 }
