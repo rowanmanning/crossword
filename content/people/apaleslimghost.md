@@ -8,7 +8,7 @@
       "minutes": 0,
       "seconds": 42,
       "totalSeconds": 42,
-      "position": 2,
+      "position": 3,
       "scrapeTime": "2022-09-13T06:24:32.265Z",
       "isPending": false
     },
@@ -4513,7 +4513,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 861,
+  "awardCount": 862,
   "awards": [
     {
       "title": "Gold",
@@ -5546,6 +5546,7 @@
       "type": "yin-and-yang",
       "text": "Get the same time as another person but with flipped seconds",
       "dates": [
+        "2022-09-13",
         "2022-08-16",
         "2022-07-20",
         "2022-03-31",
