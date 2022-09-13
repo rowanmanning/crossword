@@ -5,12 +5,12 @@
     {
       "person": "ellejay",
       "leaderboard": "2022-09-13",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 5,
+      "totalSeconds": 125,
+      "position": 4,
+      "scrapeTime": "2022-09-13T06:24:32.265Z",
+      "isPending": false
     },
     {
       "person": "ellejay",
@@ -447,13 +447,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 53,
-    "totalSeconds": 173,
+    "seconds": 41,
+    "totalSeconds": 161,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 5,
+  "awardCount": 6,
   "awards": [
     {
       "title": "Quarter Time",
@@ -485,7 +485,8 @@
       "text": "Come back to the crossword after a week off",
       "dates": [
         "2022-08-12",
-        "2022-08-29"
+        "2022-08-29",
+        "2022-09-13"
       ]
     }
   ]

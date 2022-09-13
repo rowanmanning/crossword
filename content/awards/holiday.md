@@ -47,19 +47,20 @@
       ]
     },
     {
+      "person": "ellejay",
+      "count": 3,
+      "dates": [
+        "2022-08-12",
+        "2022-08-29",
+        "2022-09-13"
+      ]
+    },
+    {
       "person": "apaleslimghost",
       "count": 2,
       "dates": [
         "2021-08-13",
         "2022-08-31"
-      ]
-    },
-    {
-      "person": "ellejay",
-      "count": 2,
-      "dates": [
-        "2022-08-12",
-        "2022-08-29"
       ]
     },
     {
@@ -98,5 +99,5 @@
       ]
     }
   ],
-  "totalUnlocks": 27
+  "totalUnlocks": 28
 }
