@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "ivo",
+      "leaderboard": "2022-09-13",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "ivo",
       "leaderboard": "2022-09-12",
       "minutes": 0,
       "seconds": 33,
@@ -3663,7 +3673,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 674,
+  "awardCount": 675,
   "awards": [
     {
       "title": "Gold",
@@ -3773,7 +3783,8 @@
         "2022-08-20",
         "2022-08-26",
         "2022-09-02",
-        "2022-09-03"
+        "2022-09-03",
+        "2022-09-12"
       ]
     },
     {
