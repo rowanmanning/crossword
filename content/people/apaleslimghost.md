@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "apaleslimghost",
+      "leaderboard": "2022-09-14",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "apaleslimghost",
       "leaderboard": "2022-09-13",
       "minutes": 0,
       "seconds": 42,
@@ -4513,7 +4523,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 862,
+  "awardCount": 863,
   "awards": [
     {
       "title": "Gold",
@@ -4742,7 +4752,8 @@
       "type": "consistent-3",
       "text": "Get the same position three days in a row",
       "dates": [
-        "2022-05-11"
+        "2022-05-11",
+        "2022-09-13"
       ]
     },
     {
