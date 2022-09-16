@@ -5,12 +5,12 @@
     {
       "person": "Ania",
       "leaderboard": "2022-09-16",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 0,
+      "totalSeconds": 60,
+      "position": 4,
+      "scrapeTime": "2022-09-16T12:43:49.716Z",
+      "isPending": false
     },
     {
       "person": "Ania",
@@ -4553,7 +4553,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 756,
+  "awardCount": 759,
   "awards": [
     {
       "title": "Gold",
@@ -5047,7 +5047,8 @@
         "2022-08-31",
         "2022-09-03",
         "2022-09-05",
-        "2022-09-09"
+        "2022-09-09",
+        "2022-09-16"
       ]
     },
     {
@@ -5372,7 +5373,8 @@
         "2022-08-13",
         "2022-08-19",
         "2022-08-24",
-        "2022-09-05"
+        "2022-09-05",
+        "2022-09-16"
       ]
     },
     {
@@ -5536,6 +5538,14 @@
         "2021-12-19",
         "2021-12-23",
         "2022-02-07"
+      ]
+    },
+    {
+      "title": "1 Friday Street",
+      "type": "friday-street",
+      "text": "Get a time of exactly 1:00 on a Friday",
+      "dates": [
+        "2022-09-16"
       ]
     },
     {
