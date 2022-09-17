@@ -448,7 +448,14 @@
         "2022-03-01",
         "2022-04-02"
       ]
+    },
+    {
+      "person": "alexmuller",
+      "count": 1,
+      "dates": [
+        "2022-09-16"
+      ]
     }
   ],
-  "totalUnlocks": 343
+  "totalUnlocks": 344
 }

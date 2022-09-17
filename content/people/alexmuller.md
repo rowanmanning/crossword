@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "alexmuller",
+      "leaderboard": "2022-09-17",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "alexmuller",
       "leaderboard": "2022-09-16",
       "minutes": 1,
       "seconds": 22,
@@ -323,7 +333,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 62,
+  "awardCount": 64,
   "awards": [
     {
       "title": "Gold",
@@ -353,6 +363,14 @@
         "2022-08-23",
         "2022-08-29",
         "2022-09-10"
+      ]
+    },
+    {
+      "title": "Consistent Position ×2",
+      "type": "consistent-2",
+      "text": "Get the same position two days in a row",
+      "dates": [
+        "2022-09-16"
       ]
     },
     {
@@ -523,6 +541,14 @@
       "text": "His number is six hundred and sixty-six",
       "dates": [
         "2022-09-07"
+      ]
+    },
+    {
+      "title": "999",
+      "type": "emergency",
+      "text": "What's your emergency?",
+      "dates": [
+        "2022-09-16"
       ]
     },
     {
