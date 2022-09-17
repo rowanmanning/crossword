@@ -5,12 +5,12 @@
     {
       "person": "arjun137",
       "leaderboard": "2022-09-17",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 31,
+      "totalSeconds": 151,
+      "position": 4,
+      "scrapeTime": "2022-09-17T12:43:32.995Z",
+      "isPending": false
     },
     {
       "person": "arjun137",
@@ -4537,13 +4537,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 41,
-    "totalSeconds": 101,
+    "seconds": 47,
+    "totalSeconds": 107,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 13,
+  "awardCount": 14,
   "awards": [
     {
       "title": "Half Time",
@@ -4610,7 +4610,8 @@
       "type": "holiday",
       "text": "Come back to the crossword after a week off",
       "dates": [
-        "2021-07-13"
+        "2021-07-13",
+        "2022-09-17"
       ]
     },
     {

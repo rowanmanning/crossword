@@ -57,18 +57,19 @@
       ]
     },
     {
+      "person": "arjun137",
+      "count": 2,
+      "dates": [
+        "2021-07-13",
+        "2022-09-17"
+      ]
+    },
+    {
       "person": "apaleslimghost",
       "count": 2,
       "dates": [
         "2021-08-13",
         "2022-08-31"
-      ]
-    },
-    {
-      "person": "arjun137",
-      "count": 1,
-      "dates": [
-        "2021-07-13"
       ]
     },
     {
@@ -100,5 +101,5 @@
       ]
     }
   ],
-  "totalUnlocks": 29
+  "totalUnlocks": 30
 }
