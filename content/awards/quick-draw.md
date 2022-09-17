@@ -454,6 +454,15 @@
       ]
     },
     {
+      "person": "alexmuller",
+      "count": 3,
+      "dates": [
+        "2022-08-19",
+        "2022-08-23",
+        "2022-09-17"
+      ]
+    },
+    {
       "person": "JRedondo",
       "count": 2,
       "dates": [
@@ -467,14 +476,6 @@
       "dates": [
         "2022-06-24",
         "2022-07-16"
-      ]
-    },
-    {
-      "person": "alexmuller",
-      "count": 2,
-      "dates": [
-        "2022-08-19",
-        "2022-08-23"
       ]
     },
     {
@@ -492,5 +493,5 @@
       ]
     }
   ],
-  "totalUnlocks": 403
+  "totalUnlocks": 404
 }

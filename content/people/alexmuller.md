@@ -5,12 +5,12 @@
     {
       "person": "alexmuller",
       "leaderboard": "2022-09-17",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 14,
+      "totalSeconds": 134,
+      "position": 1,
+      "scrapeTime": "2022-09-17T05:17:58.101Z",
+      "isPending": false
     },
     {
       "person": "alexmuller",
@@ -327,13 +327,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 2,
-    "totalSeconds": 62,
+    "seconds": 4,
+    "totalSeconds": 64,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 64,
+  "awardCount": 66,
   "awards": [
     {
       "title": "Gold",
@@ -495,7 +495,8 @@
       "dates": [
         "2022-08-20",
         "2022-09-02",
-        "2022-09-09"
+        "2022-09-09",
+        "2022-09-17"
       ]
     },
     {
@@ -557,7 +558,8 @@
       "text": "Complete a puzzle before anyone else (or within 30 minutes of the first person)",
       "dates": [
         "2022-08-19",
-        "2022-08-23"
+        "2022-08-23",
+        "2022-09-17"
       ]
     }
   ]
