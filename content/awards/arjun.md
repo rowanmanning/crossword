@@ -62,6 +62,15 @@
       ]
     },
     {
+      "person": "Otherowan",
+      "count": 3,
+      "dates": [
+        "2022-04-21",
+        "2022-08-24",
+        "2022-09-18"
+      ]
+    },
+    {
       "person": "Rowan M",
       "count": 2,
       "dates": [
@@ -94,14 +103,6 @@
       ]
     },
     {
-      "person": "Otherowan",
-      "count": 2,
-      "dates": [
-        "2022-04-21",
-        "2022-08-24"
-      ]
-    },
-    {
       "person": "joelcarr",
       "count": 1,
       "dates": [
@@ -123,5 +124,5 @@
       ]
     }
   ],
-  "totalUnlocks": 40
+  "totalUnlocks": 41
 }
