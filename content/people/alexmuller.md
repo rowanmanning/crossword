@@ -5,12 +5,12 @@
     {
       "person": "alexmuller",
       "leaderboard": "2022-09-19",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 29,
+      "totalSeconds": 29,
+      "position": 1,
+      "scrapeTime": "2022-09-19T07:43:51.444Z",
+      "isPending": false
     },
     {
       "person": "alexmuller",
@@ -347,13 +347,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 5,
-    "totalSeconds": 65,
+    "seconds": 4,
+    "totalSeconds": 64,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 67,
+  "awardCount": 69,
   "awards": [
     {
       "title": "Gold",
@@ -408,7 +408,8 @@
       "dates": [
         "2022-08-23",
         "2022-09-02",
-        "2022-09-09"
+        "2022-09-09",
+        "2022-09-19"
       ]
     },
     {
@@ -481,7 +482,8 @@
       "text": "Complete a puzzle in less than 30 seconds",
       "dates": [
         "2022-08-21",
-        "2022-08-23"
+        "2022-08-23",
+        "2022-09-19"
       ]
     },
     {
