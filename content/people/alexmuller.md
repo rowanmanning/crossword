@@ -5,12 +5,12 @@
     {
       "person": "alexmuller",
       "leaderboard": "2022-09-21",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 42,
+      "totalSeconds": 42,
+      "position": 1,
+      "scrapeTime": "2022-09-21T05:57:30.498Z",
+      "isPending": false
     },
     {
       "person": "alexmuller",
@@ -367,13 +367,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 4,
-    "totalSeconds": 64,
+    "seconds": 3,
+    "totalSeconds": 63,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 70,
+  "awardCount": 73,
   "awards": [
     {
       "title": "Gold",
@@ -494,7 +494,8 @@
         "2022-09-04",
         "2022-09-05",
         "2022-09-07",
-        "2022-09-09"
+        "2022-09-09",
+        "2022-09-21"
       ]
     },
     {
@@ -548,7 +549,8 @@
       "type": "week-streak",
       "text": "Play for a full week without breaks",
       "dates": [
-        "2022-08-24"
+        "2022-08-24",
+        "2022-09-21"
       ]
     },
     {
@@ -578,6 +580,14 @@
       "text": "Get the twinning award and the fastest time for a day",
       "dates": [
         "2022-09-05"
+      ]
+    },
+    {
+      "title": "Don't Panic",
+      "type": "dont-panic",
+      "text": "A towel is about the most massively useful thing an interstellar hitchhiker can have",
+      "dates": [
+        "2022-09-21"
       ]
     },
     {
