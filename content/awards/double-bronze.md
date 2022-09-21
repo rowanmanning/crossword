@@ -122,6 +122,14 @@
       ]
     },
     {
+      "person": "Otherowan",
+      "count": 2,
+      "dates": [
+        "2022-03-22",
+        "2022-09-20"
+      ]
+    },
+    {
       "person": "Oliver Turner",
       "count": 1,
       "dates": [
@@ -134,14 +142,7 @@
       "dates": [
         "2022-01-25"
       ]
-    },
-    {
-      "person": "Otherowan",
-      "count": 1,
-      "dates": [
-        "2022-03-22"
-      ]
     }
   ],
-  "totalUnlocks": 66
+  "totalUnlocks": 67
 }
