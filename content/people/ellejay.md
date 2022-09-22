@@ -8,7 +8,7 @@
       "minutes": 1,
       "seconds": 16,
       "totalSeconds": 76,
-      "position": 4,
+      "position": 5,
       "scrapeTime": "2022-09-22T03:49:38.091Z",
       "isPending": false
     },
@@ -543,7 +543,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 9,
+  "awardCount": 10,
   "awards": [
     {
       "title": "Quarter Time",
@@ -575,6 +575,14 @@
       "text": "Complete a puzzle in less than a minute",
       "dates": [
         "2022-08-29"
+      ]
+    },
+    {
+      "title": "Chain 3",
+      "type": "chain-3",
+      "text": "Participate in a chain of three sequential times",
+      "dates": [
+        "2022-09-22"
       ]
     },
     {
