@@ -5,12 +5,12 @@
     {
       "person": "ellejay",
       "leaderboard": "2022-09-22",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 16,
+      "totalSeconds": 76,
+      "position": 1,
+      "scrapeTime": "2022-09-22T03:49:38.091Z",
+      "isPending": false
     },
     {
       "person": "ellejay",
@@ -537,13 +537,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 41,
-    "totalSeconds": 161,
+    "seconds": 24,
+    "totalSeconds": 144,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 6,
+  "awardCount": 9,
   "awards": [
     {
       "title": "Quarter Time",
@@ -562,6 +562,14 @@
       ]
     },
     {
+      "title": "Sub Two Minutes",
+      "type": "sub-120",
+      "text": "Complete a puzzle in less than two minutes",
+      "dates": [
+        "2022-09-22"
+      ]
+    },
+    {
       "title": "Sub Minute",
       "type": "sub-60",
       "text": "Complete a puzzle in less than a minute",
@@ -576,7 +584,16 @@
       "dates": [
         "2022-08-12",
         "2022-08-29",
-        "2022-09-13"
+        "2022-09-13",
+        "2022-09-22"
+      ]
+    },
+    {
+      "title": "Quick Draw",
+      "type": "quick-draw",
+      "text": "Complete a puzzle before anyone else (or within 30 minutes of the first person)",
+      "dates": [
+        "2022-09-22"
       ]
     }
   ]
