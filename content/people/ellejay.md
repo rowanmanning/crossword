@@ -553,7 +553,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 13,
+  "awardCount": 14,
   "awards": [
     {
       "title": "Half Time",
@@ -620,6 +620,14 @@
         "2022-08-29",
         "2022-09-13",
         "2022-09-22"
+      ]
+    },
+    {
+      "title": "Twinning",
+      "type": "twinning",
+      "text": "Get the same time as another person",
+      "dates": [
+        "2022-09-23"
       ]
     },
     {

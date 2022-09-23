@@ -6,10 +6,11 @@
   "unlocks": [
     {
       "person": "Lily2point0",
-      "count": 2,
+      "count": 3,
       "dates": [
         "2022-04-22",
-        "2022-05-20"
+        "2022-05-20",
+        "2022-09-23"
       ]
     },
     {
@@ -55,5 +56,5 @@
       ]
     }
   ],
-  "totalUnlocks": 8
+  "totalUnlocks": 9
 }

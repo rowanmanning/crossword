@@ -5,12 +5,12 @@
     {
       "person": "Lily2point0",
       "leaderboard": "2022-09-23",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 0,
+      "totalSeconds": 60,
+      "position": 2,
+      "scrapeTime": "2022-09-23T06:19:17.769Z",
+      "isPending": false
     },
     {
       "person": "Lily2point0",
@@ -4623,7 +4623,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 821,
+  "awardCount": 823,
   "awards": [
     {
       "title": "Gold",
@@ -5158,7 +5158,8 @@
         "2022-09-13",
         "2022-09-16",
         "2022-09-18",
-        "2022-09-22"
+        "2022-09-22",
+        "2022-09-23"
       ]
     },
     {
@@ -5543,7 +5544,8 @@
       "text": "Get a time of exactly 1:00 on a Friday",
       "dates": [
         "2022-04-22",
-        "2022-05-20"
+        "2022-05-20",
+        "2022-09-23"
       ]
     },
     {
