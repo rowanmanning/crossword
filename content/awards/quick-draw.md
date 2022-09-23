@@ -486,6 +486,14 @@
       ]
     },
     {
+      "person": "ellejay",
+      "count": 2,
+      "dates": [
+        "2022-09-22",
+        "2022-09-23"
+      ]
+    },
+    {
       "person": "leaf",
       "count": 1,
       "dates": [
@@ -498,14 +506,7 @@
       "dates": [
         "2022-02-11"
       ]
-    },
-    {
-      "person": "ellejay",
-      "count": 1,
-      "dates": [
-        "2022-09-22"
-      ]
     }
   ],
-  "totalUnlocks": 412
+  "totalUnlocks": 413
 }

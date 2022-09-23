@@ -5,12 +5,12 @@
     {
       "person": "ellejay",
       "leaderboard": "2022-09-23",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 35,
+      "totalSeconds": 35,
+      "position": 1,
+      "scrapeTime": "2022-09-23T03:54:38.721Z",
+      "isPending": false
     },
     {
       "person": "ellejay",
@@ -535,26 +535,34 @@
   ],
   "best": {
     "person": "ellejay",
-    "leaderboard": "2022-08-29",
+    "leaderboard": "2022-09-23",
     "minutes": 0,
-    "seconds": 58,
-    "totalSeconds": 58,
-    "position": 6,
-    "scrapeTime": "2022-08-29T18:02:16.491Z",
+    "seconds": 35,
+    "totalSeconds": 35,
+    "position": 1,
+    "scrapeTime": "2022-09-23T03:54:38.721Z",
     "isPending": false
   },
   "mean": {
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 24,
-    "totalSeconds": 144,
+    "seconds": 6,
+    "totalSeconds": 126,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 10,
+  "awardCount": 13,
   "awards": [
+    {
+      "title": "Half Time",
+      "type": "half-time",
+      "text": "Half your completion time from one day to the next",
+      "dates": [
+        "2022-09-23"
+      ]
+    },
     {
       "title": "Quarter Time",
       "type": "quarter-time",
@@ -588,6 +596,14 @@
       ]
     },
     {
+      "title": "Sub 45 Seconds",
+      "type": "sub-45",
+      "text": "Complete a puzzle in less than 45 seconds",
+      "dates": [
+        "2022-09-23"
+      ]
+    },
+    {
       "title": "Chain 3",
       "type": "chain-3",
       "text": "Participate in a chain of three sequential times",
@@ -611,7 +627,8 @@
       "type": "quick-draw",
       "text": "Complete a puzzle before anyone else (or within 30 minutes of the first person)",
       "dates": [
-        "2022-09-22"
+        "2022-09-22",
+        "2022-09-23"
       ]
     }
   ]

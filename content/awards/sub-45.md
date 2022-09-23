@@ -1357,7 +1357,14 @@
         "2021-06-23",
         "2021-07-13"
       ]
+    },
+    {
+      "person": "ellejay",
+      "count": 1,
+      "dates": [
+        "2022-09-23"
+      ]
     }
   ],
-  "totalUnlocks": 1246
+  "totalUnlocks": 1247
 }
