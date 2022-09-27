@@ -317,6 +317,17 @@
       ]
     },
     {
+      "person": "alexmuller",
+      "count": 5,
+      "dates": [
+        "2022-08-20",
+        "2022-09-02",
+        "2022-09-09",
+        "2022-09-17",
+        "2022-09-27"
+      ]
+    },
+    {
       "person": "Oliver Turner",
       "count": 4,
       "dates": [
@@ -347,16 +358,6 @@
       ]
     },
     {
-      "person": "alexmuller",
-      "count": 4,
-      "dates": [
-        "2022-08-20",
-        "2022-09-02",
-        "2022-09-09",
-        "2022-09-17"
-      ]
-    },
-    {
       "person": "Emma L",
       "count": 2,
       "dates": [
@@ -379,5 +380,5 @@
       ]
     }
   ],
-  "totalUnlocks": 254
+  "totalUnlocks": 255
 }
