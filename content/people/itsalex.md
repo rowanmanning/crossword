@@ -5,12 +5,12 @@
     {
       "person": "itsalex",
       "leaderboard": "2022-09-28",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 24,
+      "totalSeconds": 24,
+      "position": 2,
+      "scrapeTime": "2022-09-28T09:06:15.785Z",
+      "isPending": false
     },
     {
       "person": "itsalex",
@@ -4643,7 +4643,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 849,
+  "awardCount": 851,
   "awards": [
     {
       "title": "Gold",
@@ -5414,7 +5414,8 @@
         "2022-08-30",
         "2022-09-14",
         "2022-09-18",
-        "2022-09-23"
+        "2022-09-23",
+        "2022-09-28"
       ]
     },
     {
@@ -5683,6 +5684,7 @@
       "type": "yin-and-yang",
       "text": "Get the same time as another person but with flipped seconds",
       "dates": [
+        "2022-09-28",
         "2022-04-22",
         "2022-03-28",
         "2022-03-18",
