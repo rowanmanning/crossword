@@ -5,12 +5,12 @@
     {
       "person": "itsalex",
       "leaderboard": "2022-09-29",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 24,
+      "totalSeconds": 24,
+      "position": 1,
+      "scrapeTime": "2022-09-29T06:31:47.306Z",
+      "isPending": false
     },
     {
       "person": "itsalex",
@@ -4653,7 +4653,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 852,
+  "awardCount": 855,
   "awards": [
     {
       "title": "Gold",
@@ -5426,7 +5426,8 @@
         "2022-09-14",
         "2022-09-18",
         "2022-09-23",
-        "2022-09-28"
+        "2022-09-28",
+        "2022-09-29"
       ]
     },
     {
@@ -5593,7 +5594,8 @@
         "2022-06-09",
         "2022-06-17",
         "2022-07-12",
-        "2022-07-22"
+        "2022-07-22",
+        "2022-09-29"
       ]
     },
     {
@@ -5756,7 +5758,8 @@
       "text": "Complete a puzzle before anyone else (or within 30 minutes of the first person)",
       "dates": [
         "2022-06-24",
-        "2022-07-16"
+        "2022-07-16",
+        "2022-09-29"
       ]
     },
     {
