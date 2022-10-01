@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "alexmuller",
+      "leaderboard": "2022-10-02",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "alexmuller",
       "leaderboard": "2022-10-01",
       "minutes": 2,
       "seconds": 58,
@@ -473,7 +483,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 89,
+  "awardCount": 91,
   "awards": [
     {
       "title": "Gold",
@@ -513,7 +523,8 @@
       "type": "consistent-2",
       "text": "Get the same position two days in a row",
       "dates": [
-        "2022-09-16"
+        "2022-09-16",
+        "2022-10-01"
       ]
     },
     {
@@ -709,7 +720,8 @@
       "type": "beast",
       "text": "His number is six hundred and sixty-six",
       "dates": [
-        "2022-09-07"
+        "2022-09-07",
+        "2022-10-01"
       ]
     },
     {

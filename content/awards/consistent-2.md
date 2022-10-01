@@ -458,11 +458,12 @@
     },
     {
       "person": "alexmuller",
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2022-09-16"
+        "2022-09-16",
+        "2022-10-01"
       ]
     }
   ],
-  "totalUnlocks": 351
+  "totalUnlocks": 352
 }
