@@ -5,12 +5,12 @@
     {
       "person": "alexmuller",
       "leaderboard": "2022-10-02",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 9,
+      "totalSeconds": 69,
+      "position": 5,
+      "scrapeTime": "2022-10-02T06:41:51.640Z",
+      "isPending": false
     },
     {
       "person": "alexmuller",
@@ -477,13 +477,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 2,
-    "totalSeconds": 62,
+    "seconds": 3,
+    "totalSeconds": 63,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 91,
+  "awardCount": 94,
   "awards": [
     {
       "title": "Gold",
@@ -543,7 +543,8 @@
         "2022-08-23",
         "2022-09-02",
         "2022-09-09",
-        "2022-09-19"
+        "2022-09-19",
+        "2022-10-02"
       ]
     },
     {
@@ -584,7 +585,8 @@
         "2022-09-12",
         "2022-09-16",
         "2022-09-18",
-        "2022-09-22"
+        "2022-09-22",
+        "2022-10-02"
       ]
     },
     {
@@ -705,6 +707,14 @@
       "text": "Get the twinning award and the fastest time for a day",
       "dates": [
         "2022-09-05"
+      ]
+    },
+    {
+      "title": "Nice",
+      "type": "nice",
+      "text": "Nice…",
+      "dates": [
+        "2022-10-02"
       ]
     },
     {
