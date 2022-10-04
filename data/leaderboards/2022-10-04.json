@@ -50,6 +50,11 @@
 		"seconds": 59
 	},
 	{
+		"name": "Otherowan",
+		"scrapeTime": "2022-10-04T21:36:06.265Z",
+		"seconds": 59
+	},
+	{
 		"name": "Lily2point0",
 		"scrapeTime": "2022-10-04T06:42:53.055Z",
 		"seconds": 117
@@ -91,11 +96,6 @@
 	},
 	{
 		"name": "Oliver Turner",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
-		"name": "Otherowan",
 		"scrapeTime": null,
 		"seconds": null
 	},
