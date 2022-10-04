@@ -5,12 +5,12 @@
     {
       "person": "binaryberry",
       "leaderboard": "2022-10-04",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 29,
+      "totalSeconds": 29,
+      "position": 2,
+      "scrapeTime": "2022-10-04T08:03:12.041Z",
+      "isPending": false
     },
     {
       "person": "binaryberry",
@@ -4727,13 +4727,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 2,
-    "totalSeconds": 122,
+    "seconds": 1,
+    "totalSeconds": 121,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 688,
+  "awardCount": 690,
   "awards": [
     {
       "title": "Silver",
@@ -4889,7 +4889,8 @@
         "2022-05-24",
         "2022-07-10",
         "2022-07-24",
-        "2022-09-04"
+        "2022-09-04",
+        "2022-10-04"
       ]
     },
     {
@@ -5234,7 +5235,8 @@
       "type": "sub-30",
       "text": "Complete a puzzle in less than 30 seconds",
       "dates": [
-        "2022-03-29"
+        "2022-03-29",
+        "2022-10-04"
       ]
     },
     {

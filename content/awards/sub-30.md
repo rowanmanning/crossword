@@ -587,17 +587,18 @@
       ]
     },
     {
+      "person": "binaryberry",
+      "count": 2,
+      "dates": [
+        "2022-03-29",
+        "2022-10-04"
+      ]
+    },
+    {
       "person": "Nick Ramsbottom",
       "count": 1,
       "dates": [
         "2022-01-31"
-      ]
-    },
-    {
-      "person": "binaryberry",
-      "count": 1,
-      "dates": [
-        "2022-03-29"
       ]
     },
     {
@@ -608,5 +609,5 @@
       ]
     }
   ],
-  "totalUnlocks": 495
+  "totalUnlocks": 496
 }
