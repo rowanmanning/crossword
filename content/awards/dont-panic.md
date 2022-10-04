@@ -136,6 +136,14 @@
       ]
     },
     {
+      "person": "ivo",
+      "count": 2,
+      "dates": [
+        "2021-10-28",
+        "2022-10-04"
+      ]
+    },
+    {
       "person": "arjun137",
       "count": 1,
       "dates": [
@@ -154,13 +162,6 @@
       "count": 1,
       "dates": [
         "2021-09-03"
-      ]
-    },
-    {
-      "person": "ivo",
-      "count": 1,
-      "dates": [
-        "2021-10-28"
       ]
     },
     {
@@ -185,5 +186,5 @@
       ]
     }
   ],
-  "totalUnlocks": 78
+  "totalUnlocks": 79
 }

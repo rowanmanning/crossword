@@ -4383,7 +4383,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1016,
+  "awardCount": 1017,
   "awards": [
     {
       "title": "Gold",
@@ -5566,6 +5566,7 @@
       "type": "yin-and-yang",
       "text": "Get the same time as another person but with flipped seconds",
       "dates": [
+        "2022-10-04",
         "2022-03-26",
         "2022-03-11",
         "2022-03-09",

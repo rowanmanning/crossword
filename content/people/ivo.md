@@ -5,12 +5,12 @@
     {
       "person": "ivo",
       "leaderboard": "2022-10-04",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 42,
+      "totalSeconds": 42,
+      "position": 5,
+      "scrapeTime": "2022-10-04T10:38:42.769Z",
+      "isPending": false
     },
     {
       "person": "ivo",
@@ -3883,7 +3883,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 706,
+  "awardCount": 709,
   "awards": [
     {
       "title": "Gold",
@@ -4498,7 +4498,8 @@
         "2022-09-25",
         "2022-09-26",
         "2022-09-27",
-        "2022-09-28"
+        "2022-09-28",
+        "2022-10-04"
       ]
     },
     {
@@ -4783,6 +4784,7 @@
       "type": "yin-and-yang",
       "text": "Get the same time as another person but with flipped seconds",
       "dates": [
+        "2022-10-04",
         "2022-08-26",
         "2022-08-02",
         "2022-04-18",
@@ -4823,7 +4825,8 @@
       "type": "dont-panic",
       "text": "A towel is about the most massively useful thing an interstellar hitchhiker can have",
       "dates": [
-        "2021-10-28"
+        "2021-10-28",
+        "2022-10-04"
       ]
     },
     {
