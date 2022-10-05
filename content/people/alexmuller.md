@@ -5,12 +5,12 @@
     {
       "person": "alexmuller",
       "leaderboard": "2022-10-05",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 4,
+      "totalSeconds": 64,
+      "position": 5,
+      "scrapeTime": "2022-10-05T22:02:28.613Z",
+      "isPending": false
     },
     {
       "person": "alexmuller",
@@ -513,7 +513,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 99,
+  "awardCount": 101,
   "awards": [
     {
       "title": "Gold",
@@ -618,7 +618,8 @@
         "2022-09-16",
         "2022-09-18",
         "2022-09-22",
-        "2022-10-02"
+        "2022-10-02",
+        "2022-10-05"
       ]
     },
     {
@@ -710,7 +711,8 @@
       "text": "Play for a full week without breaks",
       "dates": [
         "2022-08-24",
-        "2022-09-21"
+        "2022-09-21",
+        "2022-10-05"
       ]
     },
     {
