@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "cb",
+      "leaderboard": "2022-10-07",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "cb",
       "leaderboard": "2022-10-06",
       "minutes": 0,
       "seconds": 23,
@@ -4673,7 +4683,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1224,
+  "awardCount": 1225,
   "awards": [
     {
       "title": "Gold",
@@ -5001,7 +5011,8 @@
         "2022-09-15",
         "2022-09-19",
         "2022-09-20",
-        "2022-09-26"
+        "2022-09-26",
+        "2022-10-06"
       ]
     },
     {
