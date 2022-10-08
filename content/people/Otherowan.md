@@ -5,12 +5,12 @@
     {
       "person": "Otherowan",
       "leaderboard": "2022-10-08",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 3,
+      "seconds": 37,
+      "totalSeconds": 217,
+      "position": 11,
+      "scrapeTime": "2022-10-08T21:35:39.894Z",
+      "isPending": false
     },
     {
       "person": "Otherowan",
