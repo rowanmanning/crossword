@@ -5,12 +5,12 @@
     {
       "person": "alexmuller",
       "leaderboard": "2022-10-10",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 31,
+      "totalSeconds": 91,
+      "position": 10,
+      "scrapeTime": "2022-10-10T20:37:45.245Z",
+      "isPending": false
     },
     {
       "person": "alexmuller",
@@ -557,13 +557,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 2,
-    "totalSeconds": 62,
+    "seconds": 3,
+    "totalSeconds": 63,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 108,
+  "awardCount": 110,
   "awards": [
     {
       "title": "Gold",
@@ -671,7 +671,8 @@
         "2022-10-02",
         "2022-10-05",
         "2022-10-08",
-        "2022-10-09"
+        "2022-10-09",
+        "2022-10-10"
       ]
     },
     {
@@ -798,6 +799,14 @@
       "text": "Get the twinning award and the fastest time for a day",
       "dates": [
         "2022-09-05"
+      ]
+    },
+    {
+      "title": "Yin and Yang",
+      "type": "yin-and-yang",
+      "text": "Get the same time as another person but with flipped seconds",
+      "dates": [
+        "2022-10-10"
       ]
     },
     {
