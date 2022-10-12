@@ -5,12 +5,12 @@
     {
       "person": "Emma L",
       "leaderboard": "2022-10-12",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 15,
+      "totalSeconds": 15,
+      "position": 1,
+      "scrapeTime": "2022-10-12T06:43:09.906Z",
+      "isPending": false
     },
     {
       "person": "Emma L",
@@ -4445,12 +4445,12 @@
   ],
   "best": {
     "person": "Emma L",
-    "leaderboard": "2022-09-21",
+    "leaderboard": "2022-10-12",
     "minutes": 0,
     "seconds": 15,
     "totalSeconds": 15,
     "position": 1,
-    "scrapeTime": "2022-09-21T06:29:49.530Z",
+    "scrapeTime": "2022-10-12T06:43:09.906Z",
     "isPending": false
   },
   "mean": {
@@ -4463,7 +4463,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1040,
+  "awardCount": 1041,
   "awards": [
     {
       "title": "Gold",
@@ -5406,7 +5406,8 @@
         "2022-09-02",
         "2022-09-14",
         "2022-09-21",
-        "2022-09-27"
+        "2022-09-27",
+        "2022-10-12"
       ]
     },
     {
