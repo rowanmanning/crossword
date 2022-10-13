@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Emma L",
+      "leaderboard": "2022-10-13",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Emma L",
       "leaderboard": "2022-10-12",
       "minutes": 0,
       "seconds": 15,
@@ -4463,7 +4473,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1041,
+  "awardCount": 1043,
   "awards": [
     {
       "title": "Gold",
@@ -4531,7 +4541,8 @@
         "2022-09-28",
         "2022-09-30",
         "2022-10-06",
-        "2022-10-07"
+        "2022-10-07",
+        "2022-10-12"
       ]
     },
     {
@@ -4808,6 +4819,14 @@
         "2022-08-20",
         "2022-09-13",
         "2022-10-10"
+      ]
+    },
+    {
+      "title": "Podium Climbing",
+      "type": "podium-climbing",
+      "text": "Unlock third, second, then first place awards in order",
+      "dates": [
+        "2022-10-12"
       ]
     },
     {
