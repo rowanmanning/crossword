@@ -5,12 +5,12 @@
     {
       "person": "alexmuller",
       "leaderboard": "2022-10-13",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 19,
+      "totalSeconds": 19,
+      "position": 1,
+      "scrapeTime": "2022-10-13T06:44:53.962Z",
+      "isPending": false
     },
     {
       "person": "alexmuller",
@@ -575,25 +575,25 @@
   ],
   "best": {
     "person": "alexmuller",
-    "leaderboard": "2022-08-21",
+    "leaderboard": "2022-10-13",
     "minutes": 0,
-    "seconds": 24,
-    "totalSeconds": 24,
+    "seconds": 19,
+    "totalSeconds": 19,
     "position": 1,
-    "scrapeTime": "2022-08-21T06:02:33.868Z",
+    "scrapeTime": "2022-10-13T06:44:53.962Z",
     "isPending": false
   },
   "mean": {
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 4,
-    "totalSeconds": 64,
+    "seconds": 3,
+    "totalSeconds": 63,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 113,
+  "awardCount": 115,
   "awards": [
     {
       "title": "Gold",
@@ -663,7 +663,8 @@
       "type": "quarter-time",
       "text": "Quarter your completion time from one day to the next",
       "dates": [
-        "2022-08-21"
+        "2022-08-21",
+        "2022-10-13"
       ]
     },
     {
@@ -752,6 +753,14 @@
         "2022-09-19",
         "2022-09-27",
         "2022-10-03"
+      ]
+    },
+    {
+      "title": "Sub 20 Seconds",
+      "type": "sub-20",
+      "text": "Complete a puzzle in less than 20 seconds",
+      "dates": [
+        "2022-10-13"
       ]
     },
     {
