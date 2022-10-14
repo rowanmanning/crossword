@@ -67,7 +67,14 @@
         "2021-11-26",
         "2021-12-06"
       ]
+    },
+    {
+      "person": "Otherowan",
+      "count": 1,
+      "dates": [
+        "2022-10-13"
+      ]
     }
   ],
-  "totalUnlocks": 40
+  "totalUnlocks": 41
 }

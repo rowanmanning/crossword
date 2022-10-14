@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Otherowan",
+      "leaderboard": "2022-10-14",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Otherowan",
       "leaderboard": "2022-10-13",
       "minutes": 0,
       "seconds": 18,
@@ -2613,7 +2623,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 469,
+  "awardCount": 471,
   "awards": [
     {
       "title": "Gold",
@@ -2625,7 +2635,8 @@
         "2022-04-24",
         "2022-08-15",
         "2022-09-13",
-        "2022-10-05"
+        "2022-10-05",
+        "2022-10-13"
       ]
     },
     {
@@ -3334,6 +3345,14 @@
       "text": "Complete a puzzle before anyone else (or within 30 minutes of the first person)",
       "dates": [
         "2022-02-11"
+      ]
+    },
+    {
+      "title": "Slow and Steady",
+      "type": "slow-and-steady",
+      "text": "Complete a puzzle after everyone else but with the fastest time",
+      "dates": [
+        "2022-10-13"
       ]
     }
   ]
