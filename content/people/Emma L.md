@@ -5,12 +5,12 @@
     {
       "person": "Emma L",
       "leaderboard": "2022-10-14",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 17,
+      "totalSeconds": 17,
+      "position": 1,
+      "scrapeTime": "2022-10-14T06:26:02.810Z",
+      "isPending": false
     },
     {
       "person": "Emma L",
@@ -4477,13 +4477,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 52,
-    "totalSeconds": 52,
+    "seconds": 51,
+    "totalSeconds": 51,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1048,
+  "awardCount": 1049,
   "awards": [
     {
       "title": "Gold",
@@ -5439,7 +5439,8 @@
         "2022-09-14",
         "2022-09-21",
         "2022-09-27",
-        "2022-10-12"
+        "2022-10-12",
+        "2022-10-14"
       ]
     },
     {
