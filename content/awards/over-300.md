@@ -115,6 +115,14 @@
       ]
     },
     {
+      "person": "Otherowan",
+      "count": 2,
+      "dates": [
+        "2022-01-30",
+        "2022-10-15"
+      ]
+    },
+    {
       "person": "apaleslimghost",
       "count": 1,
       "dates": [
@@ -141,14 +149,7 @@
       "dates": [
         "2022-01-08"
       ]
-    },
-    {
-      "person": "Otherowan",
-      "count": 1,
-      "dates": [
-        "2022-01-30"
-      ]
     }
   ],
-  "totalUnlocks": 61
+  "totalUnlocks": 62
 }
