@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Rowan M",
+      "leaderboard": "2022-10-17",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Rowan M",
       "leaderboard": "2022-10-16",
       "minutes": 0,
       "seconds": 38,
@@ -4853,7 +4863,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1130,
+  "awardCount": 1131,
   "awards": [
     {
       "title": "Gold",
@@ -6263,7 +6273,8 @@
       "text": "What's your emergency?",
       "dates": [
         "2021-08-21",
-        "2022-03-31"
+        "2022-03-31",
+        "2022-10-16"
       ]
     },
     {
