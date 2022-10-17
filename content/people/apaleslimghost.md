@@ -5,12 +5,12 @@
     {
       "person": "apaleslimghost",
       "leaderboard": "2022-10-17",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 27,
+      "totalSeconds": 87,
+      "position": 4,
+      "scrapeTime": "2022-10-17T07:16:38.918Z",
+      "isPending": false
     },
     {
       "person": "apaleslimghost",
@@ -4846,14 +4846,14 @@
   "mean": {
     "person": null,
     "leaderboard": null,
-    "minutes": 0,
-    "seconds": 59,
-    "totalSeconds": 59,
+    "minutes": 1,
+    "seconds": 0,
+    "totalSeconds": 60,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 929,
+  "awardCount": 931,
   "awards": [
     {
       "title": "Gold",
@@ -5269,7 +5269,8 @@
         "2022-10-01",
         "2022-10-08",
         "2022-10-12",
-        "2022-10-15"
+        "2022-10-15",
+        "2022-10-17"
       ]
     },
     {
@@ -5382,7 +5383,8 @@
         "2022-10-05",
         "2022-10-08",
         "2022-10-09",
-        "2022-10-12"
+        "2022-10-12",
+        "2022-10-17"
       ]
     },
     {
