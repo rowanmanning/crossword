@@ -5,12 +5,12 @@
     {
       "person": "cb",
       "leaderboard": "2022-10-19",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 24,
+      "totalSeconds": 24,
+      "position": 1,
+      "scrapeTime": "2022-10-19T16:05:08.015Z",
+      "isPending": false
     },
     {
       "person": "cb",
@@ -4803,7 +4803,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1266,
+  "awardCount": 1268,
   "awards": [
     {
       "title": "Gold",
@@ -5955,7 +5955,8 @@
         "2022-10-06",
         "2022-10-07",
         "2022-10-11",
-        "2022-10-13"
+        "2022-10-13",
+        "2022-10-19"
       ]
     },
     {
@@ -6281,6 +6282,7 @@
       "type": "yin-and-yang",
       "text": "Get the same time as another person but with flipped seconds",
       "dates": [
+        "2022-10-19",
         "2022-10-13",
         "2022-08-02",
         "2022-04-22",
