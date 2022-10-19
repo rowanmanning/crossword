@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "apaleslimghost",
+      "leaderboard": "2022-10-19",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "apaleslimghost",
       "leaderboard": "2022-10-18",
       "minutes": 0,
       "seconds": 23,
@@ -4863,7 +4873,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 934,
+  "awardCount": 936,
   "awards": [
     {
       "title": "Gold",
@@ -4898,7 +4908,8 @@
         "2022-06-13",
         "2022-06-21",
         "2022-09-15",
-        "2022-09-24"
+        "2022-09-24",
+        "2022-10-18"
       ]
     },
     {
@@ -5952,7 +5963,8 @@
       "text": "Get the twinning award and the fastest time for a day",
       "dates": [
         "2021-08-18",
-        "2021-11-16"
+        "2021-11-16",
+        "2022-10-18"
       ]
     },
     {
