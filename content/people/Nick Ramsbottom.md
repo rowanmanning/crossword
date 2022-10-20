@@ -5,12 +5,12 @@
     {
       "person": "Nick Ramsbottom",
       "leaderboard": "2022-10-20",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 8,
+      "totalSeconds": 68,
+      "position": 7,
+      "scrapeTime": "2022-10-20T13:47:32.122Z",
+      "isPending": false
     },
     {
       "person": "Nick Ramsbottom",
@@ -4287,13 +4287,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 45,
-    "totalSeconds": 105,
+    "seconds": 44,
+    "totalSeconds": 104,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 382,
+  "awardCount": 384,
   "awards": [
     {
       "title": "Bronze",
@@ -4566,7 +4566,8 @@
         "2022-04-08",
         "2022-04-09",
         "2022-04-11",
-        "2022-04-19"
+        "2022-04-19",
+        "2022-10-20"
       ]
     },
     {
@@ -4734,6 +4735,14 @@
       "text": "Play for a full quarter, give that OKR a 1",
       "dates": [
         "2022-02-11"
+      ]
+    },
+    {
+      "title": "Holiday",
+      "type": "holiday",
+      "text": "Come back to the crossword after a week off",
+      "dates": [
+        "2022-10-20"
       ]
     },
     {
