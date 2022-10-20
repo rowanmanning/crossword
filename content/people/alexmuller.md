@@ -5,12 +5,12 @@
     {
       "person": "alexmuller",
       "leaderboard": "2022-10-20",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 39,
+      "totalSeconds": 39,
+      "position": 2,
+      "scrapeTime": "2022-10-20T18:43:47.798Z",
+      "isPending": false
     },
     {
       "person": "alexmuller",
@@ -663,7 +663,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 128,
+  "awardCount": 131,
   "awards": [
     {
       "title": "Gold",
@@ -728,7 +728,8 @@
         "2022-09-19",
         "2022-10-02",
         "2022-10-03",
-        "2022-10-16"
+        "2022-10-16",
+        "2022-10-20"
       ]
     },
     {
@@ -819,7 +820,8 @@
         "2022-09-26",
         "2022-09-29",
         "2022-10-14",
-        "2022-10-16"
+        "2022-10-16",
+        "2022-10-20"
       ]
     },
     {
@@ -914,7 +916,8 @@
       "type": "tripleting",
       "text": "Get the same time as two other people",
       "dates": [
-        "2022-08-24"
+        "2022-08-24",
+        "2022-10-20"
       ]
     },
     {
