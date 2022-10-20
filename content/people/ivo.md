@@ -5,12 +5,12 @@
     {
       "person": "ivo",
       "leaderboard": "2022-10-20",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 42,
+      "totalSeconds": 42,
+      "position": 2,
+      "scrapeTime": "2022-10-20T09:39:23.106Z",
+      "isPending": false
     },
     {
       "person": "ivo",
@@ -4043,7 +4043,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 734,
+  "awardCount": 736,
   "awards": [
     {
       "title": "Gold",
@@ -4676,7 +4676,8 @@
         "2022-09-27",
         "2022-09-28",
         "2022-10-04",
-        "2022-10-19"
+        "2022-10-19",
+        "2022-10-20"
       ]
     },
     {
@@ -5010,7 +5011,8 @@
       "text": "A towel is about the most massively useful thing an interstellar hitchhiker can have",
       "dates": [
         "2021-10-28",
-        "2022-10-04"
+        "2022-10-04",
+        "2022-10-20"
       ]
     },
     {
