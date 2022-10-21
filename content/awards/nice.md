@@ -26,6 +26,15 @@
       ]
     },
     {
+      "person": "binaryberry",
+      "count": 3,
+      "dates": [
+        "2021-07-08",
+        "2022-05-08",
+        "2022-10-21"
+      ]
+    },
+    {
       "person": "Nick Ramsbottom",
       "count": 3,
       "dates": [
@@ -41,14 +50,6 @@
         "2022-02-04",
         "2022-02-20",
         "2022-06-20"
-      ]
-    },
-    {
-      "person": "binaryberry",
-      "count": 2,
-      "dates": [
-        "2021-07-08",
-        "2022-05-08"
       ]
     },
     {
@@ -136,5 +137,5 @@
       ]
     }
   ],
-  "totalUnlocks": 35
+  "totalUnlocks": 36
 }
