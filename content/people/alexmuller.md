@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "alexmuller",
+      "leaderboard": "2022-10-22",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "alexmuller",
       "leaderboard": "2022-10-21",
       "minutes": 0,
       "seconds": 35,
@@ -673,7 +683,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 134,
+  "awardCount": 136,
   "awards": [
     {
       "title": "Gold",
@@ -708,7 +718,16 @@
         "2022-09-26",
         "2022-09-29",
         "2022-10-15",
-        "2022-10-20"
+        "2022-10-20",
+        "2022-10-21"
+      ]
+    },
+    {
+      "title": "Double Bronze",
+      "type": "double-bronze",
+      "text": "Get the third fastest time two days in a row",
+      "dates": [
+        "2022-10-21"
       ]
     },
     {
