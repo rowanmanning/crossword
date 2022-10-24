@@ -27,7 +27,7 @@
   },
   "devDependencies": {
     "@rowanmanning/eslint-config": "^5.0.1",
-    "eslint": "^8.25.0"
+    "eslint": "^8.26.0"
   },
   "scripts": {
     "build": "hugo --minify --environment production",
