@@ -8,7 +8,7 @@
       "minutes": 1,
       "seconds": 9,
       "totalSeconds": 69,
-      "position": 3,
+      "position": 5,
       "scrapeTime": "2022-10-27T06:39:08.350Z",
       "isPending": false
     },
