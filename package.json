@@ -26,7 +26,7 @@
     "jsdom": "^20.0.1"
   },
   "devDependencies": {
-    "@rowanmanning/eslint-config": "^5.0.1",
+    "@rowanmanning/eslint-config": "^5.0.2",
     "eslint": "^8.26.0"
   },
   "scripts": {
