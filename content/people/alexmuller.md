@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "alexmuller",
+      "leaderboard": "2022-10-30",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "alexmuller",
       "leaderboard": "2022-10-29",
       "minutes": 1,
       "seconds": 36,
@@ -753,7 +763,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 151,
+  "awardCount": 152,
   "awards": [
     {
       "title": "Gold",
@@ -808,7 +818,8 @@
       "text": "Get the same position two days in a row",
       "dates": [
         "2022-09-16",
-        "2022-10-01"
+        "2022-10-01",
+        "2022-10-29"
       ]
     },
     {
