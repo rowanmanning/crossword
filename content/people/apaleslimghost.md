@@ -5,12 +5,12 @@
     {
       "person": "apaleslimghost",
       "leaderboard": "2022-11-02",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 35,
+      "totalSeconds": 35,
+      "position": 2,
+      "scrapeTime": "2022-11-02T07:34:28.367Z",
+      "isPending": false
     },
     {
       "person": "apaleslimghost",
@@ -5013,7 +5013,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 967,
+  "awardCount": 969,
   "awards": [
     {
       "title": "Gold",
@@ -5788,7 +5788,8 @@
         "2022-10-27",
         "2022-10-30",
         "2022-10-31",
-        "2022-11-01"
+        "2022-11-01",
+        "2022-11-02"
       ]
     },
     {
@@ -6032,7 +6033,8 @@
       "text": "Play for a full month (30 days) without breaks",
       "dates": [
         "2021-12-13",
-        "2022-01-25"
+        "2022-01-25",
+        "2022-11-02"
       ]
     },
     {
