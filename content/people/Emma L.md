@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Emma L",
+      "leaderboard": "2022-11-04",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Emma L",
       "leaderboard": "2022-11-03",
       "minutes": 0,
       "seconds": 15,
@@ -4683,7 +4693,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1105,
+  "awardCount": 1107,
   "awards": [
     {
       "title": "Gold",
@@ -4760,7 +4770,8 @@
         "2022-10-25",
         "2022-10-29",
         "2022-11-01",
-        "2022-11-02"
+        "2022-11-02",
+        "2022-11-03"
       ]
     },
     {
@@ -4786,7 +4797,8 @@
       "type": "triple-gold",
       "text": "Get the fastest time three days in a row",
       "dates": [
-        "2021-09-07"
+        "2021-09-07",
+        "2022-11-03"
       ]
     },
     {
