@@ -6,12 +6,13 @@
   "unlocks": [
     {
       "person": "cb",
-      "count": 2,
+      "count": 3,
       "dates": [
         "2022-02-28",
-        "2022-07-25"
+        "2022-07-25",
+        "2022-11-05"
       ]
     }
   ],
-  "totalUnlocks": 2
+  "totalUnlocks": 3
 }
