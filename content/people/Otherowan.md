@@ -5,12 +5,12 @@
     {
       "person": "Otherowan",
       "leaderboard": "2022-11-06",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 35,
+      "totalSeconds": 35,
+      "position": 2,
+      "scrapeTime": "2022-11-05T22:33:53.838Z",
+      "isPending": false
     },
     {
       "person": "Otherowan",
@@ -2853,7 +2853,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 504,
+  "awardCount": 506,
   "awards": [
     {
       "title": "Gold",
@@ -3292,7 +3292,8 @@
         "2022-10-16",
         "2022-10-18",
         "2022-10-19",
-        "2022-11-03"
+        "2022-11-03",
+        "2022-11-06"
       ]
     },
     {
@@ -3607,7 +3608,8 @@
       "type": "quick-draw",
       "text": "Complete a puzzle before anyone else (or within 30 minutes of the first person)",
       "dates": [
-        "2022-02-11"
+        "2022-02-11",
+        "2022-11-06"
       ]
     },
     {
