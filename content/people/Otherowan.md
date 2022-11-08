@@ -5,12 +5,12 @@
     {
       "person": "Otherowan",
       "leaderboard": "2022-11-08",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 32,
+      "totalSeconds": 32,
+      "position": 8,
+      "scrapeTime": "2022-11-08T22:35:33.075Z",
+      "isPending": false
     },
     {
       "person": "Otherowan",
@@ -2873,7 +2873,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 506,
+  "awardCount": 509,
   "awards": [
     {
       "title": "Gold",
@@ -3313,7 +3313,8 @@
         "2022-10-18",
         "2022-10-19",
         "2022-11-03",
-        "2022-11-06"
+        "2022-11-06",
+        "2022-11-08"
       ]
     },
     {
@@ -3386,6 +3387,7 @@
       "type": "chain-3",
       "text": "Participate in a chain of three sequential times",
       "dates": [
+        "2022-11-08",
         "2022-10-16",
         "2022-10-13",
         "2022-09-28",
@@ -3520,6 +3522,7 @@
       "type": "yin-and-yang",
       "text": "Get the same time as another person but with flipped seconds",
       "dates": [
+        "2022-11-08",
         "2022-10-10",
         "2022-09-20",
         "2022-09-13",
