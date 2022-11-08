@@ -8,7 +8,7 @@
       "minutes": 0,
       "seconds": 22,
       "totalSeconds": 22,
-      "position": 3,
+      "position": 4,
       "scrapeTime": "2022-11-08T08:02:48.718Z",
       "isPending": false
     },
@@ -853,7 +853,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 172,
+  "awardCount": 173,
   "awards": [
     {
       "title": "Gold",
@@ -1099,6 +1099,14 @@
       "dates": [
         "2022-10-14",
         "2022-09-03"
+      ]
+    },
+    {
+      "title": "Chain 5",
+      "type": "chain-5",
+      "text": "Participate in a chain of five sequential times",
+      "dates": [
+        "2022-11-08"
       ]
     },
     {
