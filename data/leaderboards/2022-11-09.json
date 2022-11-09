@@ -45,17 +45,17 @@
 		"seconds": 112
 	},
 	{
+		"name": "binaryberry",
+		"scrapeTime": "2022-11-09T22:35:02.496Z",
+		"seconds": 118
+	},
+	{
 		"name": "Alice Bartlett",
 		"scrapeTime": null,
 		"seconds": null
 	},
 	{
 		"name": "arjun137",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
-		"name": "binaryberry",
 		"scrapeTime": null,
 		"seconds": null
 	},
