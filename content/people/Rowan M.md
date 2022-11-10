@@ -5,12 +5,12 @@
     {
       "person": "Rowan M",
       "leaderboard": "2022-11-09",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 40,
+      "totalSeconds": 40,
+      "position": 3,
+      "scrapeTime": "2022-11-10T00:26:17.645Z",
+      "isPending": false
     },
     {
       "person": "Rowan M",
@@ -5093,7 +5093,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1149,
+  "awardCount": 1151,
   "awards": [
     {
       "title": "Gold",
@@ -6062,7 +6062,8 @@
         "2022-10-21",
         "2022-10-23",
         "2022-10-26",
-        "2022-10-27"
+        "2022-10-27",
+        "2022-11-09"
       ]
     },
     {
@@ -6329,6 +6330,14 @@
       "text": "Play for a full quarter, give that OKR a 1",
       "dates": [
         "2021-09-18"
+      ]
+    },
+    {
+      "title": "Holiday",
+      "type": "holiday",
+      "text": "Come back to the crossword after a week off",
+      "dates": [
+        "2022-11-09"
       ]
     },
     {
