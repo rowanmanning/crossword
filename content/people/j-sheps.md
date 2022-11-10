@@ -5,12 +5,12 @@
     {
       "person": "j-sheps",
       "leaderboard": "2022-11-10",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 42,
+      "totalSeconds": 42,
+      "position": 7,
+      "scrapeTime": "2022-11-10T22:35:16.349Z",
+      "isPending": false
     },
     {
       "person": "j-sheps",
@@ -5103,7 +5103,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1050,
+  "awardCount": 1055,
   "awards": [
     {
       "title": "Gold",
@@ -5414,7 +5414,8 @@
         "2022-10-23",
         "2022-10-27",
         "2022-10-30",
-        "2022-11-01"
+        "2022-11-01",
+        "2022-11-10"
       ]
     },
     {
@@ -5955,7 +5956,8 @@
         "2022-10-27",
         "2022-10-30",
         "2022-11-01",
-        "2022-11-03"
+        "2022-11-03",
+        "2022-11-10"
       ]
     },
     {
@@ -6130,7 +6132,8 @@
         "2022-07-31",
         "2022-08-16",
         "2022-08-23",
-        "2022-09-03"
+        "2022-09-03",
+        "2022-11-10"
       ]
     },
     {
@@ -6289,6 +6292,7 @@
       "type": "yin-and-yang",
       "text": "Get the same time as another person but with flipped seconds",
       "dates": [
+        "2022-11-10",
         "2022-11-08",
         "2022-04-07",
         "2022-03-28",
@@ -6344,7 +6348,8 @@
         "2022-10-10",
         "2022-10-14",
         "2022-10-27",
-        "2022-11-01"
+        "2022-11-01",
+        "2022-11-10"
       ]
     },
     {
