@@ -5,12 +5,12 @@
     {
       "person": "ivo",
       "leaderboard": "2022-11-10",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 18,
+      "totalSeconds": 18,
+      "position": 1,
+      "scrapeTime": "2022-11-10T11:32:53.775Z",
+      "isPending": false
     },
     {
       "person": "ivo",
@@ -4235,12 +4235,12 @@
   ],
   "best": {
     "person": "ivo",
-    "leaderboard": "2022-06-13",
+    "leaderboard": "2022-11-10",
     "minutes": 0,
     "seconds": 18,
     "totalSeconds": 18,
-    "position": 3,
-    "scrapeTime": "2022-06-13T11:02:24.719Z",
+    "position": 1,
+    "scrapeTime": "2022-11-10T11:32:53.775Z",
     "isPending": false
   },
   "mean": {
@@ -4253,7 +4253,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 766,
+  "awardCount": 767,
   "awards": [
     {
       "title": "Gold",
@@ -4963,7 +4963,8 @@
       "type": "sub-20",
       "text": "Complete a puzzle in less than 20 seconds",
       "dates": [
-        "2022-06-13"
+        "2022-06-13",
+        "2022-11-10"
       ]
     },
     {
