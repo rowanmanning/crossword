@@ -209,19 +209,20 @@
       ]
     },
     {
+      "person": "binaryberry",
+      "count": 3,
+      "dates": [
+        "2021-10-31",
+        "2021-11-18",
+        "2022-11-10"
+      ]
+    },
+    {
       "person": "Oliver Turner",
       "count": 2,
       "dates": [
         "2021-06-30",
         "2021-07-08"
-      ]
-    },
-    {
-      "person": "binaryberry",
-      "count": 2,
-      "dates": [
-        "2021-10-31",
-        "2021-11-18"
       ]
     },
     {
@@ -239,5 +240,5 @@
       ]
     }
   ],
-  "totalUnlocks": 132
+  "totalUnlocks": 133
 }

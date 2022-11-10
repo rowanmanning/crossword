@@ -5,12 +5,12 @@
     {
       "person": "binaryberry",
       "leaderboard": "2022-11-10",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 3,
+      "totalSeconds": 63,
+      "position": 7,
+      "scrapeTime": "2022-11-10T10:02:24.289Z",
+      "isPending": false
     },
     {
       "person": "binaryberry",
@@ -5103,7 +5103,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 757,
+  "awardCount": 759,
   "awards": [
     {
       "title": "Silver",
@@ -5549,7 +5549,8 @@
         "2022-11-04",
         "2022-11-06",
         "2022-11-07",
-        "2022-11-09"
+        "2022-11-09",
+        "2022-11-10"
       ]
     },
     {
@@ -5743,7 +5744,8 @@
       "text": "Play for a full week without breaks",
       "dates": [
         "2021-10-31",
-        "2021-11-18"
+        "2021-11-18",
+        "2022-11-10"
       ]
     },
     {
