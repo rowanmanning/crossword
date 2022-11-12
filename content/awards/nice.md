@@ -53,6 +53,15 @@
       ]
     },
     {
+      "person": "j-sheps",
+      "count": 3,
+      "dates": [
+        "2022-10-07",
+        "2022-10-17",
+        "2022-11-12"
+      ]
+    },
+    {
       "person": "leaf",
       "count": 2,
       "dates": [
@@ -101,14 +110,6 @@
       ]
     },
     {
-      "person": "j-sheps",
-      "count": 2,
-      "dates": [
-        "2022-10-07",
-        "2022-10-17"
-      ]
-    },
-    {
       "person": "varjmes",
       "count": 1,
       "dates": [
@@ -144,5 +145,5 @@
       ]
     }
   ],
-  "totalUnlocks": 37
+  "totalUnlocks": 38
 }
