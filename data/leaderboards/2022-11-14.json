@@ -25,6 +25,11 @@
 		"seconds": 71
 	},
 	{
+		"name": "Lily2point0",
+		"scrapeTime": "2022-11-14T08:38:35.786Z",
+		"seconds": 89
+	},
+	{
 		"name": "alexmuller",
 		"scrapeTime": "2022-11-14T06:38:10.687Z",
 		"seconds": 103
@@ -71,11 +76,6 @@
 	},
 	{
 		"name": "leaf",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
-		"name": "Lily2point0",
 		"scrapeTime": null,
 		"seconds": null
 	},
