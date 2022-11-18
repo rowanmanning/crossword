@@ -5,12 +5,12 @@
     {
       "person": "alexmuller",
       "leaderboard": "2022-11-18",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 16,
+      "totalSeconds": 16,
+      "position": 1,
+      "scrapeTime": "2022-11-18T07:32:06.890Z",
+      "isPending": false
     },
     {
       "person": "alexmuller",
@@ -935,12 +935,12 @@
   ],
   "best": {
     "person": "alexmuller",
-    "leaderboard": "2022-10-13",
+    "leaderboard": "2022-11-18",
     "minutes": 0,
-    "seconds": 19,
-    "totalSeconds": 19,
-    "position": 2,
-    "scrapeTime": "2022-10-13T06:44:53.962Z",
+    "seconds": 16,
+    "totalSeconds": 16,
+    "position": 1,
+    "scrapeTime": "2022-11-18T07:32:06.890Z",
     "isPending": false
   },
   "mean": {
@@ -953,7 +953,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 195,
+  "awardCount": 198,
   "awards": [
     {
       "title": "Gold",
@@ -1049,7 +1049,8 @@
       "text": "Quarter your completion time from one day to the next",
       "dates": [
         "2022-08-21",
-        "2022-10-13"
+        "2022-10-13",
+        "2022-11-18"
       ]
     },
     {
@@ -1183,7 +1184,8 @@
       "type": "sub-20",
       "text": "Complete a puzzle in less than 20 seconds",
       "dates": [
-        "2022-10-13"
+        "2022-10-13",
+        "2022-11-18"
       ]
     },
     {
@@ -1350,7 +1352,8 @@
         "2022-11-09",
         "2022-11-11",
         "2022-11-14",
-        "2022-11-17"
+        "2022-11-17",
+        "2022-11-18"
       ]
     }
   ]
