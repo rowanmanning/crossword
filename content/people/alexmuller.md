@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "alexmuller",
+      "leaderboard": "2022-11-19",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "alexmuller",
       "leaderboard": "2022-11-18",
       "minutes": 0,
       "seconds": 16,
@@ -953,7 +963,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 198,
+  "awardCount": 199,
   "awards": [
     {
       "title": "Gold",
@@ -962,7 +972,8 @@
       "dates": [
         "2022-08-21",
         "2022-08-27",
-        "2022-09-05"
+        "2022-09-05",
+        "2022-11-18"
       ]
     },
     {
