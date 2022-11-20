@@ -5,12 +5,12 @@
     {
       "person": "alexmuller",
       "leaderboard": "2022-11-20",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 42,
+      "totalSeconds": 42,
+      "position": 4,
+      "scrapeTime": "2022-11-20T10:02:18.618Z",
+      "isPending": false
     },
     {
       "person": "alexmuller",
@@ -973,7 +973,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 201,
+  "awardCount": 204,
   "awards": [
     {
       "title": "Gold",
@@ -1061,7 +1061,8 @@
         "2022-10-20",
         "2022-10-23",
         "2022-11-06",
-        "2022-11-10"
+        "2022-11-10",
+        "2022-11-20"
       ]
     },
     {
@@ -1183,7 +1184,8 @@
         "2022-10-28",
         "2022-11-01",
         "2022-11-07",
-        "2022-11-13"
+        "2022-11-13",
+        "2022-11-20"
       ]
     },
     {
@@ -1334,7 +1336,8 @@
       "type": "dont-panic",
       "text": "A towel is about the most massively useful thing an interstellar hitchhiker can have",
       "dates": [
-        "2022-09-21"
+        "2022-09-21",
+        "2022-11-20"
       ]
     },
     {
