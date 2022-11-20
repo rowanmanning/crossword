@@ -5,12 +5,12 @@
     {
       "person": "Rowan M",
       "leaderboard": "2022-11-20",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 41,
+      "totalSeconds": 41,
+      "position": 4,
+      "scrapeTime": "2022-11-20T21:02:27.249Z",
+      "isPending": false
     },
     {
       "person": "Rowan M",
@@ -5197,13 +5197,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 50,
-    "totalSeconds": 50,
+    "seconds": 49,
+    "totalSeconds": 49,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1158,
+  "awardCount": 1161,
   "awards": [
     {
       "title": "Gold",
@@ -6176,7 +6176,8 @@
         "2022-10-26",
         "2022-10-27",
         "2022-11-09",
-        "2022-11-12"
+        "2022-11-12",
+        "2022-11-20"
       ]
     },
     {
@@ -6332,6 +6333,7 @@
       "type": "chain-3",
       "text": "Participate in a chain of three sequential times",
       "dates": [
+        "2022-11-20",
         "2022-11-10",
         "2022-10-17",
         "2022-10-16",
@@ -6453,7 +6455,8 @@
       "type": "holiday",
       "text": "Come back to the crossword after a week off",
       "dates": [
-        "2022-11-09"
+        "2022-11-09",
+        "2022-11-20"
       ]
     },
     {
