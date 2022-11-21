@@ -23,7 +23,7 @@
     "dotenv": "^16.0.3",
     "got": "^11.8.5",
     "hotkeys-js": "^3.10.0",
-    "jsdom": "^20.0.2"
+    "jsdom": "^20.0.3"
   },
   "devDependencies": {
     "@rowanmanning/eslint-config": "^5.0.2",
