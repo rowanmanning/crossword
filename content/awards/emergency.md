@@ -238,6 +238,14 @@
       ]
     },
     {
+      "person": "alexmuller",
+      "count": 2,
+      "dates": [
+        "2022-09-16",
+        "2022-11-21"
+      ]
+    },
+    {
       "person": "cb",
       "count": 1,
       "dates": [
@@ -250,14 +258,7 @@
       "dates": [
         "2022-04-19"
       ]
-    },
-    {
-      "person": "alexmuller",
-      "count": 1,
-      "dates": [
-        "2022-09-16"
-      ]
     }
   ],
-  "totalUnlocks": 152
+  "totalUnlocks": 153
 }

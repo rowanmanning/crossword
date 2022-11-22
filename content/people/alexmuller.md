@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "alexmuller",
+      "leaderboard": "2022-11-22",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "alexmuller",
       "leaderboard": "2022-11-21",
       "minutes": 0,
       "seconds": 48,
@@ -983,7 +993,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 208,
+  "awardCount": 209,
   "awards": [
     {
       "title": "Gold",
@@ -1368,7 +1378,8 @@
       "type": "emergency",
       "text": "What's your emergency?",
       "dates": [
-        "2022-09-16"
+        "2022-09-16",
+        "2022-11-21"
       ]
     },
     {
