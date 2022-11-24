@@ -5,12 +5,12 @@
     {
       "person": "alexmuller",
       "leaderboard": "2022-11-24",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 54,
+      "totalSeconds": 54,
+      "position": 1,
+      "scrapeTime": "2022-11-24T07:02:29.403Z",
+      "isPending": false
     },
     {
       "person": "alexmuller",
@@ -1013,7 +1013,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 213,
+  "awardCount": 216,
   "awards": [
     {
       "title": "Gold",
@@ -1202,7 +1202,8 @@
         "2022-11-11",
         "2022-11-12",
         "2022-11-21",
-        "2022-11-23"
+        "2022-11-23",
+        "2022-11-24"
       ]
     },
     {
@@ -1326,6 +1327,14 @@
       ]
     },
     {
+      "title": "Month-Long Streak",
+      "type": "month-streak",
+      "text": "Play for a full month (30 days) without breaks",
+      "dates": [
+        "2022-11-24"
+      ]
+    },
+    {
       "title": "Twinning",
       "type": "twinning",
       "text": "Get the same time as another person",
@@ -1428,7 +1437,8 @@
         "2022-11-11",
         "2022-11-14",
         "2022-11-17",
-        "2022-11-18"
+        "2022-11-18",
+        "2022-11-24"
       ]
     }
   ]
