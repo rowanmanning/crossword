@@ -5,12 +5,12 @@
     {
       "person": "Ania",
       "leaderboard": "2022-11-24",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 6,
+      "totalSeconds": 126,
+      "position": 7,
+      "scrapeTime": "2022-11-24T11:31:39.144Z",
+      "isPending": false
     },
     {
       "person": "Ania",
