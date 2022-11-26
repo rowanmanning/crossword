@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "alexmuller",
+      "leaderboard": "2022-11-27",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "alexmuller",
       "leaderboard": "2022-11-26",
       "minutes": 2,
       "seconds": 33,
@@ -1033,7 +1043,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 218,
+  "awardCount": 219,
   "awards": [
     {
       "title": "Gold",
@@ -1424,7 +1434,8 @@
       "text": "His number is six hundred and sixty-six",
       "dates": [
         "2022-09-07",
-        "2022-10-01"
+        "2022-10-01",
+        "2022-11-26"
       ]
     },
     {
