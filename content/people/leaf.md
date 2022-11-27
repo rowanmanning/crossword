@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "leaf",
+      "leaderboard": "2022-11-28",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "leaf",
       "leaderboard": "2022-11-27",
       "minutes": null,
       "seconds": null,
