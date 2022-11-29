@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "alexmuller",
+      "leaderboard": "2022-11-29",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "alexmuller",
       "leaderboard": "2022-11-28",
       "minutes": 0,
       "seconds": 48,
@@ -1053,7 +1063,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 223,
+  "awardCount": 224,
   "awards": [
     {
       "title": "Gold",
@@ -1120,6 +1130,14 @@
         "2022-11-20",
         "2022-11-22",
         "2022-11-27"
+      ]
+    },
+    {
+      "title": "Consistent Position ×3",
+      "type": "consistent-3",
+      "text": "Get the same position three days in a row",
+      "dates": [
+        "2022-11-28"
       ]
     },
     {
