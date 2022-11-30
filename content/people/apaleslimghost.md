@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "apaleslimghost",
+      "leaderboard": "2022-11-30",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "apaleslimghost",
       "leaderboard": "2022-11-29",
       "minutes": 1,
       "seconds": 1,
@@ -5283,7 +5293,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1016,
+  "awardCount": 1017,
   "awards": [
     {
       "title": "Gold",
@@ -5545,6 +5555,14 @@
       "text": "Get the same position four days in a row",
       "dates": [
         "2022-11-28"
+      ]
+    },
+    {
+      "title": "Consistent Position ×5",
+      "type": "consistent-5",
+      "text": "Get the same position five days in a row",
+      "dates": [
+        "2022-11-29"
       ]
     },
     {

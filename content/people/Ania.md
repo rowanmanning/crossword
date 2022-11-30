@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Ania",
+      "leaderboard": "2022-11-30",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Ania",
       "leaderboard": "2022-11-29",
       "minutes": 0,
       "seconds": 48,
@@ -5293,7 +5303,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 880,
+  "awardCount": 882,
   "awards": [
     {
       "title": "Gold",
@@ -5392,7 +5402,8 @@
         "2022-11-17",
         "2022-11-18",
         "2022-11-27",
-        "2022-11-28"
+        "2022-11-28",
+        "2022-11-29"
       ]
     },
     {
@@ -5407,6 +5418,14 @@
         "2022-10-01",
         "2022-11-18",
         "2022-11-28"
+      ]
+    },
+    {
+      "title": "Triple Bronze",
+      "type": "triple-bronze",
+      "text": "Get the third fastest time three days in a row",
+      "dates": [
+        "2022-11-29"
       ]
     },
     {
