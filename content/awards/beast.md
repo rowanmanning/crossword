@@ -266,6 +266,16 @@
       ]
     },
     {
+      "person": "alexmuller",
+      "count": 4,
+      "dates": [
+        "2022-09-07",
+        "2022-10-01",
+        "2022-11-26",
+        "2022-12-02"
+      ]
+    },
+    {
       "person": "Nick Ramsbottom",
       "count": 3,
       "dates": [
@@ -273,16 +283,7 @@
         "2021-12-27",
         "2022-03-08"
       ]
-    },
-    {
-      "person": "alexmuller",
-      "count": 3,
-      "dates": [
-        "2022-09-07",
-        "2022-10-01",
-        "2022-11-26"
-      ]
     }
   ],
-  "totalUnlocks": 183
+  "totalUnlocks": 184
 }
