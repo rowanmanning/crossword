@@ -27,9 +27,10 @@
     },
     {
       "person": "Emma L",
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2022-07-20"
+        "2022-07-20",
+        "2022-12-04"
       ]
     },
     {
@@ -47,5 +48,5 @@
       ]
     }
   ],
-  "totalUnlocks": 12
+  "totalUnlocks": 13
 }
