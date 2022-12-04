@@ -5,12 +5,12 @@
     {
       "person": "ivo",
       "leaderboard": "2022-12-04",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 35,
+      "totalSeconds": 35,
+      "position": 1,
+      "scrapeTime": "2022-12-04T18:33:04.641Z",
+      "isPending": false
     },
     {
       "person": "ivo",
@@ -4493,7 +4493,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 801,
+  "awardCount": 803,
   "awards": [
     {
       "title": "Gold",
@@ -5173,7 +5173,8 @@
         "2022-11-06",
         "2022-11-15",
         "2022-11-21",
-        "2022-12-02"
+        "2022-12-02",
+        "2022-12-04"
       ]
     },
     {
@@ -5287,6 +5288,7 @@
       "type": "chain-3",
       "text": "Participate in a chain of three sequential times",
       "dates": [
+        "2022-12-04",
         "2022-11-30",
         "2022-08-14",
         "2022-08-01",
