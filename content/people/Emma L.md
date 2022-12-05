@@ -5,12 +5,12 @@
     {
       "person": "Emma L",
       "leaderboard": "2022-12-05",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 14,
+      "totalSeconds": 14,
+      "position": 1,
+      "scrapeTime": "2022-12-05T00:07:20.804Z",
+      "isPending": false
     },
     {
       "person": "Emma L",
@@ -4985,12 +4985,12 @@
   ],
   "best": {
     "person": "Emma L",
-    "leaderboard": "2022-11-03",
+    "leaderboard": "2022-12-05",
     "minutes": 0,
-    "seconds": 15,
-    "totalSeconds": 15,
+    "seconds": 14,
+    "totalSeconds": 14,
     "position": 1,
-    "scrapeTime": "2022-11-03T07:33:02.698Z",
+    "scrapeTime": "2022-12-05T00:07:20.804Z",
     "isPending": false
   },
   "mean": {
@@ -5003,7 +5003,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1199,
+  "awardCount": 1203,
   "awards": [
     {
       "title": "Gold",
@@ -5469,7 +5469,8 @@
         "2022-11-06",
         "2022-11-18",
         "2022-11-20",
-        "2022-12-04"
+        "2022-12-04",
+        "2022-12-05"
       ]
     },
     {
@@ -6076,7 +6077,8 @@
         "2022-10-14",
         "2022-10-21",
         "2022-11-03",
-        "2022-11-18"
+        "2022-11-18",
+        "2022-12-05"
       ]
     },
     {
@@ -6360,6 +6362,7 @@
       "type": "yin-and-yang",
       "text": "Get the same time as another person but with flipped seconds",
       "dates": [
+        "2022-12-05",
         "2022-11-25",
         "2022-10-04",
         "2022-03-26",
@@ -6494,7 +6497,8 @@
         "2022-11-14",
         "2022-11-17",
         "2022-11-27",
-        "2022-11-28"
+        "2022-11-28",
+        "2022-12-05"
       ]
     },
     {

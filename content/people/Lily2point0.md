@@ -5,12 +5,12 @@
     {
       "person": "Lily2point0",
       "leaderboard": "2022-12-05",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 41,
+      "totalSeconds": 41,
+      "position": 3,
+      "scrapeTime": "2022-12-05T00:07:20.804Z",
+      "isPending": false
     },
     {
       "person": "Lily2point0",
@@ -5353,7 +5353,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 959,
+  "awardCount": 963,
   "awards": [
     {
       "title": "Gold",
@@ -5571,7 +5571,8 @@
         "2022-11-20",
         "2022-11-25",
         "2022-11-28",
-        "2022-12-04"
+        "2022-12-04",
+        "2022-12-05"
       ]
     },
     {
@@ -6134,7 +6135,8 @@
         "2022-11-08",
         "2022-11-17",
         "2022-11-18",
-        "2022-11-22"
+        "2022-11-22",
+        "2022-12-05"
       ]
     },
     {
@@ -6312,6 +6314,7 @@
       "type": "yin-and-yang",
       "text": "Get the same time as another person but with flipped seconds",
       "dates": [
+        "2022-12-05",
         "2022-11-25",
         "2022-10-13",
         "2022-09-20",
@@ -6577,7 +6580,8 @@
         "2022-11-12",
         "2022-11-24",
         "2022-12-01",
-        "2022-12-04"
+        "2022-12-04",
+        "2022-12-05"
       ]
     }
   ]

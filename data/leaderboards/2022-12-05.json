@@ -1,5 +1,25 @@
 [
 	{
+		"name": "Emma L",
+		"scrapeTime": "2022-12-05T00:07:20.804Z",
+		"seconds": 14
+	},
+	{
+		"name": "itsalex",
+		"scrapeTime": "2022-12-05T00:07:20.804Z",
+		"seconds": 21
+	},
+	{
+		"name": "Lily2point0",
+		"scrapeTime": "2022-12-05T00:07:20.804Z",
+		"seconds": 41
+	},
+	{
+		"name": "j-sheps",
+		"scrapeTime": "2022-12-05T00:07:20.804Z",
+		"seconds": 64
+	},
+	{
 		"name": "alexmuller",
 		"scrapeTime": null,
 		"seconds": null
@@ -40,22 +60,7 @@
 		"seconds": null
 	},
 	{
-		"name": "Emma L",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
-		"name": "itsalex",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
 		"name": "ivo",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
-		"name": "j-sheps",
 		"scrapeTime": null,
 		"seconds": null
 	},
@@ -71,11 +76,6 @@
 	},
 	{
 		"name": "leaf",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
-		"name": "Lily2point0",
 		"scrapeTime": null,
 		"seconds": null
 	},
