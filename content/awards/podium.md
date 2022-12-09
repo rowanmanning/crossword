@@ -120,6 +120,14 @@
       ]
     },
     {
+      "person": "alexmuller",
+      "count": 2,
+      "dates": [
+        "2022-08-29",
+        "2022-12-08"
+      ]
+    },
+    {
       "person": "Oliver Turner",
       "count": 1,
       "dates": [
@@ -132,14 +140,7 @@
       "dates": [
         "2021-11-04"
       ]
-    },
-    {
-      "person": "alexmuller",
-      "count": 1,
-      "dates": [
-        "2022-08-29"
-      ]
     }
   ],
-  "totalUnlocks": 76
+  "totalUnlocks": 77
 }

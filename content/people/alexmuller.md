@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "alexmuller",
+      "leaderboard": "2022-12-09",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "alexmuller",
       "leaderboard": "2022-12-08",
       "minutes": 0,
       "seconds": 43,
@@ -1153,7 +1163,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 241,
+  "awardCount": 243,
   "awards": [
     {
       "title": "Gold",
@@ -1176,7 +1186,8 @@
         "2022-09-09",
         "2022-09-27",
         "2022-10-13",
-        "2022-10-23"
+        "2022-10-23",
+        "2022-12-08"
       ]
     },
     {
@@ -1238,7 +1249,8 @@
       "type": "podium",
       "text": "Unlock third, second, and first place awards",
       "dates": [
-        "2022-08-29"
+        "2022-08-29",
+        "2022-12-08"
       ]
     },
     {
