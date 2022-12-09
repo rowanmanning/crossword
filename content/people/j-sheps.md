@@ -5,12 +5,12 @@
     {
       "person": "j-sheps",
       "leaderboard": "2022-12-09",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 0,
+      "totalSeconds": 60,
+      "position": 8,
+      "scrapeTime": "2022-12-09T18:34:09.574Z",
+      "isPending": false
     },
     {
       "person": "j-sheps",
@@ -5393,7 +5393,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1116,
+  "awardCount": 1119,
   "awards": [
     {
       "title": "Gold",
@@ -5726,7 +5726,8 @@
         "2022-11-10",
         "2022-11-17",
         "2022-11-20",
-        "2022-12-05"
+        "2022-12-05",
+        "2022-12-09"
       ]
     },
     {
@@ -6032,7 +6033,8 @@
         "2022-11-23",
         "2022-11-24",
         "2022-11-25",
-        "2022-12-05"
+        "2022-12-05",
+        "2022-12-09"
       ]
     },
     {
@@ -6702,7 +6704,8 @@
       "type": "friday-street",
       "text": "Get a time of exactly 1:00 on a Friday",
       "dates": [
-        "2021-09-17"
+        "2021-09-17",
+        "2022-12-09"
       ]
     },
     {
