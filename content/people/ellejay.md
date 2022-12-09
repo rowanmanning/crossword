@@ -5,12 +5,12 @@
     {
       "person": "ellejay",
       "leaderboard": "2022-12-09",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 14,
+      "totalSeconds": 74,
+      "position": 5,
+      "scrapeTime": "2022-12-09T11:31:41.463Z",
+      "isPending": false
     },
     {
       "person": "ellejay",
@@ -1316,14 +1316,14 @@
   "mean": {
     "person": null,
     "leaderboard": null,
-    "minutes": 2,
-    "seconds": 6,
-    "totalSeconds": 126,
+    "minutes": 1,
+    "seconds": 59,
+    "totalSeconds": 119,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 14,
+  "awardCount": 17,
   "awards": [
     {
       "title": "Half Time",
@@ -1346,7 +1346,8 @@
       "type": "double-time",
       "text": "Double your completion time from one day to the next",
       "dates": [
-        "2022-08-30"
+        "2022-08-30",
+        "2022-12-09"
       ]
     },
     {
@@ -1354,7 +1355,8 @@
       "type": "sub-120",
       "text": "Complete a puzzle in less than two minutes",
       "dates": [
-        "2022-09-22"
+        "2022-09-22",
+        "2022-12-09"
       ]
     },
     {
@@ -1389,7 +1391,8 @@
         "2022-08-12",
         "2022-08-29",
         "2022-09-13",
-        "2022-09-22"
+        "2022-09-22",
+        "2022-12-09"
       ]
     },
     {
