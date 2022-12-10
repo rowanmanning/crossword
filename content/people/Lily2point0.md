@@ -5,12 +5,12 @@
     {
       "person": "Lily2point0",
       "leaderboard": "2022-12-10",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 47,
+      "totalSeconds": 167,
+      "position": 1,
+      "scrapeTime": "2022-12-10T07:31:46.931Z",
+      "isPending": false
     },
     {
       "person": "Lily2point0",
@@ -5403,7 +5403,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 969,
+  "awardCount": 971,
   "awards": [
     {
       "title": "Gold",
@@ -6274,7 +6274,8 @@
       "type": "three-day-streak",
       "text": "Play for three days in a row",
       "dates": [
-        "2021-06-23"
+        "2021-06-23",
+        "2022-12-10"
       ]
     },
     {
@@ -6637,7 +6638,8 @@
         "2022-12-01",
         "2022-12-04",
         "2022-12-05",
-        "2022-12-06"
+        "2022-12-06",
+        "2022-12-10"
       ]
     }
   ]

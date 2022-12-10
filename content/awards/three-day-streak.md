@@ -400,18 +400,19 @@
       ]
     },
     {
+      "person": "Lily2point0",
+      "count": 2,
+      "dates": [
+        "2021-06-23",
+        "2022-12-10"
+      ]
+    },
+    {
       "person": "Emma L",
       "count": 2,
       "dates": [
         "2021-07-28",
         "2021-08-04"
-      ]
-    },
-    {
-      "person": "Lily2point0",
-      "count": 1,
-      "dates": [
-        "2021-06-23"
       ]
     },
     {
@@ -422,5 +423,5 @@
       ]
     }
   ],
-  "totalUnlocks": 297
+  "totalUnlocks": 298
 }
