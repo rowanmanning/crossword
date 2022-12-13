@@ -5,12 +5,12 @@
     {
       "person": "ellejay",
       "leaderboard": "2022-12-13",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 2,
+      "totalSeconds": 122,
+      "position": 1,
+      "scrapeTime": "2022-12-13T03:35:38.354Z",
+      "isPending": false
     },
     {
       "person": "ellejay",
@@ -1363,7 +1363,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 17,
+  "awardCount": 18,
   "awards": [
     {
       "title": "Half Time",
@@ -1449,7 +1449,8 @@
       "text": "Complete a puzzle before anyone else (or within 30 minutes of the first person)",
       "dates": [
         "2022-09-22",
-        "2022-09-23"
+        "2022-09-23",
+        "2022-12-13"
       ]
     }
   ]
