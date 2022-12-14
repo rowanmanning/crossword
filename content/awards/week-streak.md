@@ -224,18 +224,19 @@
       ]
     },
     {
+      "person": "Lily2point0",
+      "count": 2,
+      "dates": [
+        "2021-06-27",
+        "2022-12-14"
+      ]
+    },
+    {
       "person": "Oliver Turner",
       "count": 2,
       "dates": [
         "2021-06-30",
         "2021-07-08"
-      ]
-    },
-    {
-      "person": "Lily2point0",
-      "count": 1,
-      "dates": [
-        "2021-06-27"
       ]
     },
     {
@@ -246,5 +247,5 @@
       ]
     }
   ],
-  "totalUnlocks": 139
+  "totalUnlocks": 140
 }
