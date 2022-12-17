@@ -5,12 +5,12 @@
     {
       "person": "ellejay",
       "leaderboard": "2022-12-17",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 3,
+      "seconds": 38,
+      "totalSeconds": 218,
+      "position": 2,
+      "scrapeTime": "2022-12-17T05:32:00.539Z",
+      "isPending": false
     },
     {
       "person": "ellejay",
@@ -1396,9 +1396,9 @@
   "mean": {
     "person": null,
     "leaderboard": null,
-    "minutes": 1,
-    "seconds": 59,
-    "totalSeconds": 119,
+    "minutes": 2,
+    "seconds": 10,
+    "totalSeconds": 130,
     "position": null,
     "scrapeTime": null,
     "isPending": false
