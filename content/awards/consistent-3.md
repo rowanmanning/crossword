@@ -124,6 +124,14 @@
       ]
     },
     {
+      "person": "alexmuller",
+      "count": 2,
+      "dates": [
+        "2022-11-28",
+        "2022-12-16"
+      ]
+    },
+    {
       "person": "Emma L",
       "count": 1,
       "dates": [
@@ -143,14 +151,7 @@
       "dates": [
         "2022-08-05"
       ]
-    },
-    {
-      "person": "alexmuller",
-      "count": 1,
-      "dates": [
-        "2022-11-28"
-      ]
     }
   ],
-  "totalUnlocks": 57
+  "totalUnlocks": 58
 }
