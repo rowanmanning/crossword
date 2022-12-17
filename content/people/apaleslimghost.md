@@ -5,12 +5,12 @@
     {
       "person": "apaleslimghost",
       "leaderboard": "2022-12-17",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 15,
+      "totalSeconds": 75,
+      "position": 1,
+      "scrapeTime": "2022-12-17T08:03:43.210Z",
+      "isPending": false
     },
     {
       "person": "apaleslimghost",
@@ -5463,7 +5463,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1054,
+  "awardCount": 1055,
   "awards": [
     {
       "title": "Gold",
@@ -6061,7 +6061,8 @@
         "2022-12-05",
         "2022-12-07",
         "2022-12-09",
-        "2022-12-15"
+        "2022-12-15",
+        "2022-12-17"
       ]
     },
     {
