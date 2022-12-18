@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "ivo",
+      "leaderboard": "2022-12-19",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "ivo",
       "leaderboard": "2022-12-18",
       "minutes": 0,
       "seconds": 26,
@@ -4633,7 +4643,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 836,
+  "awardCount": 838,
   "awards": [
     {
       "title": "Gold",
@@ -4657,7 +4667,8 @@
         "2022-10-26",
         "2022-11-10",
         "2022-12-04",
-        "2022-12-11"
+        "2022-12-11",
+        "2022-12-18"
       ]
     },
     {
@@ -5762,7 +5773,8 @@
       "type": "slow-and-steady",
       "text": "Complete a puzzle after everyone else but with the fastest time",
       "dates": [
-        "2022-12-04"
+        "2022-12-04",
+        "2022-12-18"
       ]
     }
   ]

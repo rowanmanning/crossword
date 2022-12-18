@@ -73,19 +73,20 @@
       ]
     },
     {
+      "person": "ivo",
+      "count": 2,
+      "dates": [
+        "2022-12-04",
+        "2022-12-18"
+      ]
+    },
+    {
       "person": "Otherowan",
       "count": 1,
       "dates": [
         "2022-10-13"
       ]
-    },
-    {
-      "person": "ivo",
-      "count": 1,
-      "dates": [
-        "2022-12-04"
-      ]
     }
   ],
-  "totalUnlocks": 46
+  "totalUnlocks": 47
 }
