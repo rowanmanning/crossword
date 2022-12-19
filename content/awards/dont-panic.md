@@ -159,6 +159,14 @@
       ]
     },
     {
+      "person": "binaryberry",
+      "count": 2,
+      "dates": [
+        "2021-11-16",
+        "2022-12-19"
+      ]
+    },
+    {
       "person": "alexmuller",
       "count": 2,
       "dates": [
@@ -188,13 +196,6 @@
       ]
     },
     {
-      "person": "binaryberry",
-      "count": 1,
-      "dates": [
-        "2021-11-16"
-      ]
-    },
-    {
       "person": "Nick Ramsbottom",
       "count": 1,
       "dates": [
@@ -202,5 +203,5 @@
       ]
     }
   ],
-  "totalUnlocks": 95
+  "totalUnlocks": 96
 }

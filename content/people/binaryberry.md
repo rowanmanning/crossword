@@ -5,12 +5,12 @@
     {
       "person": "binaryberry",
       "leaderboard": "2022-12-19",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 42,
+      "totalSeconds": 42,
+      "position": 1,
+      "scrapeTime": "2022-12-19T05:31:46.294Z",
+      "isPending": false
     },
     {
       "person": "binaryberry",
@@ -5493,7 +5493,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 817,
+  "awardCount": 820,
   "awards": [
     {
       "title": "Silver",
@@ -6068,7 +6068,8 @@
         "2022-09-19",
         "2022-10-23",
         "2022-11-08",
-        "2022-11-18"
+        "2022-11-18",
+        "2022-12-19"
       ]
     },
     {
@@ -6285,7 +6286,8 @@
       "type": "dont-panic",
       "text": "A towel is about the most massively useful thing an interstellar hitchhiker can have",
       "dates": [
-        "2021-11-16"
+        "2021-11-16",
+        "2022-12-19"
       ]
     },
     {
@@ -6540,7 +6542,8 @@
         "2022-12-08",
         "2022-12-09",
         "2022-12-11",
-        "2022-12-17"
+        "2022-12-17",
+        "2022-12-19"
       ]
     }
   ]
