@@ -56,6 +56,8 @@ async function fetchLeaderboard() {
 				seconds: time ? (time.minutes * 60) + time.seconds : null
 			};
 		});
+	console.log('Scores parsed:');
+	parsedScores.forEach(({name, seconds}) => console.log(`${name}: ${seconds}s`));
 
 	const directory = `${__dirname}/../data/leaderboards`;
 	const filePath = `${directory}/${date}.json`;
