@@ -5,12 +5,12 @@
     {
       "person": "Ania",
       "leaderboard": "2022-12-23",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 0,
+      "totalSeconds": 60,
+      "position": 6,
+      "scrapeTime": "2022-12-23T17:31:37.665Z",
+      "isPending": false
     },
     {
       "person": "Ania",
@@ -5533,7 +5533,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 921,
+  "awardCount": 923,
   "awards": [
     {
       "title": "Gold",
@@ -6112,7 +6112,8 @@
         "2022-12-01",
         "2022-12-04",
         "2022-12-10",
-        "2022-12-17"
+        "2022-12-17",
+        "2022-12-23"
       ]
     },
     {
@@ -6687,7 +6688,8 @@
       "type": "friday-street",
       "text": "Get a time of exactly 1:00 on a Friday",
       "dates": [
-        "2022-09-16"
+        "2022-09-16",
+        "2022-12-23"
       ]
     },
     {

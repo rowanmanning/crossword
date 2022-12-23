@@ -22,6 +22,14 @@
       ]
     },
     {
+      "person": "Ania",
+      "count": 2,
+      "dates": [
+        "2022-09-16",
+        "2022-12-23"
+      ]
+    },
+    {
       "person": "varjmes",
       "count": 1,
       "dates": [
@@ -48,14 +56,7 @@
       "dates": [
         "2022-08-05"
       ]
-    },
-    {
-      "person": "Ania",
-      "count": 1,
-      "dates": [
-        "2022-09-16"
-      ]
     }
   ],
-  "totalUnlocks": 10
+  "totalUnlocks": 11
 }
