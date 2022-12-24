@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Emma L",
+      "leaderboard": "2022-12-25",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Emma L",
       "leaderboard": "2022-12-24",
       "minutes": 1,
       "seconds": 17,
@@ -5193,7 +5203,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1253,
+  "awardCount": 1255,
   "awards": [
     {
       "title": "Gold",
@@ -5422,7 +5432,8 @@
         "2022-12-18",
         "2022-12-20",
         "2022-12-22",
-        "2022-12-23"
+        "2022-12-23",
+        "2022-12-24"
       ]
     },
     {
@@ -5454,7 +5465,8 @@
       "text": "Get the second fastest time three days in a row",
       "dates": [
         "2022-07-20",
-        "2022-12-04"
+        "2022-12-04",
+        "2022-12-24"
       ]
     },
     {
