@@ -5,12 +5,12 @@
     {
       "person": "Lily2point0",
       "leaderboard": "2022-12-25",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 1,
+      "totalSeconds": 61,
+      "position": 1,
+      "scrapeTime": "2022-12-24T23:31:39.742Z",
+      "isPending": false
     },
     {
       "person": "Lily2point0",
@@ -5553,7 +5553,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 992,
+  "awardCount": 996,
   "awards": [
     {
       "title": "Gold",
@@ -5777,7 +5777,8 @@
         "2022-12-05",
         "2022-12-11",
         "2022-12-13",
-        "2022-12-18"
+        "2022-12-18",
+        "2022-12-25"
       ]
     },
     {
@@ -6179,7 +6180,8 @@
         "2022-12-19",
         "2022-12-20",
         "2022-12-21",
-        "2022-12-23"
+        "2022-12-23",
+        "2022-12-25"
       ]
     },
     {
@@ -6398,6 +6400,7 @@
       "type": "christmas",
       "text": "Play the crossword on Christmas day",
       "dates": [
+        "2022-12-25",
         "2021-12-25"
       ]
     },
@@ -6810,7 +6813,8 @@
         "2022-12-05",
         "2022-12-06",
         "2022-12-10",
-        "2022-12-15"
+        "2022-12-15",
+        "2022-12-25"
       ]
     }
   ]
