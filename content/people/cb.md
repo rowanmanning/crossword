@@ -5,12 +5,12 @@
     {
       "person": "cb",
       "leaderboard": "2022-12-25",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 35,
+      "totalSeconds": 35,
+      "position": 2,
+      "scrapeTime": "2022-12-25T13:04:11.519Z",
+      "isPending": false
     },
     {
       "person": "cb",
@@ -5473,7 +5473,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1458,
+  "awardCount": 1460,
   "awards": [
     {
       "title": "Gold",
@@ -6634,7 +6634,8 @@
         "2022-12-04",
         "2022-12-05",
         "2022-12-18",
-        "2022-12-19"
+        "2022-12-19",
+        "2022-12-25"
       ]
     },
     {
@@ -6876,6 +6877,7 @@
       "type": "christmas",
       "text": "Play the crossword on Christmas day",
       "dates": [
+        "2022-12-25",
         "2021-12-25"
       ]
     },
