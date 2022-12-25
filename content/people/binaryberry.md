@@ -5,12 +5,12 @@
     {
       "person": "binaryberry",
       "leaderboard": "2022-12-25",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 58,
+      "totalSeconds": 58,
+      "position": 2,
+      "scrapeTime": "2022-12-25T06:02:19.698Z",
+      "isPending": false
     },
     {
       "person": "binaryberry",
@@ -5553,7 +5553,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 834,
+  "awardCount": 838,
   "awards": [
     {
       "title": "Silver",
@@ -5712,7 +5712,8 @@
         "2022-12-11",
         "2022-12-13",
         "2022-12-18",
-        "2022-12-21"
+        "2022-12-21",
+        "2022-12-25"
       ]
     },
     {
@@ -6103,7 +6104,8 @@
         "2022-12-01",
         "2022-12-13",
         "2022-12-14",
-        "2022-12-22"
+        "2022-12-22",
+        "2022-12-25"
       ]
     },
     {
@@ -6178,6 +6180,7 @@
       "type": "christmas",
       "text": "Play the crossword on Christmas day",
       "dates": [
+        "2022-12-25",
         "2021-12-25"
       ]
     },
@@ -6249,7 +6252,8 @@
       "type": "month-streak",
       "text": "Play for a full month (30 days) without breaks",
       "dates": [
-        "2021-12-11"
+        "2021-12-11",
+        "2022-12-25"
       ]
     },
     {

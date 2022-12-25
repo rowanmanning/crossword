@@ -5,6 +5,14 @@
   "order": "311",
   "unlocks": [
     {
+      "person": "binaryberry",
+      "count": 2,
+      "dates": [
+        "2022-12-25",
+        "2021-12-25"
+      ]
+    },
+    {
       "person": "j-sheps",
       "count": 2,
       "dates": [
@@ -36,13 +44,6 @@
     },
     {
       "person": "apaleslimghost",
-      "count": 1,
-      "dates": [
-        "2021-12-25"
-      ]
-    },
-    {
-      "person": "binaryberry",
       "count": 1,
       "dates": [
         "2021-12-25"
@@ -91,5 +92,5 @@
       ]
     }
   ],
-  "totalUnlocks": 14
+  "totalUnlocks": 15
 }
