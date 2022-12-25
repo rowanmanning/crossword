@@ -5,6 +5,14 @@
   "order": "311",
   "unlocks": [
     {
+      "person": "apaleslimghost",
+      "count": 2,
+      "dates": [
+        "2022-12-25",
+        "2021-12-25"
+      ]
+    },
+    {
       "person": "binaryberry",
       "count": 2,
       "dates": [
@@ -37,13 +45,6 @@
     },
     {
       "person": "Ania",
-      "count": 1,
-      "dates": [
-        "2021-12-25"
-      ]
-    },
-    {
-      "person": "apaleslimghost",
       "count": 1,
       "dates": [
         "2021-12-25"
@@ -90,7 +91,14 @@
       "dates": [
         "2021-12-25"
       ]
+    },
+    {
+      "person": "alexmuller",
+      "count": 1,
+      "dates": [
+        "2022-12-25"
+      ]
     }
   ],
-  "totalUnlocks": 15
+  "totalUnlocks": 17
 }

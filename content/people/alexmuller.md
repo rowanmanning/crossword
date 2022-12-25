@@ -5,12 +5,12 @@
     {
       "person": "alexmuller",
       "leaderboard": "2022-12-25",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 37,
+      "totalSeconds": 37,
+      "position": 1,
+      "scrapeTime": "2022-12-25T07:31:39.001Z",
+      "isPending": false
     },
     {
       "person": "alexmuller",
@@ -1323,7 +1323,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 273,
+  "awardCount": 276,
   "awards": [
     {
       "title": "Gold",
@@ -1448,7 +1448,8 @@
         "2022-08-21",
         "2022-10-13",
         "2022-11-18",
-        "2022-12-01"
+        "2022-12-01",
+        "2022-12-25"
       ]
     },
     {
@@ -1591,7 +1592,8 @@
         "2022-12-09",
         "2022-12-13",
         "2022-12-14",
-        "2022-12-16"
+        "2022-12-16",
+        "2022-12-25"
       ]
     },
     {
@@ -1629,6 +1631,14 @@
       "dates": [
         "2022-08-27",
         "2022-11-12"
+      ]
+    },
+    {
+      "title": "Ho Ho Ho",
+      "type": "christmas",
+      "text": "Play the crossword on Christmas day",
+      "dates": [
+        "2022-12-25"
       ]
     },
     {

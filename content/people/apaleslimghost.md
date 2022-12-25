@@ -5,12 +5,12 @@
     {
       "person": "apaleslimghost",
       "leaderboard": "2022-12-25",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 54,
+      "totalSeconds": 54,
+      "position": 3,
+      "scrapeTime": "2022-12-25T07:31:39.001Z",
+      "isPending": false
     },
     {
       "person": "apaleslimghost",
@@ -5543,7 +5543,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1070,
+  "awardCount": 1073,
   "awards": [
     {
       "title": "Gold",
@@ -5906,7 +5906,8 @@
         "2022-10-30",
         "2022-11-10",
         "2022-11-20",
-        "2022-12-20"
+        "2022-12-20",
+        "2022-12-25"
       ]
     },
     {
@@ -6256,7 +6257,8 @@
         "2022-12-18",
         "2022-12-20",
         "2022-12-22",
-        "2022-12-23"
+        "2022-12-23",
+        "2022-12-25"
       ]
     },
     {
@@ -6519,6 +6521,7 @@
       "type": "christmas",
       "text": "Play the crossword on Christmas day",
       "dates": [
+        "2022-12-25",
         "2021-12-25"
       ]
     },
