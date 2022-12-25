@@ -5,12 +5,12 @@
     {
       "person": "j-sheps",
       "leaderboard": "2022-12-25",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 49,
+      "totalSeconds": 49,
+      "position": 1,
+      "scrapeTime": "2022-12-25T00:46:06.959Z",
+      "isPending": false
     },
     {
       "person": "j-sheps",
@@ -5553,7 +5553,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1148,
+  "awardCount": 1151,
   "awards": [
     {
       "title": "Gold",
@@ -5894,7 +5894,8 @@
         "2022-12-09",
         "2022-12-13",
         "2022-12-16",
-        "2022-12-19"
+        "2022-12-19",
+        "2022-12-25"
       ]
     },
     {
@@ -6319,7 +6320,8 @@
         "2022-11-28",
         "2022-11-30",
         "2022-12-19",
-        "2022-12-20"
+        "2022-12-20",
+        "2022-12-25"
       ]
     },
     {
@@ -6566,6 +6568,7 @@
       "type": "christmas",
       "text": "Play the crossword on Christmas day",
       "dates": [
+        "2022-12-25",
         "2021-12-25"
       ]
     },
