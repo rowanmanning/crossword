@@ -5,12 +5,12 @@
     {
       "person": "ivo",
       "leaderboard": "2022-12-25",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 54,
+      "totalSeconds": 54,
+      "position": 4,
+      "scrapeTime": "2022-12-25T12:02:26.475Z",
+      "isPending": false
     },
     {
       "person": "ivo",
@@ -4703,7 +4703,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 850,
+  "awardCount": 854,
   "awards": [
     {
       "title": "Gold",
@@ -4993,7 +4993,8 @@
         "2022-08-14",
         "2022-09-12",
         "2022-10-02",
-        "2022-10-16"
+        "2022-10-16",
+        "2022-12-25"
       ]
     },
     {
@@ -5296,7 +5297,8 @@
         "2022-11-30",
         "2022-12-09",
         "2022-12-14",
-        "2022-12-23"
+        "2022-12-23",
+        "2022-12-25"
       ]
     },
     {
@@ -5514,6 +5516,7 @@
       "type": "christmas",
       "text": "Play the crossword on Christmas day",
       "dates": [
+        "2022-12-25",
         "2021-12-25"
       ]
     },
@@ -5705,7 +5708,8 @@
         "2022-10-13",
         "2022-12-05",
         "2022-12-06",
-        "2022-12-13"
+        "2022-12-13",
+        "2022-12-25"
       ]
     },
     {
