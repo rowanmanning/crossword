@@ -5,12 +5,12 @@
     {
       "person": "ellejay",
       "leaderboard": "2022-12-26",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 48,
+      "totalSeconds": 48,
+      "position": 7,
+      "scrapeTime": "2022-12-26T19:31:45.509Z",
+      "isPending": false
     },
     {
       "person": "ellejay",
@@ -1487,13 +1487,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 10,
-    "totalSeconds": 130,
+    "seconds": 2,
+    "totalSeconds": 122,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 18,
+  "awardCount": 21,
   "awards": [
     {
       "title": "Half Time",
@@ -1508,7 +1508,8 @@
       "type": "quarter-time",
       "text": "Quarter your completion time from one day to the next",
       "dates": [
-        "2022-08-29"
+        "2022-08-29",
+        "2022-12-26"
       ]
     },
     {
@@ -1534,7 +1535,8 @@
       "type": "sub-60",
       "text": "Complete a puzzle in less than a minute",
       "dates": [
-        "2022-08-29"
+        "2022-08-29",
+        "2022-12-26"
       ]
     },
     {
@@ -1562,7 +1564,8 @@
         "2022-08-29",
         "2022-09-13",
         "2022-09-22",
-        "2022-12-09"
+        "2022-12-09",
+        "2022-12-26"
       ]
     },
     {

@@ -365,19 +365,20 @@
       ]
     },
     {
+      "person": "ellejay",
+      "count": 2,
+      "dates": [
+        "2022-08-29",
+        "2022-12-26"
+      ]
+    },
+    {
       "person": "arjun137",
       "count": 1,
       "dates": [
         "2021-07-13"
       ]
-    },
-    {
-      "person": "ellejay",
-      "count": 1,
-      "dates": [
-        "2022-08-29"
-      ]
     }
   ],
-  "totalUnlocks": 260
+  "totalUnlocks": 261
 }

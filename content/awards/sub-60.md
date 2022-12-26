@@ -1280,6 +1280,14 @@
       ]
     },
     {
+      "person": "ellejay",
+      "count": 2,
+      "dates": [
+        "2022-08-29",
+        "2022-12-26"
+      ]
+    },
+    {
       "person": "arjun137",
       "count": 1,
       "dates": [
@@ -1292,14 +1300,7 @@
       "dates": [
         "2022-03-25"
       ]
-    },
-    {
-      "person": "ellejay",
-      "count": 1,
-      "dates": [
-        "2022-08-29"
-      ]
     }
   ],
-  "totalUnlocks": 1170
+  "totalUnlocks": 1171
 }
