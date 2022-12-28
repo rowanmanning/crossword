@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "binaryberry",
+      "leaderboard": "2022-12-28",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "binaryberry",
       "leaderboard": "2022-12-27",
       "minutes": 0,
       "seconds": 48,
@@ -5573,7 +5583,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 840,
+  "awardCount": 841,
   "awards": [
     {
       "title": "Silver",
@@ -5589,7 +5599,8 @@
       "text": "Get the third fastest time for a day",
       "dates": [
         "2021-10-18",
-        "2022-10-05"
+        "2022-10-05",
+        "2022-12-27"
       ]
     },
     {
