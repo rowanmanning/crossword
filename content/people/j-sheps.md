@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "j-sheps",
+      "leaderboard": "2022-12-31",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "j-sheps",
       "leaderboard": "2022-12-30",
       "minutes": 0,
       "seconds": 48,
@@ -5603,7 +5613,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1159,
+  "awardCount": 1161,
   "awards": [
     {
       "title": "Gold",
@@ -5693,7 +5703,8 @@
         "2022-09-07",
         "2022-10-03",
         "2022-10-24",
-        "2022-11-29"
+        "2022-11-29",
+        "2022-12-30"
       ]
     },
     {
@@ -5860,7 +5871,8 @@
       "text": "Unlock third, second, and first place awards",
       "dates": [
         "2021-07-14",
-        "2021-09-06"
+        "2021-09-06",
+        "2022-12-30"
       ]
     },
     {
