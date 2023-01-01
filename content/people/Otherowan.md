@@ -5,12 +5,12 @@
     {
       "person": "Otherowan",
       "leaderboard": "2023-01-02",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 12,
+      "totalSeconds": 72,
+      "position": 2,
+      "scrapeTime": "2023-01-01T23:31:53.727Z",
+      "isPending": false
     },
     {
       "person": "Otherowan",
@@ -3423,7 +3423,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 583,
+  "awardCount": 585,
   "awards": [
     {
       "title": "Gold",
@@ -3773,7 +3773,8 @@
         "2022-12-17",
         "2022-12-23",
         "2022-12-27",
-        "2022-12-29"
+        "2022-12-29",
+        "2023-01-02"
       ]
     },
     {
@@ -4256,7 +4257,8 @@
       "text": "Complete a puzzle before anyone else (or within 30 minutes of the first person)",
       "dates": [
         "2022-02-11",
-        "2022-11-06"
+        "2022-11-06",
+        "2023-01-02"
       ]
     },
     {
