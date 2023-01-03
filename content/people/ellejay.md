@@ -5,12 +5,12 @@
     {
       "person": "ellejay",
       "leaderboard": "2023-01-03",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 55,
+      "totalSeconds": 55,
+      "position": 9,
+      "scrapeTime": "2023-01-03T22:02:07.267Z",
+      "isPending": false
     },
     {
       "person": "ellejay",
@@ -1566,14 +1566,14 @@
   "mean": {
     "person": null,
     "leaderboard": null,
-    "minutes": 2,
-    "seconds": 2,
-    "totalSeconds": 122,
+    "minutes": 1,
+    "seconds": 56,
+    "totalSeconds": 116,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 21,
+  "awardCount": 23,
   "awards": [
     {
       "title": "Half Time",
@@ -1616,7 +1616,8 @@
       "text": "Complete a puzzle in less than a minute",
       "dates": [
         "2022-08-29",
-        "2022-12-26"
+        "2022-12-26",
+        "2023-01-03"
       ]
     },
     {
@@ -1645,7 +1646,8 @@
         "2022-09-13",
         "2022-09-22",
         "2022-12-09",
-        "2022-12-26"
+        "2022-12-26",
+        "2023-01-03"
       ]
     },
     {
