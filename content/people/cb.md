@@ -5,12 +5,12 @@
     {
       "person": "cb",
       "leaderboard": "2023-01-05",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 9,
+      "totalSeconds": 9,
+      "position": 1,
+      "scrapeTime": "2023-01-05T14:32:20.939Z",
+      "isPending": false
     },
     {
       "person": "cb",
@@ -5565,12 +5565,12 @@
   ],
   "best": {
     "person": "cb",
-    "leaderboard": "2022-07-17",
+    "leaderboard": "2023-01-05",
     "minutes": 0,
     "seconds": 9,
     "totalSeconds": 9,
     "position": 1,
-    "scrapeTime": "2022-07-17T15:02:21.740Z",
+    "scrapeTime": "2023-01-05T14:32:20.939Z",
     "isPending": false
   },
   "mean": {
@@ -5583,7 +5583,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1477,
+  "awardCount": 1479,
   "awards": [
     {
       "title": "Gold",
@@ -6285,7 +6285,8 @@
         "2022-11-06",
         "2022-11-21",
         "2022-11-27",
-        "2022-12-01"
+        "2022-12-01",
+        "2023-01-05"
       ]
     },
     {
@@ -6938,7 +6939,8 @@
         "2022-10-16",
         "2022-11-03",
         "2022-11-08",
-        "2022-11-21"
+        "2022-11-21",
+        "2023-01-05"
       ]
     },
     {
