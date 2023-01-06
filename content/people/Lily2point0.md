@@ -5,12 +5,12 @@
     {
       "person": "Lily2point0",
       "leaderboard": "2023-01-06",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 1,
+      "totalSeconds": 121,
+      "position": 3,
+      "scrapeTime": "2023-01-06T08:33:54.627Z",
+      "isPending": false
     },
     {
       "person": "Lily2point0",
@@ -5673,7 +5673,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1014,
+  "awardCount": 1016,
   "awards": [
     {
       "title": "Gold",
@@ -6593,7 +6593,8 @@
       "type": "month-streak",
       "text": "Play for a full month (30 days) without breaks",
       "dates": [
-        "2021-07-20"
+        "2021-07-20",
+        "2023-01-06"
       ]
     },
     {
@@ -6674,6 +6675,7 @@
       "type": "yin-and-yang",
       "text": "Get the same time as another person but with flipped seconds",
       "dates": [
+        "2023-01-06",
         "2022-12-05",
         "2022-11-25",
         "2022-10-13",
