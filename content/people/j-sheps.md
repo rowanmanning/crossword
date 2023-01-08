@@ -5,12 +5,12 @@
     {
       "person": "j-sheps",
       "leaderboard": "2023-01-08",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 47,
+      "totalSeconds": 167,
+      "position": 2,
+      "scrapeTime": "2023-01-08T00:46:30.356Z",
+      "isPending": false
     },
     {
       "person": "j-sheps",
@@ -5687,8 +5687,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 13,
-    "totalSeconds": 73,
+    "seconds": 14,
+    "totalSeconds": 74,
     "position": null,
     "scrapeTime": null,
     "isPending": false
