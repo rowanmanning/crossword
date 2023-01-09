@@ -5,12 +5,12 @@
     {
       "person": "ellejay",
       "leaderboard": "2023-01-09",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 50,
+      "totalSeconds": 50,
+      "position": 4,
+      "scrapeTime": "2023-01-09T23:02:07.833Z",
+      "isPending": false
     },
     {
       "person": "ellejay",
@@ -1627,13 +1627,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 56,
-    "totalSeconds": 116,
+    "seconds": 50,
+    "totalSeconds": 110,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 23,
+  "awardCount": 25,
   "awards": [
     {
       "title": "Half Time",
@@ -1677,7 +1677,8 @@
       "dates": [
         "2022-08-29",
         "2022-12-26",
-        "2023-01-03"
+        "2023-01-03",
+        "2023-01-09"
       ]
     },
     {
@@ -1715,7 +1716,8 @@
       "type": "twinning",
       "text": "Get the same time as another person",
       "dates": [
-        "2022-09-23"
+        "2022-09-23",
+        "2023-01-09"
       ]
     },
     {
