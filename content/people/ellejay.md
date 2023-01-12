@@ -5,12 +5,12 @@
     {
       "person": "ellejay",
       "leaderboard": "2023-01-12",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 6,
+      "totalSeconds": 66,
+      "position": 10,
+      "scrapeTime": "2023-01-12T22:02:14.945Z",
+      "isPending": false
     },
     {
       "person": "ellejay",
@@ -1657,13 +1657,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 50,
-    "totalSeconds": 110,
+    "seconds": 47,
+    "totalSeconds": 107,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 25,
+  "awardCount": 26,
   "awards": [
     {
       "title": "Half Time",
@@ -1697,7 +1697,8 @@
       "text": "Complete a puzzle in less than two minutes",
       "dates": [
         "2022-09-22",
-        "2022-12-09"
+        "2022-12-09",
+        "2023-01-12"
       ]
     },
     {
