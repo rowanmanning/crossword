@@ -5,12 +5,12 @@
     {
       "person": "Rowan M",
       "leaderboard": "2023-01-15",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 36,
+      "totalSeconds": 36,
+      "position": 6,
+      "scrapeTime": "2023-01-15T19:01:58.467Z",
+      "isPending": false
     },
     {
       "person": "Rowan M",
@@ -5763,7 +5763,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1170,
+  "awardCount": 1173,
   "awards": [
     {
       "title": "Gold",
@@ -6745,7 +6745,8 @@
         "2022-11-12",
         "2022-11-20",
         "2022-11-21",
-        "2022-12-09"
+        "2022-12-09",
+        "2023-01-15"
       ]
     },
     {
@@ -7024,7 +7025,8 @@
       "text": "Come back to the crossword after a week off",
       "dates": [
         "2022-11-09",
-        "2022-11-20"
+        "2022-11-20",
+        "2023-01-15"
       ]
     },
     {
@@ -7090,7 +7092,8 @@
         "2022-09-29",
         "2022-10-13",
         "2022-11-10",
-        "2022-11-25"
+        "2022-11-25",
+        "2023-01-15"
       ]
     },
     {
