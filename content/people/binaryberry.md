@@ -5,12 +5,12 @@
     {
       "person": "binaryberry",
       "leaderboard": "2023-01-20",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 0,
+      "totalSeconds": 60,
+      "position": 6,
+      "scrapeTime": "2023-01-20T16:37:03.109Z",
+      "isPending": false
     },
     {
       "person": "binaryberry",
@@ -5813,7 +5813,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 882,
+  "awardCount": 884,
   "awards": [
     {
       "title": "Silver",
@@ -6315,7 +6315,8 @@
         "2023-01-10",
         "2023-01-15",
         "2023-01-17",
-        "2023-01-18"
+        "2023-01-18",
+        "2023-01-20"
       ]
     },
     {
@@ -6660,6 +6661,14 @@
       "dates": [
         "2021-11-02",
         "2022-08-05"
+      ]
+    },
+    {
+      "title": "1 Friday Street",
+      "type": "friday-street",
+      "text": "Get a time of exactly 1:00 on a Friday",
+      "dates": [
+        "2023-01-20"
       ]
     },
     {
