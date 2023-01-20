@@ -126,19 +126,20 @@
       ]
     },
     {
+      "person": "ivo",
+      "count": 2,
+      "dates": [
+        "2022-01-26",
+        "2023-01-19"
+      ]
+    },
+    {
       "person": "leaf",
       "count": 1,
       "dates": [
         "2021-10-18"
       ]
-    },
-    {
-      "person": "ivo",
-      "count": 1,
-      "dates": [
-        "2022-01-26"
-      ]
     }
   ],
-  "totalUnlocks": 81
+  "totalUnlocks": 82
 }
