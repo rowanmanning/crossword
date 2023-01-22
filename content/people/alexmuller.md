@@ -5,12 +5,12 @@
     {
       "person": "alexmuller",
       "leaderboard": "2023-01-22",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 43,
+      "totalSeconds": 43,
+      "position": 6,
+      "scrapeTime": "2023-01-22T08:02:27.934Z",
+      "isPending": false
     },
     {
       "person": "alexmuller",
@@ -1603,7 +1603,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 328,
+  "awardCount": 331,
   "awards": [
     {
       "title": "Gold",
@@ -1730,7 +1730,8 @@
         "2022-12-22",
         "2023-01-01",
         "2023-01-09",
-        "2023-01-15"
+        "2023-01-15",
+        "2023-01-22"
       ]
     },
     {
@@ -1913,7 +1914,8 @@
         "2023-01-15",
         "2023-01-16",
         "2023-01-17",
-        "2023-01-20"
+        "2023-01-20",
+        "2023-01-22"
       ]
     },
     {
@@ -2076,6 +2078,7 @@
       "type": "yin-and-yang",
       "text": "Get the same time as another person but with flipped seconds",
       "dates": [
+        "2023-01-22",
         "2022-10-10"
       ]
     },
