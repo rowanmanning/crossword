@@ -5,12 +5,12 @@
     {
       "person": "binaryberry",
       "leaderboard": "2023-01-22",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 33,
+      "totalSeconds": 33,
+      "position": 4,
+      "scrapeTime": "2023-01-22T09:31:37.937Z",
+      "isPending": false
     },
     {
       "person": "binaryberry",
@@ -5833,7 +5833,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 887,
+  "awardCount": 890,
   "awards": [
     {
       "title": "Silver",
@@ -6026,7 +6026,8 @@
         "2022-09-04",
         "2022-10-04",
         "2022-10-16",
-        "2022-10-25"
+        "2022-10-25",
+        "2023-01-22"
       ]
     },
     {
@@ -6450,7 +6451,8 @@
         "2022-12-26",
         "2023-01-04",
         "2023-01-13",
-        "2023-01-19"
+        "2023-01-19",
+        "2023-01-22"
       ]
     },
     {
@@ -6509,6 +6511,7 @@
       "type": "chain-3",
       "text": "Participate in a chain of three sequential times",
       "dates": [
+        "2023-01-22",
         "2022-12-02",
         "2022-11-08",
         "2022-08-15",
