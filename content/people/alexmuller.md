@@ -5,12 +5,12 @@
     {
       "person": "alexmuller",
       "leaderboard": "2023-01-23",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 8,
+      "totalSeconds": 128,
+      "position": 7,
+      "scrapeTime": "2023-01-23T22:02:22.610Z",
+      "isPending": false
     },
     {
       "person": "alexmuller",
@@ -1607,13 +1607,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 4,
-    "totalSeconds": 64,
+    "seconds": 5,
+    "totalSeconds": 65,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 332,
+  "awardCount": 334,
   "awards": [
     {
       "title": "Gold",
@@ -1784,7 +1784,8 @@
         "2022-12-24",
         "2022-12-28",
         "2023-01-02",
-        "2023-01-21"
+        "2023-01-21",
+        "2023-01-23"
       ]
     },
     {
@@ -2037,6 +2038,14 @@
       "text": "Play for a full month (30 days) without breaks",
       "dates": [
         "2022-11-24"
+      ]
+    },
+    {
+      "title": "Quarter-Long Streak",
+      "type": "quarter-streak",
+      "text": "Play for a full quarter, give that OKR a 1",
+      "dates": [
+        "2023-01-23"
       ]
     },
     {
