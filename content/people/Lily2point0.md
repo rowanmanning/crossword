@@ -8,7 +8,7 @@
       "minutes": 0,
       "seconds": 21,
       "totalSeconds": 21,
-      "position": 3,
+      "position": 4,
       "scrapeTime": "2023-01-26T05:02:14.903Z",
       "isPending": false
     },
@@ -5859,7 +5859,7 @@
     "minutes": 0,
     "seconds": 21,
     "totalSeconds": 21,
-    "position": 3,
+    "position": 4,
     "scrapeTime": "2023-01-26T05:02:14.903Z",
     "isPending": false
   },
@@ -5873,7 +5873,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1049,
+  "awardCount": 1050,
   "awards": [
     {
       "title": "Gold",
@@ -6900,6 +6900,7 @@
       "type": "yin-and-yang",
       "text": "Get the same time as another person but with flipped seconds",
       "dates": [
+        "2023-01-26",
         "2023-01-12",
         "2023-01-06",
         "2022-12-05",

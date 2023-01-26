@@ -5,12 +5,12 @@
     {
       "person": "cb",
       "leaderboard": "2023-01-26",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 12,
+      "totalSeconds": 12,
+      "position": 2,
+      "scrapeTime": "2023-01-26T13:35:38.638Z",
+      "isPending": false
     },
     {
       "person": "cb",
@@ -5793,7 +5793,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1525,
+  "awardCount": 1529,
   "awards": [
     {
       "title": "Gold",
@@ -6514,7 +6514,8 @@
         "2022-11-21",
         "2022-11-27",
         "2022-12-01",
-        "2023-01-05"
+        "2023-01-05",
+        "2023-01-26"
       ]
     },
     {
@@ -7185,7 +7186,8 @@
         "2023-01-10",
         "2023-01-11",
         "2023-01-13",
-        "2023-01-15"
+        "2023-01-15",
+        "2023-01-26"
       ]
     },
     {
@@ -7335,7 +7337,8 @@
         "2022-12-26",
         "2023-01-03",
         "2023-01-12",
-        "2023-01-17"
+        "2023-01-17",
+        "2023-01-26"
       ]
     },
     {
@@ -7521,6 +7524,7 @@
       "type": "yin-and-yang",
       "text": "Get the same time as another person but with flipped seconds",
       "dates": [
+        "2023-01-26",
         "2023-01-19",
         "2023-01-13",
         "2023-01-06",
