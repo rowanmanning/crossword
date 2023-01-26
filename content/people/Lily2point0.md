@@ -5,12 +5,12 @@
     {
       "person": "Lily2point0",
       "leaderboard": "2023-01-26",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 21,
+      "totalSeconds": 21,
+      "position": 1,
+      "scrapeTime": "2023-01-26T05:02:14.903Z",
+      "isPending": false
     },
     {
       "person": "Lily2point0",
@@ -5855,12 +5855,12 @@
   ],
   "best": {
     "person": "Lily2point0",
-    "leaderboard": "2022-08-22",
+    "leaderboard": "2023-01-26",
     "minutes": 0,
-    "seconds": 29,
-    "totalSeconds": 29,
-    "position": 3,
-    "scrapeTime": "2022-08-21T22:34:22.408Z",
+    "seconds": 21,
+    "totalSeconds": 21,
+    "position": 1,
+    "scrapeTime": "2023-01-26T05:02:14.903Z",
     "isPending": false
   },
   "mean": {
@@ -5873,7 +5873,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1046,
+  "awardCount": 1049,
   "awards": [
     {
       "title": "Gold",
@@ -6136,7 +6136,8 @@
         "2022-08-14",
         "2022-10-02",
         "2022-10-16",
-        "2022-10-30"
+        "2022-10-30",
+        "2023-01-26"
       ]
     },
     {
@@ -6721,7 +6722,8 @@
       "text": "Complete a puzzle in less than 30 seconds",
       "dates": [
         "2021-12-29",
-        "2022-08-22"
+        "2022-08-22",
+        "2023-01-26"
       ]
     },
     {
@@ -7184,7 +7186,8 @@
         "2023-01-08",
         "2023-01-09",
         "2023-01-15",
-        "2023-01-18"
+        "2023-01-18",
+        "2023-01-26"
       ]
     }
   ]
