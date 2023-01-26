@@ -5,12 +5,12 @@
     {
       "person": "Ania",
       "leaderboard": "2023-01-26",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 14,
+      "totalSeconds": 14,
+      "position": 2,
+      "scrapeTime": "2023-01-26T09:31:41.692Z",
+      "isPending": false
     },
     {
       "person": "Ania",
@@ -5855,12 +5855,12 @@
   ],
   "best": {
     "person": "Ania",
-    "leaderboard": "2021-08-02",
+    "leaderboard": "2023-01-26",
     "minutes": 0,
     "seconds": 14,
     "totalSeconds": 14,
-    "position": 1,
-    "scrapeTime": null,
+    "position": 2,
+    "scrapeTime": "2023-01-26T09:31:41.692Z",
     "isPending": false
   },
   "mean": {
@@ -5873,7 +5873,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 968,
+  "awardCount": 970,
   "awards": [
     {
       "title": "Gold",
@@ -6156,7 +6156,8 @@
         "2022-12-18",
         "2023-01-15",
         "2023-01-17",
-        "2023-01-20"
+        "2023-01-20",
+        "2023-01-26"
       ]
     },
     {
@@ -6747,7 +6748,8 @@
       "text": "Complete a puzzle in less than 20 seconds",
       "dates": [
         "2021-08-02",
-        "2021-09-26"
+        "2021-09-26",
+        "2023-01-26"
       ]
     },
     {
