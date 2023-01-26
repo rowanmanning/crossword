@@ -5,12 +5,12 @@
     {
       "person": "binaryberry",
       "leaderboard": "2023-01-26",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 42,
+      "totalSeconds": 42,
+      "position": 2,
+      "scrapeTime": "2023-01-26T06:02:35.918Z",
+      "isPending": false
     },
     {
       "person": "binaryberry",
@@ -5867,13 +5867,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 58,
-    "totalSeconds": 118,
+    "seconds": 57,
+    "totalSeconds": 117,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 896,
+  "awardCount": 898,
   "awards": [
     {
       "title": "Silver",
@@ -6497,7 +6497,8 @@
         "2023-01-13",
         "2023-01-19",
         "2023-01-22",
-        "2023-01-24"
+        "2023-01-24",
+        "2023-01-26"
       ]
     },
     {
@@ -6721,7 +6722,8 @@
       "text": "A towel is about the most massively useful thing an interstellar hitchhiker can have",
       "dates": [
         "2021-11-16",
-        "2022-12-19"
+        "2022-12-19",
+        "2023-01-26"
       ]
     },
     {
