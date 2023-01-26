@@ -5,12 +5,12 @@
     {
       "person": "j-sheps",
       "leaderboard": "2023-01-26",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 14,
+      "totalSeconds": 14,
+      "position": 3,
+      "scrapeTime": "2023-01-26T23:31:43.034Z",
+      "isPending": false
     },
     {
       "person": "j-sheps",
@@ -5855,12 +5855,12 @@
   ],
   "best": {
     "person": "j-sheps",
-    "leaderboard": "2022-07-17",
+    "leaderboard": "2023-01-26",
     "minutes": 0,
     "seconds": 14,
     "totalSeconds": 14,
     "position": 3,
-    "scrapeTime": "2022-07-16T23:02:26.241Z",
+    "scrapeTime": "2023-01-26T23:31:43.034Z",
     "isPending": false
   },
   "mean": {
@@ -5873,7 +5873,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1210,
+  "awardCount": 1213,
   "awards": [
     {
       "title": "Gold",
@@ -6232,7 +6232,8 @@
         "2023-01-09",
         "2023-01-13",
         "2023-01-22",
-        "2023-01-24"
+        "2023-01-24",
+        "2023-01-26"
       ]
     },
     {
@@ -6901,7 +6902,8 @@
       "dates": [
         "2021-11-26",
         "2022-06-13",
-        "2022-07-17"
+        "2022-07-17",
+        "2023-01-26"
       ]
     },
     {
@@ -7166,7 +7168,8 @@
         "2021-12-22",
         "2022-02-08",
         "2022-08-22",
-        "2022-08-24"
+        "2022-08-24",
+        "2023-01-26"
       ]
     },
     {
