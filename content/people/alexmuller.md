@@ -5,12 +5,12 @@
     {
       "person": "alexmuller",
       "leaderboard": "2023-01-28",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 59,
+      "totalSeconds": 59,
+      "position": 2,
+      "scrapeTime": "2023-01-28T09:02:07.937Z",
+      "isPending": false
     },
     {
       "person": "alexmuller",
@@ -1663,7 +1663,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 343,
+  "awardCount": 345,
   "awards": [
     {
       "title": "Gold",
@@ -1933,7 +1933,8 @@
         "2023-01-13",
         "2023-01-18",
         "2023-01-19",
-        "2023-01-25"
+        "2023-01-25",
+        "2023-01-28"
       ]
     },
     {
@@ -2021,7 +2022,8 @@
       "text": "Complete a puzzle in less than a minute on a Saturday",
       "dates": [
         "2022-08-27",
-        "2022-11-12"
+        "2022-11-12",
+        "2023-01-28"
       ]
     },
     {
