@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Alice Bartlett",
+      "leaderboard": "2023-01-29",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Alice Bartlett",
       "leaderboard": "2023-01-28",
       "minutes": null,
       "seconds": null,
