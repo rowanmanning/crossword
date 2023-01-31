@@ -5,12 +5,12 @@
     {
       "person": "alexmuller",
       "leaderboard": "2023-01-31",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 41,
+      "totalSeconds": 41,
+      "position": 1,
+      "scrapeTime": "2023-01-31T07:02:20.685Z",
+      "isPending": false
     },
     {
       "person": "alexmuller",
@@ -1693,7 +1693,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 349,
+  "awardCount": 351,
   "awards": [
     {
       "title": "Gold",
@@ -1825,7 +1825,8 @@
         "2023-01-09",
         "2023-01-15",
         "2023-01-22",
-        "2023-01-26"
+        "2023-01-26",
+        "2023-01-31"
       ]
     },
     {
@@ -2017,7 +2018,8 @@
         "2023-01-17",
         "2023-01-20",
         "2023-01-22",
-        "2023-01-27"
+        "2023-01-27",
+        "2023-01-31"
       ]
     },
     {
