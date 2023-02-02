@@ -129,6 +129,14 @@
       ]
     },
     {
+      "person": "Otherowan",
+      "count": 2,
+      "dates": [
+        "2022-08-05",
+        "2023-02-01"
+      ]
+    },
+    {
       "person": "alexmuller",
       "count": 2,
       "dates": [
@@ -149,14 +157,7 @@
       "dates": [
         "2022-01-12"
       ]
-    },
-    {
-      "person": "Otherowan",
-      "count": 1,
-      "dates": [
-        "2022-08-05"
-      ]
     }
   ],
-  "totalUnlocks": 63
+  "totalUnlocks": 64
 }
