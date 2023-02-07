@@ -26,7 +26,8 @@ async function fetchLeaderboard() {
 			'pragma': 'no-cache',
 			'cookie': process.env.NYT_COOKIES,
 			'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36'
-		}
+		},
+		throwHttpErrors: false
 	});
 
 	if (response.statusCode !== 200) {
