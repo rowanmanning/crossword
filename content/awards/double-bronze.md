@@ -139,19 +139,20 @@
       ]
     },
     {
+      "person": "alexmuller",
+      "count": 3,
+      "dates": [
+        "2022-10-21",
+        "2023-01-28",
+        "2023-02-07"
+      ]
+    },
+    {
       "person": "Otherowan",
       "count": 2,
       "dates": [
         "2022-03-22",
         "2022-09-20"
-      ]
-    },
-    {
-      "person": "alexmuller",
-      "count": 2,
-      "dates": [
-        "2022-10-21",
-        "2023-01-28"
       ]
     },
     {
@@ -169,5 +170,5 @@
       ]
     }
   ],
-  "totalUnlocks": 86
+  "totalUnlocks": 87
 }
