@@ -5,12 +5,12 @@
     {
       "person": "binaryberry",
       "leaderboard": "2023-02-08",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 21,
+      "totalSeconds": 21,
+      "position": 2,
+      "scrapeTime": "2023-02-08T08:02:38.076Z",
+      "isPending": false
     },
     {
       "person": "binaryberry",
@@ -5985,12 +5985,12 @@
   ],
   "best": {
     "person": "binaryberry",
-    "leaderboard": "2022-03-29",
+    "leaderboard": "2023-02-08",
     "minutes": 0,
-    "seconds": 23,
-    "totalSeconds": 23,
+    "seconds": 21,
+    "totalSeconds": 21,
     "position": 2,
-    "scrapeTime": "2022-03-29T06:03:02.102Z",
+    "scrapeTime": "2023-02-08T08:02:38.076Z",
     "isPending": false
   },
   "mean": {
@@ -6003,7 +6003,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 926,
+  "awardCount": 928,
   "awards": [
     {
       "title": "Silver",
@@ -6203,7 +6203,8 @@
         "2022-10-04",
         "2022-10-16",
         "2022-10-25",
-        "2023-01-22"
+        "2023-01-22",
+        "2023-02-08"
       ]
     },
     {
@@ -6653,7 +6654,8 @@
       "text": "Complete a puzzle in less than 30 seconds",
       "dates": [
         "2022-03-29",
-        "2022-10-04"
+        "2022-10-04",
+        "2023-02-08"
       ]
     },
     {
