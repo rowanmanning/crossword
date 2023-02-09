@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Otherowan",
+      "leaderboard": "2023-02-09",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Otherowan",
       "leaderboard": "2023-02-08",
       "minutes": 0,
       "seconds": 14,
@@ -3793,7 +3803,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 643,
+  "awardCount": 646,
   "awards": [
     {
       "title": "Gold",
@@ -3806,7 +3816,8 @@
         "2022-08-15",
         "2022-09-13",
         "2022-10-05",
-        "2022-10-13"
+        "2022-10-13",
+        "2023-02-08"
       ]
     },
     {
@@ -4558,6 +4569,14 @@
       ]
     },
     {
+      "title": "Twinning In Gold",
+      "type": "twinning-in-gold",
+      "text": "Get the twinning award and the fastest time for a day",
+      "dates": [
+        "2023-02-08"
+      ]
+    },
+    {
       "title": "Yin and Yang",
       "type": "yin-and-yang",
       "text": "Get the same time as another person but with flipped seconds",
@@ -4694,7 +4713,8 @@
       "type": "slow-and-steady",
       "text": "Complete a puzzle after everyone else but with the fastest time",
       "dates": [
-        "2022-10-13"
+        "2022-10-13",
+        "2023-02-08"
       ]
     }
   ]
