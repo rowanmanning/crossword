@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "ivo",
+      "leaderboard": "2023-02-10",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "ivo",
       "leaderboard": "2023-02-09",
       "minutes": 0,
       "seconds": 27,
@@ -5163,7 +5173,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 943,
+  "awardCount": 945,
   "awards": [
     {
       "title": "Gold",
@@ -5192,7 +5202,8 @@
         "2022-12-30",
         "2023-01-09",
         "2023-01-14",
-        "2023-01-20"
+        "2023-01-20",
+        "2023-02-09"
       ]
     },
     {
@@ -6275,7 +6286,8 @@
       "text": "Get the twinning award and the fastest time for a day",
       "dates": [
         "2021-10-18",
-        "2022-03-15"
+        "2022-03-15",
+        "2023-02-09"
       ]
     },
     {
