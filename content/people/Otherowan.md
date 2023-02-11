@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Otherowan",
+      "leaderboard": "2023-02-11",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Otherowan",
       "leaderboard": "2023-02-10",
       "minutes": 0,
       "seconds": 22,
@@ -3813,7 +3823,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 652,
+  "awardCount": 654,
   "awards": [
     {
       "title": "Gold",
@@ -3827,7 +3837,8 @@
         "2022-09-13",
         "2022-10-05",
         "2022-10-13",
-        "2023-02-08"
+        "2023-02-08",
+        "2023-02-10"
       ]
     },
     {
@@ -4589,7 +4600,8 @@
       "type": "twinning-in-gold",
       "text": "Get the twinning award and the fastest time for a day",
       "dates": [
-        "2023-02-08"
+        "2023-02-08",
+        "2023-02-10"
       ]
     },
     {
