@@ -71,6 +71,15 @@
       ]
     },
     {
+      "person": "Lily2point0",
+      "count": 3,
+      "dates": [
+        "2022-10-27",
+        "2022-12-02",
+        "2023-02-12"
+      ]
+    },
+    {
       "person": "leaf",
       "count": 2,
       "dates": [
@@ -111,14 +120,6 @@
       ]
     },
     {
-      "person": "Lily2point0",
-      "count": 2,
-      "dates": [
-        "2022-10-27",
-        "2022-12-02"
-      ]
-    },
-    {
       "person": "varjmes",
       "count": 1,
       "dates": [
@@ -147,5 +148,5 @@
       ]
     }
   ],
-  "totalUnlocks": 40
+  "totalUnlocks": 41
 }
