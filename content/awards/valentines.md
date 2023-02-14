@@ -5,6 +5,14 @@
   "order": "321",
   "unlocks": [
     {
+      "person": "binaryberry",
+      "count": 2,
+      "dates": [
+        "2023-02-14",
+        "2022-02-14"
+      ]
+    },
+    {
       "person": "Alice Bartlett",
       "count": 1,
       "dates": [
@@ -20,13 +28,6 @@
     },
     {
       "person": "apaleslimghost",
-      "count": 1,
-      "dates": [
-        "2022-02-14"
-      ]
-    },
-    {
-      "person": "binaryberry",
       "count": 1,
       "dates": [
         "2022-02-14"
@@ -103,5 +104,5 @@
       ]
     }
   ],
-  "totalUnlocks": 14
+  "totalUnlocks": 15
 }
