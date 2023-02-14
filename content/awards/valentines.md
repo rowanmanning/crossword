@@ -5,6 +5,14 @@
   "order": "321",
   "unlocks": [
     {
+      "person": "Ania",
+      "count": 2,
+      "dates": [
+        "2023-02-14",
+        "2022-02-14"
+      ]
+    },
+    {
       "person": "binaryberry",
       "count": 2,
       "dates": [
@@ -30,13 +38,6 @@
     },
     {
       "person": "Alice Bartlett",
-      "count": 1,
-      "dates": [
-        "2022-02-14"
-      ]
-    },
-    {
-      "person": "Ania",
       "count": 1,
       "dates": [
         "2022-02-14"
@@ -111,7 +112,14 @@
       "dates": [
         "2023-02-14"
       ]
+    },
+    {
+      "person": "itsalex",
+      "count": 1,
+      "dates": [
+        "2023-02-14"
+      ]
     }
   ],
-  "totalUnlocks": 18
+  "totalUnlocks": 20
 }

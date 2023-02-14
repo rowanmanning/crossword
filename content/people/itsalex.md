@@ -5,12 +5,12 @@
     {
       "person": "itsalex",
       "leaderboard": "2023-02-14",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 40,
+      "totalSeconds": 40,
+      "position": 3,
+      "scrapeTime": "2023-02-14T09:02:21.601Z",
+      "isPending": false
     },
     {
       "person": "itsalex",
@@ -6033,7 +6033,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1112,
+  "awardCount": 1115,
   "awards": [
     {
       "title": "Gold",
@@ -6877,7 +6877,8 @@
         "2023-02-05",
         "2023-02-06",
         "2023-02-09",
-        "2023-02-12"
+        "2023-02-12",
+        "2023-02-14"
       ]
     },
     {
@@ -7099,6 +7100,14 @@
       ]
     },
     {
+      "title": "I Choo Choo Choose You",
+      "type": "valentines",
+      "text": "Play the crossword on Valentines day",
+      "dates": [
+        "2023-02-14"
+      ]
+    },
+    {
       "title": "Chain 3",
       "type": "chain-3",
       "text": "Participate in a chain of three sequential times",
@@ -7179,7 +7188,8 @@
         "2022-12-09",
         "2022-12-17",
         "2023-01-31",
-        "2023-02-10"
+        "2023-02-10",
+        "2023-02-14"
       ]
     },
     {

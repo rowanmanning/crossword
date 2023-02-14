@@ -5,12 +5,12 @@
     {
       "person": "Ania",
       "leaderboard": "2023-02-14",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 54,
+      "totalSeconds": 54,
+      "position": 4,
+      "scrapeTime": "2023-02-14T09:02:21.601Z",
+      "isPending": false
     },
     {
       "person": "Ania",
@@ -6063,7 +6063,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 993,
+  "awardCount": 996,
   "awards": [
     {
       "title": "Gold",
@@ -6510,7 +6510,8 @@
         "2023-01-21",
         "2023-01-23",
         "2023-01-27",
-        "2023-02-07"
+        "2023-02-07",
+        "2023-02-14"
       ]
     },
     {
@@ -6773,7 +6774,8 @@
         "2023-01-12",
         "2023-01-24",
         "2023-01-30",
-        "2023-02-02"
+        "2023-02-02",
+        "2023-02-14"
       ]
     },
     {
@@ -6999,6 +7001,7 @@
       "type": "valentines",
       "text": "Play the crossword on Valentines day",
       "dates": [
+        "2023-02-14",
         "2022-02-14"
       ]
     },
