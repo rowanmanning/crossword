@@ -102,7 +102,14 @@
       "dates": [
         "2022-02-14"
       ]
+    },
+    {
+      "person": "alexmuller",
+      "count": 1,
+      "dates": [
+        "2023-02-14"
+      ]
     }
   ],
-  "totalUnlocks": 15
+  "totalUnlocks": 16
 }

@@ -5,12 +5,12 @@
     {
       "person": "alexmuller",
       "leaderboard": "2023-02-14",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 25,
+      "totalSeconds": 25,
+      "position": 1,
+      "scrapeTime": "2023-02-14T06:35:11.199Z",
+      "isPending": false
     },
     {
       "person": "alexmuller",
@@ -1827,13 +1827,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 4,
-    "totalSeconds": 64,
+    "seconds": 3,
+    "totalSeconds": 63,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 381,
+  "awardCount": 383,
   "awards": [
     {
       "title": "Gold",
@@ -2201,7 +2201,8 @@
         "2022-12-07",
         "2022-12-22",
         "2023-01-24",
-        "2023-02-13"
+        "2023-02-13",
+        "2023-02-14"
       ]
     },
     {
@@ -2230,6 +2231,14 @@
       "text": "Play the crossword on Christmas day",
       "dates": [
         "2022-12-25"
+      ]
+    },
+    {
+      "title": "I Choo Choo Choose You",
+      "type": "valentines",
+      "text": "Play the crossword on Valentines day",
+      "dates": [
+        "2023-02-14"
       ]
     },
     {
