@@ -39,7 +39,7 @@ jobs:
     steps:
 
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Cache node modules
         uses: actions/cache@v3
@@ -71,7 +71,7 @@ jobs:
     steps:
 
       - name: Checkout with submodules
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         with:
           submodules: true # Install themes
 
@@ -130,7 +130,7 @@ jobs:
     steps:
 
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Restore node modules
         uses: actions/cache@v3
@@ -168,7 +168,7 @@ jobs:
     steps:
 
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Restore built website
         uses: actions/cache@v3
