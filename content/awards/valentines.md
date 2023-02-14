@@ -45,6 +45,14 @@
       ]
     },
     {
+      "person": "Otherowan",
+      "count": 2,
+      "dates": [
+        "2023-02-14",
+        "2022-02-14"
+      ]
+    },
+    {
       "person": "Alice Bartlett",
       "count": 1,
       "dates": [
@@ -87,13 +95,6 @@
       ]
     },
     {
-      "person": "Otherowan",
-      "count": 1,
-      "dates": [
-        "2022-02-14"
-      ]
-    },
-    {
       "person": "Rowan M",
       "count": 1,
       "dates": [
@@ -122,5 +123,5 @@
       ]
     }
   ],
-  "totalUnlocks": 21
+  "totalUnlocks": 22
 }
