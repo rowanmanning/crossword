@@ -13,6 +13,14 @@
       ]
     },
     {
+      "person": "Lily2point0",
+      "count": 2,
+      "dates": [
+        "2023-02-14",
+        "2022-02-14"
+      ]
+    },
+    {
       "person": "Alice Bartlett",
       "count": 1,
       "dates": [
@@ -69,13 +77,6 @@
       ]
     },
     {
-      "person": "Lily2point0",
-      "count": 1,
-      "dates": [
-        "2022-02-14"
-      ]
-    },
-    {
       "person": "Nick Ramsbottom",
       "count": 1,
       "dates": [
@@ -111,5 +112,5 @@
       ]
     }
   ],
-  "totalUnlocks": 16
+  "totalUnlocks": 17
 }
