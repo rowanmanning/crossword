@@ -37,6 +37,14 @@
       ]
     },
     {
+      "person": "j-sheps",
+      "count": 2,
+      "dates": [
+        "2023-02-14",
+        "2022-02-14"
+      ]
+    },
+    {
       "person": "Lily2point0",
       "count": 2,
       "dates": [
@@ -68,13 +76,6 @@
     },
     {
       "person": "cb",
-      "count": 1,
-      "dates": [
-        "2022-02-14"
-      ]
-    },
-    {
-      "person": "j-sheps",
       "count": 1,
       "dates": [
         "2022-02-14"
@@ -123,5 +124,5 @@
       ]
     }
   ],
-  "totalUnlocks": 22
+  "totalUnlocks": 23
 }
