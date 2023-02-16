@@ -5,12 +5,12 @@
     {
       "person": "itsalex",
       "leaderboard": "2023-02-16",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 8,
+      "totalSeconds": 8,
+      "position": 1,
+      "scrapeTime": "2023-02-16T15:02:40.849Z",
+      "isPending": false
     },
     {
       "person": "itsalex",
@@ -6035,12 +6035,12 @@
   ],
   "best": {
     "person": "itsalex",
-    "leaderboard": "2022-07-29",
+    "leaderboard": "2023-02-16",
     "minutes": 0,
-    "seconds": 9,
-    "totalSeconds": 9,
+    "seconds": 8,
+    "totalSeconds": 8,
     "position": 1,
-    "scrapeTime": "2022-07-29T22:34:20.251Z",
+    "scrapeTime": "2023-02-16T15:02:40.849Z",
     "isPending": false
   },
   "mean": {
@@ -6053,7 +6053,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1118,
+  "awardCount": 1120,
   "awards": [
     {
       "title": "Gold",
@@ -6576,7 +6576,8 @@
         "2023-01-22",
         "2023-02-02",
         "2023-02-08",
-        "2023-02-15"
+        "2023-02-15",
+        "2023-02-16"
       ]
     },
     {
@@ -7072,7 +7073,8 @@
         "2023-01-29",
         "2023-02-02",
         "2023-02-03",
-        "2023-02-15"
+        "2023-02-15",
+        "2023-02-16"
       ]
     },
     {
