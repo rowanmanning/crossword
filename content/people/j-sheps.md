@@ -5,12 +5,12 @@
     {
       "person": "j-sheps",
       "leaderboard": "2023-02-19",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 37,
+      "totalSeconds": 97,
+      "position": 3,
+      "scrapeTime": "2023-02-19T11:31:36.805Z",
+      "isPending": false
     },
     {
       "person": "j-sheps",
@@ -6113,7 +6113,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1257,
+  "awardCount": 1259,
   "awards": [
     {
       "title": "Gold",
@@ -6826,7 +6826,8 @@
         "2023-02-04",
         "2023-02-07",
         "2023-02-13",
-        "2023-02-18"
+        "2023-02-18",
+        "2023-02-19"
       ]
     },
     {
@@ -7503,6 +7504,14 @@
         "2021-09-05",
         "2021-08-21",
         "2021-06-29"
+      ]
+    },
+    {
+      "title": "Arjun",
+      "type": "arjun",
+      "text": "Join us",
+      "dates": [
+        "2023-02-19"
       ]
     },
     {
