@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "cb",
+      "leaderboard": "2023-02-22",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "cb",
       "leaderboard": "2023-02-21",
       "minutes": 0,
       "seconds": 30,
@@ -6053,7 +6063,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1597,
+  "awardCount": 1598,
   "awards": [
     {
       "title": "Gold",
@@ -6621,7 +6631,8 @@
         "2023-02-02",
         "2023-02-13",
         "2023-02-17",
-        "2023-02-18"
+        "2023-02-18",
+        "2023-02-21"
       ]
     },
     {
