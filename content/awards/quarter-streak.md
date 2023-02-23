@@ -13,6 +13,14 @@
       ]
     },
     {
+      "person": "binaryberry",
+      "count": 2,
+      "dates": [
+        "2022-02-09",
+        "2023-02-23"
+      ]
+    },
+    {
       "person": "Lily2point0",
       "count": 1,
       "dates": [
@@ -48,13 +56,6 @@
       ]
     },
     {
-      "person": "binaryberry",
-      "count": 1,
-      "dates": [
-        "2022-02-09"
-      ]
-    },
-    {
       "person": "Nick Ramsbottom",
       "count": 1,
       "dates": [
@@ -83,5 +84,5 @@
       ]
     }
   ],
-  "totalUnlocks": 12
+  "totalUnlocks": 13
 }

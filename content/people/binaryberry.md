@@ -5,12 +5,12 @@
     {
       "person": "binaryberry",
       "leaderboard": "2023-02-23",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 44,
+      "totalSeconds": 104,
+      "position": 2,
+      "scrapeTime": "2023-02-23T06:34:47.047Z",
+      "isPending": false
     },
     {
       "person": "binaryberry",
@@ -6153,7 +6153,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 959,
+  "awardCount": 962,
   "awards": [
     {
       "title": "Silver",
@@ -6690,7 +6690,8 @@
         "2023-02-15",
         "2023-02-20",
         "2023-02-21",
-        "2023-02-22"
+        "2023-02-22",
+        "2023-02-23"
       ]
     },
     {
@@ -6940,7 +6941,8 @@
       "type": "quarter-streak",
       "text": "Play for a full quarter, give that OKR a 1",
       "dates": [
-        "2022-02-09"
+        "2022-02-09",
+        "2023-02-23"
       ]
     },
     {
@@ -7349,7 +7351,8 @@
         "2023-02-14",
         "2023-02-16",
         "2023-02-18",
-        "2023-02-22"
+        "2023-02-22",
+        "2023-02-23"
       ]
     }
   ]
