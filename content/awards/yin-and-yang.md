@@ -6,8 +6,9 @@
   "unlocks": [
     {
       "person": "cb",
-      "count": 25,
+      "count": 26,
       "dates": [
+        "2023-02-24",
         "2023-01-26",
         "2023-01-19",
         "2023-01-13",
@@ -345,19 +346,20 @@
       ]
     },
     {
+      "person": "alexmuller",
+      "count": 3,
+      "dates": [
+        "2023-02-24",
+        "2023-01-22",
+        "2022-10-10"
+      ]
+    },
+    {
       "person": "Alice Bartlett",
       "count": 2,
       "dates": [
         "2022-03-07",
         "2021-11-11"
-      ]
-    },
-    {
-      "person": "alexmuller",
-      "count": 2,
-      "dates": [
-        "2023-01-22",
-        "2022-10-10"
       ]
     },
     {
@@ -368,5 +370,5 @@
       ]
     }
   ],
-  "totalUnlocks": 249
+  "totalUnlocks": 251
 }
