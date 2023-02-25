@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "ivo",
+      "leaderboard": "2023-02-25",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "ivo",
       "leaderboard": "2023-02-24",
       "minutes": 0,
       "seconds": 25,
@@ -5313,7 +5323,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 975,
+  "awardCount": 976,
   "awards": [
     {
       "title": "Gold",
@@ -5397,7 +5407,8 @@
         "2023-01-04",
         "2023-01-18",
         "2023-01-19",
-        "2023-02-08"
+        "2023-02-08",
+        "2023-02-24"
       ]
     },
     {
