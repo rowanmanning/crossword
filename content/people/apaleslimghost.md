@@ -5,12 +5,12 @@
     {
       "person": "apaleslimghost",
       "leaderboard": "2023-02-26",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 25,
+      "totalSeconds": 25,
+      "position": 3,
+      "scrapeTime": "2023-02-26T07:02:09.552Z",
+      "isPending": false
     },
     {
       "person": "apaleslimghost",
@@ -6173,7 +6173,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1148,
+  "awardCount": 1151,
   "awards": [
     {
       "title": "Gold",
@@ -6559,7 +6559,8 @@
         "2023-01-15",
         "2023-02-01",
         "2023-02-08",
-        "2023-02-17"
+        "2023-02-17",
+        "2023-02-26"
       ]
     },
     {
@@ -7147,7 +7148,8 @@
         "2023-01-04",
         "2023-01-15",
         "2023-01-18",
-        "2023-01-30"
+        "2023-01-30",
+        "2023-02-26"
       ]
     },
     {
@@ -7228,6 +7230,7 @@
       "type": "chain-3",
       "text": "Participate in a chain of three sequential times",
       "dates": [
+        "2023-02-26",
         "2023-02-02",
         "2022-11-13",
         "2022-11-10",
