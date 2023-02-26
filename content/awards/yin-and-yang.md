@@ -69,8 +69,9 @@
     },
     {
       "person": "apaleslimghost",
-      "count": 22,
+      "count": 23,
       "dates": [
+        "2023-02-26",
         "2022-12-07",
         "2022-11-25",
         "2022-11-02",
@@ -370,7 +371,14 @@
       "dates": [
         "2022-03-25"
       ]
+    },
+    {
+      "person": "ellejay",
+      "count": 1,
+      "dates": [
+        "2023-02-26"
+      ]
     }
   ],
-  "totalUnlocks": 253
+  "totalUnlocks": 255
 }

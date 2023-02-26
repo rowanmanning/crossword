@@ -5,12 +5,12 @@
     {
       "person": "ellejay",
       "leaderboard": "2023-02-26",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 52,
+      "totalSeconds": 52,
+      "position": 8,
+      "scrapeTime": "2023-02-26T20:02:30.011Z",
+      "isPending": false
     },
     {
       "person": "ellejay",
@@ -2107,13 +2107,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 47,
-    "totalSeconds": 107,
+    "seconds": 43,
+    "totalSeconds": 103,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 26,
+  "awardCount": 29,
   "awards": [
     {
       "title": "Half Time",
@@ -2159,7 +2159,8 @@
         "2022-08-29",
         "2022-12-26",
         "2023-01-03",
-        "2023-01-09"
+        "2023-01-09",
+        "2023-02-26"
       ]
     },
     {
@@ -2189,7 +2190,8 @@
         "2022-09-22",
         "2022-12-09",
         "2022-12-26",
-        "2023-01-03"
+        "2023-01-03",
+        "2023-02-26"
       ]
     },
     {
@@ -2199,6 +2201,14 @@
       "dates": [
         "2022-09-23",
         "2023-01-09"
+      ]
+    },
+    {
+      "title": "Yin and Yang",
+      "type": "yin-and-yang",
+      "text": "Get the same time as another person but with flipped seconds",
+      "dates": [
+        "2023-02-26"
       ]
     },
     {
