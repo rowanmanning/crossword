@@ -5,12 +5,12 @@
     {
       "person": "cb",
       "leaderboard": "2023-02-26",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 8,
+      "totalSeconds": 8,
+      "position": 1,
+      "scrapeTime": "2023-02-26T18:02:15.463Z",
+      "isPending": false
     },
     {
       "person": "cb",
@@ -6085,12 +6085,12 @@
   ],
   "best": {
     "person": "cb",
-    "leaderboard": "2023-01-05",
+    "leaderboard": "2023-02-26",
     "minutes": 0,
-    "seconds": 9,
-    "totalSeconds": 9,
+    "seconds": 8,
+    "totalSeconds": 8,
     "position": 1,
-    "scrapeTime": "2023-01-05T14:32:20.939Z",
+    "scrapeTime": "2023-02-26T18:02:15.463Z",
     "isPending": false
   },
   "mean": {
@@ -6103,7 +6103,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1607,
+  "awardCount": 1609,
   "awards": [
     {
       "title": "Gold",
@@ -6860,7 +6860,8 @@
         "2023-01-05",
         "2023-01-26",
         "2023-02-07",
-        "2023-02-12"
+        "2023-02-12",
+        "2023-02-26"
       ]
     },
     {
@@ -7559,7 +7560,8 @@
         "2023-01-15",
         "2023-01-26",
         "2023-02-02",
-        "2023-02-07"
+        "2023-02-07",
+        "2023-02-26"
       ]
     },
     {
