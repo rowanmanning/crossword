@@ -2,7 +2,8 @@
 	{
 		"name": "apaleslimghost",
 		"scrapeTime": "2023-02-27T07:02:19.167Z",
-		"seconds": 3
+		"seconds": 3,
+		"isGlitch": true
 	},
 	{
 		"name": "itsalex",
