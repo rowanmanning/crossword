@@ -5,12 +5,12 @@
     {
       "person": "ellejay",
       "leaderboard": "2023-02-27",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 58,
+      "totalSeconds": 58,
+      "position": 9,
+      "scrapeTime": "2023-02-27T20:32:24.270Z",
+      "isPending": false
     },
     {
       "person": "ellejay",
@@ -2117,13 +2117,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 43,
-    "totalSeconds": 103,
+    "seconds": 40,
+    "totalSeconds": 100,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 29,
+  "awardCount": 30,
   "awards": [
     {
       "title": "Half Time",
@@ -2170,7 +2170,8 @@
         "2022-12-26",
         "2023-01-03",
         "2023-01-09",
-        "2023-02-26"
+        "2023-02-26",
+        "2023-02-27"
       ]
     },
     {
