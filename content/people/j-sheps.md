@@ -8,7 +8,7 @@
       "minutes": 1,
       "seconds": 3,
       "totalSeconds": 63,
-      "position": 5,
+      "position": 6,
       "scrapeTime": "2023-02-28T07:31:48.148Z",
       "isPending": false
     },
@@ -6203,7 +6203,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1277,
+  "awardCount": 1278,
   "awards": [
     {
       "title": "Gold",
@@ -7539,7 +7539,8 @@
         "2022-12-26",
         "2023-01-13",
         "2023-01-20",
-        "2023-01-29"
+        "2023-01-29",
+        "2023-02-28"
       ]
     },
     {
