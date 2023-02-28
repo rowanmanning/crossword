@@ -6175,12 +6175,12 @@
   ],
   "best": {
     "person": "apaleslimghost",
-    "leaderboard": "2023-02-27",
+    "leaderboard": "2022-06-13",
     "minutes": 0,
-    "seconds": 3,
-    "totalSeconds": 3,
+    "seconds": 10,
+    "totalSeconds": 10,
     "position": 1,
-    "scrapeTime": "2023-02-27T07:02:19.167Z",
+    "scrapeTime": "2022-06-13T06:37:58.555Z",
     "isPending": false
   },
   "mean": {
@@ -6193,7 +6193,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1158,
+  "awardCount": 1159,
   "awards": [
     {
       "title": "Gold",
@@ -7652,6 +7652,14 @@
         "2022-12-15",
         "2022-12-20",
         "2023-02-07"
+      ]
+    },
+    {
+      "title": "Glitch",
+      "type": "glitch",
+      "text": "Get a glitched time (and admit to it!)",
+      "dates": [
+        "2023-02-27"
       ]
     }
   ]
