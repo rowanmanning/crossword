@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "ellejay",
+      "leaderboard": "2023-02-28",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "ellejay",
       "leaderboard": "2023-02-27",
       "minutes": 0,
       "seconds": 58,
@@ -2123,7 +2133,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 30,
+  "awardCount": 31,
   "awards": [
     {
       "title": "Half Time",
@@ -2220,6 +2230,14 @@
       "text": "Get the same time as another person but with flipped seconds",
       "dates": [
         "2023-02-26"
+      ]
+    },
+    {
+      "title": "999",
+      "type": "emergency",
+      "text": "What's your emergency?",
+      "dates": [
+        "2023-02-27"
       ]
     },
     {
