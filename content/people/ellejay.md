@@ -5,12 +5,12 @@
     {
       "person": "ellejay",
       "leaderboard": "2023-03-05",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 42,
+      "totalSeconds": 42,
+      "position": 7,
+      "scrapeTime": "2023-03-05T17:31:47.361Z",
+      "isPending": false
     },
     {
       "person": "ellejay",
@@ -2177,13 +2177,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 40,
-    "totalSeconds": 100,
+    "seconds": 37,
+    "totalSeconds": 97,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 31,
+  "awardCount": 33,
   "awards": [
     {
       "title": "Half Time",
@@ -2239,7 +2239,8 @@
       "type": "sub-45",
       "text": "Complete a puzzle in less than 45 seconds",
       "dates": [
-        "2022-09-23"
+        "2022-09-23",
+        "2023-03-05"
       ]
     },
     {
@@ -2280,6 +2281,14 @@
       "text": "Get the same time as another person but with flipped seconds",
       "dates": [
         "2023-02-26"
+      ]
+    },
+    {
+      "title": "Don't Panic",
+      "type": "dont-panic",
+      "text": "A towel is about the most massively useful thing an interstellar hitchhiker can have",
+      "dates": [
+        "2023-03-05"
       ]
     },
     {
