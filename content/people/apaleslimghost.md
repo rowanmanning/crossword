@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "apaleslimghost",
+      "leaderboard": "2023-03-08",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "apaleslimghost",
       "leaderboard": "2023-03-07",
       "minutes": 0,
       "seconds": 30,
@@ -6263,7 +6273,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1173,
+  "awardCount": 1174,
   "awards": [
     {
       "title": "Gold",
@@ -6305,7 +6315,8 @@
         "2022-12-12",
         "2023-02-08",
         "2023-02-27",
-        "2023-03-01"
+        "2023-03-01",
+        "2023-03-07"
       ]
     },
     {
