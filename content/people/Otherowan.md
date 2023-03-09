@@ -5,12 +5,12 @@
     {
       "person": "Otherowan",
       "leaderboard": "2023-03-09",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 32,
+      "totalSeconds": 32,
+      "position": 3,
+      "scrapeTime": "2023-03-09T18:02:16.892Z",
+      "isPending": false
     },
     {
       "person": "Otherowan",
@@ -4083,7 +4083,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 699,
+  "awardCount": 702,
   "awards": [
     {
       "title": "Gold",
@@ -4262,7 +4262,8 @@
         "2023-02-10",
         "2023-02-12",
         "2023-02-20",
-        "2023-02-27"
+        "2023-02-27",
+        "2023-03-09"
       ]
     },
     {
@@ -4658,7 +4659,8 @@
         "2023-02-22",
         "2023-02-23",
         "2023-03-03",
-        "2023-03-05"
+        "2023-03-05",
+        "2023-03-09"
       ]
     },
     {
@@ -4895,7 +4897,8 @@
       "text": "Get the same time as two other people",
       "dates": [
         "2022-05-04",
-        "2023-02-10"
+        "2023-02-10",
+        "2023-03-09"
       ]
     },
     {

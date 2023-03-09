@@ -7133,7 +7133,14 @@
         "2023-02-05",
         "2023-02-06",
         "2023-02-08",
-        "2023-03-07",
+        "2023-03-07"
+      ]
+    },
+    {
+      "title": "Tripleting",
+      "type": "tripleting",
+      "text": "Get the same time as two other people",
+      "dates": [
         "2023-03-09"
       ]
     },
