@@ -5,12 +5,12 @@
     {
       "person": "ellejay",
       "leaderboard": "2023-03-11",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 3,
+      "seconds": 33,
+      "totalSeconds": 213,
+      "position": 5,
+      "scrapeTime": "2023-03-11T09:02:04.419Z",
+      "isPending": false
     },
     {
       "person": "ellejay",
@@ -2237,8 +2237,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 42,
-    "totalSeconds": 102,
+    "seconds": 48,
+    "totalSeconds": 108,
     "position": null,
     "scrapeTime": null,
     "isPending": false
