@@ -5,12 +5,12 @@
     {
       "person": "alexmuller",
       "leaderboard": "2023-03-11",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 11,
+      "seconds": 4,
+      "totalSeconds": 664,
+      "position": 7,
+      "scrapeTime": "2023-03-11T16:02:05.447Z",
+      "isPending": false
     },
     {
       "person": "alexmuller",
@@ -2077,13 +2077,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 3,
-    "totalSeconds": 63,
+    "seconds": 6,
+    "totalSeconds": 66,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 430,
+  "awardCount": 432,
   "awards": [
     {
       "title": "Gold",
@@ -2287,7 +2287,8 @@
         "2023-02-15",
         "2023-02-17",
         "2023-02-25",
-        "2023-03-04"
+        "2023-03-04",
+        "2023-03-11"
       ]
     },
     {
@@ -2501,6 +2502,14 @@
         "2022-10-13",
         "2022-11-18",
         "2023-01-26"
+      ]
+    },
+    {
+      "title": "Over Ten Minutes",
+      "type": "over-600",
+      "text": "Complete a puzzle in more than 10 minutes",
+      "dates": [
+        "2023-03-11"
       ]
     },
     {
