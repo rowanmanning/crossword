@@ -5,12 +5,12 @@
     {
       "person": "leaf",
       "leaderboard": "2023-03-13",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 15,
+      "totalSeconds": 15,
+      "position": 1,
+      "scrapeTime": "2023-03-13T15:02:19.930Z",
+      "isPending": false
     },
     {
       "person": "leaf",
@@ -6315,25 +6315,25 @@
   ],
   "best": {
     "person": "leaf",
-    "leaderboard": "2021-11-07",
+    "leaderboard": "2023-03-13",
     "minutes": 0,
-    "seconds": 16,
-    "totalSeconds": 16,
+    "seconds": 15,
+    "totalSeconds": 15,
     "position": 1,
-    "scrapeTime": null,
+    "scrapeTime": "2023-03-13T15:02:19.930Z",
     "isPending": false
   },
   "mean": {
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 30,
-    "totalSeconds": 90,
+    "seconds": 29,
+    "totalSeconds": 89,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 311,
+  "awardCount": 314,
   "awards": [
     {
       "title": "Gold",
@@ -6467,7 +6467,8 @@
         "2021-11-30",
         "2021-12-15",
         "2022-01-06",
-        "2022-06-09"
+        "2022-06-09",
+        "2023-03-13"
       ]
     },
     {
@@ -6684,7 +6685,8 @@
       "dates": [
         "2021-09-08",
         "2021-10-06",
-        "2021-11-07"
+        "2021-11-07",
+        "2023-03-13"
       ]
     },
     {
@@ -6756,7 +6758,8 @@
       "dates": [
         "2021-12-26",
         "2022-01-19",
-        "2022-06-09"
+        "2022-06-09",
+        "2023-03-13"
       ]
     },
     {
