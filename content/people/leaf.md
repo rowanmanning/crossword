@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "leaf",
+      "leaderboard": "2023-03-14",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "leaf",
       "leaderboard": "2023-03-13",
       "minutes": 0,
       "seconds": 15,
@@ -6333,7 +6343,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 314,
+  "awardCount": 316,
   "awards": [
     {
       "title": "Gold",
@@ -6347,7 +6357,8 @@
         "2021-10-20",
         "2021-10-26",
         "2021-11-07",
-        "2021-11-16"
+        "2021-11-16",
+        "2023-03-13"
       ]
     },
     {
@@ -6892,6 +6903,14 @@
       "text": "Complete a puzzle before anyone else (or within 30 minutes of the first person)",
       "dates": [
         "2021-12-06"
+      ]
+    },
+    {
+      "title": "Slow and Steady",
+      "type": "slow-and-steady",
+      "text": "Complete a puzzle after everyone else but with the fastest time",
+      "dates": [
+        "2023-03-13"
       ]
     }
   ]
