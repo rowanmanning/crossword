@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Emma L",
+      "leaderboard": "2023-03-20",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Emma L",
       "leaderboard": "2023-03-19",
       "minutes": 0,
       "seconds": 20,
@@ -6043,7 +6053,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1503,
+  "awardCount": 1505,
   "awards": [
     {
       "title": "Gold",
@@ -6166,7 +6176,8 @@
         "2023-03-09",
         "2023-03-12",
         "2023-03-15",
-        "2023-03-16"
+        "2023-03-16",
+        "2023-03-19"
       ]
     },
     {
@@ -6582,7 +6593,8 @@
       "type": "podium-climbing",
       "text": "Unlock third, second, then first place awards in order",
       "dates": [
-        "2022-10-12"
+        "2022-10-12",
+        "2023-03-19"
       ]
     },
     {
