@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "cb",
+      "leaderboard": "2023-03-24",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "cb",
       "leaderboard": "2023-03-23",
       "minutes": 0,
       "seconds": 39,
@@ -6353,7 +6363,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1668,
+  "awardCount": 1669,
   "awards": [
     {
       "title": "Gold",
@@ -8306,7 +8316,8 @@
       "type": "emergency",
       "text": "What's your emergency?",
       "dates": [
-        "2021-09-21"
+        "2021-09-21",
+        "2023-03-23"
       ]
     },
     {
