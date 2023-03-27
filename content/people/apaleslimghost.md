@@ -5,12 +5,12 @@
     {
       "person": "apaleslimghost",
       "leaderboard": "2023-03-27",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 35,
+      "totalSeconds": 35,
+      "position": 3,
+      "scrapeTime": "2023-03-27T07:02:25.811Z",
+      "isPending": false
     },
     {
       "person": "apaleslimghost",
@@ -6463,7 +6463,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1191,
+  "awardCount": 1193,
   "awards": [
     {
       "title": "Gold",
@@ -7408,7 +7408,8 @@
         "2023-02-17",
         "2023-03-03",
         "2023-03-07",
-        "2023-03-09"
+        "2023-03-09",
+        "2023-03-27"
       ]
     },
     {
@@ -7699,7 +7700,8 @@
       "text": "Come back to the crossword after a week off",
       "dates": [
         "2021-08-13",
-        "2022-08-31"
+        "2022-08-31",
+        "2023-03-27"
       ]
     },
     {
