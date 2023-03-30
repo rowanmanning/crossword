@@ -196,13 +196,13 @@ module.exports = class Person {
 		if (seconds.length % 2) {
 			this.memo.median = new Time({
 				seconds: seconds[Math.floor(seconds.length / 2)]
-			})
+			});
 
 			return this.memo.median;
 		}
 
 		this.memo.median = new Time({
-			seconds: (seconds[seconds.length / 2 - 1] + seconds[seconds.length / 2]) / 2
+			seconds: (seconds[(seconds.length / 2) - 1] + seconds[seconds.length / 2]) / 2
 		});
 		return this.memo.median;
 	}
