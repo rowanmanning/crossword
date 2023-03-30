@@ -9,7 +9,7 @@
 				Their best ever time is {{ partial "time.html" . }}
 				on <a href="/leaderboards/{{ .leaderboard | urlize }}/#person-{{ $.Title | urlize }}">{{ dateFormat "Jan 2 2006" .leaderboard }}</a>.
 			{{ end }}
-			{{ with .Params.mean }}
+			{{ with .Params.median }}
 				Their average time is {{ partial "time.html" . }}.
 			{{ end }}
 		</p>

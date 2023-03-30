@@ -167,6 +167,7 @@ module.exports = class Person {
 		const seconds = this.timesExcludingGlitched
 			.filter(time => time < Infinity)
 			.map(time => time.totalSeconds);
+
 		if (!seconds.length) {
 			this.memo.mean = new Time();
 			return this.memo.mean;
@@ -175,6 +176,35 @@ module.exports = class Person {
 			seconds: Math.ceil(seconds.reduce((numA, numB) => numA + numB, 0) / seconds.length)
 		});
 		return this.memo.mean;
+	}
+
+	get median() {
+		if (this.memo.median) {
+			return this.memo.median;
+		}
+
+		const seconds = this.timesExcludingGlitched
+			.filter(time => time < Infinity)
+			.map(time => time.totalSeconds);
+
+
+		if (!seconds.length) {
+			this.memo.median = new Time();
+			return this.memo.median;
+		}
+
+		if (seconds.length % 2) {
+			this.memo.median = new Time({
+				seconds: seconds[Math.floor(seconds.length / 2)]
+			})
+
+			return this.memo.median;
+		}
+
+		this.memo.median = new Time({
+			seconds: (seconds[seconds.length / 2 - 1] + seconds[seconds.length / 2]) / 2
+		});
+		return this.memo.median;
 	}
 
 	get awards() {
