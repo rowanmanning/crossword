@@ -228,6 +228,7 @@ module.exports = class Person {
 			times: this.times,
 			best: this.best,
 			mean: this.mean,
+			median: this.median,
 			awardCount: this.awards.reduce((total, {dates}) => total + dates.length, 0),
 			awards: this.awards
 		};
