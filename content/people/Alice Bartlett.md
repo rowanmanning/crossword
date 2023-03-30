@@ -5106,9 +5106,9 @@
   "median": {
     "person": null,
     "leaderboard": null,
-    "minutes": 2,
-    "seconds": 14.5,
-    "totalSeconds": 134.5,
+    "minutes": 0,
+    "seconds": 55.5,
+    "totalSeconds": 55.5,
     "position": null,
     "scrapeTime": null,
     "isPending": false

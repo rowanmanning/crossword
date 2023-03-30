@@ -6157,8 +6157,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 26.5,
-    "totalSeconds": 26.5,
+    "seconds": 37,
+    "totalSeconds": 37,
     "position": null,
     "scrapeTime": null,
     "isPending": false
