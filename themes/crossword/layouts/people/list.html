@@ -19,7 +19,7 @@
 						{{ with .Params.best }}
 							<li>Best {{ partial "time.html" . }}</li>
 						{{ end }}
-						{{ with .Params.mean }}
+						{{ with .Params.median }}
 							<li>Average {{ partial "time.html" . }}</li>
 						{{ end }}
 					</ul>
