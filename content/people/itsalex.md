@@ -6473,6 +6473,16 @@
     "scrapeTime": null,
     "isPending": false
   },
+  "median": {
+    "person": null,
+    "leaderboard": null,
+    "minutes": 0,
+    "seconds": 14,
+    "totalSeconds": 14,
+    "position": null,
+    "scrapeTime": null,
+    "isPending": false
+  },
   "awardCount": 1224,
   "awards": [
     {
