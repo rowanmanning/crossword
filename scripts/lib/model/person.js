@@ -186,7 +186,7 @@ module.exports = class Person {
 		const seconds = this.timesExcludingGlitched
 			.filter(time => time < Infinity)
 			.map(time => time.totalSeconds);
-
+		seconds.sort();
 
 		if (!seconds.length) {
 			this.memo.median = new Time();
