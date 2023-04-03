@@ -5,12 +5,12 @@
     {
       "person": "ellejay",
       "leaderboard": "2023-04-03",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 50,
+      "totalSeconds": 50,
+      "position": 6,
+      "scrapeTime": "2023-04-03T06:32:42.465Z",
+      "isPending": false
     },
     {
       "person": "ellejay",
@@ -2467,8 +2467,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 48,
-    "totalSeconds": 108,
+    "seconds": 45,
+    "totalSeconds": 105,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -2477,13 +2477,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 45,
-    "totalSeconds": 45,
+    "seconds": 48,
+    "totalSeconds": 48,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 34,
+  "awardCount": 37,
   "awards": [
     {
       "title": "Half Time",
@@ -2499,7 +2499,8 @@
       "text": "Quarter your completion time from one day to the next",
       "dates": [
         "2022-08-29",
-        "2022-12-26"
+        "2022-12-26",
+        "2023-04-03"
       ]
     },
     {
@@ -2532,7 +2533,8 @@
         "2023-01-03",
         "2023-01-09",
         "2023-02-26",
-        "2023-02-27"
+        "2023-02-27",
+        "2023-04-03"
       ]
     },
     {
@@ -2564,7 +2566,8 @@
         "2022-12-09",
         "2022-12-26",
         "2023-01-03",
-        "2023-02-26"
+        "2023-02-26",
+        "2023-04-03"
       ]
     },
     {
