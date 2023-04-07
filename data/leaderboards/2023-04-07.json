@@ -1,5 +1,10 @@
 [
 	{
+		"name": "cb",
+		"scrapeTime": "2023-04-07T15:02:07.241Z",
+		"seconds": 39
+	},
+	{
 		"name": "Emma L",
 		"scrapeTime": "2023-04-07T07:02:06.707Z",
 		"seconds": 39
@@ -46,11 +51,6 @@
 	},
 	{
 		"name": "arjun137",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
-		"name": "cb",
 		"scrapeTime": null,
 		"seconds": null
 	},
