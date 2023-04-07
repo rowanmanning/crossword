@@ -5,12 +5,12 @@
     {
       "person": "Lily2point0",
       "leaderboard": "2023-04-07",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 5,
+      "seconds": 35,
+      "totalSeconds": 335,
+      "position": 2,
+      "scrapeTime": "2023-04-07T06:02:29.266Z",
+      "isPending": false
     },
     {
       "person": "Lily2point0",
@@ -6593,7 +6593,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1178,
+  "awardCount": 1180,
   "awards": [
     {
       "title": "Gold",
@@ -6992,7 +6992,8 @@
         "2023-03-10",
         "2023-03-11",
         "2023-03-13",
-        "2023-03-21"
+        "2023-03-21",
+        "2023-04-07"
       ]
     },
     {
@@ -7535,7 +7536,8 @@
       "type": "over-300",
       "text": "Complete a puzzle in more than 5 minutes",
       "dates": [
-        "2022-01-08"
+        "2022-01-08",
+        "2023-04-07"
       ]
     },
     {
