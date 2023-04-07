@@ -5,12 +5,12 @@
     {
       "person": "Otherowan",
       "leaderboard": "2023-04-07",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 0,
+      "totalSeconds": 60,
+      "position": 4,
+      "scrapeTime": "2023-04-07T21:31:45.493Z",
+      "isPending": false
     },
     {
       "person": "Otherowan",
@@ -4383,7 +4383,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 747,
+  "awardCount": 749,
   "awards": [
     {
       "title": "Gold",
@@ -4804,7 +4804,8 @@
         "2023-03-21",
         "2023-03-22",
         "2023-03-27",
-        "2023-04-02"
+        "2023-04-02",
+        "2023-04-07"
       ]
     },
     {
@@ -5324,6 +5325,14 @@
       "text": "Now this won't hurt a bit…",
       "dates": [
         "2022-03-05"
+      ]
+    },
+    {
+      "title": "1 Friday Street",
+      "type": "friday-street",
+      "text": "Get a time of exactly 1:00 on a Friday",
+      "dates": [
+        "2023-04-07"
       ]
     },
     {
