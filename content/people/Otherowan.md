@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Otherowan",
+      "leaderboard": "2023-04-11",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Otherowan",
       "leaderboard": "2023-04-10",
       "minutes": 0,
       "seconds": 25,
@@ -4413,7 +4423,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 752,
+  "awardCount": 753,
   "awards": [
     {
       "title": "Gold",
@@ -4480,7 +4490,8 @@
         "2023-03-07",
         "2023-03-09",
         "2023-03-23",
-        "2023-04-03"
+        "2023-04-03",
+        "2023-04-10"
       ]
     },
     {
