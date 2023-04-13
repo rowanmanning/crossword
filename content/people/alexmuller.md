@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "alexmuller",
+      "leaderboard": "2023-04-13",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "alexmuller",
       "leaderboard": "2023-04-12",
       "minutes": 0,
       "seconds": 34,
@@ -2413,7 +2423,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 501,
+  "awardCount": 503,
   "awards": [
     {
       "title": "Gold",
@@ -2426,7 +2436,8 @@
         "2022-11-18",
         "2022-12-07",
         "2022-12-22",
-        "2023-04-07"
+        "2023-04-07",
+        "2023-04-12"
       ]
     },
     {
@@ -3044,7 +3055,8 @@
       "text": "Get the twinning award and the fastest time for a day",
       "dates": [
         "2022-09-05",
-        "2022-12-22"
+        "2022-12-22",
+        "2023-04-12"
       ]
     },
     {
