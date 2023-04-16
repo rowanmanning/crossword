@@ -123,6 +123,15 @@
       ]
     },
     {
+      "person": "Otherowan",
+      "count": 3,
+      "dates": [
+        "2022-08-05",
+        "2023-02-01",
+        "2023-04-16"
+      ]
+    },
+    {
       "person": "alexmuller",
       "count": 3,
       "dates": [
@@ -140,14 +149,6 @@
       ]
     },
     {
-      "person": "Otherowan",
-      "count": 2,
-      "dates": [
-        "2022-08-05",
-        "2023-02-01"
-      ]
-    },
-    {
       "person": "Emma L",
       "count": 1,
       "dates": [
@@ -162,5 +163,5 @@
       ]
     }
   ],
-  "totalUnlocks": 67
+  "totalUnlocks": 68
 }

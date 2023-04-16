@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Otherowan",
+      "leaderboard": "2023-04-17",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Otherowan",
       "leaderboard": "2023-04-16",
       "minutes": 0,
       "seconds": 44,
@@ -4473,7 +4483,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 764,
+  "awardCount": 765,
   "awards": [
     {
       "title": "Gold",
@@ -4603,7 +4613,8 @@
       "text": "Get the same position three days in a row",
       "dates": [
         "2022-08-05",
-        "2023-02-01"
+        "2023-02-01",
+        "2023-04-16"
       ]
     },
     {
