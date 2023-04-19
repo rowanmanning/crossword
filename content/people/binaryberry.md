@@ -5,12 +5,12 @@
     {
       "person": "binaryberry",
       "leaderboard": "2023-04-19",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 8,
+      "totalSeconds": 68,
+      "position": 4,
+      "scrapeTime": "2023-04-19T10:32:08.442Z",
+      "isPending": false
     },
     {
       "person": "binaryberry",
@@ -6706,14 +6706,14 @@
   "median": {
     "person": null,
     "leaderboard": null,
-    "minutes": 2,
-    "seconds": 51,
-    "totalSeconds": 171,
+    "minutes": 5,
+    "seconds": 11,
+    "totalSeconds": 311,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1061,
+  "awardCount": 1063,
   "awards": [
     {
       "title": "Silver",
@@ -7303,7 +7303,8 @@
         "2023-04-10",
         "2023-04-12",
         "2023-04-13",
-        "2023-04-14"
+        "2023-04-14",
+        "2023-04-19"
       ]
     },
     {
@@ -7561,7 +7562,8 @@
       "text": "Play for a full month (30 days) without breaks",
       "dates": [
         "2021-12-11",
-        "2022-12-25"
+        "2022-12-25",
+        "2023-04-19"
       ]
     },
     {

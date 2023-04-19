@@ -63,6 +63,15 @@
       ]
     },
     {
+      "person": "binaryberry",
+      "count": 3,
+      "dates": [
+        "2021-12-11",
+        "2022-12-25",
+        "2023-04-19"
+      ]
+    },
+    {
       "person": "apaleslimghost",
       "count": 3,
       "dates": [
@@ -104,14 +113,6 @@
       ]
     },
     {
-      "person": "binaryberry",
-      "count": 2,
-      "dates": [
-        "2021-12-11",
-        "2022-12-25"
-      ]
-    },
-    {
       "person": "varjmes",
       "count": 1,
       "dates": [
@@ -147,5 +148,5 @@
       ]
     }
   ],
-  "totalUnlocks": 46
+  "totalUnlocks": 47
 }
