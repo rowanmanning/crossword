@@ -5,12 +5,12 @@
     {
       "person": "ivo",
       "leaderboard": "2023-04-22",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 49,
+      "totalSeconds": 49,
+      "position": 3,
+      "scrapeTime": "2023-04-22T09:31:38.096Z",
+      "isPending": false
     },
     {
       "person": "ivo",
@@ -5886,14 +5886,14 @@
   "median": {
     "person": null,
     "leaderboard": null,
-    "minutes": 0,
-    "seconds": 38,
-    "totalSeconds": 38,
+    "minutes": 3,
+    "seconds": 32.5,
+    "totalSeconds": 212.5,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1082,
+  "awardCount": 1084,
   "awards": [
     {
       "title": "Gold",
@@ -6643,7 +6643,8 @@
         "2023-04-16",
         "2023-04-18",
         "2023-04-19",
-        "2023-04-21"
+        "2023-04-21",
+        "2023-04-22"
       ]
     },
     {
@@ -6892,7 +6893,8 @@
         "2022-04-23",
         "2022-05-21",
         "2022-09-03",
-        "2023-01-14"
+        "2023-01-14",
+        "2023-04-22"
       ]
     },
     {
