@@ -5,12 +5,12 @@
     {
       "person": "leaf",
       "leaderboard": "2023-05-07",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 53,
+      "totalSeconds": 53,
+      "position": 6,
+      "scrapeTime": "2023-05-07T15:02:14.755Z",
+      "isPending": false
     },
     {
       "person": "leaf",
@@ -6887,13 +6887,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 50,
-    "totalSeconds": 50,
+    "seconds": 50.5,
+    "totalSeconds": 50.5,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 327,
+  "awardCount": 330,
   "awards": [
     {
       "title": "Gold",
@@ -7031,7 +7031,8 @@
         "2021-12-15",
         "2022-01-06",
         "2022-06-09",
-        "2023-03-13"
+        "2023-03-13",
+        "2023-05-07"
       ]
     },
     {
@@ -7206,7 +7207,8 @@
         "2022-01-06",
         "2022-01-11",
         "2023-04-07",
-        "2023-04-17"
+        "2023-04-17",
+        "2023-05-07"
       ]
     },
     {
@@ -7384,6 +7386,7 @@
       "type": "yin-and-yang",
       "text": "Get the same time as another person but with flipped seconds",
       "dates": [
+        "2023-05-07",
         "2023-04-17",
         "2021-11-16",
         "2021-11-08",
