@@ -5,12 +5,12 @@
     {
       "person": "Otherowan",
       "leaderboard": "2023-05-10",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 34,
+      "totalSeconds": 34,
+      "position": 4,
+      "scrapeTime": "2023-05-10T15:02:00.551Z",
+      "isPending": false
     },
     {
       "person": "Otherowan",
@@ -4713,7 +4713,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 796,
+  "awardCount": 799,
   "awards": [
     {
       "title": "Gold",
@@ -5357,7 +5357,8 @@
         "2023-04-16",
         "2023-04-18",
         "2023-04-26",
-        "2023-05-04"
+        "2023-05-04",
+        "2023-05-10"
       ]
     },
     {
@@ -5445,6 +5446,7 @@
       "type": "chain-3",
       "text": "Participate in a chain of three sequential times",
       "dates": [
+        "2023-05-10",
         "2023-01-22",
         "2022-12-02",
         "2022-11-30",
@@ -5526,7 +5528,8 @@
         "2023-03-28",
         "2023-04-04",
         "2023-04-12",
-        "2023-05-05"
+        "2023-05-05",
+        "2023-05-10"
       ]
     },
     {
