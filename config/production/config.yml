@@ -8,4 +8,4 @@ baseURL: https://crossword.rowanmanning.com/
 params:
   analytics:
     fathomSiteId: "NZWPDGTE"
-    fathomSiteHostname: "falcon.rowanmanning.com"
+    fathomSiteHostname: "cdn.usefathom.com"
