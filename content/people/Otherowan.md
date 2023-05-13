@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Otherowan",
+      "leaderboard": "2023-05-13",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Otherowan",
       "leaderboard": "2023-05-12",
       "minutes": 0,
       "seconds": 18,
@@ -4733,7 +4743,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 802,
+  "awardCount": 804,
   "awards": [
     {
       "title": "Gold",
@@ -4749,7 +4759,8 @@
         "2022-10-13",
         "2023-02-08",
         "2023-02-10",
-        "2023-04-04"
+        "2023-04-04",
+        "2023-05-12"
       ]
     },
     {
@@ -5807,7 +5818,8 @@
       "text": "Complete a puzzle after everyone else but with the fastest time",
       "dates": [
         "2022-10-13",
-        "2023-02-08"
+        "2023-02-08",
+        "2023-05-12"
       ]
     }
   ]
