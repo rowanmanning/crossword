@@ -5,12 +5,12 @@
     {
       "person": "binaryberry",
       "leaderboard": "2023-05-14",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 1,
+      "totalSeconds": 61,
+      "position": 5,
+      "scrapeTime": "2023-05-14T17:01:57.476Z",
+      "isPending": false
     },
     {
       "person": "binaryberry",
@@ -6956,14 +6956,14 @@
   "median": {
     "person": null,
     "leaderboard": null,
-    "minutes": 0,
-    "seconds": 31,
-    "totalSeconds": 31,
+    "minutes": 2,
+    "seconds": 51,
+    "totalSeconds": 171,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1099,
+  "awardCount": 1102,
   "awards": [
     {
       "title": "Silver",
@@ -7162,7 +7162,8 @@
         "2023-04-03",
         "2023-04-23",
         "2023-04-30",
-        "2023-05-03"
+        "2023-05-03",
+        "2023-05-14"
       ]
     },
     {
@@ -7570,7 +7571,8 @@
         "2023-05-06",
         "2023-05-08",
         "2023-05-09",
-        "2023-05-10"
+        "2023-05-10",
+        "2023-05-14"
       ]
     },
     {
@@ -7895,6 +7897,7 @@
       "type": "yin-and-yang",
       "text": "Get the same time as another person but with flipped seconds",
       "dates": [
+        "2023-05-14",
         "2023-05-06",
         "2023-02-09",
         "2023-01-12",
