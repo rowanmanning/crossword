@@ -5,12 +5,12 @@
     {
       "person": "ivo",
       "leaderboard": "2023-05-17",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 30,
+      "totalSeconds": 150,
+      "position": 8,
+      "scrapeTime": "2023-05-17T09:31:41.150Z",
+      "isPending": false
     },
     {
       "person": "ivo",
@@ -6136,14 +6136,14 @@
   "median": {
     "person": null,
     "leaderboard": null,
-    "minutes": 6,
-    "seconds": 27,
-    "totalSeconds": 387,
+    "minutes": 3,
+    "seconds": 32.5,
+    "totalSeconds": 212.5,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1133,
+  "awardCount": 1135,
   "awards": [
     {
       "title": "Gold",
@@ -6646,7 +6646,8 @@
         "2023-04-08",
         "2023-04-11",
         "2023-04-28",
-        "2023-05-08"
+        "2023-05-08",
+        "2023-05-17"
       ]
     },
     {
@@ -7505,6 +7506,14 @@
         "2022-10-04",
         "2022-10-20",
         "2023-05-07"
+      ]
+    },
+    {
+      "title": "Dentist",
+      "type": "dentist",
+      "text": "Now this won't hurt a bit…",
+      "dates": [
+        "2023-05-17"
       ]
     },
     {
