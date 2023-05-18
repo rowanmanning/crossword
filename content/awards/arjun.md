@@ -109,6 +109,14 @@
       ]
     },
     {
+      "person": "j-sheps",
+      "count": 2,
+      "dates": [
+        "2023-02-19",
+        "2023-05-18"
+      ]
+    },
+    {
       "person": "joelcarr",
       "count": 1,
       "dates": [
@@ -128,14 +136,7 @@
       "dates": [
         "2022-01-16"
       ]
-    },
-    {
-      "person": "j-sheps",
-      "count": 1,
-      "dates": [
-        "2023-02-19"
-      ]
     }
   ],
-  "totalUnlocks": 48
+  "totalUnlocks": 49
 }
