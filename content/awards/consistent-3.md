@@ -97,6 +97,16 @@
       ]
     },
     {
+      "person": "alexmuller",
+      "count": 4,
+      "dates": [
+        "2022-11-28",
+        "2022-12-16",
+        "2023-04-15",
+        "2023-05-18"
+      ]
+    },
+    {
       "person": "varjmes",
       "count": 3,
       "dates": [
@@ -133,15 +143,6 @@
       ]
     },
     {
-      "person": "alexmuller",
-      "count": 3,
-      "dates": [
-        "2022-11-28",
-        "2022-12-16",
-        "2023-04-15"
-      ]
-    },
-    {
       "person": "leaf",
       "count": 2,
       "dates": [
@@ -164,5 +165,5 @@
       ]
     }
   ],
-  "totalUnlocks": 69
+  "totalUnlocks": 70
 }
