@@ -5,12 +5,12 @@
     {
       "person": "alexmuller",
       "leaderboard": "2023-05-21",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 30,
+      "totalSeconds": 30,
+      "position": 2,
+      "scrapeTime": "2023-05-21T02:40:39.326Z",
+      "isPending": false
     },
     {
       "person": "alexmuller",
@@ -2797,13 +2797,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 41,
-    "totalSeconds": 41,
+    "seconds": 40.5,
+    "totalSeconds": 40.5,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 581,
+  "awardCount": 583,
   "awards": [
     {
       "title": "Gold",
@@ -2987,7 +2987,8 @@
         "2023-03-23",
         "2023-04-12",
         "2023-05-07",
-        "2023-05-18"
+        "2023-05-18",
+        "2023-05-21"
       ]
     },
     {
@@ -3278,7 +3279,8 @@
         "2023-05-09",
         "2023-05-14",
         "2023-05-16",
-        "2023-05-18"
+        "2023-05-18",
+        "2023-05-21"
       ]
     },
     {
