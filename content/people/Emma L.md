@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Emma L",
+      "leaderboard": "2023-05-22",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Emma L",
       "leaderboard": "2023-05-21",
       "minutes": 0,
       "seconds": 31,
@@ -6683,7 +6693,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1684,
+  "awardCount": 1686,
   "awards": [
     {
       "title": "Gold",
@@ -7195,7 +7205,8 @@
         "2023-05-12",
         "2023-05-15",
         "2023-05-19",
-        "2023-05-20"
+        "2023-05-20",
+        "2023-05-21"
       ]
     },
     {
@@ -7218,6 +7229,14 @@
         "2023-02-04",
         "2023-04-20",
         "2023-05-20"
+      ]
+    },
+    {
+      "title": "Triple Bronze",
+      "type": "triple-bronze",
+      "text": "Get the third fastest time three days in a row",
+      "dates": [
+        "2023-05-21"
       ]
     },
     {
