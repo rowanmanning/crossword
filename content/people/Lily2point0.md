@@ -5,12 +5,12 @@
     {
       "person": "Lily2point0",
       "leaderboard": "2023-05-23",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 51,
+      "totalSeconds": 111,
+      "position": 3,
+      "scrapeTime": "2023-05-23T06:02:16.460Z",
+      "isPending": false
     },
     {
       "person": "Lily2point0",
@@ -7047,13 +7047,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 48,
-    "totalSeconds": 48,
+    "seconds": 47.5,
+    "totalSeconds": 47.5,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1256,
+  "awardCount": 1258,
   "awards": [
     {
       "title": "Gold",
@@ -7817,7 +7817,8 @@
         "2023-05-14",
         "2023-05-18",
         "2023-05-21",
-        "2023-05-22"
+        "2023-05-22",
+        "2023-05-23"
       ]
     },
     {
@@ -8122,7 +8123,8 @@
       "text": "Play for three days in a row",
       "dates": [
         "2021-06-23",
-        "2022-12-10"
+        "2022-12-10",
+        "2023-05-23"
       ]
     },
     {
