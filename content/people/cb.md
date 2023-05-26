@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "cb",
+      "leaderboard": "2023-05-26",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "cb",
       "leaderboard": "2023-05-25",
       "minutes": 0,
       "seconds": 29,
@@ -6993,7 +7003,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1804,
+  "awardCount": 1807,
   "awards": [
     {
       "title": "Gold",
@@ -7188,7 +7198,8 @@
         "2023-05-14",
         "2023-05-22",
         "2023-05-23",
-        "2023-05-24"
+        "2023-05-24",
+        "2023-05-25"
       ]
     },
     {
@@ -7258,7 +7269,8 @@
       "text": "Get the fastest time four days in a row",
       "dates": [
         "2021-11-03",
-        "2022-07-17"
+        "2022-07-17",
+        "2023-05-25"
       ]
     },
     {
@@ -9118,7 +9130,8 @@
         "2023-04-06",
         "2023-05-03",
         "2023-05-04",
-        "2023-05-23"
+        "2023-05-23",
+        "2023-05-25"
       ]
     }
   ]
