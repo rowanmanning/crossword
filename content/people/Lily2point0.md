@@ -5,12 +5,12 @@
     {
       "person": "Lily2point0",
       "leaderboard": "2023-05-27",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 3,
+      "seconds": 59,
+      "totalSeconds": 239,
+      "position": 4,
+      "scrapeTime": "2023-05-27T06:31:49.676Z",
+      "isPending": false
     },
     {
       "person": "Lily2point0",
@@ -7087,13 +7087,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 48,
-    "totalSeconds": 48,
+    "seconds": 47.5,
+    "totalSeconds": 47.5,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1263,
+  "awardCount": 1265,
   "awards": [
     {
       "title": "Gold",
@@ -7514,7 +7514,8 @@
         "2023-04-24",
         "2023-05-02",
         "2023-05-04",
-        "2023-05-17"
+        "2023-05-17",
+        "2023-05-27"
       ]
     },
     {
@@ -8177,7 +8178,8 @@
       "text": "Play for a full week without breaks",
       "dates": [
         "2021-06-27",
-        "2022-12-14"
+        "2022-12-14",
+        "2023-05-27"
       ]
     },
     {

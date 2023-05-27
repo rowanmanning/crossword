@@ -258,20 +258,21 @@
       ]
     },
     {
+      "person": "Lily2point0",
+      "count": 3,
+      "dates": [
+        "2021-06-27",
+        "2022-12-14",
+        "2023-05-27"
+      ]
+    },
+    {
       "person": "Nick Ramsbottom",
       "count": 3,
       "dates": [
         "2021-08-26",
         "2021-09-25",
         "2021-11-20"
-      ]
-    },
-    {
-      "person": "Lily2point0",
-      "count": 2,
-      "dates": [
-        "2021-06-27",
-        "2022-12-14"
       ]
     },
     {
@@ -290,5 +291,5 @@
       ]
     }
   ],
-  "totalUnlocks": 183
+  "totalUnlocks": 184
 }
