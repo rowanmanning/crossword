@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Emma L",
+      "leaderboard": "2023-05-31",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Emma L",
       "leaderboard": "2023-05-30",
       "minutes": 0,
       "seconds": 32,
@@ -6773,7 +6783,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1703,
+  "awardCount": 1706,
   "awards": [
     {
       "title": "Gold",
@@ -6918,7 +6928,8 @@
         "2023-05-08",
         "2023-05-11",
         "2023-05-13",
-        "2023-05-14"
+        "2023-05-14",
+        "2023-05-30"
       ]
     },
     {
@@ -7389,7 +7400,8 @@
         "2023-04-29",
         "2023-05-03",
         "2023-05-10",
-        "2023-05-16"
+        "2023-05-16",
+        "2023-05-30"
       ]
     },
     {
@@ -7398,7 +7410,8 @@
       "text": "Unlock third, second, then first place awards in order",
       "dates": [
         "2022-10-12",
-        "2023-03-19"
+        "2023-03-19",
+        "2023-05-30"
       ]
     },
     {
