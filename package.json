@@ -20,7 +20,7 @@
     "npm": "8.x"
   },
   "dependencies": {
-    "dotenv": "^16.0.3",
+    "dotenv": "^16.1.1",
     "got": "^11.8.6",
     "hotkeys-js": "^3.10.2",
     "jsdom": "^22.0.0"
