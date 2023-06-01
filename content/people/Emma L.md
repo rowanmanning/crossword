@@ -6793,7 +6793,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1710,
+  "awardCount": 1711,
   "awards": [
     {
       "title": "Gold",
@@ -8644,6 +8644,7 @@
       "type": "yin-and-yang",
       "text": "Get the same time as another person but with flipped seconds",
       "dates": [
+        "2023-06-01",
         "2023-04-22",
         "2023-01-13",
         "2023-01-12",
