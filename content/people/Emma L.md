@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Emma L",
+      "leaderboard": "2023-06-01",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Emma L",
       "leaderboard": "2023-05-31",
       "minutes": 0,
       "seconds": 40,
@@ -6783,7 +6793,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1708,
+  "awardCount": 1709,
   "awards": [
     {
       "title": "Gold",
@@ -7303,7 +7313,8 @@
         "2023-05-20",
         "2023-05-21",
         "2023-05-25",
-        "2023-05-28"
+        "2023-05-28",
+        "2023-05-31"
       ]
     },
     {
