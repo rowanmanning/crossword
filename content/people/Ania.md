@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Ania",
+      "leaderboard": "2023-06-02",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Ania",
       "leaderboard": "2023-06-01",
       "minutes": 0,
       "seconds": 58,
@@ -7143,7 +7153,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1081,
+  "awardCount": 1082,
   "awards": [
     {
       "title": "Gold",
@@ -7324,7 +7334,8 @@
         "2023-01-24",
         "2023-02-24",
         "2023-04-04",
-        "2023-05-25"
+        "2023-05-25",
+        "2023-06-01"
       ]
     },
     {
