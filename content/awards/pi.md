@@ -30,11 +30,12 @@
     },
     {
       "person": "Otherowan",
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2022-03-08"
+        "2022-03-08",
+        "2023-06-04"
       ]
     }
   ],
-  "totalUnlocks": 7
+  "totalUnlocks": 8
 }
