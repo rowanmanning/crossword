@@ -15,18 +15,19 @@
       ]
     },
     {
+      "person": "j-sheps",
+      "count": 2,
+      "dates": [
+        "2021-07-23",
+        "2023-06-04"
+      ]
+    },
+    {
       "person": "itsalex",
       "count": 2,
       "dates": [
         "2021-09-30",
         "2022-07-19"
-      ]
-    },
-    {
-      "person": "j-sheps",
-      "count": 1,
-      "dates": [
-        "2021-07-23"
       ]
     },
     {
@@ -51,5 +52,5 @@
       ]
     }
   ],
-  "totalUnlocks": 10
+  "totalUnlocks": 11
 }
