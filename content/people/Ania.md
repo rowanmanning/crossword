@@ -8,7 +8,7 @@
       "minutes": 0,
       "seconds": 55,
       "totalSeconds": 55,
-      "position": 4,
+      "position": 5,
       "scrapeTime": "2023-06-09T09:02:25.322Z",
       "isPending": false
     },
@@ -7223,7 +7223,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1091,
+  "awardCount": 1092,
   "awards": [
     {
       "title": "Gold",
@@ -8438,7 +8438,8 @@
         "2023-04-04",
         "2023-04-14",
         "2023-05-12",
-        "2023-06-06"
+        "2023-06-06",
+        "2023-06-09"
       ]
     },
     {
