@@ -5,12 +5,12 @@
     {
       "person": "Ania",
       "leaderboard": "2023-06-09",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 55,
+      "totalSeconds": 55,
+      "position": 4,
+      "scrapeTime": "2023-06-09T09:02:25.322Z",
+      "isPending": false
     },
     {
       "person": "Ania",
@@ -7207,8 +7207,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 20,
-    "totalSeconds": 80,
+    "seconds": 19,
+    "totalSeconds": 79,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -7223,7 +7223,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1090,
+  "awardCount": 1091,
   "awards": [
     {
       "title": "Gold",
@@ -7992,7 +7992,8 @@
         "2023-04-28",
         "2023-05-31",
         "2023-06-01",
-        "2023-06-02"
+        "2023-06-02",
+        "2023-06-09"
       ]
     },
     {

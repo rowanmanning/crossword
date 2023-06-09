@@ -5,20 +5,21 @@
   "order": "561",
   "unlocks": [
     {
+      "person": "j-sheps",
+      "count": 3,
+      "dates": [
+        "2021-09-17",
+        "2022-12-09",
+        "2023-06-09"
+      ]
+    },
+    {
       "person": "Lily2point0",
       "count": 3,
       "dates": [
         "2022-04-22",
         "2022-05-20",
         "2022-09-23"
-      ]
-    },
-    {
-      "person": "j-sheps",
-      "count": 2,
-      "dates": [
-        "2021-09-17",
-        "2022-12-09"
       ]
     },
     {
@@ -72,5 +73,5 @@
       ]
     }
   ],
-  "totalUnlocks": 13
+  "totalUnlocks": 14
 }

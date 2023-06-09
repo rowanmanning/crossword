@@ -5,12 +5,12 @@
     {
       "person": "j-sheps",
       "leaderboard": "2023-06-09",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 0,
+      "totalSeconds": 60,
+      "position": 5,
+      "scrapeTime": "2023-06-09T09:02:25.322Z",
+      "isPending": false
     },
     {
       "person": "j-sheps",
@@ -7223,7 +7223,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1479,
+  "awardCount": 1482,
   "awards": [
     {
       "title": "Gold",
@@ -8038,7 +8038,8 @@
         "2023-05-30",
         "2023-05-31",
         "2023-06-03",
-        "2023-06-06"
+        "2023-06-06",
+        "2023-06-09"
       ]
     },
     {
@@ -8630,7 +8631,8 @@
         "2022-09-30",
         "2023-01-07",
         "2023-03-07",
-        "2023-04-08"
+        "2023-04-08",
+        "2023-06-09"
       ]
     },
     {
@@ -8860,7 +8862,8 @@
       "text": "Get a time of exactly 1:00 on a Friday",
       "dates": [
         "2021-09-17",
-        "2022-12-09"
+        "2022-12-09",
+        "2023-06-09"
       ]
     },
     {
