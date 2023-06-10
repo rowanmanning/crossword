@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "j-sheps",
+      "leaderboard": "2023-06-11",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "j-sheps",
       "leaderboard": "2023-06-10",
       "minutes": 3,
       "seconds": 13,
@@ -7233,7 +7243,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1484,
+  "awardCount": 1486,
   "awards": [
     {
       "title": "Gold",
@@ -7524,7 +7534,8 @@
       "type": "consistent-4",
       "text": "Get the same position four days in a row",
       "dates": [
-        "2022-11-25"
+        "2022-11-25",
+        "2023-06-10"
       ]
     },
     {
@@ -8915,7 +8926,8 @@
         "2023-04-28",
         "2023-05-02",
         "2023-05-21",
-        "2023-06-07"
+        "2023-06-07",
+        "2023-06-10"
       ]
     },
     {

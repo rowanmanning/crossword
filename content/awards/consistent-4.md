@@ -21,6 +21,14 @@
       ]
     },
     {
+      "person": "j-sheps",
+      "count": 2,
+      "dates": [
+        "2022-11-25",
+        "2023-06-10"
+      ]
+    },
+    {
       "person": "leaf",
       "count": 1,
       "dates": [
@@ -42,13 +50,6 @@
       ]
     },
     {
-      "person": "j-sheps",
-      "count": 1,
-      "dates": [
-        "2022-11-25"
-      ]
-    },
-    {
       "person": "apaleslimghost",
       "count": 1,
       "dates": [
@@ -56,5 +57,5 @@
       ]
     }
   ],
-  "totalUnlocks": 9
+  "totalUnlocks": 10
 }
