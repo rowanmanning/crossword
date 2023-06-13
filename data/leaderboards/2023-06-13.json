@@ -20,6 +20,11 @@
 		"seconds": 101
 	},
 	{
+		"name": "j-sheps",
+		"scrapeTime": "2023-06-13T10:02:23.434Z",
+		"seconds": 124
+	},
+	{
 		"name": "binaryberry",
 		"scrapeTime": "2023-06-13T05:31:35.760Z",
 		"seconds": 150
@@ -56,11 +61,6 @@
 	},
 	{
 		"name": "ivo",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
-		"name": "j-sheps",
 		"scrapeTime": null,
 		"seconds": null
 	},
