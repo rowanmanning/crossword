@@ -5,19 +5,20 @@
   "order": "541",
   "unlocks": [
     {
+      "person": "binaryberry",
+      "count": 3,
+      "dates": [
+        "2021-11-02",
+        "2022-08-05",
+        "2023-06-13"
+      ]
+    },
+    {
       "person": "Lily2point0",
       "count": 2,
       "dates": [
         "2021-08-19",
         "2022-08-13"
-      ]
-    },
-    {
-      "person": "binaryberry",
-      "count": 2,
-      "dates": [
-        "2021-11-02",
-        "2022-08-05"
       ]
     },
     {
@@ -42,5 +43,5 @@
       ]
     }
   ],
-  "totalUnlocks": 7
+  "totalUnlocks": 8
 }
