@@ -480,6 +480,16 @@
       ]
     },
     {
+      "person": "Lily2point0",
+      "count": 4,
+      "dates": [
+        "2021-06-23",
+        "2022-12-10",
+        "2023-05-23",
+        "2023-06-15"
+      ]
+    },
+    {
       "person": "Oliver Turner",
       "count": 4,
       "dates": [
@@ -510,15 +520,6 @@
       ]
     },
     {
-      "person": "Lily2point0",
-      "count": 3,
-      "dates": [
-        "2021-06-23",
-        "2022-12-10",
-        "2023-05-23"
-      ]
-    },
-    {
       "person": "Emma L",
       "count": 2,
       "dates": [
@@ -534,5 +535,5 @@
       ]
     }
   ],
-  "totalUnlocks": 409
+  "totalUnlocks": 410
 }
