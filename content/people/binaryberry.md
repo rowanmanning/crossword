@@ -5,12 +5,12 @@
     {
       "person": "binaryberry",
       "leaderboard": "2023-06-18",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 47,
+      "totalSeconds": 47,
+      "position": 3,
+      "scrapeTime": "2023-06-18T03:31:50.772Z",
+      "isPending": false
     },
     {
       "person": "binaryberry",
@@ -7306,14 +7306,14 @@
   "median": {
     "person": null,
     "leaderboard": null,
-    "minutes": 2,
-    "seconds": 51,
-    "totalSeconds": 171,
+    "minutes": 5,
+    "seconds": 11,
+    "totalSeconds": 311,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1156,
+  "awardCount": 1159,
   "awards": [
     {
       "title": "Silver",
@@ -7522,7 +7522,8 @@
         "2023-06-04",
         "2023-06-05",
         "2023-06-11",
-        "2023-06-14"
+        "2023-06-14",
+        "2023-06-18"
       ]
     },
     {
@@ -8044,7 +8045,8 @@
         "2023-05-12",
         "2023-05-15",
         "2023-06-05",
-        "2023-06-06"
+        "2023-06-06",
+        "2023-06-18"
       ]
     },
     {
@@ -8229,7 +8231,8 @@
       "text": "Play for a full quarter, give that OKR a 1",
       "dates": [
         "2022-02-09",
-        "2023-02-23"
+        "2023-02-23",
+        "2023-06-18"
       ]
     },
     {
