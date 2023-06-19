@@ -1,5 +1,10 @@
 [
 	{
+		"name": "alexmuller",
+		"scrapeTime": "2023-06-19T06:02:20.788Z",
+		"seconds": 46
+	},
+	{
 		"name": "Lily2point0",
 		"scrapeTime": "2023-06-18T22:31:38.179Z",
 		"seconds": 85
@@ -8,11 +13,6 @@
 		"name": "binaryberry",
 		"scrapeTime": "2023-06-18T22:31:38.179Z",
 		"seconds": 139
-	},
-	{
-		"name": "alexmuller",
-		"scrapeTime": null,
-		"seconds": null
 	},
 	{
 		"name": "Alice Bartlett",
