@@ -5,12 +5,12 @@
     {
       "person": "Otherowan",
       "leaderboard": "2023-06-19",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 55,
+      "totalSeconds": 55,
+      "position": 3,
+      "scrapeTime": "2023-06-19T09:02:18.979Z",
+      "isPending": false
     },
     {
       "person": "Otherowan",
@@ -5113,7 +5113,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 870,
+  "awardCount": 871,
   "awards": [
     {
       "title": "Gold",
@@ -5700,7 +5700,8 @@
         "2023-05-25",
         "2023-05-28",
         "2023-06-13",
-        "2023-06-18"
+        "2023-06-18",
+        "2023-06-19"
       ]
     },
     {
