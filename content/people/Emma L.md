@@ -5,12 +5,12 @@
     {
       "person": "Emma L",
       "leaderboard": "2023-06-20",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 22,
+      "totalSeconds": 22,
+      "position": 1,
+      "scrapeTime": "2023-06-20T06:02:06.981Z",
+      "isPending": false
     },
     {
       "person": "Emma L",
@@ -6983,7 +6983,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1759,
+  "awardCount": 1761,
   "awards": [
     {
       "title": "Gold",
@@ -8501,7 +8501,8 @@
         "2023-06-14",
         "2023-06-16",
         "2023-06-18",
-        "2023-06-19"
+        "2023-06-19",
+        "2023-06-20"
       ]
     },
     {
@@ -8682,7 +8683,8 @@
       "text": "Play for three days in a row",
       "dates": [
         "2021-07-28",
-        "2021-08-04"
+        "2021-08-04",
+        "2023-06-20"
       ]
     },
     {
