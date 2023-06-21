@@ -5,6 +5,14 @@
   "order": "301",
   "unlocks": [
     {
+      "person": "Ania",
+      "count": 2,
+      "dates": [
+        "2023-06-21",
+        "2022-06-21"
+      ]
+    },
+    {
       "person": "binaryberry",
       "count": 2,
       "dates": [
@@ -33,13 +41,6 @@
       "count": 2,
       "dates": [
         "2023-06-21",
-        "2022-06-21"
-      ]
-    },
-    {
-      "person": "Ania",
-      "count": 1,
-      "dates": [
         "2022-06-21"
       ]
     },
@@ -86,5 +87,5 @@
       ]
     }
   ],
-  "totalUnlocks": 15
+  "totalUnlocks": 16
 }

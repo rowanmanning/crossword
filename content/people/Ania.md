@@ -5,12 +5,12 @@
     {
       "person": "Ania",
       "leaderboard": "2023-06-21",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 48,
+      "totalSeconds": 48,
+      "position": 2,
+      "scrapeTime": "2023-06-21T08:31:50.626Z",
+      "isPending": false
     },
     {
       "person": "Ania",
@@ -7343,7 +7343,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1103,
+  "awardCount": 1106,
   "awards": [
     {
       "title": "Gold",
@@ -8120,7 +8120,8 @@
         "2023-06-13",
         "2023-06-14",
         "2023-06-19",
-        "2023-06-20"
+        "2023-06-20",
+        "2023-06-21"
       ]
     },
     {
@@ -8344,6 +8345,7 @@
       "type": "anniversary",
       "text": "Play the crossword on the anniversary of this website",
       "dates": [
+        "2023-06-21",
         "2022-06-21"
       ]
     },
@@ -8456,7 +8458,8 @@
         "2023-04-27",
         "2023-06-01",
         "2023-06-07",
-        "2023-06-14"
+        "2023-06-14",
+        "2023-06-21"
       ]
     },
     {
