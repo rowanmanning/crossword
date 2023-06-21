@@ -5,12 +5,12 @@
     {
       "person": "ivo",
       "leaderboard": "2023-06-21",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 29,
+      "totalSeconds": 29,
+      "position": 3,
+      "scrapeTime": "2023-06-21T11:02:18.002Z",
+      "isPending": false
     },
     {
       "person": "ivo",
@@ -6486,14 +6486,14 @@
   "median": {
     "person": null,
     "leaderboard": null,
-    "minutes": 0,
-    "seconds": 39,
-    "totalSeconds": 39,
+    "minutes": 3,
+    "seconds": 33,
+    "totalSeconds": 213,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1203,
+  "awardCount": 1205,
   "awards": [
     {
       "title": "Gold",
@@ -7541,7 +7541,8 @@
         "2023-05-16",
         "2023-06-06",
         "2023-06-08",
-        "2023-06-15"
+        "2023-06-15",
+        "2023-06-21"
       ]
     },
     {
@@ -7592,6 +7593,7 @@
       "type": "anniversary",
       "text": "Play the crossword on the anniversary of this website",
       "dates": [
+        "2023-06-21",
         "2022-06-21"
       ]
     },
