@@ -5,12 +5,12 @@
     {
       "person": "cb",
       "leaderboard": "2023-06-21",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 43,
+      "totalSeconds": 43,
+      "position": 5,
+      "scrapeTime": "2023-06-21T23:02:03.064Z",
+      "isPending": false
     },
     {
       "person": "cb",
@@ -7263,7 +7263,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1864,
+  "awardCount": 1867,
   "awards": [
     {
       "title": "Gold",
@@ -8664,7 +8664,8 @@
         "2023-05-28",
         "2023-05-30",
         "2023-06-12",
-        "2023-06-13"
+        "2023-06-13",
+        "2023-06-21"
       ]
     },
     {
@@ -8987,6 +8988,7 @@
       "type": "anniversary",
       "text": "Play the crossword on the anniversary of this website",
       "dates": [
+        "2023-06-21",
         "2022-06-21"
       ]
     },
@@ -9099,7 +9101,8 @@
         "2023-05-14",
         "2023-05-24",
         "2023-06-07",
-        "2023-06-13"
+        "2023-06-13",
+        "2023-06-21"
       ]
     },
     {
