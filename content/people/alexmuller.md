@@ -5,12 +5,12 @@
     {
       "person": "alexmuller",
       "leaderboard": "2023-06-21",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 53,
+      "totalSeconds": 53,
+      "position": 1,
+      "scrapeTime": "2023-06-21T05:31:48.132Z",
+      "isPending": false
     },
     {
       "person": "alexmuller",
@@ -3107,13 +3107,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 41,
-    "totalSeconds": 41,
+    "seconds": 41.5,
+    "totalSeconds": 41.5,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 646,
+  "awardCount": 648,
   "awards": [
     {
       "title": "Gold",
@@ -3533,7 +3533,8 @@
         "2023-06-09",
         "2023-06-18",
         "2023-06-19",
-        "2023-06-20"
+        "2023-06-20",
+        "2023-06-21"
       ]
     },
     {
@@ -3707,6 +3708,14 @@
         "2023-03-18",
         "2023-04-15",
         "2023-05-13"
+      ]
+    },
+    {
+      "title": "Happy Anniversary!",
+      "type": "anniversary",
+      "text": "Play the crossword on the anniversary of this website",
+      "dates": [
+        "2023-06-21"
       ]
     },
     {
