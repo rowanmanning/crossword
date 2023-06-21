@@ -5,12 +5,12 @@
     {
       "person": "Emma L",
       "leaderboard": "2023-06-21",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 15,
+      "totalSeconds": 15,
+      "position": 1,
+      "scrapeTime": "2023-06-21T06:32:20.517Z",
+      "isPending": false
     },
     {
       "person": "Emma L",
@@ -6993,7 +6993,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1762,
+  "awardCount": 1764,
   "awards": [
     {
       "title": "Gold",
@@ -8554,7 +8554,8 @@
         "2023-05-07",
         "2023-05-08",
         "2023-06-02",
-        "2023-06-12"
+        "2023-06-12",
+        "2023-06-21"
       ]
     },
     {
@@ -8602,6 +8603,7 @@
       "type": "anniversary",
       "text": "Play the crossword on the anniversary of this website",
       "dates": [
+        "2023-06-21",
         "2022-06-21"
       ]
     },
