@@ -5,6 +5,14 @@
   "order": "301",
   "unlocks": [
     {
+      "person": "j-sheps",
+      "count": 2,
+      "dates": [
+        "2023-06-21",
+        "2022-06-21"
+      ]
+    },
+    {
       "person": "Ania",
       "count": 1,
       "dates": [
@@ -47,13 +55,6 @@
       ]
     },
     {
-      "person": "j-sheps",
-      "count": 1,
-      "dates": [
-        "2022-06-21"
-      ]
-    },
-    {
       "person": "Lily2point0",
       "count": 1,
       "dates": [
@@ -75,5 +76,5 @@
       ]
     }
   ],
-  "totalUnlocks": 10
+  "totalUnlocks": 11
 }
