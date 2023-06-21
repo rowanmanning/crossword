@@ -5,12 +5,12 @@
     {
       "person": "binaryberry",
       "leaderboard": "2023-06-21",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 16,
+      "totalSeconds": 76,
+      "position": 4,
+      "scrapeTime": "2023-06-21T08:02:27.353Z",
+      "isPending": false
     },
     {
       "person": "binaryberry",
@@ -7337,13 +7337,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 5,
-    "seconds": 11,
-    "totalSeconds": 311,
+    "seconds": 12.5,
+    "totalSeconds": 312.5,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1167,
+  "awardCount": 1169,
   "awards": [
     {
       "title": "Silver",
@@ -7989,7 +7989,8 @@
         "2023-06-12",
         "2023-06-14",
         "2023-06-15",
-        "2023-06-16"
+        "2023-06-16",
+        "2023-06-21"
       ]
     },
     {
@@ -8168,6 +8169,7 @@
       "type": "anniversary",
       "text": "Play the crossword on the anniversary of this website",
       "dates": [
+        "2023-06-21",
         "2022-06-21"
       ]
     },
