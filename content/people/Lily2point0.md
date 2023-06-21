@@ -5,12 +5,12 @@
     {
       "person": "Lily2point0",
       "leaderboard": "2023-06-21",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 40,
+      "totalSeconds": 100,
+      "position": 2,
+      "scrapeTime": "2023-06-21T05:02:19.090Z",
+      "isPending": false
     },
     {
       "person": "Lily2point0",
@@ -7343,7 +7343,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1313,
+  "awardCount": 1316,
   "awards": [
     {
       "title": "Gold",
@@ -7777,7 +7777,8 @@
         "2023-06-03",
         "2023-06-13",
         "2023-06-17",
-        "2023-06-19"
+        "2023-06-19",
+        "2023-06-21"
       ]
     },
     {
@@ -8135,7 +8136,8 @@
         "2023-06-09",
         "2023-06-13",
         "2023-06-15",
-        "2023-06-19"
+        "2023-06-19",
+        "2023-06-21"
       ]
     },
     {
@@ -8393,6 +8395,7 @@
       "type": "anniversary",
       "text": "Play the crossword on the anniversary of this website",
       "dates": [
+        "2023-06-21",
         "2022-06-21"
       ]
     },
