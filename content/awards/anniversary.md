@@ -13,6 +13,14 @@
       ]
     },
     {
+      "person": "apaleslimghost",
+      "count": 2,
+      "dates": [
+        "2023-06-21",
+        "2022-06-21"
+      ]
+    },
+    {
       "person": "binaryberry",
       "count": 2,
       "dates": [
@@ -61,13 +69,6 @@
       ]
     },
     {
-      "person": "apaleslimghost",
-      "count": 1,
-      "dates": [
-        "2022-06-21"
-      ]
-    },
-    {
       "person": "cb",
       "count": 1,
       "dates": [
@@ -89,5 +90,5 @@
       ]
     }
   ],
-  "totalUnlocks": 18
+  "totalUnlocks": 19
 }
