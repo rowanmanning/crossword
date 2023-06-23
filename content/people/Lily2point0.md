@@ -5,12 +5,12 @@
     {
       "person": "Lily2point0",
       "leaderboard": "2023-06-23",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 23,
+      "totalSeconds": 83,
+      "position": 2,
+      "scrapeTime": "2023-06-23T06:02:20.761Z",
+      "isPending": false
     },
     {
       "person": "Lily2point0",
@@ -7363,7 +7363,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1317,
+  "awardCount": 1319,
   "awards": [
     {
       "title": "Gold",
@@ -8157,7 +8157,8 @@
         "2023-06-13",
         "2023-06-15",
         "2023-06-19",
-        "2023-06-21"
+        "2023-06-21",
+        "2023-06-23"
       ]
     },
     {
@@ -8945,7 +8946,8 @@
         "2023-06-18",
         "2023-06-19",
         "2023-06-20",
-        "2023-06-22"
+        "2023-06-22",
+        "2023-06-23"
       ]
     }
   ]
