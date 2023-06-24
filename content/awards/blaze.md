@@ -6,11 +6,12 @@
   "unlocks": [
     {
       "person": "binaryberry",
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2022-01-29"
+        "2022-01-29",
+        "2023-06-24"
       ]
     }
   ],
-  "totalUnlocks": 1
+  "totalUnlocks": 2
 }
