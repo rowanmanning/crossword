@@ -5,12 +5,12 @@
     {
       "person": "Emma L",
       "leaderboard": "2023-06-24",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 4,
+      "totalSeconds": 64,
+      "position": 1,
+      "scrapeTime": "2023-06-24T07:31:46.838Z",
+      "isPending": false
     },
     {
       "person": "Emma L",
@@ -7023,7 +7023,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1772,
+  "awardCount": 1774,
   "awards": [
     {
       "title": "Gold",
@@ -8005,7 +8005,8 @@
         "2023-05-06",
         "2023-05-26",
         "2023-05-27",
-        "2023-06-03"
+        "2023-06-03",
+        "2023-06-24"
       ]
     },
     {
@@ -8743,7 +8744,8 @@
       "type": "week-streak",
       "text": "Play for a full week without breaks",
       "dates": [
-        "2021-08-08"
+        "2021-08-08",
+        "2023-06-24"
       ]
     },
     {
