@@ -5,12 +5,12 @@
     {
       "person": "Lily2point0",
       "leaderboard": "2023-07-01",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 30,
+      "totalSeconds": 150,
+      "position": 3,
+      "scrapeTime": "2023-07-01T07:31:56.478Z",
+      "isPending": false
     },
     {
       "person": "Lily2point0",
@@ -7443,7 +7443,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1336,
+  "awardCount": 1339,
   "awards": [
     {
       "title": "Gold",
@@ -7881,7 +7881,8 @@
         "2023-06-17",
         "2023-06-19",
         "2023-06-21",
-        "2023-06-30"
+        "2023-06-30",
+        "2023-07-01"
       ]
     },
     {
@@ -8652,7 +8653,8 @@
         "2023-05-19",
         "2023-05-30",
         "2023-06-20",
-        "2023-06-29"
+        "2023-06-29",
+        "2023-07-01"
       ]
     },
     {
@@ -8755,7 +8757,8 @@
       "text": "Now this won't hurt a bit…",
       "dates": [
         "2021-08-19",
-        "2022-08-13"
+        "2022-08-13",
+        "2023-07-01"
       ]
     },
     {
