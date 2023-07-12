@@ -5,12 +5,12 @@
     {
       "person": "Lily2point0",
       "leaderboard": "2023-07-12",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 59,
+      "totalSeconds": 59,
+      "position": 2,
+      "scrapeTime": "2023-07-12T07:02:27.579Z",
+      "isPending": false
     },
     {
       "person": "Lily2point0",
@@ -7553,7 +7553,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1358,
+  "awardCount": 1360,
   "awards": [
     {
       "title": "Gold",
@@ -8514,7 +8514,8 @@
         "2023-06-27",
         "2023-07-03",
         "2023-07-04",
-        "2023-07-09"
+        "2023-07-09",
+        "2023-07-12"
       ]
     },
     {
@@ -8707,7 +8708,8 @@
       "text": "Play for a full month (30 days) without breaks",
       "dates": [
         "2021-07-20",
-        "2023-01-06"
+        "2023-01-06",
+        "2023-07-12"
       ]
     },
     {
