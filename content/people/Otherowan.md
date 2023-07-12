@@ -5,12 +5,12 @@
     {
       "person": "Otherowan",
       "leaderboard": "2023-07-12",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 34,
+      "totalSeconds": 34,
+      "position": 3,
+      "scrapeTime": "2023-07-12T23:02:12.328Z",
+      "isPending": false
     },
     {
       "person": "Otherowan",
@@ -5337,13 +5337,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 44.5,
-    "totalSeconds": 44.5,
+    "seconds": 44,
+    "totalSeconds": 44,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 912,
+  "awardCount": 916,
   "awards": [
     {
       "title": "Gold",
@@ -6064,7 +6064,8 @@
         "2023-06-20",
         "2023-06-30",
         "2023-07-10",
-        "2023-07-11"
+        "2023-07-11",
+        "2023-07-12"
       ]
     },
     {
@@ -6162,6 +6163,7 @@
       "type": "chain-3",
       "text": "Participate in a chain of three sequential times",
       "dates": [
+        "2023-07-12",
         "2023-07-10",
         "2023-05-10",
         "2023-01-22",
@@ -6251,7 +6253,8 @@
         "2023-05-26",
         "2023-06-14",
         "2023-06-27",
-        "2023-07-05"
+        "2023-07-05",
+        "2023-07-12"
       ]
     },
     {
@@ -6343,7 +6346,8 @@
         "2023-06-14",
         "2023-06-16",
         "2023-06-23",
-        "2023-07-08"
+        "2023-07-08",
+        "2023-07-12"
       ]
     },
     {
