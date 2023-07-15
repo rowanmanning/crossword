@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "binaryberry",
+      "leaderboard": "2023-07-16",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "binaryberry",
       "leaderboard": "2023-07-15",
       "minutes": 2,
       "seconds": 40,
@@ -7583,7 +7593,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1222,
+  "awardCount": 1223,
   "awards": [
     {
       "title": "Silver",
@@ -8719,7 +8729,8 @@
         "2023-05-11",
         "2023-05-29",
         "2023-06-11",
-        "2023-07-05"
+        "2023-07-05",
+        "2023-07-15"
       ]
     },
     {
