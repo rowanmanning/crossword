@@ -5,12 +5,12 @@
     {
       "person": "alexmuller",
       "leaderboard": "2023-07-15",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 27,
+      "totalSeconds": 87,
+      "position": 2,
+      "scrapeTime": "2023-07-15T06:33:39.144Z",
+      "isPending": false
     },
     {
       "person": "alexmuller",
@@ -3353,7 +3353,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 703,
+  "awardCount": 706,
   "awards": [
     {
       "title": "Gold",
@@ -3648,7 +3648,8 @@
         "2023-05-26",
         "2023-06-17",
         "2023-07-04",
-        "2023-07-07"
+        "2023-07-07",
+        "2023-07-15"
       ]
     },
     {
@@ -3736,7 +3737,8 @@
         "2023-07-04",
         "2023-07-07",
         "2023-07-08",
-        "2023-07-11"
+        "2023-07-11",
+        "2023-07-15"
       ]
     },
     {
@@ -4099,7 +4101,8 @@
       "type": "month-streak",
       "text": "Play for a full month (30 days) without breaks",
       "dates": [
-        "2022-11-24"
+        "2022-11-24",
+        "2023-07-15"
       ]
     },
     {

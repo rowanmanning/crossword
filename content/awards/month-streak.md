@@ -115,6 +115,14 @@
       ]
     },
     {
+      "person": "alexmuller",
+      "count": 2,
+      "dates": [
+        "2022-11-24",
+        "2023-07-15"
+      ]
+    },
+    {
       "person": "varjmes",
       "count": 1,
       "dates": [
@@ -141,14 +149,7 @@
       "dates": [
         "2022-06-10"
       ]
-    },
-    {
-      "person": "alexmuller",
-      "count": 1,
-      "dates": [
-        "2022-11-24"
-      ]
     }
   ],
-  "totalUnlocks": 49
+  "totalUnlocks": 50
 }
