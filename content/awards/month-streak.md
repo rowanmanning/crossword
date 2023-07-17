@@ -107,6 +107,14 @@
       ]
     },
     {
+      "person": "Emma L",
+      "count": 2,
+      "dates": [
+        "2021-08-31",
+        "2023-07-17"
+      ]
+    },
+    {
       "person": "Nick Ramsbottom",
       "count": 2,
       "dates": [
@@ -130,13 +138,6 @@
       ]
     },
     {
-      "person": "Emma L",
-      "count": 1,
-      "dates": [
-        "2021-08-31"
-      ]
-    },
-    {
       "person": "Alice Bartlett",
       "count": 1,
       "dates": [
@@ -151,5 +152,5 @@
       ]
     }
   ],
-  "totalUnlocks": 50
+  "totalUnlocks": 51
 }

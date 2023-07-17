@@ -5,12 +5,12 @@
     {
       "person": "Emma L",
       "leaderboard": "2023-07-17",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 13,
+      "totalSeconds": 13,
+      "position": 1,
+      "scrapeTime": "2023-07-17T06:35:15.025Z",
+      "isPending": false
     },
     {
       "person": "Emma L",
@@ -7253,7 +7253,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1844,
+  "awardCount": 1847,
   "awards": [
     {
       "title": "Gold",
@@ -8017,7 +8017,8 @@
         "2023-06-12",
         "2023-06-25",
         "2023-07-09",
-        "2023-07-16"
+        "2023-07-16",
+        "2023-07-17"
       ]
     },
     {
@@ -8879,7 +8880,8 @@
         "2023-06-29",
         "2023-07-02",
         "2023-07-09",
-        "2023-07-11"
+        "2023-07-11",
+        "2023-07-17"
       ]
     },
     {
@@ -9041,7 +9043,8 @@
       "type": "month-streak",
       "text": "Play for a full month (30 days) without breaks",
       "dates": [
-        "2021-08-31"
+        "2021-08-31",
+        "2023-07-17"
       ]
     },
     {
