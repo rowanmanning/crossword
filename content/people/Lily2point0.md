@@ -5,12 +5,12 @@
     {
       "person": "Lily2point0",
       "leaderboard": "2023-07-20",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 2,
+      "totalSeconds": 122,
+      "position": 4,
+      "scrapeTime": "2023-07-20T06:32:18.782Z",
+      "isPending": false
     },
     {
       "person": "Lily2point0",
@@ -7627,8 +7627,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 48.5,
-    "totalSeconds": 48.5,
+    "seconds": 48,
+    "totalSeconds": 48,
     "position": null,
     "scrapeTime": null,
     "isPending": false
