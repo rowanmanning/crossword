@@ -29,6 +29,14 @@
       ]
     },
     {
+      "person": "binaryberry",
+      "count": 2,
+      "dates": [
+        "2023-06-26",
+        "2023-07-25"
+      ]
+    },
+    {
       "person": "leaf",
       "count": 1,
       "dates": [
@@ -57,13 +65,6 @@
       ]
     },
     {
-      "person": "binaryberry",
-      "count": 1,
-      "dates": [
-        "2023-06-26"
-      ]
-    },
-    {
       "person": "alexmuller",
       "count": 1,
       "dates": [
@@ -71,5 +72,5 @@
       ]
     }
   ],
-  "totalUnlocks": 12
+  "totalUnlocks": 13
 }
