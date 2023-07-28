@@ -5,12 +5,12 @@
     {
       "person": "alexmuller",
       "leaderboard": "2023-07-28",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 39,
+      "totalSeconds": 99,
+      "position": 1,
+      "scrapeTime": "2023-07-28T06:02:17.385Z",
+      "isPending": false
     },
     {
       "person": "alexmuller",
@@ -3483,7 +3483,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 737,
+  "awardCount": 738,
   "awards": [
     {
       "title": "Gold",
@@ -3884,7 +3884,8 @@
         "2023-07-15",
         "2023-07-22",
         "2023-07-25",
-        "2023-07-27"
+        "2023-07-27",
+        "2023-07-28"
       ]
     },
     {
