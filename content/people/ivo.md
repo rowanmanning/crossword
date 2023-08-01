@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "ivo",
+      "leaderboard": "2023-08-01",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "ivo",
       "leaderboard": "2023-07-31",
       "minutes": 0,
       "seconds": 34,
@@ -6893,7 +6903,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1281,
+  "awardCount": 1282,
   "awards": [
     {
       "title": "Gold",
@@ -7159,6 +7169,14 @@
         "2023-01-02",
         "2023-03-18",
         "2023-07-30"
+      ]
+    },
+    {
+      "title": "Consistent Position ×4",
+      "type": "consistent-4",
+      "text": "Get the same position four days in a row",
+      "dates": [
+        "2023-07-31"
       ]
     },
     {
