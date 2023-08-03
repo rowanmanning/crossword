@@ -5,12 +5,12 @@
     {
       "person": "alexmuller",
       "leaderboard": "2023-08-03",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 35,
+      "totalSeconds": 95,
+      "position": 7,
+      "scrapeTime": "2023-08-03T19:31:47.296Z",
+      "isPending": false
     },
     {
       "person": "alexmuller",
@@ -3526,9 +3526,9 @@
   "mean": {
     "person": null,
     "leaderboard": null,
-    "minutes": 0,
-    "seconds": 59,
-    "totalSeconds": 59,
+    "minutes": 1,
+    "seconds": 0,
+    "totalSeconds": 60,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -3543,7 +3543,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 752,
+  "awardCount": 755,
   "awards": [
     {
       "title": "Gold",
@@ -3856,7 +3856,8 @@
         "2023-07-07",
         "2023-07-15",
         "2023-07-18",
-        "2023-07-27"
+        "2023-07-27",
+        "2023-08-03"
       ]
     },
     {
@@ -3949,7 +3950,8 @@
         "2023-07-22",
         "2023-07-25",
         "2023-07-27",
-        "2023-07-28"
+        "2023-07-28",
+        "2023-08-03"
       ]
     },
     {
@@ -4413,6 +4415,7 @@
       "type": "yin-and-yang",
       "text": "Get the same time as another person but with flipped seconds",
       "dates": [
+        "2023-08-03",
         "2023-05-07",
         "2023-04-20",
         "2023-03-29",
