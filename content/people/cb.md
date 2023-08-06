@@ -5,12 +5,12 @@
     {
       "person": "cb",
       "leaderboard": "2023-08-06",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 46,
+      "totalSeconds": 46,
+      "position": 4,
+      "scrapeTime": "2023-08-06T20:31:58.300Z",
+      "isPending": false
     },
     {
       "person": "cb",
@@ -7723,7 +7723,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 2003,
+  "awardCount": 2005,
   "awards": [
     {
       "title": "Gold",
@@ -8963,7 +8963,8 @@
         "2023-07-01",
         "2023-07-15",
         "2023-08-01",
-        "2023-08-05"
+        "2023-08-05",
+        "2023-08-06"
       ]
     },
     {
@@ -9581,6 +9582,7 @@
       "type": "chain-3",
       "text": "Participate in a chain of three sequential times",
       "dates": [
+        "2023-08-06",
         "2023-07-26",
         "2023-06-26",
         "2023-02-02",
