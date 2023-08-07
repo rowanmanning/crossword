@@ -5,12 +5,12 @@
     {
       "person": "cb",
       "leaderboard": "2023-08-07",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 24,
+      "totalSeconds": 24,
+      "position": 2,
+      "scrapeTime": "2023-08-07T19:02:03.281Z",
+      "isPending": false
     },
     {
       "person": "cb",
@@ -7733,7 +7733,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 2005,
+  "awardCount": 2008,
   "awards": [
     {
       "title": "Gold",
@@ -9445,7 +9445,8 @@
         "2023-07-28",
         "2023-07-30",
         "2023-07-31",
-        "2023-08-04"
+        "2023-08-04",
+        "2023-08-07"
       ]
     },
     {
@@ -9592,6 +9593,7 @@
       "type": "chain-3",
       "text": "Participate in a chain of three sequential times",
       "dates": [
+        "2023-08-07",
         "2023-08-06",
         "2023-07-26",
         "2023-06-26",
@@ -9915,6 +9917,7 @@
       "type": "yin-and-yang",
       "text": "Get the same time as another person but with flipped seconds",
       "dates": [
+        "2023-08-07",
         "2023-07-26",
         "2023-07-11",
         "2023-04-22",
