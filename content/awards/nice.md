@@ -113,6 +113,14 @@
       ]
     },
     {
+      "person": "cb",
+      "count": 2,
+      "dates": [
+        "2021-12-01",
+        "2023-08-12"
+      ]
+    },
+    {
       "person": "Ania",
       "count": 2,
       "dates": [
@@ -144,13 +152,6 @@
       ]
     },
     {
-      "person": "cb",
-      "count": 1,
-      "dates": [
-        "2021-12-01"
-      ]
-    },
-    {
       "person": "Otherowan",
       "count": 1,
       "dates": [
@@ -158,5 +159,5 @@
       ]
     }
   ],
-  "totalUnlocks": 51
+  "totalUnlocks": 52
 }
