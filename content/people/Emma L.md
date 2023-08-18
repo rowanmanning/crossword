@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Emma L",
+      "leaderboard": "2023-08-18",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Emma L",
       "leaderboard": "2023-08-17",
       "minutes": 0,
       "seconds": 59,
@@ -7563,7 +7573,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1940,
+  "awardCount": 1942,
   "awards": [
     {
       "title": "Gold",
@@ -8162,7 +8172,8 @@
         "2023-07-28",
         "2023-08-10",
         "2023-08-15",
-        "2023-08-16"
+        "2023-08-16",
+        "2023-08-17"
       ]
     },
     {
@@ -8195,7 +8206,8 @@
       "type": "triple-bronze",
       "text": "Get the third fastest time three days in a row",
       "dates": [
-        "2023-05-21"
+        "2023-05-21",
+        "2023-08-17"
       ]
     },
     {
