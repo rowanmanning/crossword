@@ -109,6 +109,14 @@
       ]
     },
     {
+      "person": "ivo",
+      "count": 2,
+      "dates": [
+        "2022-07-19",
+        "2023-08-23"
+      ]
+    },
+    {
       "person": "binaryberry",
       "count": 1,
       "dates": [
@@ -123,13 +131,6 @@
       ]
     },
     {
-      "person": "ivo",
-      "count": 1,
-      "dates": [
-        "2022-07-19"
-      ]
-    },
-    {
       "person": "Nick Ramsbottom",
       "count": 1,
       "dates": [
@@ -137,5 +138,5 @@
       ]
     }
   ],
-  "totalUnlocks": 54
+  "totalUnlocks": 55
 }
