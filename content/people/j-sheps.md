@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "j-sheps",
+      "leaderboard": "2023-08-27",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "j-sheps",
       "leaderboard": "2023-08-26",
       "minutes": 1,
       "seconds": 26,
@@ -8003,7 +8013,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1653,
+  "awardCount": 1654,
   "awards": [
     {
       "title": "Gold",
@@ -9841,7 +9851,8 @@
         "2023-06-30",
         "2023-07-13",
         "2023-08-04",
-        "2023-08-18"
+        "2023-08-18",
+        "2023-08-26"
       ]
     },
     {
