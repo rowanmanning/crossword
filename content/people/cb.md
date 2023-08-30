@@ -5,12 +5,12 @@
     {
       "person": "cb",
       "leaderboard": "2023-08-30",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 35,
+      "totalSeconds": 35,
+      "position": 1,
+      "scrapeTime": "2023-08-30T12:39:04.377Z",
+      "isPending": false
     },
     {
       "person": "cb",
@@ -7963,7 +7963,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 2032,
+  "awardCount": 2035,
   "awards": [
     {
       "title": "Gold",
@@ -9459,7 +9459,8 @@
         "2023-08-08",
         "2023-08-09",
         "2023-08-16",
-        "2023-08-17"
+        "2023-08-17",
+        "2023-08-30"
       ]
     },
     {
@@ -9996,6 +9997,14 @@
       ]
     },
     {
+      "title": "Holiday",
+      "type": "holiday",
+      "text": "Come back to the crossword after a week off",
+      "dates": [
+        "2023-08-30"
+      ]
+    },
+    {
       "title": "Twinning",
       "type": "twinning",
       "text": "Get the same time as another person",
@@ -10095,7 +10104,8 @@
         "2023-07-12",
         "2023-07-17",
         "2023-08-04",
-        "2023-08-15"
+        "2023-08-15",
+        "2023-08-30"
       ]
     },
     {
