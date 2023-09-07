@@ -5,6 +5,11 @@
 		"seconds": 31
 	},
 	{
+		"name": "itsalex",
+		"scrapeTime": "2023-09-07T08:02:22.323Z",
+		"seconds": 33
+	},
+	{
 		"name": "alexmuller",
 		"scrapeTime": "2023-09-07T03:02:14.445Z",
 		"seconds": 58
@@ -46,11 +51,6 @@
 	},
 	{
 		"name": "ellejay",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
-		"name": "itsalex",
 		"scrapeTime": null,
 		"seconds": null
 	},
