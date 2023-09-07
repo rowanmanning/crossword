@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Emma L",
+      "leaderboard": "2023-09-07",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Emma L",
       "leaderboard": "2023-09-06",
       "minutes": 0,
       "seconds": 21,
@@ -7763,7 +7773,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 2001,
+  "awardCount": 2003,
   "awards": [
     {
       "title": "Gold",
@@ -7940,7 +7950,8 @@
         "2023-08-31",
         "2023-09-03",
         "2023-09-04",
-        "2023-09-05"
+        "2023-09-05",
+        "2023-09-06"
       ]
     },
     {
@@ -8001,7 +8012,8 @@
       "type": "quadruple-gold",
       "text": "Get the fastest time four days in a row",
       "dates": [
-        "2023-01-03"
+        "2023-01-03",
+        "2023-09-06"
       ]
     },
     {
