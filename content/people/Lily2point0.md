@@ -5,12 +5,12 @@
     {
       "person": "Lily2point0",
       "leaderboard": "2023-09-10",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 9,
+      "totalSeconds": 69,
+      "position": 4,
+      "scrapeTime": "2023-09-10T08:02:14.021Z",
+      "isPending": false
     },
     {
       "person": "Lily2point0",
@@ -8153,7 +8153,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1462,
+  "awardCount": 1466,
   "awards": [
     {
       "title": "Gold",
@@ -8447,7 +8447,8 @@
         "2023-07-26",
         "2023-08-18",
         "2023-08-24",
-        "2023-09-01"
+        "2023-09-01",
+        "2023-09-10"
       ]
     },
     {
@@ -9029,7 +9030,8 @@
         "2023-08-31",
         "2023-09-06",
         "2023-09-07",
-        "2023-09-08"
+        "2023-09-08",
+        "2023-09-10"
       ]
     },
     {
@@ -9388,7 +9390,8 @@
       "text": "Play for a full quarter, give that OKR a 1",
       "dates": [
         "2021-09-18",
-        "2023-03-07"
+        "2023-03-07",
+        "2023-09-10"
       ]
     },
     {
@@ -9535,7 +9538,8 @@
         "2022-12-02",
         "2023-02-12",
         "2023-06-08",
-        "2023-07-02"
+        "2023-07-02",
+        "2023-09-10"
       ]
     },
     {
