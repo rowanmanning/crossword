@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "binaryberry",
+      "leaderboard": "2023-09-12",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "binaryberry",
       "leaderboard": "2023-09-11",
       "minutes": 0,
       "seconds": 47,
@@ -8163,7 +8173,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1342,
+  "awardCount": 1343,
   "awards": [
     {
       "title": "Silver",
@@ -8309,6 +8319,14 @@
         "2023-07-25",
         "2023-09-02",
         "2023-09-10"
+      ]
+    },
+    {
+      "title": "Consistent Position ×5",
+      "type": "consistent-5",
+      "text": "Get the same position five days in a row",
+      "dates": [
+        "2023-09-11"
       ]
     },
     {
