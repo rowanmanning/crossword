@@ -5,12 +5,12 @@
     {
       "person": "binaryberry",
       "leaderboard": "2023-09-14",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 58,
+      "totalSeconds": 58,
+      "position": 1,
+      "scrapeTime": "2023-09-14T05:02:13.998Z",
+      "isPending": false
     },
     {
       "person": "binaryberry",
@@ -8186,14 +8186,14 @@
   "median": {
     "person": null,
     "leaderboard": null,
-    "minutes": 3,
-    "seconds": 2.5,
-    "totalSeconds": 182.5,
+    "minutes": 5,
+    "seconds": 32,
+    "totalSeconds": 332,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1348,
+  "awardCount": 1350,
   "awards": [
     {
       "title": "Silver",
@@ -9055,7 +9055,8 @@
         "2023-07-09",
         "2023-07-30",
         "2023-07-31",
-        "2023-09-11"
+        "2023-09-11",
+        "2023-09-14"
       ]
     },
     {
@@ -9799,7 +9800,8 @@
         "2023-09-08",
         "2023-09-09",
         "2023-09-12",
-        "2023-09-13"
+        "2023-09-13",
+        "2023-09-14"
       ]
     }
   ]
