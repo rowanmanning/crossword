@@ -23,6 +23,14 @@
       ]
     },
     {
+      "person": "Emma L",
+      "count": 2,
+      "dates": [
+        "2021-10-30",
+        "2023-09-15"
+      ]
+    },
+    {
       "person": "Ania",
       "count": 2,
       "dates": [
@@ -49,13 +57,6 @@
       "count": 1,
       "dates": [
         "2021-10-25"
-      ]
-    },
-    {
-      "person": "Emma L",
-      "count": 1,
-      "dates": [
-        "2021-10-30"
       ]
     },
     {
@@ -87,5 +88,5 @@
       ]
     }
   ],
-  "totalUnlocks": 16
+  "totalUnlocks": 17
 }
