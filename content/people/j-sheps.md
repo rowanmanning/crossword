@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "j-sheps",
+      "leaderboard": "2023-09-30",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "j-sheps",
       "leaderboard": "2023-09-29",
       "minutes": 0,
       "seconds": 31,
@@ -8343,7 +8353,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1732,
+  "awardCount": 1735,
   "awards": [
     {
       "title": "Gold",
@@ -8379,7 +8389,8 @@
         "2022-12-28",
         "2023-04-19",
         "2023-05-01",
-        "2023-06-25"
+        "2023-06-25",
+        "2023-09-29"
       ]
     },
     {
@@ -10101,7 +10112,8 @@
         "2021-12-24",
         "2022-01-02",
         "2022-01-03",
-        "2022-03-06"
+        "2022-03-06",
+        "2023-09-29"
       ]
     },
     {
@@ -10403,7 +10415,8 @@
       "text": "Complete a puzzle after everyone else but with the fastest time",
       "dates": [
         "2021-11-26",
-        "2021-12-06"
+        "2021-12-06",
+        "2023-09-29"
       ]
     }
   ]
