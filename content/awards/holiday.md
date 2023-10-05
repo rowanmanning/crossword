@@ -117,6 +117,14 @@
       ]
     },
     {
+      "person": "cb",
+      "count": 2,
+      "dates": [
+        "2023-08-30",
+        "2023-10-05"
+      ]
+    },
+    {
       "person": "binaryberry",
       "count": 1,
       "dates": [
@@ -136,14 +144,7 @@
       "dates": [
         "2022-10-20"
       ]
-    },
-    {
-      "person": "cb",
-      "count": 1,
-      "dates": [
-        "2023-08-30"
-      ]
     }
   ],
-  "totalUnlocks": 56
+  "totalUnlocks": 57
 }

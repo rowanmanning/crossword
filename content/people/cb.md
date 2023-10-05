@@ -5,12 +5,12 @@
     {
       "person": "cb",
       "leaderboard": "2023-10-05",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 46,
+      "totalSeconds": 46,
+      "position": 4,
+      "scrapeTime": "2023-10-05T12:40:21.254Z",
+      "isPending": false
     },
     {
       "person": "cb",
@@ -8323,7 +8323,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 2094,
+  "awardCount": 2096,
   "awards": [
     {
       "title": "Gold",
@@ -9603,7 +9603,8 @@
         "2023-07-15",
         "2023-08-01",
         "2023-08-05",
-        "2023-08-06"
+        "2023-08-06",
+        "2023-10-05"
       ]
     },
     {
@@ -10410,7 +10411,8 @@
       "type": "holiday",
       "text": "Come back to the crossword after a week off",
       "dates": [
-        "2023-08-30"
+        "2023-08-30",
+        "2023-10-05"
       ]
     },
     {
