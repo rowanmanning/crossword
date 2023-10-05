@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Lily2point0",
+      "leaderboard": "2023-10-05",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Lily2point0",
       "leaderboard": "2023-10-04",
       "minutes": 0,
       "seconds": 48,
@@ -8393,7 +8403,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1509,
+  "awardCount": 1510,
   "awards": [
     {
       "title": "Gold",
@@ -8565,7 +8575,8 @@
       "text": "Get the same position four days in a row",
       "dates": [
         "2021-06-29",
-        "2021-07-13"
+        "2021-07-13",
+        "2023-10-04"
       ]
     },
     {
