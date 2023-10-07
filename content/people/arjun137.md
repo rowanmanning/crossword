@@ -5,12 +5,12 @@
     {
       "person": "arjun137",
       "leaderboard": "2023-10-07",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 3,
+      "seconds": 27,
+      "totalSeconds": 207,
+      "position": 7,
+      "scrapeTime": "2023-10-07T21:02:01.631Z",
+      "isPending": false
     },
     {
       "person": "arjun137",
@@ -8387,8 +8387,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 47,
-    "totalSeconds": 107,
+    "seconds": 57,
+    "totalSeconds": 117,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -8396,14 +8396,14 @@
   "median": {
     "person": null,
     "leaderboard": null,
-    "minutes": 0,
-    "seconds": 40,
-    "totalSeconds": 40,
+    "minutes": 2,
+    "seconds": 10.5,
+    "totalSeconds": 130.5,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 14,
+  "awardCount": 15,
   "awards": [
     {
       "title": "Half Time",
@@ -8471,7 +8471,8 @@
       "text": "Come back to the crossword after a week off",
       "dates": [
         "2021-07-13",
-        "2022-09-17"
+        "2022-09-17",
+        "2023-10-07"
       ]
     },
     {
