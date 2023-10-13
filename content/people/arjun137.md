@@ -5,12 +5,12 @@
     {
       "person": "arjun137",
       "leaderboard": "2023-10-13",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 56,
+      "totalSeconds": 56,
+      "position": 3,
+      "scrapeTime": "2023-10-13T10:02:21.853Z",
+      "isPending": false
     },
     {
       "person": "arjun137",
@@ -8447,8 +8447,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 57,
-    "totalSeconds": 117,
+    "seconds": 51,
+    "totalSeconds": 111,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -8456,21 +8456,22 @@
   "median": {
     "person": null,
     "leaderboard": null,
-    "minutes": 2,
-    "seconds": 10.5,
-    "totalSeconds": 130.5,
+    "minutes": 0,
+    "seconds": 40,
+    "totalSeconds": 40,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 15,
+  "awardCount": 17,
   "awards": [
     {
       "title": "Half Time",
       "type": "half-time",
       "text": "Half your completion time from one day to the next",
       "dates": [
-        "2021-06-28"
+        "2021-06-28",
+        "2023-10-13"
       ]
     },
     {
@@ -8505,7 +8506,8 @@
       "type": "sub-60",
       "text": "Complete a puzzle in less than a minute",
       "dates": [
-        "2021-06-29"
+        "2021-06-29",
+        "2023-10-13"
       ]
     },
     {
