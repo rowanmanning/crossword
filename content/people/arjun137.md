@@ -5,12 +5,12 @@
     {
       "person": "arjun137",
       "leaderboard": "2023-10-15",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 44,
+      "totalSeconds": 44,
+      "position": 4,
+      "scrapeTime": "2023-10-14T23:31:41.577Z",
+      "isPending": false
     },
     {
       "person": "arjun137",
@@ -8467,8 +8467,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 51,
-    "totalSeconds": 111,
+    "seconds": 46,
+    "totalSeconds": 106,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -8477,13 +8477,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 40,
-    "totalSeconds": 40,
+    "seconds": 41,
+    "totalSeconds": 41,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 17,
+  "awardCount": 18,
   "awards": [
     {
       "title": "Half Time",
@@ -8536,7 +8536,8 @@
       "text": "Complete a puzzle in less than 45 seconds",
       "dates": [
         "2021-06-23",
-        "2021-07-13"
+        "2021-07-13",
+        "2023-10-15"
       ]
     },
     {
