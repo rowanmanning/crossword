@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Oliver Turner",
+      "leaderboard": "2023-10-17",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Oliver Turner",
       "leaderboard": "2023-10-16",
       "minutes": null,
       "seconds": null,
