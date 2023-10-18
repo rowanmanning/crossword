@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "itsalex",
+      "leaderboard": "2023-10-18",
+      "minutes": 0,
+      "seconds": 23,
+      "totalSeconds": 23,
+      "position": 1,
+      "scrapeTime": "2023-10-18T02:08:50.558Z",
+      "isPending": false
+    },
+    {
+      "person": "itsalex",
       "leaderboard": "2023-10-17",
       "minutes": 0,
       "seconds": 43,
@@ -8477,8 +8487,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 39,
-    "totalSeconds": 39,
+    "seconds": 38,
+    "totalSeconds": 38,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -8493,7 +8503,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1735,
+  "awardCount": 1739,
   "awards": [
     {
       "title": "Gold",
@@ -8994,7 +9004,8 @@
         "2023-09-29",
         "2023-10-10",
         "2023-10-15",
-        "2023-10-16"
+        "2023-10-16",
+        "2023-10-17"
       ]
     },
     {
@@ -9029,7 +9040,8 @@
       "type": "triple-silver",
       "text": "Get the second fastest time three days in a row",
       "dates": [
-        "2022-11-11"
+        "2022-11-11",
+        "2023-10-17"
       ]
     },
     {
@@ -9918,7 +9930,8 @@
         "2023-10-04",
         "2023-10-05",
         "2023-10-11",
-        "2023-10-16"
+        "2023-10-16",
+        "2023-10-18"
       ]
     },
     {
@@ -10483,7 +10496,8 @@
         "2023-07-17",
         "2023-07-30",
         "2023-08-21",
-        "2023-10-12"
+        "2023-10-12",
+        "2023-10-18"
       ]
     },
     {

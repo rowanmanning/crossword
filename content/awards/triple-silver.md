@@ -43,19 +43,20 @@
       ]
     },
     {
+      "person": "itsalex",
+      "count": 2,
+      "dates": [
+        "2022-11-11",
+        "2023-10-17"
+      ]
+    },
+    {
       "person": "apaleslimghost",
       "count": 1,
       "dates": [
         "2022-08-17"
       ]
-    },
-    {
-      "person": "itsalex",
-      "count": 1,
-      "dates": [
-        "2022-11-11"
-      ]
     }
   ],
-  "totalUnlocks": 22
+  "totalUnlocks": 23
 }
