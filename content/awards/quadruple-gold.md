@@ -31,12 +31,13 @@
     },
     {
       "person": "Emma L",
-      "count": 2,
+      "count": 3,
       "dates": [
         "2023-01-03",
-        "2023-09-06"
+        "2023-09-06",
+        "2023-10-22"
       ]
     }
   ],
-  "totalUnlocks": 15
+  "totalUnlocks": 16
 }
