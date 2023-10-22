@@ -5,12 +5,12 @@
     {
       "person": "arjun137",
       "leaderboard": "2023-10-23",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 39,
+      "totalSeconds": 99,
+      "position": 1,
+      "scrapeTime": "2023-10-22T22:31:45.257Z",
+      "isPending": false
     },
     {
       "person": "arjun137",
@@ -8547,8 +8547,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 46,
-    "totalSeconds": 106,
+    "seconds": 45,
+    "totalSeconds": 105,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -8557,13 +8557,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 41,
-    "totalSeconds": 41,
+    "seconds": 42,
+    "totalSeconds": 42,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 18,
+  "awardCount": 22,
   "awards": [
     {
       "title": "Half Time",
@@ -8589,7 +8589,8 @@
       "dates": [
         "2021-06-25",
         "2021-07-02",
-        "2021-07-14"
+        "2021-07-14",
+        "2023-10-23"
       ]
     },
     {
@@ -8598,7 +8599,8 @@
       "text": "Complete a puzzle in less than two minutes",
       "dates": [
         "2021-06-24",
-        "2021-06-28"
+        "2021-06-28",
+        "2023-10-23"
       ]
     },
     {
@@ -8635,7 +8637,8 @@
       "dates": [
         "2021-07-13",
         "2022-09-17",
-        "2023-10-07"
+        "2023-10-07",
+        "2023-10-23"
       ]
     },
     {
@@ -8644,6 +8647,14 @@
       "text": "A towel is about the most massively useful thing an interstellar hitchhiker can have",
       "dates": [
         "2021-07-13"
+      ]
+    },
+    {
+      "title": "Quick Draw",
+      "type": "quick-draw",
+      "text": "Complete a puzzle before anyone else (or within 30 minutes of the first person)",
+      "dates": [
+        "2023-10-23"
       ]
     }
   ]
