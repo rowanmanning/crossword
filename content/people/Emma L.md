@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Emma L",
+      "leaderboard": "2023-10-29",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Emma L",
       "leaderboard": "2023-10-28",
       "minutes": 0,
       "seconds": 44,
@@ -8283,7 +8293,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 2156,
+  "awardCount": 2159,
   "awards": [
     {
       "title": "Gold",
@@ -8486,7 +8496,8 @@
         "2023-10-22",
         "2023-10-23",
         "2023-10-25",
-        "2023-10-27"
+        "2023-10-27",
+        "2023-10-28"
       ]
     },
     {
@@ -8533,7 +8544,8 @@
         "2023-09-27",
         "2023-10-10",
         "2023-10-15",
-        "2023-10-20"
+        "2023-10-20",
+        "2023-10-28"
       ]
     },
     {
@@ -10753,6 +10765,14 @@
         "2023-09-29",
         "2023-10-15",
         "2023-10-16"
+      ]
+    },
+    {
+      "title": "Slow and Steady",
+      "type": "slow-and-steady",
+      "text": "Complete a puzzle after everyone else but with the fastest time",
+      "dates": [
+        "2023-10-28"
       ]
     },
     {
