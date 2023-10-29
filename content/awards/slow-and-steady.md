@@ -129,19 +129,20 @@
       ]
     },
     {
+      "person": "Emma L",
+      "count": 2,
+      "dates": [
+        "2023-10-28",
+        "2023-10-29"
+      ]
+    },
+    {
       "person": "leaf",
       "count": 1,
       "dates": [
         "2023-03-13"
       ]
-    },
-    {
-      "person": "Emma L",
-      "count": 1,
-      "dates": [
-        "2023-10-28"
-      ]
     }
   ],
-  "totalUnlocks": 90
+  "totalUnlocks": 91
 }
