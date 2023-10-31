@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "j-sheps",
+      "leaderboard": "2023-10-31",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "j-sheps",
       "leaderboard": "2023-10-30",
       "minutes": 0,
       "seconds": 22,
@@ -8653,7 +8663,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1804,
+  "awardCount": 1808,
   "awards": [
     {
       "title": "Gold",
@@ -8691,7 +8701,8 @@
         "2023-05-01",
         "2023-06-25",
         "2023-09-29",
-        "2023-10-24"
+        "2023-10-24",
+        "2023-10-30"
       ]
     },
     {
@@ -9018,7 +9029,16 @@
         "2021-09-06",
         "2022-12-30",
         "2023-10-01",
-        "2023-10-26"
+        "2023-10-26",
+        "2023-10-30"
+      ]
+    },
+    {
+      "title": "Podium Climbing",
+      "type": "podium-climbing",
+      "text": "Unlock third, second, then first place awards in order",
+      "dates": [
+        "2023-10-30"
       ]
     },
     {
@@ -10785,7 +10805,8 @@
       "dates": [
         "2021-11-26",
         "2021-12-06",
-        "2023-09-29"
+        "2023-09-29",
+        "2023-10-30"
       ]
     }
   ]

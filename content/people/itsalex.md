@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "itsalex",
+      "leaderboard": "2023-10-31",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "itsalex",
       "leaderboard": "2023-10-30",
       "minutes": 0,
       "seconds": 27,
@@ -8623,7 +8633,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1753,
+  "awardCount": 1754,
   "awards": [
     {
       "title": "Gold",
@@ -9129,7 +9139,8 @@
         "2023-10-17",
         "2023-10-20",
         "2023-10-24",
-        "2023-10-27"
+        "2023-10-27",
+        "2023-10-30"
       ]
     },
     {
