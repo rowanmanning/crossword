@@ -5,12 +5,12 @@
     {
       "person": "binaryberry",
       "leaderboard": "2023-11-02",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 0,
+      "totalSeconds": 120,
+      "position": 5,
+      "scrapeTime": "2023-11-02T08:02:13.244Z",
+      "isPending": false
     },
     {
       "person": "binaryberry",
@@ -8676,9 +8676,9 @@
   "median": {
     "person": null,
     "leaderboard": null,
-    "minutes": 5,
-    "seconds": 30,
-    "totalSeconds": 330,
+    "minutes": 3,
+    "seconds": 1.5,
+    "totalSeconds": 181.5,
     "position": null,
     "scrapeTime": null,
     "isPending": false
