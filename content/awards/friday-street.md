@@ -31,6 +31,14 @@
       ]
     },
     {
+      "person": "Otherowan",
+      "count": 2,
+      "dates": [
+        "2023-04-07",
+        "2023-11-03"
+      ]
+    },
+    {
       "person": "varjmes",
       "count": 1,
       "dates": [
@@ -64,14 +72,7 @@
       "dates": [
         "2023-01-20"
       ]
-    },
-    {
-      "person": "Otherowan",
-      "count": 1,
-      "dates": [
-        "2023-04-07"
-      ]
     }
   ],
-  "totalUnlocks": 14
+  "totalUnlocks": 15
 }

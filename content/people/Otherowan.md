@@ -5,12 +5,12 @@
     {
       "person": "Otherowan",
       "leaderboard": "2023-11-03",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 0,
+      "totalSeconds": 60,
+      "position": 4,
+      "scrapeTime": "2023-11-03T13:03:43.267Z",
+      "isPending": false
     },
     {
       "person": "Otherowan",
@@ -6483,7 +6483,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1042,
+  "awardCount": 1044,
   "awards": [
     {
       "title": "Gold",
@@ -7047,7 +7047,8 @@
         "2023-09-29",
         "2023-09-30",
         "2023-10-21",
-        "2023-10-22"
+        "2023-10-22",
+        "2023-11-03"
       ]
     },
     {
@@ -7719,7 +7720,8 @@
       "type": "friday-street",
       "text": "Get a time of exactly 1:00 on a Friday",
       "dates": [
-        "2023-04-07"
+        "2023-04-07",
+        "2023-11-03"
       ]
     },
     {
