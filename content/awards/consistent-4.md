@@ -40,6 +40,14 @@
       ]
     },
     {
+      "person": "alexmuller",
+      "count": 2,
+      "dates": [
+        "2023-07-03",
+        "2023-11-04"
+      ]
+    },
+    {
       "person": "leaf",
       "count": 1,
       "dates": [
@@ -68,13 +76,6 @@
       ]
     },
     {
-      "person": "alexmuller",
-      "count": 1,
-      "dates": [
-        "2023-07-03"
-      ]
-    },
-    {
       "person": "ivo",
       "count": 1,
       "dates": [
@@ -82,5 +83,5 @@
       ]
     }
   ],
-  "totalUnlocks": 17
+  "totalUnlocks": 18
 }

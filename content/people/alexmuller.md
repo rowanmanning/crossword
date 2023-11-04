@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "alexmuller",
+      "leaderboard": "2023-11-05",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "alexmuller",
       "leaderboard": "2023-11-04",
       "minutes": 2,
       "seconds": 10,
@@ -4473,7 +4483,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 980,
+  "awardCount": 981,
   "awards": [
     {
       "title": "Gold",
@@ -4707,7 +4717,8 @@
       "type": "consistent-4",
       "text": "Get the same position four days in a row",
       "dates": [
-        "2023-07-03"
+        "2023-07-03",
+        "2023-11-04"
       ]
     },
     {

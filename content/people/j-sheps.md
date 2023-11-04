@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "j-sheps",
+      "leaderboard": "2023-11-05",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "j-sheps",
       "leaderboard": "2023-11-04",
       "minutes": 1,
       "seconds": 23,
@@ -8703,7 +8713,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1820,
+  "awardCount": 1822,
   "awards": [
     {
       "title": "Gold",
@@ -8817,7 +8827,8 @@
         "2023-10-25",
         "2023-10-29",
         "2023-11-02",
-        "2023-11-03"
+        "2023-11-03",
+        "2023-11-04"
       ]
     },
     {
@@ -8830,6 +8841,14 @@
         "2022-09-04",
         "2023-09-25",
         "2023-11-03"
+      ]
+    },
+    {
+      "title": "Triple Silver",
+      "type": "triple-silver",
+      "text": "Get the second fastest time three days in a row",
+      "dates": [
+        "2023-11-04"
       ]
     },
     {
