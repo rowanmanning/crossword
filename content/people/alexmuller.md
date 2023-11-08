@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "alexmuller",
+      "leaderboard": "2023-11-08",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "alexmuller",
       "leaderboard": "2023-11-07",
       "minutes": 0,
       "seconds": 43,
@@ -4503,7 +4513,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 988,
+  "awardCount": 991,
   "awards": [
     {
       "title": "Gold",
@@ -4526,7 +4536,8 @@
         "2023-09-27",
         "2023-09-29",
         "2023-10-16",
-        "2023-10-31"
+        "2023-10-31",
+        "2023-11-07"
       ]
     },
     {
@@ -4752,7 +4763,16 @@
         "2022-12-08",
         "2023-05-10",
         "2023-07-22",
-        "2023-10-16"
+        "2023-10-16",
+        "2023-11-07"
+      ]
+    },
+    {
+      "title": "Podium Climbing",
+      "type": "podium-climbing",
+      "text": "Unlock third, second, then first place awards in order",
+      "dates": [
+        "2023-11-07"
       ]
     },
     {

@@ -59,7 +59,14 @@
       "dates": [
         "2023-10-30"
       ]
+    },
+    {
+      "person": "alexmuller",
+      "count": 1,
+      "dates": [
+        "2023-11-07"
+      ]
     }
   ],
-  "totalUnlocks": 26
+  "totalUnlocks": 27
 }
