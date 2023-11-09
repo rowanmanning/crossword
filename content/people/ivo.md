@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "ivo",
+      "leaderboard": "2023-11-09",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "ivo",
       "leaderboard": "2023-11-08",
       "minutes": 0,
       "seconds": 44,
@@ -7893,7 +7903,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1480,
+  "awardCount": 1482,
   "awards": [
     {
       "title": "Gold",
@@ -8121,7 +8131,8 @@
         "2023-10-31",
         "2023-11-03",
         "2023-11-06",
-        "2023-11-07"
+        "2023-11-07",
+        "2023-11-08"
       ]
     },
     {
@@ -8145,6 +8156,14 @@
         "2023-10-23",
         "2023-10-31",
         "2023-11-07"
+      ]
+    },
+    {
+      "title": "Triple Bronze",
+      "type": "triple-bronze",
+      "text": "Get the third fastest time three days in a row",
+      "dates": [
+        "2023-11-08"
       ]
     },
     {
