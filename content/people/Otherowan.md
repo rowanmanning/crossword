@@ -5,12 +5,12 @@
     {
       "person": "Otherowan",
       "leaderboard": "2023-11-13",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 32,
+      "totalSeconds": 32,
+      "position": 2,
+      "scrapeTime": "2023-11-13T14:31:49.036Z",
+      "isPending": false
     },
     {
       "person": "Otherowan",
@@ -6583,7 +6583,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1066,
+  "awardCount": 1068,
   "awards": [
     {
       "title": "Gold",
@@ -7413,7 +7413,8 @@
         "2023-09-27",
         "2023-10-13",
         "2023-10-24",
-        "2023-11-08"
+        "2023-11-08",
+        "2023-11-13"
       ]
     },
     {
@@ -7759,6 +7760,7 @@
       "type": "yin-and-yang",
       "text": "Get the same time as another person but with flipped seconds",
       "dates": [
+        "2023-11-13",
         "2023-09-06",
         "2023-08-20",
         "2023-07-03",
