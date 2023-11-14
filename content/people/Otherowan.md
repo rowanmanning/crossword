@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Otherowan",
+      "leaderboard": "2023-11-14",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Otherowan",
       "leaderboard": "2023-11-13",
       "minutes": 0,
       "seconds": 32,
@@ -6583,7 +6593,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1068,
+  "awardCount": 1070,
   "awards": [
     {
       "title": "Gold",
@@ -6687,7 +6697,8 @@
         "2023-09-29",
         "2023-10-19",
         "2023-10-21",
-        "2023-11-12"
+        "2023-11-12",
+        "2023-11-13"
       ]
     },
     {
@@ -6696,7 +6707,8 @@
       "text": "Get the third fastest time two days in a row",
       "dates": [
         "2022-03-22",
-        "2022-09-20"
+        "2022-09-20",
+        "2023-11-13"
       ]
     },
     {

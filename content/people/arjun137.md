@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "arjun137",
+      "leaderboard": "2023-11-14",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "arjun137",
       "leaderboard": "2023-11-13",
       "minutes": 0,
       "seconds": 57,
@@ -8773,7 +8783,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 26,
+  "awardCount": 27,
   "awards": [
     {
       "title": "Half Time",
@@ -8861,6 +8871,14 @@
       "text": "A towel is about the most massively useful thing an interstellar hitchhiker can have",
       "dates": [
         "2021-07-13"
+      ]
+    },
+    {
+      "title": "The Number of The Beast",
+      "type": "beast",
+      "text": "His number is six hundred and sixty-six",
+      "dates": [
+        "2023-11-13"
       ]
     },
     {
