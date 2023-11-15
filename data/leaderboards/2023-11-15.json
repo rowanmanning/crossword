@@ -1,13 +1,23 @@
 [
 	{
-		"name": "binaryberry",
-		"scrapeTime": "2023-11-15T06:02:15.399Z",
-		"seconds": 115
+		"name": "Emma L",
+		"scrapeTime": "2023-11-15T07:31:52.651Z",
+		"seconds": 22
 	},
 	{
 		"name": "alexmuller",
-		"scrapeTime": null,
-		"seconds": null
+		"scrapeTime": "2023-11-15T07:31:52.651Z",
+		"seconds": 32
+	},
+	{
+		"name": "Lily2point0",
+		"scrapeTime": "2023-11-15T07:31:52.651Z",
+		"seconds": 78
+	},
+	{
+		"name": "binaryberry",
+		"scrapeTime": "2023-11-15T06:02:15.399Z",
+		"seconds": 115
 	},
 	{
 		"name": "Alice Bartlett",
@@ -40,11 +50,6 @@
 		"seconds": null
 	},
 	{
-		"name": "Emma L",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
 		"name": "itsalex",
 		"scrapeTime": null,
 		"seconds": null
@@ -71,11 +76,6 @@
 	},
 	{
 		"name": "leaf",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
-		"name": "Lily2point0",
 		"scrapeTime": null,
 		"seconds": null
 	},
