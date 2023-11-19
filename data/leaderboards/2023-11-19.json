@@ -5,6 +5,11 @@
 		"seconds": 20
 	},
 	{
+		"name": "ivo",
+		"scrapeTime": "2023-11-19T10:31:51.738Z",
+		"seconds": 39
+	},
+	{
 		"name": "j-sheps",
 		"scrapeTime": "2023-11-19T00:46:05.445Z",
 		"seconds": 44
@@ -56,11 +61,6 @@
 	},
 	{
 		"name": "itsalex",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
-		"name": "ivo",
 		"scrapeTime": null,
 		"seconds": null
 	},
