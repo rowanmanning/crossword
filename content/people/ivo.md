@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "ivo",
+      "leaderboard": "2023-11-24",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "ivo",
       "leaderboard": "2023-11-23",
       "minutes": 0,
       "seconds": 35,
@@ -8043,7 +8053,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1506,
+  "awardCount": 1508,
   "awards": [
     {
       "title": "Gold",
@@ -8163,7 +8173,8 @@
         "2023-10-18",
         "2023-11-10",
         "2023-11-15",
-        "2023-11-22"
+        "2023-11-22",
+        "2023-11-23"
       ]
     },
     {
@@ -8172,7 +8183,8 @@
       "text": "Get the second fastest time two days in a row",
       "dates": [
         "2022-01-26",
-        "2023-01-19"
+        "2023-01-19",
+        "2023-11-23"
       ]
     },
     {
