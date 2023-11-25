@@ -5,12 +5,12 @@
     {
       "person": "Lily2point0",
       "leaderboard": "2023-11-25",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 21,
+      "totalSeconds": 141,
+      "position": 3,
+      "scrapeTime": "2023-11-25T08:02:13.254Z",
+      "isPending": false
     },
     {
       "person": "Lily2point0",
