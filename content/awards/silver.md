@@ -1061,12 +1061,13 @@
     },
     {
       "person": "binaryberry",
-      "count": 2,
+      "count": 3,
       "dates": [
         "2022-03-29",
-        "2023-01-02"
+        "2023-01-02",
+        "2023-11-26"
       ]
     }
   ],
-  "totalUnlocks": 967
+  "totalUnlocks": 968
 }

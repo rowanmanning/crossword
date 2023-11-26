@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "binaryberry",
+      "leaderboard": "2023-11-27",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "binaryberry",
       "leaderboard": "2023-11-26",
       "minutes": 0,
       "seconds": 43,
@@ -8923,7 +8933,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1472,
+  "awardCount": 1473,
   "awards": [
     {
       "title": "Silver",
@@ -8931,7 +8941,8 @@
       "text": "Get the second fastest time for a day",
       "dates": [
         "2022-03-29",
-        "2023-01-02"
+        "2023-01-02",
+        "2023-11-26"
       ]
     },
     {
