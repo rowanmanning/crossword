@@ -5,12 +5,12 @@
     {
       "person": "ellejay",
       "leaderboard": "2023-11-30",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 9,
+      "totalSeconds": 129,
+      "position": 2,
+      "scrapeTime": "2023-11-30T06:02:18.367Z",
+      "isPending": false
     },
     {
       "person": "ellejay",
@@ -4877,8 +4877,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 45,
-    "totalSeconds": 105,
+    "seconds": 46,
+    "totalSeconds": 106,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -4887,13 +4887,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 48,
-    "totalSeconds": 48,
+    "seconds": 45,
+    "totalSeconds": 45,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 37,
+  "awardCount": 39,
   "awards": [
     {
       "title": "Half Time",
@@ -4920,7 +4920,8 @@
       "dates": [
         "2022-08-30",
         "2022-12-09",
-        "2023-03-08"
+        "2023-03-08",
+        "2023-11-30"
       ]
     },
     {
@@ -4977,7 +4978,8 @@
         "2022-12-26",
         "2023-01-03",
         "2023-02-26",
-        "2023-04-03"
+        "2023-04-03",
+        "2023-11-30"
       ]
     },
     {
