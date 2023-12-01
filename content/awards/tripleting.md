@@ -117,6 +117,16 @@
       ]
     },
     {
+      "person": "Lily2point0",
+      "count": 4,
+      "dates": [
+        "2021-12-06",
+        "2022-08-22",
+        "2023-02-09",
+        "2023-12-01"
+      ]
+    },
+    {
       "person": "Nick Ramsbottom",
       "count": 3,
       "dates": [
@@ -135,21 +145,21 @@
       ]
     },
     {
-      "person": "Lily2point0",
-      "count": 3,
-      "dates": [
-        "2021-12-06",
-        "2022-08-22",
-        "2023-02-09"
-      ]
-    },
-    {
       "person": "Otherowan",
       "count": 3,
       "dates": [
         "2022-05-04",
         "2023-02-10",
         "2023-03-09"
+      ]
+    },
+    {
+      "person": "alexmuller",
+      "count": 3,
+      "dates": [
+        "2022-08-24",
+        "2022-10-20",
+        "2023-12-01"
       ]
     },
     {
@@ -161,20 +171,13 @@
       ]
     },
     {
-      "person": "alexmuller",
+      "person": "binaryberry",
       "count": 2,
       "dates": [
-        "2022-08-24",
-        "2022-10-20"
-      ]
-    },
-    {
-      "person": "binaryberry",
-      "count": 1,
-      "dates": [
-        "2023-03-09"
+        "2023-03-09",
+        "2023-12-01"
       ]
     }
   ],
-  "totalUnlocks": 75
+  "totalUnlocks": 78
 }

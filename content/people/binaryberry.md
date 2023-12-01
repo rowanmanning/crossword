@@ -8,7 +8,7 @@
       "minutes": 0,
       "seconds": 49,
       "totalSeconds": 49,
-      "position": 1,
+      "position": 2,
       "scrapeTime": "2023-12-01T07:02:16.650Z",
       "isPending": false
     },
@@ -10170,8 +10170,7 @@
         "2023-07-10",
         "2023-08-13",
         "2023-09-11",
-        "2023-10-16",
-        "2023-12-01"
+        "2023-10-16"
       ]
     },
     {
@@ -10179,7 +10178,8 @@
       "type": "tripleting",
       "text": "Get the same time as two other people",
       "dates": [
-        "2023-03-09"
+        "2023-03-09",
+        "2023-12-01"
       ]
     },
     {
