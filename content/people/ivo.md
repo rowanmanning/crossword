@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "ivo",
+      "leaderboard": "2023-12-01",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "ivo",
       "leaderboard": "2023-11-30",
       "minutes": 0,
       "seconds": 59,
@@ -8113,7 +8123,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1522,
+  "awardCount": 1524,
   "awards": [
     {
       "title": "Gold",
@@ -8353,7 +8363,8 @@
         "2023-11-07",
         "2023-11-08",
         "2023-11-16",
-        "2023-11-25"
+        "2023-11-25",
+        "2023-11-30"
       ]
     },
     {
@@ -8464,7 +8475,8 @@
       "type": "podium",
       "text": "Unlock third, second, and first place awards",
       "dates": [
-        "2023-02-10"
+        "2023-02-10",
+        "2023-11-30"
       ]
     },
     {
