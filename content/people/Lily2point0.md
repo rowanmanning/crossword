@@ -5,12 +5,12 @@
     {
       "person": "Lily2point0",
       "leaderboard": "2023-12-05",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 47,
+      "totalSeconds": 47,
+      "position": 4,
+      "scrapeTime": "2023-12-05T23:02:03.713Z",
+      "isPending": false
     },
     {
       "person": "Lily2point0",
@@ -9013,7 +9013,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1616,
+  "awardCount": 1618,
   "awards": [
     {
       "title": "Gold",
@@ -10154,7 +10154,8 @@
         "2023-11-22",
         "2023-11-28",
         "2023-11-29",
-        "2023-12-01"
+        "2023-12-01",
+        "2023-12-05"
       ]
     },
     {
@@ -10305,6 +10306,7 @@
       "type": "chain-3",
       "text": "Participate in a chain of three sequential times",
       "dates": [
+        "2023-12-05",
         "2023-02-02",
         "2022-12-02",
         "2022-10-31",
