@@ -40,6 +40,14 @@
       ]
     },
     {
+      "person": "alexmuller",
+      "count": 2,
+      "dates": [
+        "2023-01-23",
+        "2023-12-07"
+      ]
+    },
+    {
       "person": "Rowan M",
       "count": 1,
       "dates": [
@@ -80,14 +88,7 @@
       "dates": [
         "2022-04-09"
       ]
-    },
-    {
-      "person": "alexmuller",
-      "count": 1,
-      "dates": [
-        "2023-01-23"
-      ]
     }
   ],
-  "totalUnlocks": 18
+  "totalUnlocks": 19
 }

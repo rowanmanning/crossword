@@ -5,12 +5,12 @@
     {
       "person": "alexmuller",
       "leaderboard": "2023-12-07",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 27,
+      "totalSeconds": 27,
+      "position": 1,
+      "scrapeTime": "2023-12-07T07:02:03.840Z",
+      "isPending": false
     },
     {
       "person": "alexmuller",
@@ -4803,7 +4803,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1058,
+  "awardCount": 1060,
   "awards": [
     {
       "title": "Gold",
@@ -5705,7 +5705,8 @@
         "2023-10-31",
         "2023-11-05",
         "2023-11-12",
-        "2023-11-13"
+        "2023-11-13",
+        "2023-12-07"
       ]
     },
     {
@@ -5860,7 +5861,8 @@
       "type": "quarter-streak",
       "text": "Play for a full quarter, give that OKR a 1",
       "dates": [
-        "2023-01-23"
+        "2023-01-23",
+        "2023-12-07"
       ]
     },
     {
