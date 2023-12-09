@@ -149,19 +149,20 @@
       ]
     },
     {
+      "person": "Otherowan",
+      "count": 2,
+      "dates": [
+        "2022-06-03",
+        "2023-12-09"
+      ]
+    },
+    {
       "person": "varjmes",
       "count": 1,
       "dates": [
         "2021-11-19"
       ]
-    },
-    {
-      "person": "Otherowan",
-      "count": 1,
-      "dates": [
-        "2022-06-03"
-      ]
     }
   ],
-  "totalUnlocks": 56
+  "totalUnlocks": 57
 }
