@@ -20,6 +20,11 @@
 		"seconds": 41
 	},
 	{
+		"name": "Lily2point0",
+		"scrapeTime": "2023-12-10T08:31:51.842Z",
+		"seconds": 51
+	},
+	{
 		"name": "Alice Bartlett",
 		"scrapeTime": null,
 		"seconds": null
@@ -71,11 +76,6 @@
 	},
 	{
 		"name": "leaf",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
-		"name": "Lily2point0",
 		"scrapeTime": null,
 		"seconds": null
 	},
