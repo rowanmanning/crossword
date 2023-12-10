@@ -5,12 +5,12 @@
     {
       "person": "Otherowan",
       "leaderboard": "2023-12-10",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 14,
+      "totalSeconds": 14,
+      "position": 1,
+      "scrapeTime": "2023-12-10T22:31:33.039Z",
+      "isPending": false
     },
     {
       "person": "Otherowan",
@@ -6825,12 +6825,12 @@
   ],
   "best": {
     "person": "Otherowan",
-    "leaderboard": "2023-09-01",
+    "leaderboard": "2023-12-10",
     "minutes": 0,
     "seconds": 14,
     "totalSeconds": 14,
-    "position": 2,
-    "scrapeTime": "2023-09-01T21:31:37.706Z",
+    "position": 1,
+    "scrapeTime": "2023-12-10T22:31:33.039Z",
     "isPending": false
   },
   "mean": {
@@ -6853,7 +6853,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1099,
+  "awardCount": 1103,
   "awards": [
     {
       "title": "Gold",
@@ -7155,7 +7155,8 @@
         "2023-08-20",
         "2023-09-01",
         "2023-10-13",
-        "2023-10-24"
+        "2023-10-24",
+        "2023-12-10"
       ]
     },
     {
@@ -7769,7 +7770,8 @@
         "2023-05-12",
         "2023-06-29",
         "2023-07-31",
-        "2023-09-01"
+        "2023-09-01",
+        "2023-12-10"
       ]
     },
     {
@@ -7919,7 +7921,8 @@
         "2023-09-05",
         "2023-10-21",
         "2023-11-07",
-        "2023-12-06"
+        "2023-12-06",
+        "2023-12-10"
       ]
     },
     {
@@ -8059,6 +8062,7 @@
       "type": "yin-and-yang",
       "text": "Get the same time as another person but with flipped seconds",
       "dates": [
+        "2023-12-10",
         "2023-11-13",
         "2023-09-06",
         "2023-08-20",
