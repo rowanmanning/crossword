@@ -5,12 +5,12 @@
     {
       "person": "binaryberry",
       "leaderboard": "2023-12-11",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 23,
+      "totalSeconds": 83,
+      "position": 4,
+      "scrapeTime": "2023-12-11T07:31:47.407Z",
+      "isPending": false
     },
     {
       "person": "binaryberry",
@@ -9073,7 +9073,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1499,
+  "awardCount": 1501,
   "awards": [
     {
       "title": "Silver",
@@ -9565,7 +9565,8 @@
         "2023-11-30",
         "2023-12-02",
         "2023-12-05",
-        "2023-12-09"
+        "2023-12-09",
+        "2023-12-11"
       ]
     },
     {
@@ -9921,7 +9922,8 @@
         "2023-11-23",
         "2023-11-27",
         "2023-11-28",
-        "2023-12-04"
+        "2023-12-04",
+        "2023-12-11"
       ]
     },
     {
