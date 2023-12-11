@@ -5,12 +5,12 @@
     {
       "person": "leaf",
       "leaderboard": "2023-12-11",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 8,
+      "totalSeconds": 68,
+      "position": 1,
+      "scrapeTime": "2023-12-11T00:45:55.614Z",
+      "isPending": false
     },
     {
       "person": "leaf",
@@ -9067,13 +9067,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 49,
-    "totalSeconds": 49,
+    "seconds": 49.5,
+    "totalSeconds": 49.5,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 334,
+  "awardCount": 337,
   "awards": [
     {
       "title": "Gold",
@@ -9340,7 +9340,8 @@
         "2021-12-02",
         "2021-12-03",
         "2021-12-31",
-        "2023-04-16"
+        "2023-04-16",
+        "2023-12-11"
       ]
     },
     {
@@ -9515,7 +9516,8 @@
         "2023-03-13",
         "2023-04-07",
         "2023-04-16",
-        "2023-05-01"
+        "2023-05-01",
+        "2023-12-11"
       ]
     },
     {
@@ -9650,7 +9652,8 @@
       "type": "quick-draw",
       "text": "Complete a puzzle before anyone else (or within 30 minutes of the first person)",
       "dates": [
-        "2021-12-06"
+        "2021-12-06",
+        "2023-12-11"
       ]
     },
     {

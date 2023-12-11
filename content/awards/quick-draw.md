@@ -1099,18 +1099,19 @@
       ]
     },
     {
+      "person": "leaf",
+      "count": 2,
+      "dates": [
+        "2021-12-06",
+        "2023-12-11"
+      ]
+    },
+    {
       "person": "JRedondo",
       "count": 2,
       "dates": [
         "2022-04-01",
         "2022-04-02"
-      ]
-    },
-    {
-      "person": "leaf",
-      "count": 1,
-      "dates": [
-        "2021-12-06"
       ]
     },
     {
@@ -1121,5 +1122,5 @@
       ]
     }
   ],
-  "totalUnlocks": 1020
+  "totalUnlocks": 1021
 }
