@@ -20,7 +20,14 @@
       "dates": [
         "2023-01-10"
       ]
+    },
+    {
+      "person": "ivo",
+      "count": 1,
+      "dates": [
+        "2023-12-11"
+      ]
     }
   ],
-  "totalUnlocks": 5
+  "totalUnlocks": 6
 }
