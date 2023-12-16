@@ -5,12 +5,12 @@
     {
       "person": "j-sheps",
       "leaderboard": "2023-12-16",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 31,
+      "totalSeconds": 151,
+      "position": 2,
+      "scrapeTime": "2023-12-16T09:01:58.028Z",
+      "isPending": false
     },
     {
       "person": "j-sheps",
