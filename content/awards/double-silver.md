@@ -183,19 +183,20 @@
       ]
     },
     {
+      "person": "alexmuller",
+      "count": 2,
+      "dates": [
+        "2023-11-13",
+        "2023-12-22"
+      ]
+    },
+    {
       "person": "leaf",
       "count": 1,
       "dates": [
         "2021-10-18"
       ]
-    },
-    {
-      "person": "alexmuller",
-      "count": 1,
-      "dates": [
-        "2023-11-13"
-      ]
     }
   ],
-  "totalUnlocks": 132
+  "totalUnlocks": 133
 }

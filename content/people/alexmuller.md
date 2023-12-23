@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "alexmuller",
+      "leaderboard": "2023-12-23",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "alexmuller",
       "leaderboard": "2023-12-22",
       "minutes": 0,
       "seconds": 33,
@@ -4953,7 +4963,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1092,
+  "awardCount": 1094,
   "awards": [
     {
       "title": "Gold",
@@ -5038,7 +5048,8 @@
         "2023-12-02",
         "2023-12-12",
         "2023-12-15",
-        "2023-12-21"
+        "2023-12-21",
+        "2023-12-22"
       ]
     },
     {
@@ -5046,7 +5057,8 @@
       "type": "double-silver",
       "text": "Get the second fastest time two days in a row",
       "dates": [
-        "2023-11-13"
+        "2023-11-13",
+        "2023-12-22"
       ]
     },
     {
