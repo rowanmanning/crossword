@@ -5,12 +5,12 @@
     {
       "person": "j-sheps",
       "leaderboard": "2023-12-24",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 42,
+      "totalSeconds": 42,
+      "position": 4,
+      "scrapeTime": "2023-12-24T00:46:02.354Z",
+      "isPending": false
     },
     {
       "person": "j-sheps",
@@ -9196,14 +9196,14 @@
   "median": {
     "person": null,
     "leaderboard": null,
-    "minutes": 0,
-    "seconds": 43,
-    "totalSeconds": 43,
+    "minutes": 3,
+    "seconds": 54.5,
+    "totalSeconds": 234.5,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1938,
+  "awardCount": 1941,
   "awards": [
     {
       "title": "Gold",
@@ -10705,7 +10705,8 @@
         "2023-12-13",
         "2023-12-18",
         "2023-12-21",
-        "2023-12-22"
+        "2023-12-22",
+        "2023-12-24"
       ]
     },
     {
@@ -11167,6 +11168,7 @@
       "type": "yin-and-yang",
       "text": "Get the same time as another person but with flipped seconds",
       "dates": [
+        "2023-12-24",
         "2023-12-07",
         "2023-11-13",
         "2023-11-06",
@@ -11257,7 +11259,8 @@
         "2023-05-14",
         "2023-06-23",
         "2023-07-04",
-        "2023-12-21"
+        "2023-12-21",
+        "2023-12-24"
       ]
     },
     {
