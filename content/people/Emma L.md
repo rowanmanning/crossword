@@ -5,12 +5,12 @@
     {
       "person": "Emma L",
       "leaderboard": "2023-12-25",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 23,
+      "totalSeconds": 23,
+      "position": 1,
+      "scrapeTime": "2023-12-25T08:02:47.292Z",
+      "isPending": false
     },
     {
       "person": "Emma L",
@@ -8863,7 +8863,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 2334,
+  "awardCount": 2336,
   "awards": [
     {
       "title": "Gold",
@@ -10847,7 +10847,8 @@
         "2023-12-17",
         "2023-12-21",
         "2023-12-22",
-        "2023-12-24"
+        "2023-12-24",
+        "2023-12-25"
       ]
     },
     {
@@ -10979,6 +10980,7 @@
       "type": "christmas",
       "text": "Play the crossword on Christmas day",
       "dates": [
+        "2023-12-25",
         "2022-12-25",
         "2021-12-25"
       ]

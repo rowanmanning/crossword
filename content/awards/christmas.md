@@ -14,6 +14,24 @@
       ]
     },
     {
+      "person": "Emma L",
+      "count": 3,
+      "dates": [
+        "2023-12-25",
+        "2022-12-25",
+        "2021-12-25"
+      ]
+    },
+    {
+      "person": "Lily2point0",
+      "count": 3,
+      "dates": [
+        "2023-12-25",
+        "2022-12-25",
+        "2021-12-25"
+      ]
+    },
+    {
       "person": "apaleslimghost",
       "count": 2,
       "dates": [
@@ -30,14 +48,6 @@
       ]
     },
     {
-      "person": "Emma L",
-      "count": 2,
-      "dates": [
-        "2022-12-25",
-        "2021-12-25"
-      ]
-    },
-    {
       "person": "ivo",
       "count": 2,
       "dates": [
@@ -47,14 +57,6 @@
     },
     {
       "person": "j-sheps",
-      "count": 2,
-      "dates": [
-        "2022-12-25",
-        "2021-12-25"
-      ]
-    },
-    {
-      "person": "Lily2point0",
       "count": 2,
       "dates": [
         "2022-12-25",
@@ -104,5 +106,5 @@
       ]
     }
   ],
-  "totalUnlocks": 21
+  "totalUnlocks": 23
 }

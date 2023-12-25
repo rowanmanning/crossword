@@ -5,6 +5,16 @@
 		"seconds": null
 	},
 	{
+		"name": "Emma L",
+		"scrapeTime": "2023-12-25T08:02:47.292Z",
+		"seconds": 23
+	},
+	{
+		"name": "Lily2point0",
+		"scrapeTime": "2023-12-25T08:02:47.292Z",
+		"seconds": 47
+	},
+	{
 		"name": "binaryberry",
 		"scrapeTime": "2023-12-25T00:07:40.204Z",
 		"seconds": 49
@@ -40,11 +50,6 @@
 		"seconds": null
 	},
 	{
-		"name": "Emma L",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
 		"name": "itsalex",
 		"scrapeTime": null,
 		"seconds": null
@@ -71,11 +76,6 @@
 	},
 	{
 		"name": "leaf",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
-		"name": "Lily2point0",
 		"scrapeTime": null,
 		"seconds": null
 	},
