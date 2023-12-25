@@ -5,12 +5,12 @@
     {
       "person": "ivo",
       "leaderboard": "2023-12-25",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 28,
+      "totalSeconds": 28,
+      "position": 2,
+      "scrapeTime": "2023-12-25T09:31:41.949Z",
+      "isPending": false
     },
     {
       "person": "ivo",
@@ -8363,7 +8363,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1578,
+  "awardCount": 1580,
   "awards": [
     {
       "title": "Gold",
@@ -9745,7 +9745,8 @@
         "2023-12-10",
         "2023-12-13",
         "2023-12-18",
-        "2023-12-20"
+        "2023-12-20",
+        "2023-12-25"
       ]
     },
     {
@@ -9811,6 +9812,7 @@
       "type": "christmas",
       "text": "Play the crossword on Christmas day",
       "dates": [
+        "2023-12-25",
         "2022-12-25",
         "2021-12-25"
       ]

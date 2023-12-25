@@ -23,6 +23,15 @@
       ]
     },
     {
+      "person": "ivo",
+      "count": 3,
+      "dates": [
+        "2023-12-25",
+        "2022-12-25",
+        "2021-12-25"
+      ]
+    },
+    {
       "person": "Lily2point0",
       "count": 3,
       "dates": [
@@ -41,14 +50,6 @@
     },
     {
       "person": "cb",
-      "count": 2,
-      "dates": [
-        "2022-12-25",
-        "2021-12-25"
-      ]
-    },
-    {
-      "person": "ivo",
       "count": 2,
       "dates": [
         "2022-12-25",
@@ -106,5 +107,5 @@
       ]
     }
   ],
-  "totalUnlocks": 23
+  "totalUnlocks": 24
 }
