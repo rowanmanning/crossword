@@ -5,12 +5,12 @@
     {
       "person": "j-sheps",
       "leaderboard": "2023-12-25",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 30,
+      "totalSeconds": 30,
+      "position": 3,
+      "scrapeTime": "2023-12-25T17:02:01.144Z",
+      "isPending": false
     },
     {
       "person": "j-sheps",
@@ -9197,8 +9197,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 11,
-    "totalSeconds": 71,
+    "seconds": 10,
+    "totalSeconds": 70,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -9206,14 +9206,14 @@
   "median": {
     "person": null,
     "leaderboard": null,
-    "minutes": 3,
-    "seconds": 54.5,
-    "totalSeconds": 234.5,
+    "minutes": 7,
+    "seconds": 6,
+    "totalSeconds": 426,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1941,
+  "awardCount": 1943,
   "awards": [
     {
       "title": "Gold",
@@ -10716,7 +10716,8 @@
         "2023-12-18",
         "2023-12-21",
         "2023-12-22",
-        "2023-12-24"
+        "2023-12-24",
+        "2023-12-25"
       ]
     },
     {
@@ -10847,6 +10848,7 @@
       "type": "christmas",
       "text": "Play the crossword on Christmas day",
       "dates": [
+        "2023-12-25",
         "2022-12-25",
         "2021-12-25"
       ]
