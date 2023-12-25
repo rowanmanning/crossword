@@ -5,12 +5,12 @@
     {
       "person": "alexmuller",
       "leaderboard": "2023-12-25",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 51,
+      "totalSeconds": 51,
+      "position": 5,
+      "scrapeTime": "2023-12-25T13:31:37.939Z",
+      "isPending": false
     },
     {
       "person": "alexmuller",
@@ -4983,7 +4983,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1100,
+  "awardCount": 1102,
   "awards": [
     {
       "title": "Gold",
@@ -5689,7 +5689,8 @@
         "2023-12-04",
         "2023-12-05",
         "2023-12-06",
-        "2023-12-14"
+        "2023-12-14",
+        "2023-12-25"
       ]
     },
     {
@@ -5968,6 +5969,7 @@
       "type": "christmas",
       "text": "Play the crossword on Christmas day",
       "dates": [
+        "2023-12-25",
         "2022-12-25"
       ]
     },

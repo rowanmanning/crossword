@@ -65,6 +65,14 @@
       ]
     },
     {
+      "person": "alexmuller",
+      "count": 2,
+      "dates": [
+        "2023-12-25",
+        "2022-12-25"
+      ]
+    },
+    {
       "person": "Alice Bartlett",
       "count": 1,
       "dates": [
@@ -98,14 +106,7 @@
       "dates": [
         "2021-12-25"
       ]
-    },
-    {
-      "person": "alexmuller",
-      "count": 1,
-      "dates": [
-        "2022-12-25"
-      ]
     }
   ],
-  "totalUnlocks": 24
+  "totalUnlocks": 25
 }
