@@ -5,12 +5,12 @@
     {
       "person": "binaryberry",
       "leaderboard": "2023-12-25",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 49,
+      "totalSeconds": 49,
+      "position": 1,
+      "scrapeTime": "2023-12-25T00:07:40.204Z",
+      "isPending": false
     },
     {
       "person": "binaryberry",
@@ -9207,13 +9207,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 5,
-    "seconds": 30,
-    "totalSeconds": 330,
+    "seconds": 31,
+    "totalSeconds": 331,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1530,
+  "awardCount": 1533,
   "awards": [
     {
       "title": "Silver",
@@ -10187,7 +10187,8 @@
         "2023-11-13",
         "2023-11-29",
         "2023-12-01",
-        "2023-12-08"
+        "2023-12-08",
+        "2023-12-25"
       ]
     },
     {
@@ -10298,6 +10299,7 @@
       "type": "christmas",
       "text": "Play the crossword on Christmas day",
       "dates": [
+        "2023-12-25",
         "2022-12-25",
         "2021-12-25"
       ]
@@ -11001,7 +11003,8 @@
         "2023-12-13",
         "2023-12-14",
         "2023-12-15",
-        "2023-12-21"
+        "2023-12-21",
+        "2023-12-25"
       ]
     }
   ]
