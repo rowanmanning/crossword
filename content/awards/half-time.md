@@ -1428,11 +1428,12 @@
     },
     {
       "person": "ellejay",
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2022-09-23"
+        "2022-09-23",
+        "2023-12-26"
       ]
     }
   ],
-  "totalUnlocks": 1303
+  "totalUnlocks": 1304
 }
