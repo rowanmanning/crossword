@@ -5,12 +5,12 @@
     {
       "person": "ivo",
       "leaderboard": "2024-01-10",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 56,
+      "totalSeconds": 56,
+      "position": 2,
+      "scrapeTime": "2024-01-10T13:03:34.958Z",
+      "isPending": false
     },
     {
       "person": "ivo",
@@ -8523,7 +8523,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1611,
+  "awardCount": 1613,
   "awards": [
     {
       "title": "Gold",
@@ -9617,7 +9617,8 @@
         "2023-12-23",
         "2023-12-31",
         "2024-01-06",
-        "2024-01-09"
+        "2024-01-09",
+        "2024-01-10"
       ]
     },
     {
@@ -10129,7 +10130,8 @@
         "2023-12-05",
         "2023-12-10",
         "2023-12-19",
-        "2023-12-24"
+        "2023-12-24",
+        "2024-01-10"
       ]
     },
     {
