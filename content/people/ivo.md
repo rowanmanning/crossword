@@ -5,12 +5,12 @@
     {
       "person": "ivo",
       "leaderboard": "2024-01-12",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 23,
+      "totalSeconds": 23,
+      "position": 1,
+      "scrapeTime": "2024-01-12T10:02:11.218Z",
+      "isPending": false
     },
     {
       "person": "ivo",
@@ -8533,7 +8533,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1614,
+  "awardCount": 1618,
   "awards": [
     {
       "title": "Gold",
@@ -9064,7 +9064,8 @@
         "2023-12-10",
         "2023-12-13",
         "2023-12-29",
-        "2023-12-31"
+        "2023-12-31",
+        "2024-01-12"
       ]
     },
     {
@@ -9947,7 +9948,8 @@
         "2023-12-20",
         "2023-12-25",
         "2023-12-29",
-        "2024-01-02"
+        "2024-01-02",
+        "2024-01-12"
       ]
     },
     {
@@ -10304,7 +10306,8 @@
         "2023-11-01",
         "2023-11-07",
         "2023-11-10",
-        "2023-11-13"
+        "2023-11-13",
+        "2024-01-12"
       ]
     },
     {
@@ -10334,6 +10337,7 @@
       "type": "yin-and-yang",
       "text": "Get the same time as another person but with flipped seconds",
       "dates": [
+        "2024-01-12",
         "2023-11-06",
         "2023-09-13",
         "2023-09-10",

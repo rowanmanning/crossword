@@ -72,7 +72,14 @@
       "dates": [
         "2023-01-20"
       ]
+    },
+    {
+      "person": "joelcarr",
+      "count": 1,
+      "dates": [
+        "2024-01-12"
+      ]
     }
   ],
-  "totalUnlocks": 15
+  "totalUnlocks": 16
 }

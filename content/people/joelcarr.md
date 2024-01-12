@@ -5,12 +5,12 @@
     {
       "person": "joelcarr",
       "leaderboard": "2024-01-12",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 0,
+      "totalSeconds": 60,
+      "position": 4,
+      "scrapeTime": "2024-01-12T10:02:11.218Z",
+      "isPending": false
     },
     {
       "person": "joelcarr",
@@ -9367,8 +9367,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 50,
-    "totalSeconds": 170,
+    "seconds": 49,
+    "totalSeconds": 169,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -9377,13 +9377,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 3,
-    "seconds": 9.5,
-    "totalSeconds": 189.5,
+    "seconds": 10,
+    "totalSeconds": 190,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 241,
+  "awardCount": 245,
   "awards": [
     {
       "title": "Bronze",
@@ -9471,7 +9471,8 @@
         "2022-06-06",
         "2022-06-09",
         "2022-06-27",
-        "2022-08-01"
+        "2022-08-01",
+        "2024-01-12"
       ]
     },
     {
@@ -9590,7 +9591,8 @@
         "2022-06-17",
         "2022-06-27",
         "2022-08-22",
-        "2022-08-24"
+        "2022-08-24",
+        "2024-01-12"
       ]
     },
     {
@@ -9713,7 +9715,8 @@
         "2022-05-18",
         "2022-08-01",
         "2022-08-22",
-        "2022-09-13"
+        "2022-09-13",
+        "2024-01-12"
       ]
     },
     {
@@ -9762,6 +9765,14 @@
       "dates": [
         "2021-07-28",
         "2021-09-09"
+      ]
+    },
+    {
+      "title": "1 Friday Street",
+      "type": "friday-street",
+      "text": "Get a time of exactly 1:00 on a Friday",
+      "dates": [
+        "2024-01-12"
       ]
     },
     {
