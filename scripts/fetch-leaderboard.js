@@ -4,7 +4,7 @@
 const dotenv = require('dotenv');
 const fs = require('fs/promises');
 const loadJSON = require('./lib/utils/load-json');
-const ivm = require('isolated-vm');
+const JSON5 = require('json5');
 
 dotenv.config();
 
@@ -33,30 +33,14 @@ async function fetchLeaderboard() {
 		process.exit(1);
 	}
 
+	// Pluck the scores out of some JavaScript
 	const html = await response.text();
 	const matches = html.match(/<script[^>]+>\s*window\.data\s*=\s*\{(?<js>[^<]*)\s*\}<\/script>/i);
 	if (!matches?.groups?.js) {
 		console.error('Couldn\'t find the leaderboard JavaScript in the page HTML');
 		process.exit(1);
 	}
-
-	// This is so very gross
-	const isolate = new ivm.Isolate({memoryLimit: 128});
-	const context = isolate.createContextSync();
-	const sandbox = context.global;
-	sandbox.setSync('global', sandbox.derefInto());
-
-	let sandboxOutput;
-	sandbox.setSync('output', data => {
-		sandboxOutput = data;
-	});
-
-	console.log(context.evalSync(`output(JSON.stringify({${matches.groups.js}}))`));
-	if (typeof sandboxOutput !== 'string') {
-		console.error('Couldn\'t evaluate the leaderboard JavaScript');
-		process.exit(1);
-	}
-	const scoreData = JSON.parse(sandboxOutput);
+	const scoreData = JSON5.parse(`{${matches.groups.js}}`);
 
 	const date = scoreData.printDate ? parseDate(scoreData.printDate) : null;
 
