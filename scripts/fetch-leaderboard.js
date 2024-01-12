@@ -3,8 +3,8 @@
 
 const dotenv = require('dotenv');
 const fs = require('fs/promises');
-const {JSDOM} = require('jsdom');
 const loadJSON = require('./lib/utils/load-json');
+const ivm = require('isolated-vm');
 
 dotenv.config();
 
@@ -33,23 +33,39 @@ async function fetchLeaderboard() {
 		process.exit(1);
 	}
 
-	const {window} = new JSDOM(await response.text());
-	const {document} = window;
+	const html = await response.text();
+	const matches = html.match(/<script[^>]+>\s*window\.data\s*=\s*\{(?<js>[^<]*)\s*\}<\/script>/i);
+	if (!matches?.groups?.js) {
+		console.error('Couldn\'t find the leaderboard JavaScript in the page HTML');
+		process.exit(1);
+	}
 
-	const dateElement = document.querySelector('.lbd-type__date');
-	const date = dateElement ? parseDate(dateElement.textContent.trim()) : null;
+	// This is so very gross
+	const isolate = new ivm.Isolate({memoryLimit: 128});
+	const context = isolate.createContextSync();
+	const sandbox = context.global;
+	sandbox.setSync('global', sandbox.derefInto());
 
-	const parsedScores = [...document.querySelectorAll('.lbd-score')]
-		.filter(score => {
-			return !score.querySelector('.lbd-score__you');
-		})
+	let sandboxOutput;
+	sandbox.setSync('output', data => {
+		sandboxOutput = data;
+	});
+
+	console.log(context.evalSync(`output(JSON.stringify({${matches.groups.js}}))`));
+	if (typeof sandboxOutput !== 'string') {
+		console.error('Couldn\'t evaluate the leaderboard JavaScript');
+		process.exit(1);
+	}
+	const scoreData = JSON.parse(sandboxOutput);
+
+	const date = scoreData.printDate ? parseDate(scoreData.printDate) : null;
+
+	const parsedScores = scoreData.scoreList
+		.filter(score => !score.isMe)
 		.map(score => {
-			const nameElement = score.querySelector('.lbd-score__name');
-			const timeElement = score.querySelector('.lbd-score__time');
-			const name = nameElement ? nameElement.textContent.trim() : 'Unknown';
-			const time = timeElement ? parseTime(timeElement.textContent.trim()) : null;
+			const time = score?.solveTime ? parseTime(score.solveTime) : null;
 			return {
-				name,
+				name: score?.name || 'Unknown',
 				scrapeTime: null,
 				seconds: time ? (time.minutes * 60) + time.seconds : null
 			};
