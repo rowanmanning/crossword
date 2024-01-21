@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "alexmuller",
+      "leaderboard": "2024-01-22",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "alexmuller",
       "leaderboard": "2024-01-21",
       "minutes": 0,
       "seconds": 37,
@@ -5243,7 +5253,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1167,
+  "awardCount": 1168,
   "awards": [
     {
       "title": "Gold",
@@ -5335,7 +5345,8 @@
         "2023-12-27",
         "2023-12-31",
         "2024-01-09",
-        "2024-01-16"
+        "2024-01-16",
+        "2024-01-21"
       ]
     },
     {
