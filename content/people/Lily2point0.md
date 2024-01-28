@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Lily2point0",
+      "leaderboard": "2024-01-29",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Lily2point0",
       "leaderboard": "2024-01-28",
       "minutes": 0,
       "seconds": 37,
@@ -9543,7 +9553,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1706,
+  "awardCount": 1707,
   "awards": [
     {
       "title": "Gold",
@@ -9551,7 +9561,8 @@
       "text": "Get the fastest time for a day",
       "dates": [
         "2021-09-11",
-        "2021-10-09"
+        "2021-10-09",
+        "2024-01-28"
       ]
     },
     {
