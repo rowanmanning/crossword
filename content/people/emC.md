@@ -5,12 +5,12 @@
     {
       "person": "emC",
       "leaderboard": "2024-02-01",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 2,
+      "totalSeconds": 62,
+      "position": 3,
+      "scrapeTime": "2024-02-01T14:02:10.982Z",
+      "isPending": false
     },
     {
       "person": "emC",
@@ -37,8 +37,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 36,
-    "totalSeconds": 36,
+    "seconds": 49,
+    "totalSeconds": 49,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -47,14 +47,22 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 36,
-    "totalSeconds": 36,
+    "seconds": 49,
+    "totalSeconds": 49,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1,
+  "awardCount": 2,
   "awards": [
+    {
+      "title": "Sub Two Minutes",
+      "type": "sub-120",
+      "text": "Complete a puzzle in less than two minutes",
+      "dates": [
+        "2024-02-01"
+      ]
+    },
     {
       "title": "Sub 45 Seconds",
       "type": "sub-45",
