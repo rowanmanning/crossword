@@ -5,12 +5,12 @@
     {
       "person": "alexmuller",
       "leaderboard": "2024-02-01",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 37,
+      "totalSeconds": 97,
+      "position": 3,
+      "scrapeTime": "2024-02-01T07:01:56.388Z",
+      "isPending": false
     },
     {
       "person": "alexmuller",
@@ -5353,7 +5353,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1190,
+  "awardCount": 1193,
   "awards": [
     {
       "title": "Gold",
@@ -5857,7 +5857,8 @@
         "2023-12-30",
         "2024-01-01",
         "2024-01-08",
-        "2024-01-27"
+        "2024-01-27",
+        "2024-02-01"
       ]
     },
     {
@@ -5997,7 +5998,8 @@
         "2024-01-13",
         "2024-01-19",
         "2024-01-20",
-        "2024-01-27"
+        "2024-01-27",
+        "2024-02-01"
       ]
     },
     {
@@ -6634,6 +6636,14 @@
         "2023-02-24",
         "2023-01-22",
         "2022-10-10"
+      ]
+    },
+    {
+      "title": "Arjun",
+      "type": "arjun",
+      "text": "Join us",
+      "dates": [
+        "2024-02-01"
       ]
     },
     {
