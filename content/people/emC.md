@@ -5,12 +5,12 @@
     {
       "person": "emC",
       "leaderboard": "2024-02-02",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 4,
+      "totalSeconds": 124,
+      "position": 8,
+      "scrapeTime": "2024-02-02T17:02:04.897Z",
+      "isPending": false
     },
     {
       "person": "emC",
@@ -46,9 +46,9 @@
   "mean": {
     "person": null,
     "leaderboard": null,
-    "minutes": 0,
-    "seconds": 49,
-    "totalSeconds": 49,
+    "minutes": 1,
+    "seconds": 14,
+    "totalSeconds": 74,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -57,13 +57,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 49,
-    "totalSeconds": 49,
+    "seconds": 36,
+    "totalSeconds": 36,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 3,
+  "awardCount": 5,
   "awards": [
     {
       "title": "Bronze",
@@ -71,6 +71,14 @@
       "text": "Get the third fastest time for a day",
       "dates": [
         "2024-02-01"
+      ]
+    },
+    {
+      "title": "Double Time",
+      "type": "double-time",
+      "text": "Double your completion time from one day to the next",
+      "dates": [
+        "2024-02-02"
       ]
     },
     {
@@ -87,6 +95,14 @@
       "text": "Complete a puzzle in less than 45 seconds",
       "dates": [
         "2024-01-31"
+      ]
+    },
+    {
+      "title": "Three Day Streak",
+      "type": "three-day-streak",
+      "text": "Play for three days in a row",
+      "dates": [
+        "2024-02-02"
       ]
     }
   ]
