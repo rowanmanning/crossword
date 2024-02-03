@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "emC",
+      "leaderboard": "2024-02-04",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "emC",
       "leaderboard": "2024-02-03",
       "minutes": 0,
       "seconds": 46,
@@ -73,8 +83,16 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 8,
+  "awardCount": 10,
   "awards": [
+    {
+      "title": "Gold",
+      "type": "gold",
+      "text": "Get the fastest time for a day",
+      "dates": [
+        "2024-02-03"
+      ]
+    },
     {
       "title": "Bronze",
       "type": "bronze",
@@ -137,6 +155,14 @@
       "text": "Play for three days in a row",
       "dates": [
         "2024-02-02"
+      ]
+    },
+    {
+      "title": "Slow and Steady",
+      "type": "slow-and-steady",
+      "text": "Complete a puzzle after everyone else but with the fastest time",
+      "dates": [
+        "2024-02-03"
       ]
     }
   ]
