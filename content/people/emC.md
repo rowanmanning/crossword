@@ -5,12 +5,12 @@
     {
       "person": "emC",
       "leaderboard": "2024-02-03",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 46,
+      "totalSeconds": 46,
+      "position": 1,
+      "scrapeTime": "2024-02-03T14:01:59.343Z",
+      "isPending": false
     },
     {
       "person": "emC",
@@ -57,8 +57,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 14,
-    "totalSeconds": 74,
+    "seconds": 7,
+    "totalSeconds": 67,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -67,13 +67,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 36,
-    "totalSeconds": 36,
+    "seconds": 41,
+    "totalSeconds": 41,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 5,
+  "awardCount": 8,
   "awards": [
     {
       "title": "Bronze",
@@ -81,6 +81,14 @@
       "text": "Get the third fastest time for a day",
       "dates": [
         "2024-02-01"
+      ]
+    },
+    {
+      "title": "Half Time",
+      "type": "half-time",
+      "text": "Half your completion time from one day to the next",
+      "dates": [
+        "2024-02-03"
       ]
     },
     {
@@ -100,11 +108,27 @@
       ]
     },
     {
+      "title": "Sub Minute",
+      "type": "sub-60",
+      "text": "Complete a puzzle in less than a minute",
+      "dates": [
+        "2024-02-03"
+      ]
+    },
+    {
       "title": "Sub 45 Seconds",
       "type": "sub-45",
       "text": "Complete a puzzle in less than 45 seconds",
       "dates": [
         "2024-01-31"
+      ]
+    },
+    {
+      "title": "Nice Try, Joel",
+      "type": "nice-try-joel",
+      "text": "Complete a puzzle in less than a minute on a Saturday",
+      "dates": [
+        "2024-02-03"
       ]
     },
     {
