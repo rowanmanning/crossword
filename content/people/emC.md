@@ -5,12 +5,12 @@
     {
       "person": "emC",
       "leaderboard": "2024-02-05",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 59,
+      "totalSeconds": 59,
+      "position": 4,
+      "scrapeTime": "2024-02-05T20:31:39.193Z",
+      "isPending": false
     },
     {
       "person": "emC",
@@ -77,8 +77,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 7,
-    "totalSeconds": 67,
+    "seconds": 6,
+    "totalSeconds": 66,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -87,13 +87,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 41,
-    "totalSeconds": 41,
+    "seconds": 46,
+    "totalSeconds": 46,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 10,
+  "awardCount": 12,
   "awards": [
     {
       "title": "Gold",
@@ -140,7 +140,8 @@
       "type": "sub-60",
       "text": "Complete a puzzle in less than a minute",
       "dates": [
-        "2024-02-03"
+        "2024-02-03",
+        "2024-02-05"
       ]
     },
     {
@@ -165,6 +166,14 @@
       "text": "Play for three days in a row",
       "dates": [
         "2024-02-02"
+      ]
+    },
+    {
+      "title": "Twinning",
+      "type": "twinning",
+      "text": "Get the same time as another person",
+      "dates": [
+        "2024-02-05"
       ]
     },
     {

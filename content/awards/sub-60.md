@@ -1867,19 +1867,20 @@
       ]
     },
     {
+      "person": "emC",
+      "count": 2,
+      "dates": [
+        "2024-02-03",
+        "2024-02-05"
+      ]
+    },
+    {
       "person": "JRedondo",
       "count": 1,
       "dates": [
         "2022-03-25"
       ]
-    },
-    {
-      "person": "emC",
-      "count": 1,
-      "dates": [
-        "2024-02-03"
-      ]
     }
   ],
-  "totalUnlocks": 1744
+  "totalUnlocks": 1745
 }
