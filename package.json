@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "dotenv": "^16.4.1",
-    "hotkeys-js": "^3.13.5",
+    "hotkeys-js": "^3.13.6",
     "json5": "^2.2.3"
   },
   "devDependencies": {
