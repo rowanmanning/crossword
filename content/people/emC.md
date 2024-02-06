@@ -5,12 +5,12 @@
     {
       "person": "emC",
       "leaderboard": "2024-02-06",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 37,
+      "totalSeconds": 37,
+      "position": 3,
+      "scrapeTime": "2024-02-06T09:02:03.544Z",
+      "isPending": false
     },
     {
       "person": "emC",
@@ -87,8 +87,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 6,
-    "totalSeconds": 66,
+    "seconds": 1,
+    "totalSeconds": 61,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -97,13 +97,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 46,
-    "totalSeconds": 46,
+    "seconds": 41.5,
+    "totalSeconds": 41.5,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 12,
+  "awardCount": 14,
   "awards": [
     {
       "title": "Gold",
@@ -159,7 +159,8 @@
       "type": "sub-45",
       "text": "Complete a puzzle in less than 45 seconds",
       "dates": [
-        "2024-01-31"
+        "2024-01-31",
+        "2024-02-06"
       ]
     },
     {
@@ -183,7 +184,8 @@
       "type": "twinning",
       "text": "Get the same time as another person",
       "dates": [
-        "2024-02-05"
+        "2024-02-05",
+        "2024-02-06"
       ]
     },
     {
