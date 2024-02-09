@@ -5,12 +5,12 @@
     {
       "person": "arjun137",
       "leaderboard": "2024-02-09",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 12,
+      "totalSeconds": 132,
+      "position": 6,
+      "scrapeTime": "2024-02-09T18:02:18.947Z",
+      "isPending": false
     },
     {
       "person": "arjun137",
@@ -9627,8 +9627,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 36,
-    "totalSeconds": 96,
+    "seconds": 38,
+    "totalSeconds": 98,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -9637,13 +9637,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 48,
-    "totalSeconds": 48,
+    "seconds": 46,
+    "totalSeconds": 46,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 31,
+  "awardCount": 32,
   "awards": [
     {
       "title": "Half Time",
@@ -9726,7 +9726,8 @@
         "2023-11-05",
         "2023-11-13",
         "2023-11-21",
-        "2024-01-12"
+        "2024-01-12",
+        "2024-02-09"
       ]
     },
     {
