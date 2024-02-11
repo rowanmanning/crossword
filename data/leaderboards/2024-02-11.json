@@ -1,13 +1,18 @@
 [
 	{
-		"name": "Lily2point0",
-		"scrapeTime": "2024-02-11T00:08:00.431Z",
-		"seconds": 56
+		"name": "Emma L",
+		"scrapeTime": "2024-02-11T07:31:55.028Z",
+		"seconds": 35
 	},
 	{
 		"name": "alexmuller",
-		"scrapeTime": null,
-		"seconds": null
+		"scrapeTime": "2024-02-11T07:31:55.028Z",
+		"seconds": 50
+	},
+	{
+		"name": "Lily2point0",
+		"scrapeTime": "2024-02-11T00:08:00.431Z",
+		"seconds": 56
 	},
 	{
 		"name": "Alice Bartlett",
@@ -46,11 +51,6 @@
 	},
 	{
 		"name": "emC",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
-		"name": "Emma L",
 		"scrapeTime": null,
 		"seconds": null
 	},
