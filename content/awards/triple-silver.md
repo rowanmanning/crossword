@@ -51,6 +51,14 @@
       ]
     },
     {
+      "person": "ivo",
+      "count": 2,
+      "dates": [
+        "2023-12-10",
+        "2024-02-11"
+      ]
+    },
+    {
       "person": "apaleslimghost",
       "count": 1,
       "dates": [
@@ -63,14 +71,7 @@
       "dates": [
         "2023-11-04"
       ]
-    },
-    {
-      "person": "ivo",
-      "count": 1,
-      "dates": [
-        "2023-12-10"
-      ]
     }
   ],
-  "totalUnlocks": 25
+  "totalUnlocks": 26
 }
