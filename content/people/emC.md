@@ -5,12 +5,12 @@
     {
       "person": "emC",
       "leaderboard": "2024-02-12",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 21,
+      "totalSeconds": 21,
+      "position": 1,
+      "scrapeTime": "2024-02-12T10:02:57.061Z",
+      "isPending": false
     },
     {
       "person": "emC",
@@ -135,20 +135,20 @@
   ],
   "best": {
     "person": "emC",
-    "leaderboard": "2024-01-31",
+    "leaderboard": "2024-02-12",
     "minutes": 0,
-    "seconds": 36,
-    "totalSeconds": 36,
-    "position": 5,
-    "scrapeTime": "2024-01-31T12:02:48.070Z",
+    "seconds": 21,
+    "totalSeconds": 21,
+    "position": 1,
+    "scrapeTime": "2024-02-12T10:02:57.061Z",
     "isPending": false
   },
   "mean": {
     "person": null,
     "leaderboard": null,
-    "minutes": 1,
-    "seconds": 0,
-    "totalSeconds": 60,
+    "minutes": 0,
+    "seconds": 55,
+    "totalSeconds": 55,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -157,13 +157,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 47.5,
-    "totalSeconds": 47.5,
+    "seconds": 46,
+    "totalSeconds": 46,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 18,
+  "awardCount": 20,
   "awards": [
     {
       "title": "Gold",
@@ -194,7 +194,8 @@
       "type": "half-time",
       "text": "Half your completion time from one day to the next",
       "dates": [
-        "2024-02-03"
+        "2024-02-03",
+        "2024-02-12"
       ]
     },
     {
@@ -231,6 +232,14 @@
       "dates": [
         "2024-01-31",
         "2024-02-06"
+      ]
+    },
+    {
+      "title": "Sub 30 Seconds",
+      "type": "sub-30",
+      "text": "Complete a puzzle in less than 30 seconds",
+      "dates": [
+        "2024-02-12"
       ]
     },
     {
