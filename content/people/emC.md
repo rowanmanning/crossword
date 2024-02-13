@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "emC",
+      "leaderboard": "2024-02-13",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "emC",
       "leaderboard": "2024-02-12",
       "minutes": 0,
       "seconds": 21,
@@ -163,14 +173,15 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 20,
+  "awardCount": 21,
   "awards": [
     {
       "title": "Gold",
       "type": "gold",
       "text": "Get the fastest time for a day",
       "dates": [
-        "2024-02-03"
+        "2024-02-03",
+        "2024-02-12"
       ]
     },
     {
