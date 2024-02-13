@@ -5,12 +5,12 @@
     {
       "person": "emC",
       "leaderboard": "2024-02-13",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 6,
+      "totalSeconds": 66,
+      "position": 5,
+      "scrapeTime": "2024-02-13T09:31:48.269Z",
+      "isPending": false
     },
     {
       "person": "emC",
@@ -157,8 +157,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 55,
-    "totalSeconds": 55,
+    "seconds": 56,
+    "totalSeconds": 56,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -167,13 +167,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 46,
-    "totalSeconds": 46,
+    "seconds": 47.5,
+    "totalSeconds": 47.5,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 21,
+  "awardCount": 23,
   "awards": [
     {
       "title": "Gold",
@@ -214,7 +214,8 @@
       "type": "double-time",
       "text": "Double your completion time from one day to the next",
       "dates": [
-        "2024-02-02"
+        "2024-02-02",
+        "2024-02-13"
       ]
     },
     {
@@ -223,7 +224,8 @@
       "text": "Complete a puzzle in less than two minutes",
       "dates": [
         "2024-02-01",
-        "2024-02-07"
+        "2024-02-07",
+        "2024-02-13"
       ]
     },
     {
