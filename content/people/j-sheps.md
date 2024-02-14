@@ -5,12 +5,12 @@
     {
       "person": "j-sheps",
       "leaderboard": "2024-02-14",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 50,
+      "totalSeconds": 50,
+      "position": 3,
+      "scrapeTime": "2024-02-14T08:31:36.064Z",
+      "isPending": false
     },
     {
       "person": "j-sheps",
@@ -9713,7 +9713,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 2045,
+  "awardCount": 2048,
   "awards": [
     {
       "title": "Gold",
@@ -10542,7 +10542,8 @@
         "2024-01-13",
         "2024-01-27",
         "2024-02-01",
-        "2024-02-08"
+        "2024-02-08",
+        "2024-02-14"
       ]
     },
     {
@@ -11040,7 +11041,8 @@
         "2024-01-21",
         "2024-02-05",
         "2024-02-07",
-        "2024-02-12"
+        "2024-02-12",
+        "2024-02-14"
       ]
     },
     {
@@ -11441,6 +11443,7 @@
       "type": "valentines",
       "text": "Play the crossword on Valentines day",
       "dates": [
+        "2024-02-14",
         "2023-02-14",
         "2022-02-14"
       ]
