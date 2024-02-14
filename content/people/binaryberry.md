@@ -5,12 +5,12 @@
     {
       "person": "binaryberry",
       "leaderboard": "2024-02-14",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 37,
+      "totalSeconds": 97,
+      "position": 1,
+      "scrapeTime": "2024-02-14T05:31:41.015Z",
+      "isPending": false
     },
     {
       "person": "binaryberry",
@@ -9713,7 +9713,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1635,
+  "awardCount": 1640,
   "awards": [
     {
       "title": "Silver",
@@ -10246,7 +10246,8 @@
         "2024-01-31",
         "2024-02-02",
         "2024-02-08",
-        "2024-02-10"
+        "2024-02-10",
+        "2024-02-14"
       ]
     },
     {
@@ -10635,7 +10636,8 @@
         "2024-02-07",
         "2024-02-09",
         "2024-02-11",
-        "2024-02-12"
+        "2024-02-12",
+        "2024-02-14"
       ]
     },
     {
@@ -10871,6 +10873,7 @@
       "type": "valentines",
       "text": "Play the crossword on Valentines day",
       "dates": [
+        "2024-02-14",
         "2023-02-14",
         "2022-02-14"
       ]
@@ -11071,7 +11074,8 @@
         "2022-12-05",
         "2023-02-17",
         "2023-04-24",
-        "2023-11-03"
+        "2023-11-03",
+        "2024-02-14"
       ]
     },
     {
@@ -11606,7 +11610,8 @@
         "2024-02-08",
         "2024-02-09",
         "2024-02-10",
-        "2024-02-13"
+        "2024-02-13",
+        "2024-02-14"
       ]
     }
   ]
