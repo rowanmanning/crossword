@@ -5,12 +5,12 @@
     {
       "person": "Emma L",
       "leaderboard": "2024-02-14",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 30,
+      "totalSeconds": 30,
+      "position": 1,
+      "scrapeTime": "2024-02-14T07:31:38.010Z",
+      "isPending": false
     },
     {
       "person": "Emma L",
@@ -9363,7 +9363,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 2478,
+  "awardCount": 2480,
   "awards": [
     {
       "title": "Gold",
@@ -11227,7 +11227,8 @@
         "2024-02-09",
         "2024-02-10",
         "2024-02-11",
-        "2024-02-13"
+        "2024-02-13",
+        "2024-02-14"
       ]
     },
     {
@@ -11615,6 +11616,7 @@
       "type": "valentines",
       "text": "Play the crossword on Valentines day",
       "dates": [
+        "2024-02-14",
         "2023-02-14",
         "2022-02-14"
       ]

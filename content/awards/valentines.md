@@ -14,15 +14,25 @@
       ]
     },
     {
-      "person": "Ania",
-      "count": 2,
+      "person": "Emma L",
+      "count": 3,
       "dates": [
+        "2024-02-14",
         "2023-02-14",
         "2022-02-14"
       ]
     },
     {
-      "person": "Emma L",
+      "person": "Lily2point0",
+      "count": 3,
+      "dates": [
+        "2024-02-14",
+        "2023-02-14",
+        "2022-02-14"
+      ]
+    },
+    {
+      "person": "Ania",
       "count": 2,
       "dates": [
         "2023-02-14",
@@ -39,14 +49,6 @@
     },
     {
       "person": "j-sheps",
-      "count": 2,
-      "dates": [
-        "2023-02-14",
-        "2022-02-14"
-      ]
-    },
-    {
-      "person": "Lily2point0",
       "count": 2,
       "dates": [
         "2023-02-14",
@@ -126,5 +128,5 @@
       ]
     }
   ],
-  "totalUnlocks": 25
+  "totalUnlocks": 27
 }
