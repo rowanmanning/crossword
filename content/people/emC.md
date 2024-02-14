@@ -5,12 +5,12 @@
     {
       "person": "emC",
       "leaderboard": "2024-02-14",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 52,
+      "totalSeconds": 52,
+      "position": 4,
+      "scrapeTime": "2024-02-14T23:31:38.033Z",
+      "isPending": false
     },
     {
       "person": "emC",
@@ -177,13 +177,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 47.5,
-    "totalSeconds": 47.5,
+    "seconds": 49,
+    "totalSeconds": 49,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 23,
+  "awardCount": 26,
   "awards": [
     {
       "title": "Gold",
@@ -245,7 +245,8 @@
       "dates": [
         "2024-02-03",
         "2024-02-05",
-        "2024-02-09"
+        "2024-02-09",
+        "2024-02-14"
       ]
     },
     {
@@ -274,12 +275,21 @@
       ]
     },
     {
+      "title": "I Choo Choo Choose You",
+      "type": "valentines",
+      "text": "Play the crossword on Valentines day",
+      "dates": [
+        "2024-02-14"
+      ]
+    },
+    {
       "title": "Three Day Streak",
       "type": "three-day-streak",
       "text": "Play for three days in a row",
       "dates": [
         "2024-02-02",
-        "2024-02-07"
+        "2024-02-07",
+        "2024-02-14"
       ]
     },
     {
