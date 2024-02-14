@@ -5,12 +5,12 @@
     {
       "person": "alexmuller",
       "leaderboard": "2024-02-14",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 39,
+      "totalSeconds": 39,
+      "position": 1,
+      "scrapeTime": "2024-02-14T07:01:58.120Z",
+      "isPending": false
     },
     {
       "person": "alexmuller",
@@ -5483,7 +5483,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1226,
+  "awardCount": 1228,
   "awards": [
     {
       "title": "Gold",
@@ -6452,7 +6452,8 @@
         "2024-02-02",
         "2024-02-04",
         "2024-02-06",
-        "2024-02-09"
+        "2024-02-09",
+        "2024-02-14"
       ]
     },
     {
@@ -6580,6 +6581,7 @@
       "type": "valentines",
       "text": "Play the crossword on Valentines day",
       "dates": [
+        "2024-02-14",
         "2023-02-14"
       ]
     },
