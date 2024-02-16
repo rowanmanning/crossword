@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "emC",
+      "leaderboard": "2024-02-16",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "emC",
       "leaderboard": "2024-02-15",
       "minutes": 0,
       "seconds": 52,
@@ -193,7 +203,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 28,
+  "awardCount": 29,
   "awards": [
     {
       "title": "Gold",
@@ -316,6 +326,14 @@
       "title": "Yin and Yang",
       "type": "yin-and-yang",
       "text": "Get the same time as another person but with flipped seconds",
+      "dates": [
+        "2024-02-15"
+      ]
+    },
+    {
+      "title": "The Number of The Beast",
+      "type": "beast",
+      "text": "His number is six hundred and sixty-six",
       "dates": [
         "2024-02-15"
       ]
