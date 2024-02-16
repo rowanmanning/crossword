@@ -5,12 +5,12 @@
     {
       "person": "emC",
       "leaderboard": "2024-02-15",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 52,
+      "totalSeconds": 52,
+      "position": 6,
+      "scrapeTime": "2024-02-16T00:07:01.369Z",
+      "isPending": false
     },
     {
       "person": "emC",
@@ -187,13 +187,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 49,
-    "totalSeconds": 49,
+    "seconds": 50.5,
+    "totalSeconds": 50.5,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 26,
+  "awardCount": 28,
   "awards": [
     {
       "title": "Gold",
@@ -256,7 +256,8 @@
         "2024-02-03",
         "2024-02-05",
         "2024-02-09",
-        "2024-02-14"
+        "2024-02-14",
+        "2024-02-15"
       ]
     },
     {
@@ -309,6 +310,14 @@
       "dates": [
         "2024-02-05",
         "2024-02-06"
+      ]
+    },
+    {
+      "title": "Yin and Yang",
+      "type": "yin-and-yang",
+      "text": "Get the same time as another person but with flipped seconds",
+      "dates": [
+        "2024-02-15"
       ]
     },
     {
