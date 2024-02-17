@@ -5,12 +5,12 @@
     {
       "person": "emC",
       "leaderboard": "2024-02-17",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 59,
+      "totalSeconds": 119,
+      "position": 4,
+      "scrapeTime": "2024-02-17T11:31:45.027Z",
+      "isPending": false
     },
     {
       "person": "emC",
@@ -196,9 +196,9 @@
   "mean": {
     "person": null,
     "leaderboard": null,
-    "minutes": 0,
-    "seconds": 56,
-    "totalSeconds": 56,
+    "minutes": 1,
+    "seconds": 1,
+    "totalSeconds": 61,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -207,13 +207,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 50.5,
-    "totalSeconds": 50.5,
+    "seconds": 49,
+    "totalSeconds": 49,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 29,
+  "awardCount": 31,
   "awards": [
     {
       "title": "Gold",
@@ -255,7 +255,8 @@
       "text": "Double your completion time from one day to the next",
       "dates": [
         "2024-02-02",
-        "2024-02-13"
+        "2024-02-13",
+        "2024-02-17"
       ]
     },
     {
@@ -265,7 +266,8 @@
       "dates": [
         "2024-02-01",
         "2024-02-07",
-        "2024-02-13"
+        "2024-02-13",
+        "2024-02-17"
       ]
     },
     {
