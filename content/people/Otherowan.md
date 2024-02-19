@@ -5,12 +5,12 @@
     {
       "person": "Otherowan",
       "leaderboard": "2024-02-19",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 25,
+      "totalSeconds": 85,
+      "position": 7,
+      "scrapeTime": "2024-02-19T14:31:42.541Z",
+      "isPending": false
     },
     {
       "person": "Otherowan",
@@ -7553,7 +7553,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1161,
+  "awardCount": 1163,
   "awards": [
     {
       "title": "Gold",
@@ -8183,7 +8183,8 @@
         "2023-12-17",
         "2024-01-01",
         "2024-01-13",
-        "2024-01-31"
+        "2024-01-31",
+        "2024-02-19"
       ]
     },
     {
@@ -8722,7 +8723,8 @@
       "type": "holiday",
       "text": "Come back to the crossword after a week off",
       "dates": [
-        "2023-11-01"
+        "2023-11-01",
+        "2024-02-19"
       ]
     },
     {

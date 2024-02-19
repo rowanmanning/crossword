@@ -145,6 +145,14 @@
       ]
     },
     {
+      "person": "Otherowan",
+      "count": 2,
+      "dates": [
+        "2023-11-01",
+        "2024-02-19"
+      ]
+    },
+    {
       "person": "binaryberry",
       "count": 1,
       "dates": [
@@ -164,14 +172,7 @@
       "dates": [
         "2022-10-20"
       ]
-    },
-    {
-      "person": "Otherowan",
-      "count": 1,
-      "dates": [
-        "2023-11-01"
-      ]
     }
   ],
-  "totalUnlocks": 78
+  "totalUnlocks": 79
 }
