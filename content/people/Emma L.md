@@ -5,12 +5,12 @@
     {
       "person": "Emma L",
       "leaderboard": "2024-02-22",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 34,
+      "totalSeconds": 34,
+      "position": 1,
+      "scrapeTime": "2024-02-22T08:02:24.631Z",
+      "isPending": false
     },
     {
       "person": "Emma L",
@@ -9443,7 +9443,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 2502,
+  "awardCount": 2504,
   "awards": [
     {
       "title": "Gold",
@@ -11327,7 +11327,8 @@
         "2024-02-13",
         "2024-02-14",
         "2024-02-16",
-        "2024-02-19"
+        "2024-02-19",
+        "2024-02-22"
       ]
     },
     {
@@ -12040,6 +12041,7 @@
       "type": "yin-and-yang",
       "text": "Get the same time as another person but with flipped seconds",
       "dates": [
+        "2024-02-22",
         "2024-01-17",
         "2024-01-12",
         "2023-12-24",
