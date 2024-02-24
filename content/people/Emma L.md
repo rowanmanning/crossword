@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Emma L",
+      "leaderboard": "2024-02-24",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Emma L",
       "leaderboard": "2024-02-23",
       "minutes": 0,
       "seconds": 24,
@@ -9453,7 +9463,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 2506,
+  "awardCount": 2508,
   "awards": [
     {
       "title": "Gold",
@@ -9730,7 +9740,8 @@
         "2024-02-16",
         "2024-02-17",
         "2024-02-18",
-        "2024-02-21"
+        "2024-02-21",
+        "2024-02-23"
       ]
     },
     {
@@ -12279,7 +12290,8 @@
       "text": "Complete a puzzle after everyone else but with the fastest time",
       "dates": [
         "2023-10-28",
-        "2023-10-29"
+        "2023-10-29",
+        "2024-02-23"
       ]
     },
     {
