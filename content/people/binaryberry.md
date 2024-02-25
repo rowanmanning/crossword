@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "binaryberry",
+      "leaderboard": "2024-02-26",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "binaryberry",
       "leaderboard": "2024-02-25",
       "minutes": 1,
       "seconds": 3,
@@ -9823,8 +9833,16 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1663,
+  "awardCount": 1664,
   "awards": [
+    {
+      "title": "Gold",
+      "type": "gold",
+      "text": "Get the fastest time for a day",
+      "dates": [
+        "2024-02-25"
+      ]
+    },
     {
       "title": "Silver",
       "type": "silver",

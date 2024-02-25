@@ -1143,7 +1143,14 @@
         "2024-02-03",
         "2024-02-12"
       ]
+    },
+    {
+      "person": "binaryberry",
+      "count": 1,
+      "dates": [
+        "2024-02-25"
+      ]
     }
   ],
-  "totalUnlocks": 1044
+  "totalUnlocks": 1045
 }
