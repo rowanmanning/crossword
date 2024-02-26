@@ -5,12 +5,12 @@
     {
       "person": "emC",
       "leaderboard": "2024-02-26",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 43,
+      "totalSeconds": 43,
+      "position": 5,
+      "scrapeTime": "2024-02-26T12:02:48.885Z",
+      "isPending": false
     },
     {
       "person": "emC",
@@ -287,8 +287,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 1,
-    "totalSeconds": 61,
+    "seconds": 0,
+    "totalSeconds": 60,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -297,13 +297,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 50.5,
-    "totalSeconds": 50.5,
+    "seconds": 49,
+    "totalSeconds": 49,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 36,
+  "awardCount": 37,
   "awards": [
     {
       "title": "Gold",
@@ -383,7 +383,8 @@
       "text": "Complete a puzzle in less than 45 seconds",
       "dates": [
         "2024-01-31",
-        "2024-02-06"
+        "2024-02-06",
+        "2024-02-26"
       ]
     },
     {
