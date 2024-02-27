@@ -5,12 +5,12 @@
     {
       "person": "arjun137",
       "leaderboard": "2024-02-27",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 2,
+      "totalSeconds": 62,
+      "position": 6,
+      "scrapeTime": "2024-02-27T23:31:37.868Z",
+      "isPending": false
     },
     {
       "person": "arjun137",
@@ -9807,8 +9807,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 38,
-    "totalSeconds": 98,
+    "seconds": 36,
+    "totalSeconds": 96,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -9817,13 +9817,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 46,
-    "totalSeconds": 46,
+    "seconds": 48,
+    "totalSeconds": 48,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 32,
+  "awardCount": 35,
   "awards": [
     {
       "title": "Half Time",
@@ -9831,7 +9831,8 @@
       "text": "Half your completion time from one day to the next",
       "dates": [
         "2021-06-28",
-        "2023-10-13"
+        "2023-10-13",
+        "2024-02-27"
       ]
     },
     {
@@ -9862,7 +9863,8 @@
         "2021-06-28",
         "2023-10-23",
         "2023-11-21",
-        "2024-01-12"
+        "2024-01-12",
+        "2024-02-27"
       ]
     },
     {
@@ -9907,7 +9909,8 @@
         "2023-11-13",
         "2023-11-21",
         "2024-01-12",
-        "2024-02-09"
+        "2024-02-09",
+        "2024-02-27"
       ]
     },
     {

@@ -1464,6 +1464,15 @@
       ]
     },
     {
+      "person": "arjun137",
+      "count": 3,
+      "dates": [
+        "2021-06-28",
+        "2023-10-13",
+        "2024-02-27"
+      ]
+    },
+    {
       "person": "JRedondo",
       "count": 3,
       "dates": [
@@ -1482,14 +1491,6 @@
       ]
     },
     {
-      "person": "arjun137",
-      "count": 2,
-      "dates": [
-        "2021-06-28",
-        "2023-10-13"
-      ]
-    },
-    {
       "person": "ellejay",
       "count": 2,
       "dates": [
@@ -1498,5 +1499,5 @@
       ]
     }
   ],
-  "totalUnlocks": 1361
+  "totalUnlocks": 1362
 }
