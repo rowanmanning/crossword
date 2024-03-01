@@ -5,12 +5,12 @@
     {
       "person": "Lily2point0",
       "leaderboard": "2024-03-01",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 41,
+      "totalSeconds": 41,
+      "position": 1,
+      "scrapeTime": "2024-03-01T07:02:05.440Z",
+      "isPending": false
     },
     {
       "person": "Lily2point0",
@@ -9873,7 +9873,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1764,
+  "awardCount": 1767,
   "awards": [
     {
       "title": "Gold",
@@ -11211,7 +11211,8 @@
         "2024-01-28",
         "2024-02-06",
         "2024-02-09",
-        "2024-02-26"
+        "2024-02-26",
+        "2024-03-01"
       ]
     },
     {
@@ -11320,7 +11321,8 @@
         "2024-01-20",
         "2024-02-02",
         "2024-02-15",
-        "2024-02-21"
+        "2024-02-21",
+        "2024-03-01"
       ]
     },
     {
@@ -11909,7 +11911,8 @@
         "2024-02-05",
         "2024-02-11",
         "2024-02-16",
-        "2024-02-26"
+        "2024-02-26",
+        "2024-03-01"
       ]
     }
   ]
