@@ -5,12 +5,12 @@
     {
       "person": "sal",
       "leaderboard": "2024-03-02",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 5,
+      "totalSeconds": 125,
+      "position": 5,
+      "scrapeTime": "2024-03-02T10:01:58.126Z",
+      "isPending": false
     },
     {
       "person": "sal",
@@ -47,8 +47,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 8,
-    "totalSeconds": 128,
+    "seconds": 7,
+    "totalSeconds": 127,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -57,13 +57,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 7.5,
-    "totalSeconds": 127.5,
+    "seconds": 51,
+    "totalSeconds": 171,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 3,
+  "awardCount": 4,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -87,6 +87,14 @@
       "text": "Complete a puzzle in less than two minutes",
       "dates": [
         "2024-03-01"
+      ]
+    },
+    {
+      "title": "Three Day Streak",
+      "type": "three-day-streak",
+      "text": "Play for three days in a row",
+      "dates": [
+        "2024-03-02"
       ]
     }
   ]
