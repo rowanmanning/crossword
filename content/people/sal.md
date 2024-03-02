@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "sal",
+      "leaderboard": "2024-03-02",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "sal",
       "leaderboard": "2024-03-01",
       "minutes": 1,
       "seconds": 24,
@@ -53,8 +63,16 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 2,
+  "awardCount": 3,
   "awards": [
+    {
+      "title": "Consistent Position ×2",
+      "type": "consistent-2",
+      "text": "Get the same position two days in a row",
+      "dates": [
+        "2024-03-01"
+      ]
+    },
     {
       "title": "Half Time",
       "type": "half-time",
