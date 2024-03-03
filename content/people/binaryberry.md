@@ -5,12 +5,12 @@
     {
       "person": "binaryberry",
       "leaderboard": "2024-03-03",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 15,
+      "totalSeconds": 135,
+      "position": 1,
+      "scrapeTime": "2024-03-03T03:31:46.537Z",
+      "isPending": false
     },
     {
       "person": "binaryberry",
@@ -9887,8 +9887,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 35,
-    "totalSeconds": 35,
+    "seconds": 34.5,
+    "totalSeconds": 34.5,
     "position": null,
     "scrapeTime": null,
     "isPending": false
