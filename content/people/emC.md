@@ -5,12 +5,12 @@
     {
       "person": "emC",
       "leaderboard": "2024-03-03",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 8,
+      "totalSeconds": 68,
+      "position": 2,
+      "scrapeTime": "2024-03-03T19:01:59.252Z",
+      "isPending": false
     },
     {
       "person": "emC",
@@ -357,13 +357,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 48,
-    "totalSeconds": 48,
+    "seconds": 48.5,
+    "totalSeconds": 48.5,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 43,
+  "awardCount": 44,
   "awards": [
     {
       "title": "Gold",
@@ -429,7 +429,8 @@
         "2024-02-13",
         "2024-02-17",
         "2024-02-24",
-        "2024-03-02"
+        "2024-03-02",
+        "2024-03-03"
       ]
     },
     {
