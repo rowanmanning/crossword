@@ -5,12 +5,12 @@
     {
       "person": "sal",
       "leaderboard": "2024-03-04",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 37,
+      "totalSeconds": 157,
+      "position": 2,
+      "scrapeTime": "2024-03-04T01:24:10.013Z",
+      "isPending": false
     },
     {
       "person": "sal",
@@ -67,8 +67,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 7,
-    "totalSeconds": 127,
+    "seconds": 15,
+    "totalSeconds": 135,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -77,8 +77,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 51,
-    "totalSeconds": 171,
+    "seconds": 44,
+    "totalSeconds": 164,
     "position": null,
     "scrapeTime": null,
     "isPending": false
