@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "emC",
+      "leaderboard": "2024-03-05",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "emC",
       "leaderboard": "2024-03-04",
       "minutes": 1,
       "seconds": 24,
@@ -373,7 +383,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 46,
+  "awardCount": 47,
   "awards": [
     {
       "title": "Gold",
@@ -399,7 +409,8 @@
       "text": "Get the third fastest time for a day",
       "dates": [
         "2024-02-01",
-        "2024-02-24"
+        "2024-02-24",
+        "2024-03-04"
       ]
     },
     {
