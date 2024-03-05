@@ -5,12 +5,12 @@
     {
       "person": "sal",
       "leaderboard": "2024-03-05",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 16,
+      "totalSeconds": 76,
+      "position": 4,
+      "scrapeTime": "2024-03-05T10:02:07.304Z",
+      "isPending": false
     },
     {
       "person": "sal",
@@ -65,20 +65,20 @@
   ],
   "best": {
     "person": "sal",
-    "leaderboard": "2024-03-01",
+    "leaderboard": "2024-03-05",
     "minutes": 1,
-    "seconds": 24,
-    "totalSeconds": 84,
-    "position": 6,
-    "scrapeTime": "2024-03-01T09:31:43.031Z",
+    "seconds": 16,
+    "totalSeconds": 76,
+    "position": 4,
+    "scrapeTime": "2024-03-05T10:02:07.304Z",
     "isPending": false
   },
   "mean": {
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 15,
-    "totalSeconds": 135,
+    "seconds": 3,
+    "totalSeconds": 123,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -87,13 +87,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 44,
-    "totalSeconds": 164,
+    "seconds": 51,
+    "totalSeconds": 171,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 4,
+  "awardCount": 6,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -108,7 +108,8 @@
       "type": "half-time",
       "text": "Half your completion time from one day to the next",
       "dates": [
-        "2024-03-01"
+        "2024-03-01",
+        "2024-03-05"
       ]
     },
     {
@@ -116,7 +117,8 @@
       "type": "sub-120",
       "text": "Complete a puzzle in less than two minutes",
       "dates": [
-        "2024-03-01"
+        "2024-03-01",
+        "2024-03-05"
       ]
     },
     {

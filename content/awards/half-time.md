@@ -1504,11 +1504,12 @@
     },
     {
       "person": "sal",
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2024-03-01"
+        "2024-03-01",
+        "2024-03-05"
       ]
     }
   ],
-  "totalUnlocks": 1367
+  "totalUnlocks": 1368
 }
