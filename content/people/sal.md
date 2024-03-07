@@ -5,12 +5,12 @@
     {
       "person": "sal",
       "leaderboard": "2024-03-07",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 43,
+      "totalSeconds": 103,
+      "position": 4,
+      "scrapeTime": "2024-03-07T13:02:02.174Z",
+      "isPending": false
     },
     {
       "person": "sal",
@@ -97,8 +97,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 3,
-    "totalSeconds": 123,
+    "seconds": 0,
+    "totalSeconds": 120,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -107,13 +107,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 51,
-    "totalSeconds": 171,
+    "seconds": 44,
+    "totalSeconds": 164,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 6,
+  "awardCount": 7,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -138,7 +138,8 @@
       "text": "Complete a puzzle in less than two minutes",
       "dates": [
         "2024-03-01",
-        "2024-03-05"
+        "2024-03-05",
+        "2024-03-07"
       ]
     },
     {
