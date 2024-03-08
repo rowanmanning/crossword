@@ -8,7 +8,7 @@
       "minutes": 0,
       "seconds": 57,
       "totalSeconds": 57,
-      "position": 2,
+      "position": 3,
       "scrapeTime": "2024-03-08T14:03:00.247Z",
       "isPending": false
     },
@@ -99,7 +99,7 @@
     "minutes": 0,
     "seconds": 57,
     "totalSeconds": 57,
-    "position": 2,
+    "position": 3,
     "scrapeTime": "2024-03-08T14:03:00.247Z",
     "isPending": false
   },
@@ -123,7 +123,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 8,
+  "awardCount": 9,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -156,6 +156,14 @@
       "title": "Sub Minute",
       "type": "sub-60",
       "text": "Complete a puzzle in less than a minute",
+      "dates": [
+        "2024-03-08"
+      ]
+    },
+    {
+      "title": "Chain 3",
+      "type": "chain-3",
+      "text": "Participate in a chain of three sequential times",
       "dates": [
         "2024-03-08"
       ]
