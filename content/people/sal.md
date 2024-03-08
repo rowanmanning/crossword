@@ -5,12 +5,12 @@
     {
       "person": "sal",
       "leaderboard": "2024-03-08",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 57,
+      "totalSeconds": 57,
+      "position": 2,
+      "scrapeTime": "2024-03-08T14:03:00.247Z",
+      "isPending": false
     },
     {
       "person": "sal",
@@ -95,20 +95,20 @@
   ],
   "best": {
     "person": "sal",
-    "leaderboard": "2024-03-05",
-    "minutes": 1,
-    "seconds": 16,
-    "totalSeconds": 76,
-    "position": 7,
-    "scrapeTime": "2024-03-05T10:02:07.304Z",
+    "leaderboard": "2024-03-08",
+    "minutes": 0,
+    "seconds": 57,
+    "totalSeconds": 57,
+    "position": 2,
+    "scrapeTime": "2024-03-08T14:03:00.247Z",
     "isPending": false
   },
   "mean": {
     "person": null,
     "leaderboard": null,
-    "minutes": 2,
-    "seconds": 0,
-    "totalSeconds": 120,
+    "minutes": 1,
+    "seconds": 51,
+    "totalSeconds": 111,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -117,13 +117,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 44,
-    "totalSeconds": 164,
+    "seconds": 51,
+    "totalSeconds": 171,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 7,
+  "awardCount": 8,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -150,6 +150,14 @@
         "2024-03-01",
         "2024-03-05",
         "2024-03-07"
+      ]
+    },
+    {
+      "title": "Sub Minute",
+      "type": "sub-60",
+      "text": "Complete a puzzle in less than a minute",
+      "dates": [
+        "2024-03-08"
       ]
     },
     {
