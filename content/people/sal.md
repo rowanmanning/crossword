@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "sal",
+      "leaderboard": "2024-03-10",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "sal",
       "leaderboard": "2024-03-09",
       "minutes": 3,
       "seconds": 28,
@@ -133,7 +143,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 12,
+  "awardCount": 13,
   "awards": [
     {
       "title": "Bronze",
@@ -200,6 +210,14 @@
       "text": "Play for three days in a row",
       "dates": [
         "2024-03-02",
+        "2024-03-09"
+      ]
+    },
+    {
+      "title": "The Number of The Beast",
+      "type": "beast",
+      "text": "His number is six hundred and sixty-six",
+      "dates": [
         "2024-03-09"
       ]
     }
