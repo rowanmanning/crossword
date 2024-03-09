@@ -25,6 +25,11 @@
 		"seconds": 146
 	},
 	{
+		"name": "sal",
+		"scrapeTime": "2024-03-09T21:02:06.935Z",
+		"seconds": 208
+	},
+	{
 		"name": "Alice Bartlett",
 		"scrapeTime": null,
 		"seconds": null
@@ -101,11 +106,6 @@
 	},
 	{
 		"name": "Rowan M",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
-		"name": "sal",
 		"scrapeTime": null,
 		"seconds": null
 	},

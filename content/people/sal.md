@@ -5,12 +5,12 @@
     {
       "person": "sal",
       "leaderboard": "2024-03-09",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 3,
+      "seconds": 28,
+      "totalSeconds": 208,
+      "position": 6,
+      "scrapeTime": "2024-03-09T21:02:06.935Z",
+      "isPending": false
     },
     {
       "person": "sal",
@@ -116,9 +116,9 @@
   "mean": {
     "person": null,
     "leaderboard": null,
-    "minutes": 1,
-    "seconds": 51,
-    "totalSeconds": 111,
+    "minutes": 2,
+    "seconds": 3,
+    "totalSeconds": 123,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -126,14 +126,14 @@
   "median": {
     "person": null,
     "leaderboard": null,
-    "minutes": 2,
-    "seconds": 51,
-    "totalSeconds": 171,
+    "minutes": 3,
+    "seconds": 9.5,
+    "totalSeconds": 189.5,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 10,
+  "awardCount": 12,
   "awards": [
     {
       "title": "Bronze",
@@ -158,6 +158,14 @@
       "dates": [
         "2024-03-01",
         "2024-03-05"
+      ]
+    },
+    {
+      "title": "Double Time",
+      "type": "double-time",
+      "text": "Double your completion time from one day to the next",
+      "dates": [
+        "2024-03-09"
       ]
     },
     {
@@ -191,7 +199,8 @@
       "type": "three-day-streak",
       "text": "Play for three days in a row",
       "dates": [
-        "2024-03-02"
+        "2024-03-02",
+        "2024-03-09"
       ]
     }
   ]
