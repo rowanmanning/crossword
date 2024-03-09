@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "alexmuller",
+      "leaderboard": "2024-03-09",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "alexmuller",
       "leaderboard": "2024-03-08",
       "minutes": 0,
       "seconds": 56,
@@ -5713,7 +5723,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1284,
+  "awardCount": 1286,
   "awards": [
     {
       "title": "Gold",
@@ -5822,7 +5832,8 @@
         "2024-02-21",
         "2024-02-27",
         "2024-03-06",
-        "2024-03-07"
+        "2024-03-07",
+        "2024-03-08"
       ]
     },
     {
@@ -5837,6 +5848,14 @@
         "2024-02-04",
         "2024-02-08",
         "2024-03-07"
+      ]
+    },
+    {
+      "title": "Triple Silver",
+      "type": "triple-silver",
+      "text": "Get the second fastest time three days in a row",
+      "dates": [
+        "2024-03-08"
       ]
     },
     {
