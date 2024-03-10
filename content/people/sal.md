@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "sal",
+      "leaderboard": "2024-03-11",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "sal",
       "leaderboard": "2024-03-10",
       "minutes": 0,
       "seconds": 37,
@@ -143,7 +153,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 15,
+  "awardCount": 16,
   "awards": [
     {
       "title": "Bronze",
@@ -158,7 +168,8 @@
       "type": "consistent-2",
       "text": "Get the same position two days in a row",
       "dates": [
-        "2024-03-01"
+        "2024-03-01",
+        "2024-03-10"
       ]
     },
     {
