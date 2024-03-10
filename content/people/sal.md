@@ -5,12 +5,12 @@
     {
       "person": "sal",
       "leaderboard": "2024-03-10",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 37,
+      "totalSeconds": 37,
+      "position": 4,
+      "scrapeTime": "2024-03-10T15:31:39.437Z",
+      "isPending": false
     },
     {
       "person": "sal",
@@ -115,20 +115,20 @@
   ],
   "best": {
     "person": "sal",
-    "leaderboard": "2024-03-08",
+    "leaderboard": "2024-03-10",
     "minutes": 0,
-    "seconds": 57,
-    "totalSeconds": 57,
-    "position": 3,
-    "scrapeTime": "2024-03-08T14:03:00.247Z",
+    "seconds": 37,
+    "totalSeconds": 37,
+    "position": 4,
+    "scrapeTime": "2024-03-10T15:31:39.437Z",
     "isPending": false
   },
   "mean": {
     "person": null,
     "leaderboard": null,
-    "minutes": 2,
-    "seconds": 3,
-    "totalSeconds": 123,
+    "minutes": 1,
+    "seconds": 54,
+    "totalSeconds": 114,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -137,13 +137,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 3,
-    "seconds": 9.5,
-    "totalSeconds": 189.5,
+    "seconds": 28,
+    "totalSeconds": 208,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 13,
+  "awardCount": 15,
   "awards": [
     {
       "title": "Bronze",
@@ -171,6 +171,14 @@
       ]
     },
     {
+      "title": "Quarter Time",
+      "type": "quarter-time",
+      "text": "Quarter your completion time from one day to the next",
+      "dates": [
+        "2024-03-10"
+      ]
+    },
+    {
       "title": "Double Time",
       "type": "double-time",
       "text": "Double your completion time from one day to the next",
@@ -194,6 +202,14 @@
       "text": "Complete a puzzle in less than a minute",
       "dates": [
         "2024-03-08"
+      ]
+    },
+    {
+      "title": "Sub 45 Seconds",
+      "type": "sub-45",
+      "text": "Complete a puzzle in less than 45 seconds",
+      "dates": [
+        "2024-03-10"
       ]
     },
     {
