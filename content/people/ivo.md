@@ -5,12 +5,12 @@
     {
       "person": "ivo",
       "leaderboard": "2024-03-10",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 32,
+      "totalSeconds": 32,
+      "position": 2,
+      "scrapeTime": "2024-03-10T13:31:39.444Z",
+      "isPending": false
     },
     {
       "person": "ivo",
@@ -9113,7 +9113,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1712,
+  "awardCount": 1714,
   "awards": [
     {
       "title": "Gold",
@@ -10486,7 +10486,8 @@
         "2024-01-29",
         "2024-02-11",
         "2024-02-27",
-        "2024-02-28"
+        "2024-02-28",
+        "2024-03-10"
       ]
     },
     {
@@ -10876,7 +10877,8 @@
       "text": "Come back to the crossword after a week off",
       "dates": [
         "2022-07-19",
-        "2023-08-23"
+        "2023-08-23",
+        "2024-03-10"
       ]
     },
     {
