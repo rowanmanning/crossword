@@ -5,12 +5,12 @@
     {
       "person": "sal",
       "leaderboard": "2024-03-11",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 27,
+      "totalSeconds": 87,
+      "position": 6,
+      "scrapeTime": "2024-03-11T09:31:51.564Z",
+      "isPending": false
     },
     {
       "person": "sal",
@@ -137,8 +137,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 54,
-    "totalSeconds": 114,
+    "seconds": 51,
+    "totalSeconds": 111,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -146,14 +146,14 @@
   "median": {
     "person": null,
     "leaderboard": null,
-    "minutes": 3,
-    "seconds": 28,
-    "totalSeconds": 208,
+    "minutes": 2,
+    "seconds": 2.5,
+    "totalSeconds": 122.5,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 16,
+  "awardCount": 18,
   "awards": [
     {
       "title": "Bronze",
@@ -194,7 +194,8 @@
       "type": "double-time",
       "text": "Double your completion time from one day to the next",
       "dates": [
-        "2024-03-09"
+        "2024-03-09",
+        "2024-03-11"
       ]
     },
     {
@@ -204,7 +205,8 @@
       "dates": [
         "2024-03-01",
         "2024-03-05",
-        "2024-03-07"
+        "2024-03-07",
+        "2024-03-11"
       ]
     },
     {
