@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "alexmuller",
+      "leaderboard": "2024-03-13",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "alexmuller",
       "leaderboard": "2024-03-12",
       "minutes": 0,
       "seconds": 26,
@@ -5753,7 +5763,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1296,
+  "awardCount": 1298,
   "awards": [
     {
       "title": "Gold",
@@ -5782,7 +5792,8 @@
         "2023-11-30",
         "2023-12-07",
         "2024-02-13",
-        "2024-02-20"
+        "2024-02-20",
+        "2024-03-12"
       ]
     },
     {
@@ -7350,6 +7361,14 @@
         "2024-02-22",
         "2024-02-23",
         "2024-02-25"
+      ]
+    },
+    {
+      "title": "Slow and Steady",
+      "type": "slow-and-steady",
+      "text": "Complete a puzzle after everyone else but with the fastest time",
+      "dates": [
+        "2024-03-12"
       ]
     }
   ]
