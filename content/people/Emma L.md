@@ -5,12 +5,12 @@
     {
       "person": "Emma L",
       "leaderboard": "2024-03-15",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 0,
+      "totalSeconds": 60,
+      "position": 1,
+      "scrapeTime": "2024-03-15T08:02:35.751Z",
+      "isPending": false
     },
     {
       "person": "Emma L",
@@ -9663,7 +9663,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 2570,
+  "awardCount": 2573,
   "awards": [
     {
       "title": "Gold",
@@ -11083,7 +11083,8 @@
         "2024-02-17",
         "2024-02-25",
         "2024-03-08",
-        "2024-03-09"
+        "2024-03-09",
+        "2024-03-15"
       ]
     },
     {
@@ -12386,6 +12387,14 @@
       ]
     },
     {
+      "title": "1 Friday Street",
+      "type": "friday-street",
+      "text": "Get a time of exactly 1:00 on a Friday",
+      "dates": [
+        "2024-03-15"
+      ]
+    },
+    {
       "title": "The Number of The Beast",
       "type": "beast",
       "text": "His number is six hundred and sixty-six",
@@ -12543,7 +12552,8 @@
         "2024-01-21",
         "2024-02-12",
         "2024-03-07",
-        "2024-03-11"
+        "2024-03-11",
+        "2024-03-15"
       ]
     },
     {
