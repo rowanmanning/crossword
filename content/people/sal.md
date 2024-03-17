@@ -5,12 +5,12 @@
     {
       "person": "sal",
       "leaderboard": "2024-03-17",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 1,
+      "totalSeconds": 61,
+      "position": 3,
+      "scrapeTime": "2024-03-17T18:02:05.678Z",
+      "isPending": false
     },
     {
       "person": "sal",
@@ -197,8 +197,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 55,
-    "totalSeconds": 115,
+    "seconds": 51,
+    "totalSeconds": 111,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -207,13 +207,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 3,
-    "seconds": 9.5,
-    "totalSeconds": 189.5,
+    "seconds": 28,
+    "totalSeconds": 208,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 20,
+  "awardCount": 22,
   "awards": [
     {
       "title": "Bronze",
@@ -239,7 +239,8 @@
       "text": "Half your completion time from one day to the next",
       "dates": [
         "2024-03-01",
-        "2024-03-05"
+        "2024-03-05",
+        "2024-03-17"
       ]
     },
     {
@@ -268,7 +269,8 @@
         "2024-03-05",
         "2024-03-07",
         "2024-03-11",
-        "2024-03-13"
+        "2024-03-13",
+        "2024-03-17"
       ]
     },
     {
