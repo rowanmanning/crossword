@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "sal",
+      "leaderboard": "2024-03-18",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "sal",
       "leaderboard": "2024-03-17",
       "minutes": 1,
       "seconds": 1,
@@ -213,14 +223,15 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 22,
+  "awardCount": 23,
   "awards": [
     {
       "title": "Bronze",
       "type": "bronze",
       "text": "Get the third fastest time for a day",
       "dates": [
-        "2024-03-08"
+        "2024-03-08",
+        "2024-03-17"
       ]
     },
     {
