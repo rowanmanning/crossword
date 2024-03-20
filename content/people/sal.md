@@ -5,12 +5,12 @@
     {
       "person": "sal",
       "leaderboard": "2024-03-19",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 34,
+      "totalSeconds": 94,
+      "position": 7,
+      "scrapeTime": "2024-03-20T00:06:56.858Z",
+      "isPending": false
     },
     {
       "person": "sal",
@@ -217,8 +217,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 51,
-    "totalSeconds": 111,
+    "seconds": 50,
+    "totalSeconds": 110,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -226,14 +226,14 @@
   "median": {
     "person": null,
     "leaderboard": null,
-    "minutes": 3,
-    "seconds": 28,
-    "totalSeconds": 208,
+    "minutes": 2,
+    "seconds": 2.5,
+    "totalSeconds": 122.5,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 23,
+  "awardCount": 24,
   "awards": [
     {
       "title": "Bronze",
@@ -291,7 +291,8 @@
         "2024-03-07",
         "2024-03-11",
         "2024-03-13",
-        "2024-03-17"
+        "2024-03-17",
+        "2024-03-19"
       ]
     },
     {
