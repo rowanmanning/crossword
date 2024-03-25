@@ -5,12 +5,12 @@
     {
       "person": "sal",
       "leaderboard": "2024-03-25",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 50,
+      "totalSeconds": 50,
+      "position": 4,
+      "scrapeTime": "2024-03-25T21:31:39.979Z",
+      "isPending": false
     },
     {
       "person": "sal",
@@ -277,8 +277,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 48,
-    "totalSeconds": 108,
+    "seconds": 45,
+    "totalSeconds": 105,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -287,13 +287,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 37,
-    "totalSeconds": 37,
+    "seconds": 43.5,
+    "totalSeconds": 43.5,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 25,
+  "awardCount": 26,
   "awards": [
     {
       "title": "Bronze",
@@ -361,7 +361,8 @@
       "type": "sub-60",
       "text": "Complete a puzzle in less than a minute",
       "dates": [
-        "2024-03-08"
+        "2024-03-08",
+        "2024-03-25"
       ]
     },
     {

@@ -1932,19 +1932,20 @@
       ]
     },
     {
+      "person": "sal",
+      "count": 2,
+      "dates": [
+        "2024-03-08",
+        "2024-03-25"
+      ]
+    },
+    {
       "person": "JRedondo",
       "count": 1,
       "dates": [
         "2022-03-25"
       ]
-    },
-    {
-      "person": "sal",
-      "count": 1,
-      "dates": [
-        "2024-03-08"
-      ]
     }
   ],
-  "totalUnlocks": 1803
+  "totalUnlocks": 1804
 }
