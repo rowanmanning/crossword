@@ -5,12 +5,12 @@
     {
       "person": "emC",
       "leaderboard": "2024-03-25",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 24,
+      "totalSeconds": 24,
+      "position": 2,
+      "scrapeTime": "2024-03-25T17:02:12.029Z",
+      "isPending": false
     },
     {
       "person": "emC",
@@ -567,8 +567,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 59,
-    "totalSeconds": 59,
+    "seconds": 58,
+    "totalSeconds": 58,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -583,7 +583,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 65,
+  "awardCount": 67,
   "awards": [
     {
       "title": "Gold",
@@ -706,7 +706,8 @@
       "text": "Complete a puzzle in less than 30 seconds",
       "dates": [
         "2024-02-12",
-        "2024-03-10"
+        "2024-03-10",
+        "2024-03-25"
       ]
     },
     {
@@ -750,6 +751,7 @@
       "type": "yin-and-yang",
       "text": "Get the same time as another person but with flipped seconds",
       "dates": [
+        "2024-03-25",
         "2024-02-15"
       ]
     },

@@ -88,8 +88,9 @@
     },
     {
       "person": "j-sheps",
-      "count": 34,
+      "count": 35,
       "dates": [
+        "2024-03-25",
         "2024-02-15",
         "2024-01-12",
         "2024-01-07",
@@ -466,6 +467,14 @@
       ]
     },
     {
+      "person": "emC",
+      "count": 2,
+      "dates": [
+        "2024-03-25",
+        "2024-02-15"
+      ]
+    },
+    {
       "person": "JRedondo",
       "count": 1,
       "dates": [
@@ -478,14 +487,7 @@
       "dates": [
         "2023-02-26"
       ]
-    },
-    {
-      "person": "emC",
-      "count": 1,
-      "dates": [
-        "2024-02-15"
-      ]
     }
   ],
-  "totalUnlocks": 356
+  "totalUnlocks": 358
 }
