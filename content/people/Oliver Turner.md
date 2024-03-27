@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Oliver Turner",
+      "leaderboard": "2024-03-27",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Oliver Turner",
       "leaderboard": "2024-03-26",
       "minutes": 1,
       "seconds": 4,
@@ -10093,7 +10103,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 124,
+  "awardCount": 125,
   "awards": [
     {
       "title": "Gold",
@@ -10385,6 +10395,14 @@
       "text": "A towel is about the most massively useful thing an interstellar hitchhiker can have",
       "dates": [
         "2021-07-30"
+      ]
+    },
+    {
+      "title": "The Number of The Beast",
+      "type": "beast",
+      "text": "His number is six hundred and sixty-six",
+      "dates": [
+        "2024-03-26"
       ]
     }
   ]
