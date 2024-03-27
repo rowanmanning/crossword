@@ -5,12 +5,12 @@
     {
       "person": "sal",
       "leaderboard": "2024-03-27",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 42,
+      "totalSeconds": 42,
+      "position": 5,
+      "scrapeTime": "2024-03-27T13:31:39.386Z",
+      "isPending": false
     },
     {
       "person": "sal",
@@ -297,8 +297,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 45,
-    "totalSeconds": 105,
+    "seconds": 41,
+    "totalSeconds": 101,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -307,13 +307,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 43.5,
-    "totalSeconds": 43.5,
+    "seconds": 42,
+    "totalSeconds": 42,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 26,
+  "awardCount": 29,
   "awards": [
     {
       "title": "Bronze",
@@ -390,7 +390,8 @@
       "type": "sub-45",
       "text": "Complete a puzzle in less than 45 seconds",
       "dates": [
-        "2024-03-10"
+        "2024-03-10",
+        "2024-03-27"
       ]
     },
     {
@@ -408,6 +409,22 @@
       "dates": [
         "2024-03-02",
         "2024-03-09"
+      ]
+    },
+    {
+      "title": "Twinning",
+      "type": "twinning",
+      "text": "Get the same time as another person",
+      "dates": [
+        "2024-03-27"
+      ]
+    },
+    {
+      "title": "Don't Panic",
+      "type": "dont-panic",
+      "text": "A towel is about the most massively useful thing an interstellar hitchhiker can have",
+      "dates": [
+        "2024-03-27"
       ]
     },
     {
