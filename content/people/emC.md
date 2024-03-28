@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "emC",
+      "leaderboard": "2024-03-28",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "emC",
       "leaderboard": "2024-03-27",
       "minutes": 0,
       "seconds": 40,
@@ -603,7 +613,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 69,
+  "awardCount": 70,
   "awards": [
     {
       "title": "Gold",
@@ -782,7 +792,8 @@
       "type": "beast",
       "text": "His number is six hundred and sixty-six",
       "dates": [
-        "2024-02-15"
+        "2024-02-15",
+        "2024-03-27"
       ]
     },
     {
