@@ -5,12 +5,12 @@
     {
       "person": "emC",
       "leaderboard": "2024-03-31",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 15,
+      "totalSeconds": 15,
+      "position": 1,
+      "scrapeTime": "2024-03-30T22:31:28.492Z",
+      "isPending": false
     },
     {
       "person": "emC",
@@ -615,20 +615,20 @@
   ],
   "best": {
     "person": "emC",
-    "leaderboard": "2024-02-12",
+    "leaderboard": "2024-03-31",
     "minutes": 0,
-    "seconds": 21,
-    "totalSeconds": 21,
+    "seconds": 15,
+    "totalSeconds": 15,
     "position": 1,
-    "scrapeTime": "2024-02-12T10:02:57.061Z",
+    "scrapeTime": "2024-03-30T22:31:28.492Z",
     "isPending": false
   },
   "mean": {
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 57,
-    "totalSeconds": 57,
+    "seconds": 56,
+    "totalSeconds": 56,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -637,13 +637,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 47,
-    "totalSeconds": 47,
+    "seconds": 46,
+    "totalSeconds": 46,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 70,
+  "awardCount": 73,
   "awards": [
     {
       "title": "Gold",
@@ -696,7 +696,8 @@
         "2024-02-12",
         "2024-02-21",
         "2024-03-10",
-        "2024-03-18"
+        "2024-03-18",
+        "2024-03-31"
       ]
     },
     {
@@ -773,6 +774,14 @@
       ]
     },
     {
+      "title": "Sub 20 Seconds",
+      "type": "sub-20",
+      "text": "Complete a puzzle in less than 20 seconds",
+      "dates": [
+        "2024-03-31"
+      ]
+    },
+    {
       "title": "Nice Try, Joel",
       "type": "nice-try-joel",
       "text": "Complete a puzzle in less than a minute on a Saturday",
@@ -824,6 +833,14 @@
       "dates": [
         "2024-02-15",
         "2024-03-27"
+      ]
+    },
+    {
+      "title": "Quick Draw",
+      "type": "quick-draw",
+      "text": "Complete a puzzle before anyone else (or within 30 minutes of the first person)",
+      "dates": [
+        "2024-03-31"
       ]
     },
     {
