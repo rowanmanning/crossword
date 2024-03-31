@@ -643,7 +643,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 73,
+  "awardCount": 74,
   "awards": [
     {
       "title": "Gold",
@@ -814,7 +814,8 @@
       "text": "Get the same time as another person",
       "dates": [
         "2024-02-05",
-        "2024-02-06"
+        "2024-02-06",
+        "2024-03-31"
       ]
     },
     {
