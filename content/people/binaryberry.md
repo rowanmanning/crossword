@@ -5,12 +5,12 @@
     {
       "person": "binaryberry",
       "leaderboard": "2024-03-31",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 20,
+      "totalSeconds": 20,
+      "position": 2,
+      "scrapeTime": "2024-03-31T06:02:26.282Z",
+      "isPending": false
     },
     {
       "person": "binaryberry",
@@ -10145,12 +10145,12 @@
   ],
   "best": {
     "person": "binaryberry",
-    "leaderboard": "2023-02-08",
+    "leaderboard": "2024-03-31",
     "minutes": 0,
-    "seconds": 21,
-    "totalSeconds": 21,
-    "position": 3,
-    "scrapeTime": "2023-02-08T08:02:38.076Z",
+    "seconds": 20,
+    "totalSeconds": 20,
+    "position": 2,
+    "scrapeTime": "2024-03-31T06:02:26.282Z",
     "isPending": false
   },
   "mean": {
@@ -10167,13 +10167,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 5,
-    "seconds": 32,
-    "totalSeconds": 332,
+    "seconds": 31,
+    "totalSeconds": 331,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1723,
+  "awardCount": 1726,
   "awards": [
     {
       "title": "Gold",
@@ -10558,7 +10558,8 @@
         "2023-09-17",
         "2023-10-08",
         "2023-10-15",
-        "2023-12-10"
+        "2023-12-10",
+        "2024-03-31"
       ]
     },
     {
@@ -11347,7 +11348,8 @@
         "2022-03-29",
         "2022-10-04",
         "2023-02-08",
-        "2023-06-29"
+        "2023-06-29",
+        "2024-03-31"
       ]
     },
     {
@@ -11480,7 +11482,8 @@
         "2023-04-19",
         "2023-08-26",
         "2023-12-18",
-        "2024-02-13"
+        "2024-02-13",
+        "2024-03-31"
       ]
     },
     {
