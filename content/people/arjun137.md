@@ -5,12 +5,12 @@
     {
       "person": "arjun137",
       "leaderboard": "2024-04-01",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 59,
+      "totalSeconds": 59,
+      "position": 3,
+      "scrapeTime": "2024-04-01T08:32:28.317Z",
+      "isPending": false
     },
     {
       "person": "arjun137",
@@ -10147,8 +10147,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 41,
-    "totalSeconds": 101,
+    "seconds": 40,
+    "totalSeconds": 100,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -10157,13 +10157,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 46,
-    "totalSeconds": 46,
+    "seconds": 48,
+    "totalSeconds": 48,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 41,
+  "awardCount": 43,
   "awards": [
     {
       "title": "Half Time",
@@ -10180,7 +10180,8 @@
       "type": "quarter-time",
       "text": "Quarter your completion time from one day to the next",
       "dates": [
-        "2021-07-13"
+        "2021-07-13",
+        "2024-04-01"
       ]
     },
     {
@@ -10217,7 +10218,8 @@
         "2021-06-29",
         "2023-10-13",
         "2023-11-05",
-        "2023-11-13"
+        "2023-11-13",
+        "2024-04-01"
       ]
     },
     {
