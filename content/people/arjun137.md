@@ -5,12 +5,12 @@
     {
       "person": "arjun137",
       "leaderboard": "2024-04-02",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 3,
+      "seconds": 14,
+      "totalSeconds": 194,
+      "position": 1,
+      "scrapeTime": "2024-04-02T04:02:24.221Z",
+      "isPending": false
     },
     {
       "person": "arjun137",
@@ -10157,8 +10157,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 40,
-    "totalSeconds": 100,
+    "seconds": 44,
+    "totalSeconds": 104,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -10167,13 +10167,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 48,
-    "totalSeconds": 48,
+    "seconds": 46,
+    "totalSeconds": 46,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 43,
+  "awardCount": 46,
   "awards": [
     {
       "title": "Half Time",
@@ -10203,7 +10203,8 @@
         "2021-07-02",
         "2021-07-14",
         "2023-10-23",
-        "2024-03-29"
+        "2024-03-29",
+        "2024-04-02"
       ]
     },
     {
@@ -10271,6 +10272,14 @@
       ]
     },
     {
+      "title": "Pi",
+      "type": "pi",
+      "text": "3.141 592 653 589 793 238 462 643…",
+      "dates": [
+        "2024-04-02"
+      ]
+    },
+    {
       "title": "Don't Panic",
       "type": "dont-panic",
       "text": "A towel is about the most massively useful thing an interstellar hitchhiker can have",
@@ -10292,7 +10301,8 @@
       "type": "quick-draw",
       "text": "Complete a puzzle before anyone else (or within 30 minutes of the first person)",
       "dates": [
-        "2023-10-23"
+        "2023-10-23",
+        "2024-04-02"
       ]
     }
   ]
