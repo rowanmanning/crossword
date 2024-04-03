@@ -673,7 +673,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 79,
+  "awardCount": 80,
   "awards": [
     {
       "title": "Gold",
@@ -829,6 +829,14 @@
       "text": "Play the crossword on Valentines day",
       "dates": [
         "2024-02-14"
+      ]
+    },
+    {
+      "title": "Chain 3",
+      "type": "chain-3",
+      "text": "Participate in a chain of three sequential times",
+      "dates": [
+        "2024-04-03"
       ]
     },
     {
