@@ -5,12 +5,12 @@
     {
       "person": "arjun137",
       "leaderboard": "2024-04-03",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 3,
+      "seconds": 21,
+      "totalSeconds": 201,
+      "position": 6,
+      "scrapeTime": "2024-04-03T20:02:02.919Z",
+      "isPending": false
     },
     {
       "person": "arjun137",
@@ -10167,8 +10167,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 44,
-    "totalSeconds": 104,
+    "seconds": 47,
+    "totalSeconds": 107,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -10177,13 +10177,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 46,
-    "totalSeconds": 46,
+    "seconds": 44,
+    "totalSeconds": 44,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 46,
+  "awardCount": 47,
   "awards": [
     {
       "title": "Half Time",
@@ -10259,7 +10259,8 @@
       "type": "three-day-streak",
       "text": "Play for three days in a row",
       "dates": [
-        "2021-06-25"
+        "2021-06-25",
+        "2024-04-03"
       ]
     },
     {
