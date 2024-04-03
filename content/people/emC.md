@@ -673,7 +673,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 78,
+  "awardCount": 79,
   "awards": [
     {
       "title": "Gold",
@@ -849,7 +849,8 @@
       "dates": [
         "2024-02-05",
         "2024-02-06",
-        "2024-03-31"
+        "2024-03-31",
+        "2024-04-03"
       ]
     },
     {
