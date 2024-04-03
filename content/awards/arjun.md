@@ -152,7 +152,14 @@
       "dates": [
         "2024-02-01"
       ]
+    },
+    {
+      "person": "ellejay",
+      "count": 1,
+      "dates": [
+        "2024-04-03"
+      ]
     }
   ],
-  "totalUnlocks": 59
+  "totalUnlocks": 60
 }

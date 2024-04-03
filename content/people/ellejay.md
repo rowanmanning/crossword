@@ -5,12 +5,12 @@
     {
       "person": "ellejay",
       "leaderboard": "2024-04-03",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 17,
+      "totalSeconds": 137,
+      "position": 1,
+      "scrapeTime": "2024-04-03T05:31:41.523Z",
+      "isPending": false
     },
     {
       "person": "ellejay",
@@ -6117,8 +6117,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 43,
-    "totalSeconds": 103,
+    "seconds": 45,
+    "totalSeconds": 105,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -6127,13 +6127,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 48,
-    "totalSeconds": 48,
+    "seconds": 45,
+    "totalSeconds": 45,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 43,
+  "awardCount": 47,
   "awards": [
     {
       "title": "Half Time",
@@ -6162,7 +6162,8 @@
         "2022-08-30",
         "2022-12-09",
         "2023-03-08",
-        "2023-11-30"
+        "2023-11-30",
+        "2024-04-03"
       ]
     },
     {
@@ -6222,7 +6223,8 @@
         "2023-02-26",
         "2023-04-03",
         "2023-11-30",
-        "2023-12-26"
+        "2023-12-26",
+        "2024-04-03"
       ]
     },
     {
@@ -6240,6 +6242,14 @@
       "text": "Get the same time as another person but with flipped seconds",
       "dates": [
         "2023-02-26"
+      ]
+    },
+    {
+      "title": "Arjun",
+      "type": "arjun",
+      "text": "Join us",
+      "dates": [
+        "2024-04-03"
       ]
     },
     {
@@ -6266,7 +6276,8 @@
         "2022-09-22",
         "2022-09-23",
         "2022-12-13",
-        "2023-12-26"
+        "2023-12-26",
+        "2024-04-03"
       ]
     }
   ]
