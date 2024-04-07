@@ -5,12 +5,12 @@
     {
       "person": "emC",
       "leaderboard": "2024-04-07",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 32,
+      "totalSeconds": 92,
+      "position": 1,
+      "scrapeTime": "2024-04-07T00:46:10.741Z",
+      "isPending": false
     },
     {
       "person": "emC",
@@ -697,8 +697,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 57,
-    "totalSeconds": 57,
+    "seconds": 58,
+    "totalSeconds": 58,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -707,13 +707,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 46,
-    "totalSeconds": 46,
+    "seconds": 47,
+    "totalSeconds": 47,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 85,
+  "awardCount": 88,
   "awards": [
     {
       "title": "Gold",
@@ -803,7 +803,8 @@
         "2024-03-07",
         "2024-03-16",
         "2024-04-05",
-        "2024-04-06"
+        "2024-04-06",
+        "2024-04-07"
       ]
     },
     {
@@ -892,7 +893,8 @@
         "2024-02-02",
         "2024-02-07",
         "2024-02-14",
-        "2024-03-02"
+        "2024-03-02",
+        "2024-04-07"
       ]
     },
     {
@@ -929,7 +931,8 @@
       "type": "quick-draw",
       "text": "Complete a puzzle before anyone else (or within 30 minutes of the first person)",
       "dates": [
-        "2024-03-31"
+        "2024-03-31",
+        "2024-04-07"
       ]
     },
     {
