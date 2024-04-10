@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "emC",
+      "leaderboard": "2024-04-10",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "emC",
       "leaderboard": "2024-04-09",
       "minutes": 0,
       "seconds": 45,
@@ -733,7 +743,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 92,
+  "awardCount": 93,
   "awards": [
     {
       "title": "Gold",
@@ -779,6 +789,14 @@
         "2024-02-06",
         "2024-03-19",
         "2024-04-08"
+      ]
+    },
+    {
+      "title": "Consistent Position ×3",
+      "type": "consistent-3",
+      "text": "Get the same position three days in a row",
+      "dates": [
+        "2024-04-09"
       ]
     },
     {

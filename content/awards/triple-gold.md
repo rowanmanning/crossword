@@ -72,11 +72,12 @@
     },
     {
       "person": "ivo",
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2022-03-16"
+        "2022-03-16",
+        "2024-04-09"
       ]
     }
   ],
-  "totalUnlocks": 49
+  "totalUnlocks": 50
 }
