@@ -5,12 +5,12 @@
     {
       "person": "ellejay",
       "leaderboard": "2024-04-10",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 45,
+      "totalSeconds": 45,
+      "position": 2,
+      "scrapeTime": "2024-04-10T12:38:13.368Z",
+      "isPending": false
     },
     {
       "person": "ellejay",
@@ -6187,8 +6187,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 45,
-    "totalSeconds": 105,
+    "seconds": 42,
+    "totalSeconds": 102,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -6203,7 +6203,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 48,
+  "awardCount": 50,
   "awards": [
     {
       "title": "Half Time",
@@ -6211,7 +6211,8 @@
       "text": "Half your completion time from one day to the next",
       "dates": [
         "2022-09-23",
-        "2023-12-26"
+        "2023-12-26",
+        "2024-04-10"
       ]
     },
     {
@@ -6258,7 +6259,8 @@
         "2023-02-26",
         "2023-02-27",
         "2023-04-03",
-        "2023-12-26"
+        "2023-12-26",
+        "2024-04-10"
       ]
     },
     {
