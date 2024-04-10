@@ -5,12 +5,12 @@
     {
       "person": "sal",
       "leaderboard": "2024-04-10",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 51,
+      "totalSeconds": 51,
+      "position": 4,
+      "scrapeTime": "2024-04-10T22:32:06.586Z",
+      "isPending": false
     },
     {
       "person": "sal",
@@ -437,8 +437,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 41,
-    "totalSeconds": 101,
+    "seconds": 38,
+    "totalSeconds": 98,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -447,13 +447,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 42,
-    "totalSeconds": 42,
+    "seconds": 46,
+    "totalSeconds": 46,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 29,
+  "awardCount": 31,
   "awards": [
     {
       "title": "Bronze",
@@ -522,7 +522,8 @@
       "text": "Complete a puzzle in less than a minute",
       "dates": [
         "2024-03-08",
-        "2024-03-25"
+        "2024-03-25",
+        "2024-04-10"
       ]
     },
     {
@@ -549,6 +550,14 @@
       "dates": [
         "2024-03-02",
         "2024-03-09"
+      ]
+    },
+    {
+      "title": "Holiday",
+      "type": "holiday",
+      "text": "Come back to the crossword after a week off",
+      "dates": [
+        "2024-04-10"
       ]
     },
     {
