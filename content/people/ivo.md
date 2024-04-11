@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "ivo",
+      "leaderboard": "2024-04-11",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "ivo",
       "leaderboard": "2024-04-10",
       "minutes": 0,
       "seconds": 21,
@@ -9423,7 +9433,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1786,
+  "awardCount": 1788,
   "awards": [
     {
       "title": "Gold",
@@ -9490,7 +9500,8 @@
         "2024-04-05",
         "2024-04-07",
         "2024-04-08",
-        "2024-04-09"
+        "2024-04-09",
+        "2024-04-10"
       ]
     },
     {
@@ -9513,6 +9524,14 @@
       "dates": [
         "2022-03-16",
         "2024-04-09"
+      ]
+    },
+    {
+      "title": "Quadruple Gold",
+      "type": "quadruple-gold",
+      "text": "Get the fastest time four days in a row",
+      "dates": [
+        "2024-04-10"
       ]
     },
     {

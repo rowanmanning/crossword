@@ -42,7 +42,14 @@
         "2023-06-09",
         "2023-07-17"
       ]
+    },
+    {
+      "person": "ivo",
+      "count": 1,
+      "dates": [
+        "2024-04-10"
+      ]
     }
   ],
-  "totalUnlocks": 21
+  "totalUnlocks": 22
 }

@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "ellejay",
+      "leaderboard": "2024-04-11",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "ellejay",
       "leaderboard": "2024-04-10",
       "minutes": 0,
       "seconds": 45,
@@ -6203,8 +6213,16 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 50,
+  "awardCount": 51,
   "awards": [
+    {
+      "title": "Bronze",
+      "type": "bronze",
+      "text": "Get the third fastest time for a day",
+      "dates": [
+        "2024-04-10"
+      ]
+    },
     {
       "title": "Half Time",
       "type": "half-time",
