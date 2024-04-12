@@ -5,12 +5,12 @@
     {
       "person": "ellejay",
       "leaderboard": "2024-04-12",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 40,
+      "totalSeconds": 100,
+      "position": 6,
+      "scrapeTime": "2024-04-12T21:02:30.166Z",
+      "isPending": false
     },
     {
       "person": "ellejay",
@@ -6217,13 +6217,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 43.5,
-    "totalSeconds": 43.5,
+    "seconds": 42,
+    "totalSeconds": 42,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 52,
+  "awardCount": 54,
   "awards": [
     {
       "title": "Bronze",
@@ -6273,7 +6273,8 @@
       "dates": [
         "2022-09-22",
         "2022-12-09",
-        "2023-01-12"
+        "2023-01-12",
+        "2024-04-12"
       ]
     },
     {
@@ -6307,6 +6308,14 @@
       "text": "Participate in a chain of three sequential times",
       "dates": [
         "2022-09-22"
+      ]
+    },
+    {
+      "title": "Three Day Streak",
+      "type": "three-day-streak",
+      "text": "Play for three days in a row",
+      "dates": [
+        "2024-04-12"
       ]
     },
     {
