@@ -5,12 +5,12 @@
     {
       "person": "arjun137",
       "leaderboard": "2024-04-13",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 3,
+      "totalSeconds": 63,
+      "position": 3,
+      "scrapeTime": "2024-04-13T16:31:40.445Z",
+      "isPending": false
     },
     {
       "person": "arjun137",
@@ -10267,8 +10267,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 47,
-    "totalSeconds": 107,
+    "seconds": 46,
+    "totalSeconds": 106,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -10277,13 +10277,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 44,
-    "totalSeconds": 44,
+    "seconds": 46,
+    "totalSeconds": 46,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 50,
+  "awardCount": 51,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -10337,7 +10337,8 @@
         "2023-11-21",
         "2024-01-12",
         "2024-02-27",
-        "2024-03-26"
+        "2024-03-26",
+        "2024-04-13"
       ]
     },
     {
