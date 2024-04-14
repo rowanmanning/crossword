@@ -5,12 +5,12 @@
     {
       "person": "ellejay",
       "leaderboard": "2024-04-14",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 53,
+      "totalSeconds": 53,
+      "position": 2,
+      "scrapeTime": "2024-04-14T07:34:45.881Z",
+      "isPending": false
     },
     {
       "person": "ellejay",
@@ -6227,8 +6227,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 43,
-    "totalSeconds": 103,
+    "seconds": 41,
+    "totalSeconds": 101,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -6237,13 +6237,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 42,
-    "totalSeconds": 42,
+    "seconds": 43.5,
+    "totalSeconds": 43.5,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 54,
+  "awardCount": 55,
   "awards": [
     {
       "title": "Bronze",
@@ -6310,7 +6310,8 @@
         "2023-02-27",
         "2023-04-03",
         "2023-12-26",
-        "2024-04-10"
+        "2024-04-10",
+        "2024-04-14"
       ]
     },
     {
