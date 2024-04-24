@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "emC",
+      "leaderboard": "2024-04-24",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "emC",
       "leaderboard": "2024-04-23",
       "minutes": 0,
       "seconds": 31,
@@ -873,7 +883,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 106,
+  "awardCount": 107,
   "awards": [
     {
       "title": "Gold",
@@ -909,7 +919,8 @@
         "2024-02-01",
         "2024-02-24",
         "2024-03-04",
-        "2024-03-14"
+        "2024-03-14",
+        "2024-04-23"
       ]
     },
     {
