@@ -20,6 +20,11 @@
 		"seconds": 48
 	},
 	{
+		"name": "ivo",
+		"scrapeTime": "2024-04-25T15:31:46.711Z",
+		"seconds": 65
+	},
+	{
 		"name": "Lily2point0",
 		"scrapeTime": "2024-04-25T06:02:30.230Z",
 		"seconds": 67
@@ -61,11 +66,6 @@
 	},
 	{
 		"name": "ellejay",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
-		"name": "ivo",
 		"scrapeTime": null,
 		"seconds": null
 	},
