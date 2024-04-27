@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Otherowan",
+      "leaderboard": "2024-04-28",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Otherowan",
       "leaderboard": "2024-04-27",
       "minutes": 1,
       "seconds": 16,
@@ -8233,7 +8243,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1192,
+  "awardCount": 1194,
   "awards": [
     {
       "title": "Gold",
@@ -8297,7 +8307,16 @@
         "2024-01-25",
         "2024-02-26",
         "2024-04-16",
-        "2024-04-26"
+        "2024-04-26",
+        "2024-04-27"
+      ]
+    },
+    {
+      "title": "Double Silver",
+      "type": "double-silver",
+      "text": "Get the second fastest time two days in a row",
+      "dates": [
+        "2024-04-27"
       ]
     },
     {
