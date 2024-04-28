@@ -5,12 +5,12 @@
     {
       "person": "ellejay",
       "leaderboard": "2024-04-28",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 57,
+      "totalSeconds": 57,
+      "position": 4,
+      "scrapeTime": "2024-04-28T14:31:38.419Z",
+      "isPending": false
     },
     {
       "person": "ellejay",
@@ -6367,8 +6367,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 40,
-    "totalSeconds": 100,
+    "seconds": 38,
+    "totalSeconds": 98,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -6377,13 +6377,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 45,
-    "totalSeconds": 45,
+    "seconds": 46.5,
+    "totalSeconds": 46.5,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 61,
+  "awardCount": 64,
   "awards": [
     {
       "title": "Bronze",
@@ -6408,7 +6408,8 @@
       "dates": [
         "2022-09-23",
         "2023-12-26",
-        "2024-04-10"
+        "2024-04-10",
+        "2024-04-28"
       ]
     },
     {
@@ -6462,7 +6463,8 @@
         "2023-12-26",
         "2024-04-10",
         "2024-04-14",
-        "2024-04-26"
+        "2024-04-26",
+        "2024-04-28"
       ]
     },
     {
@@ -6487,7 +6489,8 @@
       "type": "three-day-streak",
       "text": "Play for three days in a row",
       "dates": [
-        "2024-04-12"
+        "2024-04-12",
+        "2024-04-28"
       ]
     },
     {

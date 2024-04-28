@@ -665,11 +665,12 @@
     },
     {
       "person": "ellejay",
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2024-04-12"
+        "2024-04-12",
+        "2024-04-28"
       ]
     }
   ],
-  "totalUnlocks": 528
+  "totalUnlocks": 529
 }
