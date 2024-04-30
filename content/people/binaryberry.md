@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "binaryberry",
+      "leaderboard": "2024-04-30",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "binaryberry",
       "leaderboard": "2024-04-29",
       "minutes": 1,
       "seconds": 29,
@@ -10463,7 +10473,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1786,
+  "awardCount": 1787,
   "awards": [
     {
       "title": "Gold",
@@ -10504,7 +10514,8 @@
         "2024-03-30",
         "2024-03-31",
         "2024-04-06",
-        "2024-04-08"
+        "2024-04-08",
+        "2024-04-29"
       ]
     },
     {
