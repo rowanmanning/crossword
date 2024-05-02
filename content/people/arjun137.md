@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "arjun137",
+      "leaderboard": "2024-05-02",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "arjun137",
       "leaderboard": "2024-05-01",
       "minutes": 2,
       "seconds": 26,
@@ -10463,7 +10473,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 57,
+  "awardCount": 58,
   "awards": [
     {
       "title": "Bronze",
@@ -10608,7 +10618,8 @@
       "text": "His number is six hundred and sixty-six",
       "dates": [
         "2023-11-13",
-        "2024-02-27"
+        "2024-02-27",
+        "2024-05-01"
       ]
     },
     {
