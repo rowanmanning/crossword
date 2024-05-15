@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "emC",
+      "leaderboard": "2024-05-15",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "emC",
       "leaderboard": "2024-05-14",
       "minutes": 0,
       "seconds": 52,
@@ -1083,7 +1093,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 129,
+  "awardCount": 130,
   "awards": [
     {
       "title": "Gold",
@@ -1341,7 +1351,8 @@
       "text": "His number is six hundred and sixty-six",
       "dates": [
         "2024-02-15",
-        "2024-03-27"
+        "2024-03-27",
+        "2024-05-14"
       ]
     },
     {
