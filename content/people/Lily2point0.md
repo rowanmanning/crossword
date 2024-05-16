@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Lily2point0",
+      "leaderboard": "2024-05-16",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Lily2point0",
       "leaderboard": "2024-05-15",
       "minutes": 0,
       "seconds": 20,
@@ -10623,7 +10633,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1905,
+  "awardCount": 1907,
   "awards": [
     {
       "title": "Gold",
@@ -10633,7 +10643,8 @@
         "2021-09-11",
         "2021-10-09",
         "2024-01-28",
-        "2024-03-15"
+        "2024-03-15",
+        "2024-05-15"
       ]
     },
     {
@@ -12311,6 +12322,14 @@
       "text": "Get the same time as four other people",
       "dates": [
         "2021-10-22"
+      ]
+    },
+    {
+      "title": "Twinning In Gold",
+      "type": "twinning-in-gold",
+      "text": "Get the twinning award and the fastest time for a day",
+      "dates": [
+        "2024-05-15"
       ]
     },
     {
