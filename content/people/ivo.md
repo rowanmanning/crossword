@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "ivo",
+      "leaderboard": "2024-05-29",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "ivo",
       "leaderboard": "2024-05-28",
       "minutes": 0,
       "seconds": 45,
@@ -9903,7 +9913,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1901,
+  "awardCount": 1904,
   "awards": [
     {
       "title": "Gold",
@@ -9980,7 +9990,8 @@
         "2024-05-13",
         "2024-05-14",
         "2024-05-26",
-        "2024-05-27"
+        "2024-05-27",
+        "2024-05-28"
       ]
     },
     {
@@ -10004,7 +10015,8 @@
       "text": "Get the fastest time three days in a row",
       "dates": [
         "2022-03-16",
-        "2024-04-09"
+        "2024-04-09",
+        "2024-05-28"
       ]
     },
     {
@@ -12146,7 +12158,8 @@
         "2024-01-24",
         "2024-03-21",
         "2024-04-07",
-        "2024-05-26"
+        "2024-05-26",
+        "2024-05-28"
       ]
     }
   ]
