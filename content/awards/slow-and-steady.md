@@ -154,6 +154,14 @@
       ]
     },
     {
+      "person": "alexmuller",
+      "count": 2,
+      "dates": [
+        "2024-03-12",
+        "2024-06-01"
+      ]
+    },
+    {
       "person": "leaf",
       "count": 1,
       "dates": [
@@ -166,14 +174,7 @@
       "dates": [
         "2024-02-03"
       ]
-    },
-    {
-      "person": "alexmuller",
-      "count": 1,
-      "dates": [
-        "2024-03-12"
-      ]
     }
   ],
-  "totalUnlocks": 110
+  "totalUnlocks": 111
 }

@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "alexmuller",
+      "leaderboard": "2024-06-02",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "alexmuller",
       "leaderboard": "2024-06-01",
       "minutes": 1,
       "seconds": 3,
@@ -6563,7 +6573,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1426,
+  "awardCount": 1428,
   "awards": [
     {
       "title": "Gold",
@@ -6598,7 +6608,8 @@
         "2024-04-15",
         "2024-04-16",
         "2024-04-27",
-        "2024-05-08"
+        "2024-05-08",
+        "2024-06-01"
       ]
     },
     {
@@ -8296,7 +8307,8 @@
       "type": "slow-and-steady",
       "text": "Complete a puzzle after everyone else but with the fastest time",
       "dates": [
-        "2024-03-12"
+        "2024-03-12",
+        "2024-06-01"
       ]
     }
   ]
