@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "emC",
+      "leaderboard": "2024-06-11",
+      "minutes": 0,
+      "seconds": 36,
+      "totalSeconds": 36,
+      "position": 3,
+      "scrapeTime": "2024-06-11T17:37:31.356Z",
+      "isPending": false
+    },
+    {
+      "person": "emC",
       "leaderboard": "2024-06-02",
       "minutes": null,
       "seconds": null,
@@ -1257,8 +1267,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 56,
-    "totalSeconds": 56,
+    "seconds": 55,
+    "totalSeconds": 55,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -1273,7 +1283,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 136,
+  "awardCount": 138,
   "awards": [
     {
       "title": "Gold",
@@ -1446,7 +1456,8 @@
         "2024-05-06",
         "2024-05-07",
         "2024-05-20",
-        "2024-05-30"
+        "2024-05-30",
+        "2024-06-11"
       ]
     },
     {
@@ -1547,7 +1558,8 @@
       "text": "Complete a puzzle before anyone else (or within 30 minutes of the first person)",
       "dates": [
         "2024-03-31",
-        "2024-04-07"
+        "2024-04-07",
+        "2024-06-11"
       ]
     },
     {

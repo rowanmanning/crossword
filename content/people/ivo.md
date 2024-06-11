@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "ivo",
+      "leaderboard": "2024-06-11",
+      "minutes": 0,
+      "seconds": 27,
+      "totalSeconds": 27,
+      "position": 2,
+      "scrapeTime": "2024-06-11T17:37:31.356Z",
+      "isPending": false
+    },
+    {
+      "person": "ivo",
       "leaderboard": "2024-06-02",
       "minutes": null,
       "seconds": null,
@@ -9953,7 +9963,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1916,
+  "awardCount": 1919,
   "awards": [
     {
       "title": "Gold",
@@ -10622,7 +10632,8 @@
         "2024-05-23",
         "2024-05-26",
         "2024-05-27",
-        "2024-05-30"
+        "2024-05-30",
+        "2024-06-11"
       ]
     },
     {
@@ -11628,7 +11639,8 @@
         "2024-05-01",
         "2024-05-14",
         "2024-05-17",
-        "2024-05-30"
+        "2024-05-30",
+        "2024-06-11"
       ]
     },
     {
@@ -12194,6 +12206,14 @@
       "dates": [
         "2021-12-07",
         "2022-02-23"
+      ]
+    },
+    {
+      "title": "Quick Draw",
+      "type": "quick-draw",
+      "text": "Complete a puzzle before anyone else (or within 30 minutes of the first person)",
+      "dates": [
+        "2024-06-11"
       ]
     },
     {
