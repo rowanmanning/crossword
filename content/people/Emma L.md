@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Emma L",
+      "leaderboard": "2024-06-12",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Emma L",
       "leaderboard": "2024-06-11",
       "minutes": 0,
       "seconds": 21,
@@ -10463,7 +10473,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 2815,
+  "awardCount": 2816,
   "awards": [
     {
       "title": "Gold",
@@ -10793,7 +10803,8 @@
         "2024-05-23",
         "2024-05-25",
         "2024-05-29",
-        "2024-05-31"
+        "2024-05-31",
+        "2024-06-11"
       ]
     },
     {
