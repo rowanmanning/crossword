@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Lily2point0",
+      "leaderboard": "2024-06-17",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Lily2point0",
       "leaderboard": "2024-06-16",
       "minutes": 0,
       "seconds": 39,
@@ -10863,7 +10873,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1938,
+  "awardCount": 1940,
   "awards": [
     {
       "title": "Gold",
@@ -10924,7 +10934,8 @@
         "2024-03-23",
         "2024-04-06",
         "2024-05-13",
-        "2024-06-15"
+        "2024-06-15",
+        "2024-06-16"
       ]
     },
     {
@@ -10932,7 +10943,8 @@
       "type": "double-bronze",
       "text": "Get the third fastest time two days in a row",
       "dates": [
-        "2023-11-28"
+        "2023-11-28",
+        "2024-06-16"
       ]
     },
     {
