@@ -340,6 +340,15 @@
       ]
     },
     {
+      "person": "Emma L",
+      "count": 3,
+      "dates": [
+        "2021-08-08",
+        "2023-06-24",
+        "2024-06-17"
+      ]
+    },
+    {
       "person": "Nick Ramsbottom",
       "count": 3,
       "dates": [
@@ -355,15 +364,7 @@
         "2021-06-30",
         "2021-07-08"
       ]
-    },
-    {
-      "person": "Emma L",
-      "count": 2,
-      "dates": [
-        "2021-08-08",
-        "2023-06-24"
-      ]
     }
   ],
-  "totalUnlocks": 258
+  "totalUnlocks": 259
 }

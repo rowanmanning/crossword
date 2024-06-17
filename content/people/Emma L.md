@@ -5,12 +5,12 @@
     {
       "person": "Emma L",
       "leaderboard": "2024-06-17",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 32,
+      "totalSeconds": 32,
+      "position": 1,
+      "scrapeTime": "2024-06-17T06:02:42.422Z",
+      "isPending": false
     },
     {
       "person": "Emma L",
@@ -10523,7 +10523,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 2833,
+  "awardCount": 2835,
   "awards": [
     {
       "title": "Gold",
@@ -12639,7 +12639,8 @@
         "2024-05-13",
         "2024-05-21",
         "2024-05-29",
-        "2024-06-16"
+        "2024-06-16",
+        "2024-06-17"
       ]
     },
     {
@@ -13181,7 +13182,8 @@
       "text": "Play for a full week without breaks",
       "dates": [
         "2021-08-08",
-        "2023-06-24"
+        "2023-06-24",
+        "2024-06-17"
       ]
     },
     {
