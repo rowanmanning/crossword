@@ -5,12 +5,12 @@
     {
       "person": "arjun137",
       "leaderboard": "2024-06-19",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 33,
+      "totalSeconds": 33,
+      "position": 3,
+      "scrapeTime": "2024-06-19T12:41:01.908Z",
+      "isPending": false
     },
     {
       "person": "arjun137",
@@ -10845,20 +10845,20 @@
   ],
   "best": {
     "person": "arjun137",
-    "leaderboard": "2021-06-23",
+    "leaderboard": "2024-06-19",
     "minutes": 0,
-    "seconds": 40,
-    "totalSeconds": 40,
-    "position": 4,
-    "scrapeTime": null,
+    "seconds": 33,
+    "totalSeconds": 33,
+    "position": 3,
+    "scrapeTime": "2024-06-19T12:41:01.908Z",
     "isPending": false
   },
   "mean": {
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 39,
-    "totalSeconds": 99,
+    "seconds": 37,
+    "totalSeconds": 97,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -10867,13 +10867,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 50,
-    "totalSeconds": 50,
+    "seconds": 49,
+    "totalSeconds": 49,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 65,
+  "awardCount": 66,
   "awards": [
     {
       "title": "Bronze",
@@ -10969,7 +10969,8 @@
         "2021-07-13",
         "2023-10-15",
         "2024-03-10",
-        "2024-06-16"
+        "2024-06-16",
+        "2024-06-19"
       ]
     },
     {
