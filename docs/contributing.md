@@ -43,9 +43,9 @@ I don't offer any guarantees on how long it will take me to review a PR or respo
 
 ### Linting
 
-Crossword is linted using [ESLint](https://eslint.org/), configured in the way I normally write JavaScript. Please keep to the existing style.
+Crossword is linted using [Biome](https://biomejs.dev/), configured in the way I normally write JavaScript. Please keep to the existing style.
 
-ESLint errors will fail the build on any PRs. Most editors have an ESLint plugin which will pick up errors, but you can also run the linter manually with the following command:
+Biome errors will fail the build on any PRs. Most editors have a Biome plugin which will pick up errors, but you can also run the linter manually with the following command:
 
 ```
 npm run verify

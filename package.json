@@ -24,14 +24,13 @@
     "json5": "^2.2.3"
   },
   "devDependencies": {
-    "@rowanmanning/eslint-config": "^8.1.0",
-    "eslint": "^8.57.0"
+    "@rowanmanning/biome-config": "^1.3.0"
   },
   "scripts": {
+    "verify": "npm run verify:biome",
+    "verify:biome": "biome check",
     "build": "hugo --minify --environment production",
     "leaderboard:fetch": "./scripts/fetch-leaderboard.js && ./scripts/generate-pages.js",
-    "verify": "npm run verify:eslint",
-    "verify:eslint": "eslint .",
     "start": "hugo server -D"
   },
   "volta": {
