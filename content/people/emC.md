@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "emC",
+      "leaderboard": "2024-06-20",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "emC",
       "leaderboard": "2024-06-19",
       "minutes": 0,
       "seconds": 29,
@@ -1363,7 +1373,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 146,
+  "awardCount": 148,
   "awards": [
     {
       "title": "Gold",
@@ -1409,7 +1419,8 @@
         "2024-05-30",
         "2024-06-11",
         "2024-06-12",
-        "2024-06-18"
+        "2024-06-18",
+        "2024-06-19"
       ]
     },
     {
@@ -1417,7 +1428,8 @@
       "type": "double-bronze",
       "text": "Get the third fastest time two days in a row",
       "dates": [
-        "2024-06-12"
+        "2024-06-12",
+        "2024-06-19"
       ]
     },
     {
