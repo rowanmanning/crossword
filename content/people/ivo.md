@@ -5,12 +5,12 @@
     {
       "person": "ivo",
       "leaderboard": "2024-06-21",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 26,
+      "totalSeconds": 26,
+      "position": 2,
+      "scrapeTime": "2024-06-21T10:33:22.382Z",
+      "isPending": false
     },
     {
       "person": "ivo",
@@ -10047,8 +10047,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 7,
-    "totalSeconds": 67,
+    "seconds": 6,
+    "totalSeconds": 66,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -10056,14 +10056,14 @@
   "median": {
     "person": null,
     "leaderboard": null,
-    "minutes": 3,
-    "seconds": 33,
-    "totalSeconds": 213,
+    "minutes": 6,
+    "seconds": 27,
+    "totalSeconds": 387,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1929,
+  "awardCount": 1932,
   "awards": [
     {
       "title": "Gold",
@@ -10735,7 +10735,8 @@
         "2024-05-26",
         "2024-05-27",
         "2024-05-30",
-        "2024-06-11"
+        "2024-06-11",
+        "2024-06-21"
       ]
     },
     {
@@ -11748,7 +11749,8 @@
         "2024-05-30",
         "2024-06-11",
         "2024-06-12",
-        "2024-06-18"
+        "2024-06-18",
+        "2024-06-21"
       ]
     },
     {
@@ -11814,6 +11816,7 @@
       "type": "anniversary",
       "text": "Play the crossword on the anniversary of this website",
       "dates": [
+        "2024-06-21",
         "2023-06-21",
         "2022-06-21"
       ]

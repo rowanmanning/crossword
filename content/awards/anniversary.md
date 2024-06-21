@@ -32,6 +32,15 @@
       ]
     },
     {
+      "person": "ivo",
+      "count": 3,
+      "dates": [
+        "2024-06-21",
+        "2023-06-21",
+        "2022-06-21"
+      ]
+    },
+    {
       "person": "Lily2point0",
       "count": 3,
       "dates": [
@@ -50,14 +59,6 @@
     },
     {
       "person": "cb",
-      "count": 2,
-      "dates": [
-        "2023-06-21",
-        "2022-06-21"
-      ]
-    },
-    {
-      "person": "ivo",
       "count": 2,
       "dates": [
         "2023-06-21",
@@ -95,5 +96,5 @@
       ]
     }
   ],
-  "totalUnlocks": 24
+  "totalUnlocks": 25
 }
