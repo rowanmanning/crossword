@@ -5,6 +5,24 @@
   "order": "301",
   "unlocks": [
     {
+      "person": "binaryberry",
+      "count": 3,
+      "dates": [
+        "2024-06-21",
+        "2023-06-21",
+        "2022-06-21"
+      ]
+    },
+    {
+      "person": "Lily2point0",
+      "count": 3,
+      "dates": [
+        "2024-06-21",
+        "2023-06-21",
+        "2022-06-21"
+      ]
+    },
+    {
       "person": "Ania",
       "count": 2,
       "dates": [
@@ -14,14 +32,6 @@
     },
     {
       "person": "apaleslimghost",
-      "count": 2,
-      "dates": [
-        "2023-06-21",
-        "2022-06-21"
-      ]
-    },
-    {
-      "person": "binaryberry",
       "count": 2,
       "dates": [
         "2023-06-21",
@@ -61,14 +71,6 @@
       ]
     },
     {
-      "person": "Lily2point0",
-      "count": 2,
-      "dates": [
-        "2023-06-21",
-        "2022-06-21"
-      ]
-    },
-    {
       "person": "Otherowan",
       "count": 2,
       "dates": [
@@ -91,5 +93,5 @@
       ]
     }
   ],
-  "totalUnlocks": 20
+  "totalUnlocks": 22
 }

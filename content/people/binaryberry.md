@@ -5,12 +5,12 @@
     {
       "person": "binaryberry",
       "leaderboard": "2024-06-21",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 3,
+      "seconds": 14,
+      "totalSeconds": 194,
+      "position": 2,
+      "scrapeTime": "2024-06-21T05:32:15.155Z",
+      "isPending": false
     },
     {
       "person": "binaryberry",
@@ -10913,7 +10913,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1876,
+  "awardCount": 1880,
   "awards": [
     {
       "title": "Gold",
@@ -11542,7 +11542,8 @@
         "2024-05-21",
         "2024-05-24",
         "2024-06-12",
-        "2024-06-15"
+        "2024-06-15",
+        "2024-06-21"
       ]
     },
     {
@@ -12224,6 +12225,7 @@
       "type": "anniversary",
       "text": "Play the crossword on the anniversary of this website",
       "dates": [
+        "2024-06-21",
         "2023-06-21",
         "2022-06-21"
       ]
@@ -12473,6 +12475,14 @@
         "2023-11-12",
         "2023-12-04",
         "2024-01-30"
+      ]
+    },
+    {
+      "title": "Pi",
+      "type": "pi",
+      "text": "3.141 592 653 589 793 238 462 643…",
+      "dates": [
+        "2024-06-21"
       ]
     },
     {
@@ -13061,7 +13071,8 @@
         "2024-06-14",
         "2024-06-18",
         "2024-06-19",
-        "2024-06-20"
+        "2024-06-20",
+        "2024-06-21"
       ]
     }
   ]
