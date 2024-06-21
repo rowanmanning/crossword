@@ -5,12 +5,12 @@
     {
       "person": "apaleslimghost",
       "leaderboard": "2024-06-21",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 22,
+      "totalSeconds": 22,
+      "position": 1,
+      "scrapeTime": "2024-06-21T09:31:40.999Z",
+      "isPending": false
     },
     {
       "person": "apaleslimghost",
@@ -10903,7 +10903,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1382,
+  "awardCount": 1385,
   "awards": [
     {
       "title": "Gold",
@@ -12043,7 +12043,8 @@
         "2024-04-19",
         "2024-05-06",
         "2024-05-15",
-        "2024-05-30"
+        "2024-05-30",
+        "2024-06-21"
       ]
     },
     {
@@ -12108,6 +12109,7 @@
       "type": "anniversary",
       "text": "Play the crossword on the anniversary of this website",
       "dates": [
+        "2024-06-21",
         "2023-06-21",
         "2022-06-21"
       ]
@@ -12303,7 +12305,8 @@
         "2024-04-13",
         "2024-05-03",
         "2024-05-15",
-        "2024-05-26"
+        "2024-05-26",
+        "2024-06-21"
       ]
     },
     {

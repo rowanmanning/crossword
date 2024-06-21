@@ -5,6 +5,15 @@
   "order": "301",
   "unlocks": [
     {
+      "person": "apaleslimghost",
+      "count": 3,
+      "dates": [
+        "2024-06-21",
+        "2023-06-21",
+        "2022-06-21"
+      ]
+    },
+    {
       "person": "binaryberry",
       "count": 3,
       "dates": [
@@ -33,14 +42,6 @@
     },
     {
       "person": "Ania",
-      "count": 2,
-      "dates": [
-        "2023-06-21",
-        "2022-06-21"
-      ]
-    },
-    {
-      "person": "apaleslimghost",
       "count": 2,
       "dates": [
         "2023-06-21",
@@ -94,5 +95,5 @@
       ]
     }
   ],
-  "totalUnlocks": 23
+  "totalUnlocks": 24
 }
