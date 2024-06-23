@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Rowan M",
+      "leaderboard": "2024-06-24",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Rowan M",
       "leaderboard": "2024-06-23",
       "minutes": null,
       "seconds": null,
