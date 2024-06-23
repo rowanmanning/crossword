@@ -207,7 +207,14 @@
       "dates": [
         "2024-04-10"
       ]
+    },
+    {
+      "person": "alexmuller",
+      "count": 1,
+      "dates": [
+        "2024-06-23"
+      ]
     }
   ],
-  "totalUnlocks": 108
+  "totalUnlocks": 109
 }

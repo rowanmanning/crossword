@@ -5,12 +5,12 @@
     {
       "person": "alexmuller",
       "leaderboard": "2024-06-23",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 33,
+      "totalSeconds": 33,
+      "position": 2,
+      "scrapeTime": "2024-06-23T14:02:00.234Z",
+      "isPending": false
     },
     {
       "person": "alexmuller",
@@ -6703,7 +6703,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1429,
+  "awardCount": 1431,
   "awards": [
     {
       "title": "Gold",
@@ -7827,7 +7827,8 @@
         "2024-05-14",
         "2024-05-16",
         "2024-05-21",
-        "2024-06-13"
+        "2024-06-13",
+        "2024-06-23"
       ]
     },
     {
@@ -8085,6 +8086,14 @@
       "dates": [
         "2023-01-23",
         "2023-12-07"
+      ]
+    },
+    {
+      "title": "Holiday",
+      "type": "holiday",
+      "text": "Come back to the crossword after a week off",
+      "dates": [
+        "2024-06-23"
       ]
     },
     {
