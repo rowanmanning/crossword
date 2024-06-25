@@ -5,6 +5,11 @@
 		"seconds": 26
 	},
 	{
+		"name": "Lily2point0",
+		"scrapeTime": "2024-06-25T07:02:08.266Z",
+		"seconds": 94
+	},
+	{
 		"name": "binaryberry",
 		"scrapeTime": "2024-06-25T05:31:54.019Z",
 		"seconds": 132
@@ -76,11 +81,6 @@
 	},
 	{
 		"name": "leaf",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
-		"name": "Lily2point0",
 		"scrapeTime": null,
 		"seconds": null
 	},
