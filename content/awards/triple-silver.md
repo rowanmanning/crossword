@@ -53,6 +53,14 @@
       ]
     },
     {
+      "person": "j-sheps",
+      "count": 2,
+      "dates": [
+        "2023-11-04",
+        "2024-06-26"
+      ]
+    },
+    {
       "person": "ivo",
       "count": 2,
       "dates": [
@@ -68,13 +76,6 @@
       ]
     },
     {
-      "person": "j-sheps",
-      "count": 1,
-      "dates": [
-        "2023-11-04"
-      ]
-    },
-    {
       "person": "alexmuller",
       "count": 1,
       "dates": [
@@ -82,5 +83,5 @@
       ]
     }
   ],
-  "totalUnlocks": 29
+  "totalUnlocks": 30
 }
