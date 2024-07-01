@@ -3,7 +3,6 @@
 const TimeDifferenceAward = require('./core/time-difference');
 
 module.exports = class HalfTimeAward extends TimeDifferenceAward {
-
 	static get title() {
 		return 'Half Time';
 	}
@@ -19,5 +18,4 @@ module.exports = class HalfTimeAward extends TimeDifferenceAward {
 	isValidTimeMultiplier(timeMultiplier) {
 		return timeMultiplier <= 0.5 && timeMultiplier > 0.25;
 	}
-
 };

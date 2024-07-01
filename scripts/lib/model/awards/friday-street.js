@@ -3,7 +3,6 @@
 const TimeAndDayAward = require('./core/time-and-day');
 
 module.exports = class FridayStreetAward extends TimeAndDayAward {
-
 	static get title() {
 		return '1 Friday Street';
 	}
@@ -23,5 +22,4 @@ module.exports = class FridayStreetAward extends TimeAndDayAward {
 	get day() {
 		return 'Friday';
 	}
-
 };

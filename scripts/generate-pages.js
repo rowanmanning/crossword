@@ -2,7 +2,7 @@
 'use strict';
 
 const Awards = require('./lib/model/awards');
-const fs = require('fs/promises');
+const fs = require('node:fs/promises');
 const loadAllJSON = require('./lib/utils/load-all-json');
 const Leaderboard = require('./lib/model/leaderboard');
 const Person = require('./lib/model/person');
@@ -11,7 +11,6 @@ const Time = require('./lib/model/time');
 generatePages();
 
 async function generatePages() {
-
 	console.log('Loading raw leaderboard JSON');
 	const files = await loadAllJSON(`${__dirname}/../data/leaderboards`);
 
@@ -21,8 +20,7 @@ async function generatePages() {
 	const awards = [];
 
 	// Create leaderboard and people representations
-	for (const {name: date, data} of files) {
-
+	for (const { name: date, data } of files) {
 		// Create the leaderboard if it doesn't exist
 		if (!leaderboards.has(date)) {
 			leaderboards.set(date, new Leaderboard(date));
@@ -30,7 +28,7 @@ async function generatePages() {
 		const leaderboard = leaderboards.get(date);
 
 		// Loop over people for leaderboard data
-		for (const {name, seconds, scrapeTime, isGlitch} of data) {
+		for (const { name, seconds, scrapeTime, isGlitch } of data) {
 			const time = new Time({
 				seconds,
 				isGlitch
@@ -47,13 +45,12 @@ async function generatePages() {
 			time.person = person;
 			time.scrapeTime = scrapeTime;
 		}
-
 	}
 
 	// Create award representations
 	for (const [index, Award] of Object.entries(Object.values(Awards))) {
 		const unlocks = Award.getUnlocks([...people.values()]);
-		const totalUnlocks = unlocks.reduce((total, {dates}) => total + dates.length, 0);
+		const totalUnlocks = unlocks.reduce((total, { dates }) => total + dates.length, 0);
 		awards.push({
 			title: Award.title,
 			id: Award.type,
@@ -90,5 +87,4 @@ async function generatePages() {
 			JSON.stringify(award, null, 2)
 		);
 	}
-
 }

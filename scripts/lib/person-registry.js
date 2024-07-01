@@ -3,7 +3,6 @@
 const Person = require('./model/person');
 
 module.exports = class PersonRegistry {
-
 	constructor() {
 		this.people = new Set();
 		this.peopleMap = new Map();
@@ -20,5 +19,4 @@ module.exports = class PersonRegistry {
 	get(name) {
 		return this.peopleMap.get(name);
 	}
-
 };

@@ -3,7 +3,6 @@
 const BaseAward = require('./core/base');
 
 module.exports = class PodiumClimbingAward extends BaseAward {
-
 	static get title() {
 		return 'Podium Climbing';
 	}
@@ -17,9 +16,8 @@ module.exports = class PodiumClimbingAward extends BaseAward {
 	}
 
 	get podiumGroups() {
-		return this.person
-			.timesExcludingToday
-			.reduce((groups, {position, leaderboard}) => {
+		return this.person.timesExcludingToday
+			.reduce((groups, { position, leaderboard }) => {
 				let group = groups.length ? groups.pop() : [];
 				if (group.length === 3) {
 					groups.push(group);
@@ -36,15 +34,14 @@ module.exports = class PodiumClimbingAward extends BaseAward {
 				}
 				return groups;
 			}, [])
-			.filter(group => group.length === 3);
+			.filter((group) => group.length === 3);
 	}
 
 	calculateDates() {
-		const {podiumGroups} = this;
+		const { podiumGroups } = this;
 		if (podiumGroups.length) {
-			return podiumGroups.map(group => group[2]);
+			return podiumGroups.map((group) => group[2]);
 		}
 		return [];
 	}
-
 };

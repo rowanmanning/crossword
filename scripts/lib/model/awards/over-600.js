@@ -3,7 +3,6 @@
 const GreaterThanTimeAward = require('./core/greater-than-time');
 
 module.exports = class OverTenMinutesAward extends GreaterThanTimeAward {
-
 	static get title() {
 		return 'Over Ten Minutes';
 	}
@@ -19,5 +18,4 @@ module.exports = class OverTenMinutesAward extends GreaterThanTimeAward {
 	get seconds() {
 		return 600;
 	}
-
 };

@@ -3,7 +3,6 @@
 const TimeGroupAward = require('./core/time-group');
 
 module.exports = class QuadrupletingAward extends TimeGroupAward {
-
 	static get title() {
 		return 'Quadrupleting';
 	}
@@ -19,5 +18,4 @@ module.exports = class QuadrupletingAward extends TimeGroupAward {
 	get groupSize() {
 		return 4;
 	}
-
 };

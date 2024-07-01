@@ -3,7 +3,6 @@
 const Time = require('./time');
 
 module.exports = class Leaderboard {
-
 	constructor(date) {
 		this.date = date;
 		this.times = [];
@@ -51,7 +50,9 @@ module.exports = class Leaderboard {
 	}
 
 	get mean() {
-		const seconds = this.times.filter(time => time < Infinity).map(time => time.totalSeconds);
+		const seconds = this.times
+			.filter((time) => time < Number.POSITIVE_INFINITY)
+			.map((time) => time.totalSeconds);
 		if (!seconds.length) {
 			return new Time();
 		}
@@ -65,7 +66,9 @@ module.exports = class Leaderboard {
 	}
 
 	get diff() {
-		const seconds = this.times.filter(time => time < Infinity).map(time => time.totalSeconds);
+		const seconds = this.times
+			.filter((time) => time < Number.POSITIVE_INFINITY)
+			.map((time) => time.totalSeconds);
 		if (seconds.length <= 1) {
 			return new Time();
 		}
@@ -80,15 +83,7 @@ module.exports = class Leaderboard {
 	}
 
 	get day() {
-		const days = [
-			'Sunday',
-			'Monday',
-			'Tuesday',
-			'Wednesday',
-			'Thursday',
-			'Friday',
-			'Saturday'
-		];
+		const days = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
 		const date = this.dateObject;
 		return date ? days[date.getUTCDay()] : null;
 	}
@@ -113,7 +108,7 @@ module.exports = class Leaderboard {
 			return this.memo.timesByScrapeTime;
 		}
 		this.memo.timesByScrapeTime = this.times
-			.filter(time => time.scrapeTime !== null)
+			.filter((time) => time.scrapeTime !== null)
 			.sort((timeA, timeB) => {
 				if (timeA.scrapeTime < timeB.scrapeTime) {
 					return -1;
@@ -144,8 +139,8 @@ module.exports = class Leaderboard {
 		if (this.memo.timesGroupedBySequence) {
 			return this.memo.timesGroupedBySequence;
 		}
-		this.memo.timesGroupedBySequence = [...this.times]
-			.reduce((streaks, time) => {
+		this.memo.timesGroupedBySequence = [...this.times].reduce(
+			(streaks, time) => {
 				let currentStreak = streaks.pop();
 				if (time.isPending) {
 					streaks.push(currentStreak);
@@ -153,10 +148,18 @@ module.exports = class Leaderboard {
 						times: [],
 						length: 0
 					};
-				} else if (currentStreak.times.length && time.totalSeconds === currentStreak.times[currentStreak.times.length - 1].totalSeconds + 1) {
+				} else if (
+					currentStreak.times.length &&
+					time.totalSeconds ===
+						currentStreak.times[currentStreak.times.length - 1].totalSeconds + 1
+				) {
 					currentStreak.times.push(time);
 					currentStreak.length += 1;
-				} else if (currentStreak.times.length && time.totalSeconds === currentStreak.times[currentStreak.times.length - 1].totalSeconds) {
+				} else if (
+					currentStreak.times.length &&
+					time.totalSeconds ===
+						currentStreak.times[currentStreak.times.length - 1].totalSeconds
+				) {
 					currentStreak.times.push(time);
 				} else {
 					streaks.push(currentStreak);
@@ -167,12 +170,14 @@ module.exports = class Leaderboard {
 				}
 				streaks.push(currentStreak);
 				return streaks;
-			}, [
+			},
+			[
 				{
 					times: [],
 					length: 0
 				}
-			]);
+			]
+		);
 		return this.memo.timesGroupedBySequence;
 	}
 
@@ -186,5 +191,4 @@ module.exports = class Leaderboard {
 			diff: this.diff
 		};
 	}
-
 };

@@ -3,7 +3,6 @@
 const BaseAward = require('./core/base');
 
 module.exports = class QuickDrawAward extends BaseAward {
-
 	static get title() {
 		return 'Quick Draw';
 	}
@@ -17,7 +16,6 @@ module.exports = class QuickDrawAward extends BaseAward {
 	}
 
 	calculateDates() {
-		return this.person.timesInFirstScraping.map(time => time.leaderboard.date);
+		return this.person.timesInFirstScraping.map((time) => time.leaderboard.date);
 	}
-
 };

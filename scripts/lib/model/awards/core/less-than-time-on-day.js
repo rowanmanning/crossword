@@ -3,7 +3,6 @@
 const LessThanTimeAward = require('./less-than-time');
 
 module.exports = class LessThanTimeOnDayAward extends LessThanTimeAward {
-
 	get day() {
 		throw new Error(`${this.constructor.name}.day must be implemented`);
 	}
@@ -13,18 +12,12 @@ module.exports = class LessThanTimeOnDayAward extends LessThanTimeAward {
 	}
 
 	calculateDates() {
-		const instances = this.person
-			.timesExcludingPending
-			.filter(time => {
-				return (
-					this.isValidTime(time.totalSeconds) &&
-					this.isValidDay(time.leaderboard.day)
-				);
-			});
+		const instances = this.person.timesExcludingPending.filter((time) => {
+			return this.isValidTime(time.totalSeconds) && this.isValidDay(time.leaderboard.day);
+		});
 		if (instances.length) {
-			return instances.map(({leaderboard}) => leaderboard.date);
+			return instances.map(({ leaderboard }) => leaderboard.date);
 		}
 		return [];
 	}
-
 };

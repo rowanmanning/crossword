@@ -3,7 +3,6 @@
 const TimeAward = require('./time');
 
 module.exports = class TimeRangeAward extends TimeAward {
-
 	get maxSeconds() {
 		throw new Error(`${this.constructor.name}.maxSeconds must be implemented`);
 	}
@@ -17,10 +16,6 @@ module.exports = class TimeRangeAward extends TimeAward {
 	}
 
 	isValidTime(seconds) {
-		return (
-			seconds <= this.maxSeconds &&
-			seconds >= this.minSeconds
-		);
+		return seconds <= this.maxSeconds && seconds >= this.minSeconds;
 	}
-
 };

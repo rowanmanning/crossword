@@ -3,7 +3,6 @@
 const PositionStreakAward = require('./core/position-streak');
 
 module.exports = class UnluckyForSomeAward extends PositionStreakAward {
-
 	static get title() {
 		return 'Unlucky for Some';
 	}
@@ -13,7 +12,7 @@ module.exports = class UnluckyForSomeAward extends PositionStreakAward {
 	}
 
 	static get text() {
-		return `Come 13th three times`;
+		return 'Come 13th three times';
 	}
 
 	get position() {
@@ -23,5 +22,4 @@ module.exports = class UnluckyForSomeAward extends PositionStreakAward {
 	get streakLength() {
 		return 3;
 	}
-
 };

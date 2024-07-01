@@ -3,7 +3,6 @@
 const TimeAward = require('./time');
 
 module.exports = class TimeAndDayAward extends TimeAward {
-
 	get day() {
 		throw new Error(`${this.constructor.name}.day must be implemented`);
 	}
@@ -17,18 +16,12 @@ module.exports = class TimeAndDayAward extends TimeAward {
 	}
 
 	calculateDates() {
-		const instances = this.person
-			.timesExcludingPending
-			.filter(time => {
-				return (
-					this.isValidTime(time.totalSeconds) &&
-					this.isValidDay(time.leaderboard.day)
-				);
-			});
+		const instances = this.person.timesExcludingPending.filter((time) => {
+			return this.isValidTime(time.totalSeconds) && this.isValidDay(time.leaderboard.day);
+		});
 		if (instances.length) {
-			return instances.map(({leaderboard}) => leaderboard.date);
+			return instances.map(({ leaderboard }) => leaderboard.date);
 		}
 		return [];
 	}
-
 };

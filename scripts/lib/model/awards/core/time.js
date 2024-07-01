@@ -3,7 +3,6 @@
 const BaseAward = require('./base');
 
 module.exports = class TimeAward extends BaseAward {
-
 	get seconds() {
 		throw new Error(`${this.constructor.name}.seconds must be implemented`);
 	}
@@ -13,13 +12,12 @@ module.exports = class TimeAward extends BaseAward {
 	}
 
 	calculateDates() {
-		const instances = this.person
-			.timesExcludingPending
-			.filter(({totalSeconds}) => this.isValidTime(totalSeconds));
+		const instances = this.person.timesExcludingPending.filter(({ totalSeconds }) =>
+			this.isValidTime(totalSeconds)
+		);
 		if (instances.length) {
-			return instances.map(({leaderboard}) => leaderboard.date);
+			return instances.map(({ leaderboard }) => leaderboard.date);
 		}
 		return [];
 	}
-
 };

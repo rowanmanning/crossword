@@ -3,7 +3,6 @@
 const PositionStreakAward = require('./core/position-streak');
 
 module.exports = class EmergencyAward extends PositionStreakAward {
-
 	static get title() {
 		return '999';
 	}
@@ -23,5 +22,4 @@ module.exports = class EmergencyAward extends PositionStreakAward {
 	get streakLength() {
 		return 3;
 	}
-
 };

@@ -2,7 +2,6 @@
 
 // Order is important
 module.exports = {
-
 	// Gold position awards
 	Gold: require('./awards/gold'),
 	DoubleGold: require('./awards/double-gold'),
@@ -95,5 +94,4 @@ module.exports = {
 
 	// Special awards
 	GlitchAward: require('./awards/glitch')
-
 };

@@ -3,7 +3,6 @@
 const LessThanTimeOnDayAward = require('./core/less-than-time-on-day');
 
 module.exports = class NiceTryJoelAward extends LessThanTimeOnDayAward {
-
 	static get title() {
 		return 'Nice Try, Joel';
 	}
@@ -23,5 +22,4 @@ module.exports = class NiceTryJoelAward extends LessThanTimeOnDayAward {
 	get day() {
 		return 'Saturday';
 	}
-
 };

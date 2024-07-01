@@ -3,7 +3,6 @@
 const PlayStreakAward = require('./core/play-streak');
 
 module.exports = class ThreeDayStreakAward extends PlayStreakAward {
-
 	static get title() {
 		return 'Three Day Streak';
 	}
@@ -19,5 +18,4 @@ module.exports = class ThreeDayStreakAward extends PlayStreakAward {
 	get streakLength() {
 		return 3;
 	}
-
 };
