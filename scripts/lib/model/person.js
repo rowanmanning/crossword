@@ -4,7 +4,6 @@ const Awards = require('./awards');
 const Time = require('./time');
 
 module.exports = class Person {
-
 	constructor(name) {
 		this.name = name;
 		this.times = [];
@@ -30,7 +29,7 @@ module.exports = class Person {
 	}
 
 	get timesExcludingGlitched() {
-		return this.times.filter(({isGlitch}) => !isGlitch);
+		return this.times.filter(({ isGlitch }) => !isGlitch);
 	}
 
 	get timesExcludingToday() {
@@ -47,7 +46,7 @@ module.exports = class Person {
 			return this.memo.timesExcludingPending;
 		}
 		const times = [...this.times].reverse();
-		this.memo.timesExcludingPending = times.filter(({isPending}) => !isPending);
+		this.memo.timesExcludingPending = times.filter(({ isPending }) => !isPending);
 		return this.memo.timesExcludingPending;
 	}
 
@@ -80,19 +79,23 @@ module.exports = class Person {
 		if (this.memo.timesGroupedByPlayStreak) {
 			return this.memo.timesGroupedByPlayStreak;
 		}
-		this.memo.timesGroupedByPlayStreak = [...this.times].reverse()
-			.reduce((streaks, time) => {
-				let currentStreak = streaks.pop();
-				if (time.isPending) {
+		this.memo.timesGroupedByPlayStreak = [...this.times]
+			.reverse()
+			.reduce(
+				(streaks, time) => {
+					let currentStreak = streaks.pop();
+					if (time.isPending) {
+						streaks.push(currentStreak);
+						currentStreak = [];
+					} else {
+						currentStreak.push(time);
+					}
 					streaks.push(currentStreak);
-					currentStreak = [];
-				} else {
-					currentStreak.push(time);
-				}
-				streaks.push(currentStreak);
-				return streaks;
-			}, [[]])
-			.map(streak => {
+					return streaks;
+				},
+				[[]]
+			)
+			.map((streak) => {
 				return {
 					length: streak.length,
 					times: streak
@@ -105,8 +108,9 @@ module.exports = class Person {
 		if (this.memo.timeDifferences) {
 			return this.memo.timeDifferences;
 		}
-		this.memo.timeDifferences = [...this.times].reverse()
-			.filter(time => !time.isPending)
+		this.memo.timeDifferences = [...this.times]
+			.reverse()
+			.filter((time) => !time.isPending)
 			.reduce((differences, time, index, filteredTimes) => {
 				const previous = filteredTimes[index - 1];
 				if (previous) {
@@ -129,9 +133,9 @@ module.exports = class Person {
 		if (this.memo.timesInFirstScraping) {
 			return this.memo.timesInFirstScraping;
 		}
-		this.memo.timesInFirstScraping = [...this.times].reverse().filter(time => {
+		this.memo.timesInFirstScraping = [...this.times].reverse().filter((time) => {
 			const timesGroupedByScrapeTime = time.leaderboard.timesGroupedByScrapeTime;
-			return (timesGroupedByScrapeTime[0] && timesGroupedByScrapeTime[0].includes(time));
+			return timesGroupedByScrapeTime[0]?.includes(time);
 		});
 		return this.memo.timesInFirstScraping;
 	}
@@ -140,7 +144,7 @@ module.exports = class Person {
 		if (this.memo.timesInLastScraping) {
 			return this.memo.timesInLastScraping;
 		}
-		this.memo.timesInLastScraping = this.timesExcludingToday.filter(time => {
+		this.memo.timesInLastScraping = this.timesExcludingToday.filter((time) => {
 			const timesGroupedByScrapeTime = time.leaderboard.timesGroupedByScrapeTime;
 			return (
 				timesGroupedByScrapeTime.length > 1 &&
@@ -155,7 +159,7 @@ module.exports = class Person {
 			return this.memo.best;
 		}
 		this.memo.best = this.timesExcludingGlitched.reduce((best, current) => {
-			return (current < best ? current : best);
+			return current < best ? current : best;
 		});
 		return this.memo.best;
 	}
@@ -165,8 +169,8 @@ module.exports = class Person {
 			return this.memo.mean;
 		}
 		const seconds = this.timesExcludingGlitched
-			.filter(time => time < Infinity)
-			.map(time => time.totalSeconds);
+			.filter((time) => time < Number.POSITIVE_INFINITY)
+			.map((time) => time.totalSeconds);
 
 		if (!seconds.length) {
 			this.memo.mean = new Time();
@@ -184,8 +188,8 @@ module.exports = class Person {
 		}
 
 		const seconds = this.timesExcludingGlitched
-			.filter(time => time < Infinity)
-			.map(time => time.totalSeconds);
+			.filter((time) => time < Number.POSITIVE_INFINITY)
+			.map((time) => time.totalSeconds);
 		seconds.sort();
 
 		if (!seconds.length) {
@@ -202,7 +206,7 @@ module.exports = class Person {
 		}
 
 		this.memo.median = new Time({
-			seconds: (seconds[(seconds.length / 2) - 1] + seconds[seconds.length / 2]) / 2
+			seconds: (seconds[seconds.length / 2 - 1] + seconds[seconds.length / 2]) / 2
 		});
 		return this.memo.median;
 	}
@@ -229,9 +233,8 @@ module.exports = class Person {
 			best: this.best,
 			mean: this.mean,
 			median: this.median,
-			awardCount: this.awards.reduce((total, {dates}) => total + dates.length, 0),
+			awardCount: this.awards.reduce((total, { dates }) => total + dates.length, 0),
 			awards: this.awards
 		};
 	}
-
 };

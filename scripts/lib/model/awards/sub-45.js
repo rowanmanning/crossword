@@ -3,7 +3,6 @@
 const TimeRangeAward = require('./core/time-range');
 
 module.exports = class SubFortyFiveSecondsAward extends TimeRangeAward {
-
 	static get title() {
 		return 'Sub 45 Seconds';
 	}
@@ -23,5 +22,4 @@ module.exports = class SubFortyFiveSecondsAward extends TimeRangeAward {
 	get minSeconds() {
 		return 30;
 	}
-
 };

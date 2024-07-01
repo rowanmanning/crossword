@@ -3,7 +3,6 @@
 const PositionStreakAward = require('./core/position-streak');
 
 module.exports = class BeastAward extends PositionStreakAward {
-
 	static get title() {
 		return 'The Number of The Beast';
 	}
@@ -23,5 +22,4 @@ module.exports = class BeastAward extends PositionStreakAward {
 	get streakLength() {
 		return 3;
 	}
-
 };

@@ -3,7 +3,6 @@
 const ChainAward = require('./core/chain');
 
 module.exports = class ChainFiveAward extends ChainAward {
-
 	static get title() {
 		return 'Chain 5';
 	}
@@ -19,5 +18,4 @@ module.exports = class ChainFiveAward extends ChainAward {
 	get chainLength() {
 		return 5;
 	}
-
 };

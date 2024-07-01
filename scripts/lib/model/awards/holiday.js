@@ -3,7 +3,6 @@
 const BaseAward = require('./core/base');
 
 module.exports = class HolidayAward extends BaseAward {
-
 	static get title() {
 		return 'Holiday';
 	}
@@ -37,8 +36,7 @@ module.exports = class HolidayAward extends BaseAward {
 			streaks.push(currentStreak);
 		}
 		return streaks
-			.filter(streak => streak.length >= 8)
-			.map(streak => streak.pop().leaderboard.date);
+			.filter((streak) => streak.length >= 8)
+			.map((streak) => streak.pop().leaderboard.date);
 	}
-
 };

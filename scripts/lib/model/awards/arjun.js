@@ -3,7 +3,6 @@
 const TimeAward = require('./core/time');
 
 module.exports = class ArjunAward extends TimeAward {
-
 	static get title() {
 		return 'Arjun';
 	}
@@ -17,14 +16,10 @@ module.exports = class ArjunAward extends TimeAward {
 	}
 
 	get seconds() {
-		return [
-			97,
-			137
-		];
+		return [97, 137];
 	}
 
 	isValidTime(seconds) {
 		return this.seconds.includes(seconds);
 	}
-
 };

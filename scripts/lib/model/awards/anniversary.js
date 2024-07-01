@@ -3,7 +3,6 @@
 const DateAward = require('./core/date');
 
 module.exports = class AnniversaryAward extends DateAward {
-
 	static get title() {
 		return 'Happy Anniversary!';
 	}
@@ -27,5 +26,4 @@ module.exports = class AnniversaryAward extends DateAward {
 	get startYear() {
 		return 2022;
 	}
-
 };

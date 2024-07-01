@@ -3,7 +3,6 @@
 const DateAward = require('./core/date');
 
 module.exports = class ValentinesAward extends DateAward {
-
 	static get title() {
 		return 'I Choo Choo Choose You';
 	}
@@ -23,5 +22,4 @@ module.exports = class ValentinesAward extends DateAward {
 	get dayOfMonth() {
 		return 14;
 	}
-
 };

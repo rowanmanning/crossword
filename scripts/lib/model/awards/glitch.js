@@ -3,7 +3,6 @@
 const BaseAward = require('./core/base');
 
 module.exports = class GlitchAward extends BaseAward {
-
 	static get title() {
 		return 'Glitch';
 	}
@@ -18,9 +17,8 @@ module.exports = class GlitchAward extends BaseAward {
 
 	calculateDates() {
 		return [...this.person.times]
-			.filter(({isGlitch}) => isGlitch)
-			.map(time => time.leaderboard.date)
+			.filter(({ isGlitch }) => isGlitch)
+			.map((time) => time.leaderboard.date)
 			.reverse();
 	}
-
 };

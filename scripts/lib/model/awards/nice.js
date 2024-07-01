@@ -3,7 +3,6 @@
 const TimeAward = require('./core/time');
 
 module.exports = class NiceAward extends TimeAward {
-
 	static get title() {
 		return 'Nice';
 	}
@@ -19,5 +18,4 @@ module.exports = class NiceAward extends TimeAward {
 	get seconds() {
 		return 69;
 	}
-
 };

@@ -3,7 +3,6 @@
 const BaseAward = require('./base');
 
 module.exports = class DateAward extends BaseAward {
-
 	get month() {
 		throw new Error(`${this.constructor.name}.month must be implemented`);
 	}
@@ -20,23 +19,16 @@ module.exports = class DateAward extends BaseAward {
 		if (this.startYear && leaderboard.year < this.startYear) {
 			return false;
 		}
-		return (
-			leaderboard.month === this.month &&
-			leaderboard.dayOfMonth === this.dayOfMonth
-		);
+		return leaderboard.month === this.month && leaderboard.dayOfMonth === this.dayOfMonth;
 	}
 
 	calculateDates() {
-		const instances = this.person.times.filter(({isPending, leaderboard}) => {
-			return (
-				!isPending &&
-				this.isValidDate(leaderboard)
-			);
+		const instances = this.person.times.filter(({ isPending, leaderboard }) => {
+			return !isPending && this.isValidDate(leaderboard);
 		});
 		if (instances.length) {
-			return instances.map(({leaderboard}) => leaderboard.date);
+			return instances.map(({ leaderboard }) => leaderboard.date);
 		}
 		return [];
 	}
-
 };

@@ -3,7 +3,6 @@
 const PositionAward = require('./core/position');
 
 module.exports = class GoldAward extends PositionAward {
-
 	static get title() {
 		return 'Gold';
 	}
@@ -19,5 +18,4 @@ module.exports = class GoldAward extends PositionAward {
 	get position() {
 		return 1;
 	}
-
 };

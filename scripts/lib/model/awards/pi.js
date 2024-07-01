@@ -3,7 +3,6 @@
 const TimeAward = require('./core/time');
 
 module.exports = class PiAward extends TimeAward {
-
 	static get title() {
 		return 'Pi';
 	}
@@ -19,5 +18,4 @@ module.exports = class PiAward extends TimeAward {
 	get seconds() {
 		return 194;
 	}
-
 };

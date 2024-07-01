@@ -3,7 +3,6 @@
 const BaseAward = require('./core/base');
 
 module.exports = class SlowAndSteadyAward extends BaseAward {
-
 	static get title() {
 		return 'Slow and Steady';
 	}
@@ -18,8 +17,7 @@ module.exports = class SlowAndSteadyAward extends BaseAward {
 
 	calculateDates() {
 		return this.person.timesInLastScraping
-			.filter(time => time.position === 1)
-			.map(time => time.leaderboard.date);
+			.filter((time) => time.position === 1)
+			.map((time) => time.leaderboard.date);
 	}
-
 };

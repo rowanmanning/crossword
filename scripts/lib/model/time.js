@@ -1,8 +1,7 @@
 'use strict';
 
 module.exports = class Time {
-
-	constructor({seconds, isGlitch} = {}) {
+	constructor({ seconds, isGlitch } = {}) {
 		this._leaderboard = null;
 		this._person = null;
 		this._scrapeTime = null;
@@ -24,7 +23,7 @@ module.exports = class Time {
 	}
 
 	get isPending() {
-		return (typeof this.totalSeconds !== 'number');
+		return typeof this.totalSeconds !== 'number';
 	}
 
 	set leaderboard(value) {
@@ -46,7 +45,7 @@ module.exports = class Time {
 	}
 
 	set scrapeTime(value = null) {
-		this._scrapeTime = (value === null ? null : new Date(value));
+		this._scrapeTime = value === null ? null : new Date(value);
 	}
 
 	get scrapeTime() {
@@ -68,9 +67,8 @@ module.exports = class Time {
 
 	valueOf() {
 		if (this.isPending) {
-			return Infinity;
+			return Number.POSITIVE_INFINITY;
 		}
 		return this.totalSeconds;
 	}
-
 };

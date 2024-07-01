@@ -1,7 +1,6 @@
 'use strict';
 
 module.exports = class BaseAward {
-
 	constructor(person) {
 		this.person = person;
 	}
@@ -45,9 +44,9 @@ module.exports = class BaseAward {
 
 	static getUnlocks(people) {
 		return people
-			.filter(person => person.awards.find(award => award instanceof this))
-			.map(person => person.awards.find(award => award instanceof this))
-			.map(award => ({
+			.filter((person) => person.awards.find((award) => award instanceof this))
+			.map((person) => person.awards.find((award) => award instanceof this))
+			.map((award) => ({
 				person: award.person.name,
 				count: award.dates.length,
 				dates: award.dates
@@ -74,5 +73,4 @@ module.exports = class BaseAward {
 				return 0;
 			});
 	}
-
 };

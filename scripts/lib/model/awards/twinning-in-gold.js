@@ -3,7 +3,6 @@
 const TimeAndPositionGroupAward = require('./core/time-and-position-group');
 
 module.exports = class TwinningInGoldAward extends TimeAndPositionGroupAward {
-
 	static get title() {
 		return 'Twinning In Gold';
 	}
@@ -23,5 +22,4 @@ module.exports = class TwinningInGoldAward extends TimeAndPositionGroupAward {
 	get groupSize() {
 		return 2;
 	}
-
 };
