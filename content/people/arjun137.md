@@ -5,12 +5,12 @@
     {
       "person": "arjun137",
       "leaderboard": "2024-07-04",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 45,
+      "totalSeconds": 45,
+      "position": 2,
+      "scrapeTime": "2024-07-04T18:33:44.808Z",
+      "isPending": false
     },
     {
       "person": "arjun137",
@@ -11007,8 +11007,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 39,
-    "totalSeconds": 99,
+    "seconds": 38,
+    "totalSeconds": 98,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -11017,13 +11017,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 48,
-    "totalSeconds": 48,
+    "seconds": 47,
+    "totalSeconds": 47,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 68,
+  "awardCount": 71,
   "awards": [
     {
       "title": "Bronze",
@@ -11050,7 +11050,8 @@
         "2021-06-28",
         "2023-10-13",
         "2024-02-27",
-        "2024-04-09"
+        "2024-04-09",
+        "2024-07-04"
       ]
     },
     {
@@ -11108,7 +11109,8 @@
         "2024-04-09",
         "2024-04-19",
         "2024-05-07",
-        "2024-05-15"
+        "2024-05-15",
+        "2024-07-04"
       ]
     },
     {
@@ -11154,6 +11156,14 @@
         "2024-05-15",
         "2024-06-13",
         "2024-06-28"
+      ]
+    },
+    {
+      "title": "Yin and Yang",
+      "type": "yin-and-yang",
+      "text": "Get the same time as another person but with flipped seconds",
+      "dates": [
+        "2024-07-04"
       ]
     },
     {

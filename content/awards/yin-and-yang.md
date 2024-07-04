@@ -6,8 +6,9 @@
   "unlocks": [
     {
       "person": "j-sheps",
-      "count": 36,
+      "count": 37,
       "dates": [
+        "2024-07-04",
         "2024-06-27",
         "2024-03-25",
         "2024-02-15",
@@ -491,7 +492,14 @@
       "dates": [
         "2023-02-26"
       ]
+    },
+    {
+      "person": "arjun137",
+      "count": 1,
+      "dates": [
+        "2024-07-04"
+      ]
     }
   ],
-  "totalUnlocks": 362
+  "totalUnlocks": 364
 }
