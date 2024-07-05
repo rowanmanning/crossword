@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "arjun137",
+      "leaderboard": "2024-07-05",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "arjun137",
       "leaderboard": "2024-07-04",
       "minutes": 0,
       "seconds": 45,
@@ -11023,8 +11033,16 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 71,
+  "awardCount": 72,
   "awards": [
+    {
+      "title": "Silver",
+      "type": "silver",
+      "text": "Get the second fastest time for a day",
+      "dates": [
+        "2024-07-04"
+      ]
+    },
     {
       "title": "Bronze",
       "type": "bronze",
