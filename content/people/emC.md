@@ -5,12 +5,12 @@
     {
       "person": "emC",
       "leaderboard": "2024-07-05",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 30,
+      "totalSeconds": 30,
+      "position": 2,
+      "scrapeTime": "2024-07-05T09:31:44.855Z",
+      "isPending": false
     },
     {
       "person": "emC",
@@ -1507,8 +1507,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 54,
-    "totalSeconds": 54,
+    "seconds": 53,
+    "totalSeconds": 53,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -1517,13 +1517,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 44,
-    "totalSeconds": 44,
+    "seconds": 43.5,
+    "totalSeconds": 43.5,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 151,
+  "awardCount": 153,
   "awards": [
     {
       "title": "Gold",
@@ -1711,7 +1711,8 @@
         "2024-05-07",
         "2024-05-20",
         "2024-05-30",
-        "2024-06-11"
+        "2024-06-11",
+        "2024-07-05"
       ]
     },
     {
@@ -1776,6 +1777,14 @@
         "2024-04-23",
         "2024-05-07",
         "2024-06-20"
+      ]
+    },
+    {
+      "title": "Holiday",
+      "type": "holiday",
+      "text": "Come back to the crossword after a week off",
+      "dates": [
+        "2024-07-05"
       ]
     },
     {
