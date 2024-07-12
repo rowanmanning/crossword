@@ -5,12 +5,12 @@
     {
       "person": "emCipolla",
       "leaderboard": "2024-07-12",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 22,
+      "totalSeconds": 22,
+      "position": 1,
+      "scrapeTime": "2024-07-12T11:31:52.635Z",
+      "isPending": false
     },
     {
       "person": "emCipolla",
@@ -25,20 +25,20 @@
   ],
   "best": {
     "person": "emCipolla",
-    "leaderboard": "2024-07-11",
+    "leaderboard": "2024-07-12",
     "minutes": 0,
-    "seconds": 24,
-    "totalSeconds": 24,
+    "seconds": 22,
+    "totalSeconds": 22,
     "position": 1,
-    "scrapeTime": "2024-07-11T12:03:14.808Z",
+    "scrapeTime": "2024-07-12T11:31:52.635Z",
     "isPending": false
   },
   "mean": {
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 24,
-    "totalSeconds": 24,
+    "seconds": 23,
+    "totalSeconds": 23,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -47,13 +47,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 24,
-    "totalSeconds": 24,
+    "seconds": 23,
+    "totalSeconds": 23,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 2,
+  "awardCount": 3,
   "awards": [
     {
       "title": "Gold",
@@ -68,7 +68,8 @@
       "type": "sub-30",
       "text": "Complete a puzzle in less than 30 seconds",
       "dates": [
-        "2024-07-11"
+        "2024-07-11",
+        "2024-07-12"
       ]
     }
   ]
