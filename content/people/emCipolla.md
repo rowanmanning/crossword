@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "emCipolla",
+      "leaderboard": "2024-07-12",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "emCipolla",
       "leaderboard": "2024-07-11",
       "minutes": 0,
       "seconds": 24,
@@ -43,8 +53,16 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1,
+  "awardCount": 2,
   "awards": [
+    {
+      "title": "Gold",
+      "type": "gold",
+      "text": "Get the fastest time for a day",
+      "dates": [
+        "2024-07-11"
+      ]
+    },
     {
       "title": "Sub 30 Seconds",
       "type": "sub-30",
