@@ -5,12 +5,12 @@
     {
       "person": "emCipolla",
       "leaderboard": "2024-07-16",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 18,
+      "totalSeconds": 78,
+      "position": 3,
+      "scrapeTime": "2024-07-16T13:02:07.846Z",
+      "isPending": false
     },
     {
       "person": "emCipolla",
@@ -77,8 +77,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 21,
-    "totalSeconds": 21,
+    "seconds": 35,
+    "totalSeconds": 35,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -87,13 +87,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 22,
-    "totalSeconds": 22,
+    "seconds": 23,
+    "totalSeconds": 23,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 8,
+  "awardCount": 10,
   "awards": [
     {
       "title": "Gold",
@@ -111,6 +111,22 @@
       "text": "Get the fastest time two days in a row",
       "dates": [
         "2024-07-12"
+      ]
+    },
+    {
+      "title": "Double Time",
+      "type": "double-time",
+      "text": "Double your completion time from one day to the next",
+      "dates": [
+        "2024-07-16"
+      ]
+    },
+    {
+      "title": "Sub Two Minutes",
+      "type": "sub-120",
+      "text": "Complete a puzzle in less than two minutes",
+      "dates": [
+        "2024-07-16"
       ]
     },
     {
