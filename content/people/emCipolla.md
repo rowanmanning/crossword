@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "emCipolla",
+      "leaderboard": "2024-07-16",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "emCipolla",
       "leaderboard": "2024-07-15",
       "minutes": 0,
       "seconds": 16,
@@ -83,7 +93,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 6,
+  "awardCount": 8,
   "awards": [
     {
       "title": "Gold",
@@ -91,7 +101,8 @@
       "text": "Get the fastest time for a day",
       "dates": [
         "2024-07-11",
-        "2024-07-12"
+        "2024-07-12",
+        "2024-07-15"
       ]
     },
     {
@@ -115,6 +126,14 @@
       "title": "Sub 20 Seconds",
       "type": "sub-20",
       "text": "Complete a puzzle in less than 20 seconds",
+      "dates": [
+        "2024-07-15"
+      ]
+    },
+    {
+      "title": "Slow and Steady",
+      "type": "slow-and-steady",
+      "text": "Complete a puzzle after everyone else but with the fastest time",
       "dates": [
         "2024-07-15"
       ]
