@@ -5,12 +5,12 @@
     {
       "person": "emCipolla",
       "leaderboard": "2024-07-17",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 32,
+      "totalSeconds": 32,
+      "position": 1,
+      "scrapeTime": "2024-07-17T06:02:48.283Z",
+      "isPending": false
     },
     {
       "person": "emCipolla",
@@ -97,13 +97,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 23,
-    "totalSeconds": 23,
+    "seconds": 24,
+    "totalSeconds": 24,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 10,
+  "awardCount": 13,
   "awards": [
     {
       "title": "Gold",
@@ -124,6 +124,14 @@
       ]
     },
     {
+      "title": "Half Time",
+      "type": "half-time",
+      "text": "Half your completion time from one day to the next",
+      "dates": [
+        "2024-07-17"
+      ]
+    },
+    {
       "title": "Double Time",
       "type": "double-time",
       "text": "Double your completion time from one day to the next",
@@ -137,6 +145,14 @@
       "text": "Complete a puzzle in less than two minutes",
       "dates": [
         "2024-07-16"
+      ]
+    },
+    {
+      "title": "Sub 45 Seconds",
+      "type": "sub-45",
+      "text": "Complete a puzzle in less than 45 seconds",
+      "dates": [
+        "2024-07-17"
       ]
     },
     {
@@ -154,6 +170,14 @@
       "text": "Complete a puzzle in less than 20 seconds",
       "dates": [
         "2024-07-15"
+      ]
+    },
+    {
+      "title": "Three Day Streak",
+      "type": "three-day-streak",
+      "text": "Play for three days in a row",
+      "dates": [
+        "2024-07-17"
       ]
     },
     {

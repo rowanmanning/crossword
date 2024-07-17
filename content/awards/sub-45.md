@@ -2655,7 +2655,14 @@
         "2024-03-10",
         "2024-03-27"
       ]
+    },
+    {
+      "person": "emCipolla",
+      "count": 1,
+      "dates": [
+        "2024-07-17"
+      ]
     }
   ],
-  "totalUnlocks": 2526
+  "totalUnlocks": 2527
 }
