@@ -5,12 +5,12 @@
     {
       "person": "emCipolla",
       "leaderboard": "2024-07-18",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 24,
+      "totalSeconds": 24,
+      "position": 3,
+      "scrapeTime": "2024-07-18T16:02:12.766Z",
+      "isPending": false
     },
     {
       "person": "emCipolla",
@@ -97,8 +97,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 35,
-    "totalSeconds": 35,
+    "seconds": 33,
+    "totalSeconds": 33,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -113,7 +113,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 14,
+  "awardCount": 16,
   "awards": [
     {
       "title": "Gold",
@@ -179,7 +179,8 @@
       "text": "Complete a puzzle in less than 30 seconds",
       "dates": [
         "2024-07-11",
-        "2024-07-12"
+        "2024-07-12",
+        "2024-07-18"
       ]
     },
     {
@@ -196,6 +197,14 @@
       "text": "Play for three days in a row",
       "dates": [
         "2024-07-17"
+      ]
+    },
+    {
+      "title": "Yin and Yang",
+      "type": "yin-and-yang",
+      "text": "Get the same time as another person but with flipped seconds",
+      "dates": [
+        "2024-07-18"
       ]
     },
     {

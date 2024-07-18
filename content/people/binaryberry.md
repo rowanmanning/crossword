@@ -8,7 +8,7 @@
       "minutes": 0,
       "seconds": 42,
       "totalSeconds": 42,
-      "position": 4,
+      "position": 5,
       "scrapeTime": "2024-07-18T03:34:12.372Z",
       "isPending": false
     },
@@ -11183,7 +11183,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1930,
+  "awardCount": 1931,
   "awards": [
     {
       "title": "Gold",
@@ -12711,6 +12711,7 @@
       "type": "yin-and-yang",
       "text": "Get the same time as another person but with flipped seconds",
       "dates": [
+        "2024-07-18",
         "2024-02-22",
         "2024-01-01",
         "2023-12-24",
