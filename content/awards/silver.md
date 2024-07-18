@@ -1317,7 +1317,14 @@
         "2024-07-04",
         "2024-07-14"
       ]
+    },
+    {
+      "person": "emCipolla",
+      "count": 1,
+      "dates": [
+        "2024-07-17"
+      ]
     }
   ],
-  "totalUnlocks": 1206
+  "totalUnlocks": 1207
 }
