@@ -187,6 +187,14 @@
       ]
     },
     {
+      "person": "alexmuller",
+      "count": 2,
+      "dates": [
+        "2024-06-23",
+        "2024-07-19"
+      ]
+    },
+    {
       "person": "binaryberry",
       "count": 1,
       "dates": [
@@ -215,13 +223,6 @@
       ]
     },
     {
-      "person": "alexmuller",
-      "count": 1,
-      "dates": [
-        "2024-06-23"
-      ]
-    },
-    {
       "person": "emC",
       "count": 1,
       "dates": [
@@ -229,5 +230,5 @@
       ]
     }
   ],
-  "totalUnlocks": 116
+  "totalUnlocks": 117
 }
