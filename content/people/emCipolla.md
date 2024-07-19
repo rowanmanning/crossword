@@ -5,12 +5,12 @@
     {
       "person": "emCipolla",
       "leaderboard": "2024-07-19",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 28,
+      "totalSeconds": 28,
+      "position": 1,
+      "scrapeTime": "2024-07-19T07:31:50.475Z",
+      "isPending": false
     },
     {
       "person": "emCipolla",
@@ -107,8 +107,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 33,
-    "totalSeconds": 33,
+    "seconds": 32,
+    "totalSeconds": 32,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -123,7 +123,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 17,
+  "awardCount": 19,
   "awards": [
     {
       "title": "Gold",
@@ -198,7 +198,8 @@
       "dates": [
         "2024-07-11",
         "2024-07-12",
-        "2024-07-18"
+        "2024-07-18",
+        "2024-07-19"
       ]
     },
     {
@@ -215,6 +216,14 @@
       "text": "Play for three days in a row",
       "dates": [
         "2024-07-17"
+      ]
+    },
+    {
+      "title": "Twinning",
+      "type": "twinning",
+      "text": "Get the same time as another person",
+      "dates": [
+        "2024-07-19"
       ]
     },
     {
