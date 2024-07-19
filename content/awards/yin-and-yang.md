@@ -481,6 +481,14 @@
       ]
     },
     {
+      "person": "arjun137",
+      "count": 2,
+      "dates": [
+        "2024-07-18",
+        "2024-07-04"
+      ]
+    },
+    {
       "person": "JRedondo",
       "count": 1,
       "dates": [
@@ -495,13 +503,6 @@
       ]
     },
     {
-      "person": "arjun137",
-      "count": 1,
-      "dates": [
-        "2024-07-04"
-      ]
-    },
-    {
       "person": "emCipolla",
       "count": 1,
       "dates": [
@@ -509,5 +510,5 @@
       ]
     }
   ],
-  "totalUnlocks": 366
+  "totalUnlocks": 367
 }

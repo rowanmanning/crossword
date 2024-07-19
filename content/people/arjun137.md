@@ -5,12 +5,12 @@
     {
       "person": "arjun137",
       "leaderboard": "2024-07-18",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 42,
+      "totalSeconds": 42,
+      "position": 5,
+      "scrapeTime": "2024-07-19T01:28:32.211Z",
+      "isPending": false
     },
     {
       "person": "arjun137",
@@ -11147,8 +11147,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 36,
-    "totalSeconds": 96,
+    "seconds": 35,
+    "totalSeconds": 95,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -11157,13 +11157,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 49,
-    "totalSeconds": 49,
+    "seconds": 48,
+    "totalSeconds": 48,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 76,
+  "awardCount": 80,
   "awards": [
     {
       "title": "Silver",
@@ -11274,7 +11274,8 @@
         "2023-10-15",
         "2024-03-10",
         "2024-06-16",
-        "2024-06-19"
+        "2024-06-19",
+        "2024-07-18"
       ]
     },
     {
@@ -11310,10 +11311,19 @@
       ]
     },
     {
+      "title": "Twinning",
+      "type": "twinning",
+      "text": "Get the same time as another person",
+      "dates": [
+        "2024-07-18"
+      ]
+    },
+    {
       "title": "Yin and Yang",
       "type": "yin-and-yang",
       "text": "Get the same time as another person but with flipped seconds",
       "dates": [
+        "2024-07-18",
         "2024-07-04"
       ]
     },
@@ -11330,7 +11340,8 @@
       "type": "dont-panic",
       "text": "A towel is about the most massively useful thing an interstellar hitchhiker can have",
       "dates": [
-        "2021-07-13"
+        "2021-07-13",
+        "2024-07-18"
       ]
     },
     {
