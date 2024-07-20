@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "emCipolla",
+      "leaderboard": "2024-07-20",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "emCipolla",
       "leaderboard": "2024-07-19",
       "minutes": 0,
       "seconds": 28,
@@ -123,7 +133,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 19,
+  "awardCount": 22,
   "awards": [
     {
       "title": "Gold",
@@ -132,7 +142,8 @@
       "dates": [
         "2024-07-11",
         "2024-07-12",
-        "2024-07-15"
+        "2024-07-15",
+        "2024-07-19"
       ]
     },
     {
@@ -157,6 +168,14 @@
       "text": "Get the third fastest time for a day",
       "dates": [
         "2024-07-18"
+      ]
+    },
+    {
+      "title": "Podium",
+      "type": "podium",
+      "text": "Unlock third, second, and first place awards",
+      "dates": [
+        "2024-07-19"
       ]
     },
     {
@@ -222,6 +241,14 @@
       "title": "Twinning",
       "type": "twinning",
       "text": "Get the same time as another person",
+      "dates": [
+        "2024-07-19"
+      ]
+    },
+    {
+      "title": "Twinning In Gold",
+      "type": "twinning-in-gold",
+      "text": "Get the twinning award and the fastest time for a day",
       "dates": [
         "2024-07-19"
       ]
