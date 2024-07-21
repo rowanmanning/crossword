@@ -5,12 +5,12 @@
     {
       "person": "emCipolla",
       "leaderboard": "2024-07-21",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 38,
+      "totalSeconds": 38,
+      "position": 2,
+      "scrapeTime": "2024-07-21T11:02:02.891Z",
+      "isPending": false
     },
     {
       "person": "emCipolla",
@@ -127,8 +127,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 32,
-    "totalSeconds": 32,
+    "seconds": 33,
+    "totalSeconds": 33,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -137,13 +137,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 24,
-    "totalSeconds": 24,
+    "seconds": 26,
+    "totalSeconds": 26,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 22,
+  "awardCount": 23,
   "awards": [
     {
       "title": "Gold",
@@ -217,7 +217,8 @@
       "type": "sub-45",
       "text": "Complete a puzzle in less than 45 seconds",
       "dates": [
-        "2024-07-17"
+        "2024-07-17",
+        "2024-07-21"
       ]
     },
     {
