@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "emCipolla",
+      "leaderboard": "2024-07-22",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "emCipolla",
       "leaderboard": "2024-07-21",
       "minutes": 0,
       "seconds": 38,
@@ -143,7 +153,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 23,
+  "awardCount": 24,
   "awards": [
     {
       "title": "Gold",
@@ -169,7 +179,8 @@
       "type": "silver",
       "text": "Get the second fastest time for a day",
       "dates": [
-        "2024-07-17"
+        "2024-07-17",
+        "2024-07-21"
       ]
     },
     {
