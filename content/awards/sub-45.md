@@ -2649,6 +2649,15 @@
       ]
     },
     {
+      "person": "emCipolla",
+      "count": 3,
+      "dates": [
+        "2024-07-17",
+        "2024-07-21",
+        "2024-07-22"
+      ]
+    },
+    {
       "person": "ellejay",
       "count": 2,
       "dates": [
@@ -2663,15 +2672,7 @@
         "2024-03-10",
         "2024-03-27"
       ]
-    },
-    {
-      "person": "emCipolla",
-      "count": 2,
-      "dates": [
-        "2024-07-17",
-        "2024-07-21"
-      ]
     }
   ],
-  "totalUnlocks": 2536
+  "totalUnlocks": 2537
 }
