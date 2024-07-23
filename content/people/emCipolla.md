@@ -5,12 +5,12 @@
     {
       "person": "emCipolla",
       "leaderboard": "2024-07-23",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 19,
+      "totalSeconds": 19,
+      "position": 1,
+      "scrapeTime": "2024-07-23T12:41:26.238Z",
+      "isPending": false
     },
     {
       "person": "emCipolla",
@@ -147,8 +147,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 33,
-    "totalSeconds": 33,
+    "seconds": 32,
+    "totalSeconds": 32,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -157,13 +157,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 28,
-    "totalSeconds": 28,
+    "seconds": 26,
+    "totalSeconds": 26,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 27,
+  "awardCount": 29,
   "awards": [
     {
       "title": "Gold",
@@ -268,7 +268,8 @@
       "type": "sub-20",
       "text": "Complete a puzzle in less than 20 seconds",
       "dates": [
-        "2024-07-15"
+        "2024-07-15",
+        "2024-07-23"
       ]
     },
     {
@@ -276,7 +277,8 @@
       "type": "three-day-streak",
       "text": "Play for three days in a row",
       "dates": [
-        "2024-07-17"
+        "2024-07-17",
+        "2024-07-23"
       ]
     },
     {

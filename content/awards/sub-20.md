@@ -377,19 +377,20 @@
       ]
     },
     {
+      "person": "emCipolla",
+      "count": 2,
+      "dates": [
+        "2024-07-15",
+        "2024-07-23"
+      ]
+    },
+    {
       "person": "emC",
       "count": 1,
       "dates": [
         "2024-03-31"
       ]
-    },
-    {
-      "person": "emCipolla",
-      "count": 1,
-      "dates": [
-        "2024-07-15"
-      ]
     }
   ],
-  "totalUnlocks": 296
+  "totalUnlocks": 297
 }
