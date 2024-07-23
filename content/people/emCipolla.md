@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "emCipolla",
+      "leaderboard": "2024-07-23",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "emCipolla",
       "leaderboard": "2024-07-22",
       "minutes": 0,
       "seconds": 30,
@@ -153,7 +163,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 25,
+  "awardCount": 27,
   "awards": [
     {
       "title": "Gold",
@@ -180,7 +190,16 @@
       "text": "Get the second fastest time for a day",
       "dates": [
         "2024-07-17",
-        "2024-07-21"
+        "2024-07-21",
+        "2024-07-22"
+      ]
+    },
+    {
+      "title": "Double Silver",
+      "type": "double-silver",
+      "text": "Get the second fastest time two days in a row",
+      "dates": [
+        "2024-07-22"
       ]
     },
     {

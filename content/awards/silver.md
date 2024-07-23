@@ -1314,21 +1314,22 @@
       ]
     },
     {
+      "person": "emCipolla",
+      "count": 3,
+      "dates": [
+        "2024-07-17",
+        "2024-07-21",
+        "2024-07-22"
+      ]
+    },
+    {
       "person": "arjun137",
       "count": 2,
       "dates": [
         "2024-07-04",
         "2024-07-14"
       ]
-    },
-    {
-      "person": "emCipolla",
-      "count": 2,
-      "dates": [
-        "2024-07-17",
-        "2024-07-21"
-      ]
     }
   ],
-  "totalUnlocks": 1211
+  "totalUnlocks": 1212
 }
