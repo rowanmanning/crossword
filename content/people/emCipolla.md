@@ -5,12 +5,12 @@
     {
       "person": "emCipolla",
       "leaderboard": "2024-07-24",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 34,
+      "totalSeconds": 34,
+      "position": 2,
+      "scrapeTime": "2024-07-24T11:31:44.167Z",
+      "isPending": false
     },
     {
       "person": "emCipolla",
@@ -167,13 +167,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 26,
-    "totalSeconds": 26,
+    "seconds": 28,
+    "totalSeconds": 28,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 30,
+  "awardCount": 32,
   "awards": [
     {
       "title": "Gold",
@@ -260,7 +260,8 @@
       "dates": [
         "2024-07-17",
         "2024-07-21",
-        "2024-07-22"
+        "2024-07-22",
+        "2024-07-24"
       ]
     },
     {
@@ -313,6 +314,7 @@
       "type": "yin-and-yang",
       "text": "Get the same time as another person but with flipped seconds",
       "dates": [
+        "2024-07-24",
         "2024-07-18"
       ]
     },
