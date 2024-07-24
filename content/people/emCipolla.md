@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "emCipolla",
+      "leaderboard": "2024-07-24",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "emCipolla",
       "leaderboard": "2024-07-23",
       "minutes": 0,
       "seconds": 19,
@@ -163,7 +173,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 29,
+  "awardCount": 30,
   "awards": [
     {
       "title": "Gold",
@@ -173,7 +183,8 @@
         "2024-07-11",
         "2024-07-12",
         "2024-07-15",
-        "2024-07-19"
+        "2024-07-19",
+        "2024-07-23"
       ]
     },
     {
