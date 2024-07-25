@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "arjun137",
+      "leaderboard": "2024-07-25",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "arjun137",
       "leaderboard": "2024-07-24",
       "minutes": 1,
       "seconds": 16,
@@ -11223,7 +11233,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 84,
+  "awardCount": 85,
   "awards": [
     {
       "title": "Silver",
@@ -11248,7 +11258,8 @@
       "type": "consistent-2",
       "text": "Get the same position two days in a row",
       "dates": [
-        "2024-04-03"
+        "2024-04-03",
+        "2024-07-24"
       ]
     },
     {
