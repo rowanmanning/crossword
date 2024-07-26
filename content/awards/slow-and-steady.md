@@ -168,6 +168,14 @@
       ]
     },
     {
+      "person": "emCipolla",
+      "count": 2,
+      "dates": [
+        "2024-07-15",
+        "2024-07-25"
+      ]
+    },
+    {
       "person": "leaf",
       "count": 1,
       "dates": [
@@ -180,14 +188,7 @@
       "dates": [
         "2024-02-03"
       ]
-    },
-    {
-      "person": "emCipolla",
-      "count": 1,
-      "dates": [
-        "2024-07-15"
-      ]
     }
   ],
-  "totalUnlocks": 118
+  "totalUnlocks": 119
 }
