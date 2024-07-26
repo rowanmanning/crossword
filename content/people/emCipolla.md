@@ -5,12 +5,12 @@
     {
       "person": "emCipolla",
       "leaderboard": "2024-07-26",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 31,
+      "totalSeconds": 31,
+      "position": 2,
+      "scrapeTime": "2024-07-26T17:31:47.849Z",
+      "isPending": false
     },
     {
       "person": "emCipolla",
@@ -187,13 +187,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 27.5,
-    "totalSeconds": 27.5,
+    "seconds": 28,
+    "totalSeconds": 28,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 36,
+  "awardCount": 38,
   "awards": [
     {
       "title": "Gold",
@@ -283,7 +283,8 @@
         "2024-07-17",
         "2024-07-21",
         "2024-07-22",
-        "2024-07-24"
+        "2024-07-24",
+        "2024-07-26"
       ]
     },
     {
@@ -321,7 +322,8 @@
       "type": "twinning",
       "text": "Get the same time as another person",
       "dates": [
-        "2024-07-19"
+        "2024-07-19",
+        "2024-07-26"
       ]
     },
     {
