@@ -5,12 +5,12 @@
     {
       "person": "j-sheps",
       "leaderboard": "2024-07-26",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 55,
+      "totalSeconds": 55,
+      "position": 4,
+      "scrapeTime": "2024-07-27T00:46:00.478Z",
+      "isPending": false
     },
     {
       "person": "j-sheps",
@@ -11256,14 +11256,14 @@
   "median": {
     "person": null,
     "leaderboard": null,
-    "minutes": 3,
-    "seconds": 54,
-    "totalSeconds": 234,
+    "minutes": 7,
+    "seconds": 6,
+    "totalSeconds": 426,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 2380,
+  "awardCount": 2381,
   "awards": [
     {
       "title": "Gold",
@@ -12811,7 +12811,8 @@
         "2024-07-04",
         "2024-07-08",
         "2024-07-19",
-        "2024-07-25"
+        "2024-07-25",
+        "2024-07-26"
       ]
     },
     {
