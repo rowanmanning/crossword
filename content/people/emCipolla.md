@@ -5,12 +5,12 @@
     {
       "person": "emCipolla",
       "leaderboard": "2024-07-27",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 3,
+      "seconds": 0,
+      "totalSeconds": 180,
+      "position": 3,
+      "scrapeTime": "2024-07-27T09:02:13.667Z",
+      "isPending": false
     },
     {
       "person": "emCipolla",
@@ -187,8 +187,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 31,
-    "totalSeconds": 31,
+    "seconds": 42,
+    "totalSeconds": 42,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -197,13 +197,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 28,
-    "totalSeconds": 28,
+    "seconds": 27.5,
+    "totalSeconds": 27.5,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 39,
+  "awardCount": 41,
   "awards": [
     {
       "title": "Gold",
@@ -275,7 +275,8 @@
       "type": "double-time",
       "text": "Double your completion time from one day to the next",
       "dates": [
-        "2024-07-16"
+        "2024-07-16",
+        "2024-07-27"
       ]
     },
     {
@@ -326,6 +327,14 @@
       "dates": [
         "2024-07-17",
         "2024-07-23"
+      ]
+    },
+    {
+      "title": "Week-Long Streak",
+      "type": "week-streak",
+      "text": "Play for a full week without breaks",
+      "dates": [
+        "2024-07-27"
       ]
     },
     {

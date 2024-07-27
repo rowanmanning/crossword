@@ -1988,19 +1988,20 @@
       ]
     },
     {
+      "person": "emCipolla",
+      "count": 2,
+      "dates": [
+        "2024-07-16",
+        "2024-07-27"
+      ]
+    },
+    {
       "person": "JRedondo",
       "count": 1,
       "dates": [
         "2022-02-11"
       ]
-    },
-    {
-      "person": "emCipolla",
-      "count": 1,
-      "dates": [
-        "2024-07-16"
-      ]
     }
   ],
-  "totalUnlocks": 1853
+  "totalUnlocks": 1854
 }
