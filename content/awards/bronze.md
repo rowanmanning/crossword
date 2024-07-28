@@ -1344,6 +1344,14 @@
       ]
     },
     {
+      "person": "emCipolla",
+      "count": 2,
+      "dates": [
+        "2024-07-18",
+        "2024-07-28"
+      ]
+    },
+    {
       "person": "joelcarr",
       "count": 1,
       "dates": [
@@ -1363,14 +1371,7 @@
       "dates": [
         "2024-04-10"
       ]
-    },
-    {
-      "person": "emCipolla",
-      "count": 1,
-      "dates": [
-        "2024-07-18"
-      ]
     }
   ],
-  "totalUnlocks": 1229
+  "totalUnlocks": 1230
 }
