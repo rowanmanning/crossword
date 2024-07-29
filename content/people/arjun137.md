@@ -5,12 +5,12 @@
     {
       "person": "arjun137",
       "leaderboard": "2024-07-29",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 41,
+      "totalSeconds": 41,
+      "position": 4,
+      "scrapeTime": "2024-07-29T15:32:16.287Z",
+      "isPending": false
     },
     {
       "person": "arjun137",
@@ -11257,8 +11257,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 35,
-    "totalSeconds": 95,
+    "seconds": 34,
+    "totalSeconds": 94,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -11267,13 +11267,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 50,
-    "totalSeconds": 50,
+    "seconds": 49,
+    "totalSeconds": 49,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 85,
+  "awardCount": 87,
   "awards": [
     {
       "title": "Silver",
@@ -11389,7 +11389,8 @@
         "2024-03-10",
         "2024-06-16",
         "2024-06-19",
-        "2024-07-18"
+        "2024-07-18",
+        "2024-07-29"
       ]
     },
     {
@@ -11429,7 +11430,8 @@
       "type": "twinning",
       "text": "Get the same time as another person",
       "dates": [
-        "2024-07-18"
+        "2024-07-18",
+        "2024-07-29"
       ]
     },
     {
