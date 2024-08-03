@@ -5,12 +5,12 @@
     {
       "person": "binaryberry",
       "leaderboard": "2024-08-03",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 3,
+      "seconds": 11,
+      "totalSeconds": 191,
+      "position": 2,
+      "scrapeTime": "2024-08-03T08:02:33.238Z",
+      "isPending": false
     },
     {
       "person": "binaryberry",
