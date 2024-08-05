@@ -363,6 +363,15 @@
       ]
     },
     {
+      "person": "emCipolla",
+      "count": 3,
+      "dates": [
+        "2024-07-15",
+        "2024-07-23",
+        "2024-08-05"
+      ]
+    },
+    {
       "person": "varjmes",
       "count": 2,
       "dates": [
@@ -379,14 +388,6 @@
       ]
     },
     {
-      "person": "emCipolla",
-      "count": 2,
-      "dates": [
-        "2024-07-15",
-        "2024-07-23"
-      ]
-    },
-    {
       "person": "emC",
       "count": 1,
       "dates": [
@@ -394,5 +395,5 @@
       ]
     }
   ],
-  "totalUnlocks": 299
+  "totalUnlocks": 300
 }
