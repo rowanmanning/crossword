@@ -160,19 +160,20 @@
       ]
     },
     {
+      "person": "emCipolla",
+      "count": 3,
+      "dates": [
+        "2024-07-15",
+        "2024-07-25",
+        "2024-08-05"
+      ]
+    },
+    {
       "person": "alexmuller",
       "count": 2,
       "dates": [
         "2024-03-12",
         "2024-06-01"
-      ]
-    },
-    {
-      "person": "emCipolla",
-      "count": 2,
-      "dates": [
-        "2024-07-15",
-        "2024-07-25"
       ]
     },
     {
@@ -190,5 +191,5 @@
       ]
     }
   ],
-  "totalUnlocks": 119
+  "totalUnlocks": 120
 }

@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "arjun137",
+      "leaderboard": "2024-08-06",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "arjun137",
       "leaderboard": "2024-08-05",
       "minutes": 0,
       "seconds": 50,

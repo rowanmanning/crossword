@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "emCipolla",
+      "leaderboard": "2024-08-06",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "emCipolla",
       "leaderboard": "2024-08-05",
       "minutes": 0,
       "seconds": 14,
@@ -293,7 +303,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 50,
+  "awardCount": 52,
   "awards": [
     {
       "title": "Gold",
@@ -305,7 +315,8 @@
         "2024-07-15",
         "2024-07-19",
         "2024-07-23",
-        "2024-07-25"
+        "2024-07-25",
+        "2024-08-05"
       ]
     },
     {
@@ -475,7 +486,8 @@
       "text": "Complete a puzzle after everyone else but with the fastest time",
       "dates": [
         "2024-07-15",
-        "2024-07-25"
+        "2024-07-25",
+        "2024-08-05"
       ]
     }
   ]
