@@ -680,6 +680,15 @@
       ]
     },
     {
+      "person": "emCipolla",
+      "count": 3,
+      "dates": [
+        "2024-07-17",
+        "2024-07-23",
+        "2024-08-07"
+      ]
+    },
+    {
       "person": "arjun137",
       "count": 2,
       "dates": [
@@ -702,15 +711,7 @@
         "2024-04-12",
         "2024-04-28"
       ]
-    },
-    {
-      "person": "emCipolla",
-      "count": 2,
-      "dates": [
-        "2024-07-17",
-        "2024-07-23"
-      ]
     }
   ],
-  "totalUnlocks": 563
+  "totalUnlocks": 564
 }
