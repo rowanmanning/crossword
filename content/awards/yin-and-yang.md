@@ -6,8 +6,9 @@
   "unlocks": [
     {
       "person": "j-sheps",
-      "count": 37,
+      "count": 38,
       "dates": [
+        "2024-08-09",
         "2024-07-04",
         "2024-06-27",
         "2024-03-25",
@@ -466,6 +467,15 @@
       ]
     },
     {
+      "person": "emCipolla",
+      "count": 3,
+      "dates": [
+        "2024-08-09",
+        "2024-07-24",
+        "2024-07-18"
+      ]
+    },
+    {
       "person": "Alice Bartlett",
       "count": 2,
       "dates": [
@@ -490,14 +500,6 @@
       ]
     },
     {
-      "person": "emCipolla",
-      "count": 2,
-      "dates": [
-        "2024-07-24",
-        "2024-07-18"
-      ]
-    },
-    {
       "person": "JRedondo",
       "count": 1,
       "dates": [
@@ -512,5 +514,5 @@
       ]
     }
   ],
-  "totalUnlocks": 369
+  "totalUnlocks": 371
 }
