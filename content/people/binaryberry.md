@@ -5,12 +5,12 @@
     {
       "person": "binaryberry",
       "leaderboard": "2024-08-11",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 55,
+      "totalSeconds": 115,
+      "position": 1,
+      "scrapeTime": "2024-08-10T23:02:03.652Z",
+      "isPending": false
     },
     {
       "person": "binaryberry",
@@ -11423,7 +11423,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1982,
+  "awardCount": 1985,
   "awards": [
     {
       "title": "Gold",
@@ -11873,7 +11873,8 @@
         "2024-04-08",
         "2024-04-14",
         "2024-04-18",
-        "2024-04-21"
+        "2024-04-21",
+        "2024-08-11"
       ]
     },
     {
@@ -12546,7 +12547,8 @@
         "2024-08-05",
         "2024-08-06",
         "2024-08-08",
-        "2024-08-09"
+        "2024-08-09",
+        "2024-08-11"
       ]
     },
     {
@@ -13684,7 +13686,8 @@
         "2024-08-01",
         "2024-08-02",
         "2024-08-06",
-        "2024-08-10"
+        "2024-08-10",
+        "2024-08-11"
       ]
     }
   ]
