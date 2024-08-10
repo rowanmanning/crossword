@@ -5,12 +5,12 @@
     {
       "person": "emCipolla",
       "leaderboard": "2024-08-10",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 3,
+      "seconds": 17,
+      "totalSeconds": 197,
+      "position": 3,
+      "scrapeTime": "2024-08-10T13:03:34.918Z",
+      "isPending": false
     },
     {
       "person": "emCipolla",
@@ -327,8 +327,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 37,
-    "totalSeconds": 37,
+    "seconds": 44,
+    "totalSeconds": 44,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -337,13 +337,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 27,
-    "totalSeconds": 27,
+    "seconds": 26,
+    "totalSeconds": 26,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 62,
+  "awardCount": 63,
   "awards": [
     {
       "title": "Gold",
@@ -433,7 +433,8 @@
       "text": "Double your completion time from one day to the next",
       "dates": [
         "2024-07-16",
-        "2024-07-27"
+        "2024-07-27",
+        "2024-08-10"
       ]
     },
     {
