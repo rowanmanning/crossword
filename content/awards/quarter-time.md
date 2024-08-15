@@ -490,19 +490,20 @@
       ]
     },
     {
+      "person": "emCipolla",
+      "count": 2,
+      "dates": [
+        "2024-07-28",
+        "2024-08-15"
+      ]
+    },
+    {
       "person": "sal",
       "count": 1,
       "dates": [
         "2024-03-10"
       ]
-    },
-    {
-      "person": "emCipolla",
-      "count": 1,
-      "dates": [
-        "2024-07-28"
-      ]
     }
   ],
-  "totalUnlocks": 373
+  "totalUnlocks": 374
 }

@@ -5,12 +5,12 @@
     {
       "person": "emCipolla",
       "leaderboard": "2024-08-15",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 46,
+      "totalSeconds": 46,
+      "position": 1,
+      "scrapeTime": "2024-08-15T05:02:23.157Z",
+      "isPending": false
     },
     {
       "person": "emCipolla",
@@ -387,13 +387,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 26,
-    "totalSeconds": 26,
+    "seconds": 27,
+    "totalSeconds": 27,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 63,
+  "awardCount": 66,
   "awards": [
     {
       "title": "Gold",
@@ -474,7 +474,8 @@
       "type": "quarter-time",
       "text": "Quarter your completion time from one day to the next",
       "dates": [
-        "2024-07-28"
+        "2024-07-28",
+        "2024-08-15"
       ]
     },
     {
@@ -493,6 +494,14 @@
       "text": "Complete a puzzle in less than two minutes",
       "dates": [
         "2024-07-16"
+      ]
+    },
+    {
+      "title": "Sub Minute",
+      "type": "sub-60",
+      "text": "Complete a puzzle in less than a minute",
+      "dates": [
+        "2024-08-15"
       ]
     },
     {
@@ -579,6 +588,14 @@
         "2024-08-09",
         "2024-07-24",
         "2024-07-18"
+      ]
+    },
+    {
+      "title": "Quick Draw",
+      "type": "quick-draw",
+      "text": "Complete a puzzle before anyone else (or within 30 minutes of the first person)",
+      "dates": [
+        "2024-08-15"
       ]
     },
     {
