@@ -5,12 +5,12 @@
     {
       "person": "arjun137",
       "leaderboard": "2024-08-18",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 39,
+      "totalSeconds": 39,
+      "position": 1,
+      "scrapeTime": "2024-08-17T23:31:56.663Z",
+      "isPending": false
     },
     {
       "person": "arjun137",
@@ -11457,8 +11457,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 34,
-    "totalSeconds": 94,
+    "seconds": 33,
+    "totalSeconds": 93,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -11473,7 +11473,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 99,
+  "awardCount": 101,
   "awards": [
     {
       "title": "Silver",
@@ -11522,7 +11522,8 @@
       "text": "Quarter your completion time from one day to the next",
       "dates": [
         "2021-07-13",
-        "2024-04-01"
+        "2024-04-01",
+        "2024-08-18"
       ]
     },
     {
@@ -11601,7 +11602,8 @@
         "2024-06-16",
         "2024-06-19",
         "2024-07-18",
-        "2024-07-29"
+        "2024-07-29",
+        "2024-08-18"
       ]
     },
     {
