@@ -5,12 +5,12 @@
     {
       "person": "arjun137",
       "leaderboard": "2024-08-19",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 12,
+      "totalSeconds": 132,
+      "position": 3,
+      "scrapeTime": "2024-08-18T22:32:06.015Z",
+      "isPending": false
     },
     {
       "person": "arjun137",
@@ -11467,8 +11467,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 33,
-    "totalSeconds": 93,
+    "seconds": 34,
+    "totalSeconds": 94,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -11477,13 +11477,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 50,
-    "totalSeconds": 50,
+    "seconds": 49.5,
+    "totalSeconds": 49.5,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 102,
+  "awardCount": 105,
   "awards": [
     {
       "title": "Silver",
@@ -11551,7 +11551,8 @@
         "2024-06-28",
         "2024-07-23",
         "2024-08-01",
-        "2024-08-17"
+        "2024-08-17",
+        "2024-08-19"
       ]
     },
     {
@@ -11623,7 +11624,8 @@
       "text": "Play for three days in a row",
       "dates": [
         "2021-06-25",
-        "2024-04-03"
+        "2024-04-03",
+        "2024-08-19"
       ]
     },
     {
@@ -11710,7 +11712,8 @@
       "text": "Complete a puzzle before anyone else (or within 30 minutes of the first person)",
       "dates": [
         "2023-10-23",
-        "2024-04-02"
+        "2024-04-02",
+        "2024-08-19"
       ]
     }
   ]
