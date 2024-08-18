@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "arjun137",
+      "leaderboard": "2024-08-19",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "arjun137",
       "leaderboard": "2024-08-18",
       "minutes": 0,
       "seconds": 39,
@@ -11473,7 +11483,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 101,
+  "awardCount": 102,
   "awards": [
     {
       "title": "Silver",
@@ -11491,7 +11501,8 @@
       "text": "Get the third fastest time for a day",
       "dates": [
         "2024-04-13",
-        "2024-04-19"
+        "2024-04-19",
+        "2024-08-18"
       ]
     },
     {
