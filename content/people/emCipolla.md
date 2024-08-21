@@ -5,12 +5,12 @@
     {
       "person": "emCipolla",
       "leaderboard": "2024-08-21",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 31,
+      "totalSeconds": 31,
+      "position": 1,
+      "scrapeTime": "2024-08-21T16:02:26.462Z",
+      "isPending": false
     },
     {
       "person": "emCipolla",
@@ -437,8 +437,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 50,
-    "totalSeconds": 50,
+    "seconds": 49,
+    "totalSeconds": 49,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -447,13 +447,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 26,
-    "totalSeconds": 26,
+    "seconds": 27,
+    "totalSeconds": 27,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 67,
+  "awardCount": 69,
   "awards": [
     {
       "title": "Gold",
@@ -535,7 +535,8 @@
       "text": "Quarter your completion time from one day to the next",
       "dates": [
         "2024-07-28",
-        "2024-08-15"
+        "2024-08-15",
+        "2024-08-21"
       ]
     },
     {
@@ -577,7 +578,8 @@
         "2024-07-26",
         "2024-07-28",
         "2024-07-29",
-        "2024-07-31"
+        "2024-07-31",
+        "2024-08-21"
       ]
     },
     {
