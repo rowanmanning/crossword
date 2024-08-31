@@ -98,6 +98,15 @@
       ]
     },
     {
+      "person": "Emma L",
+      "count": 3,
+      "dates": [
+        "2022-01-28",
+        "2022-06-26",
+        "2024-08-31"
+      ]
+    },
+    {
       "person": "Rowan M",
       "count": 3,
       "dates": [
@@ -139,14 +148,6 @@
       ]
     },
     {
-      "person": "Emma L",
-      "count": 2,
-      "dates": [
-        "2022-01-28",
-        "2022-06-26"
-      ]
-    },
-    {
       "person": "Alice Bartlett",
       "count": 2,
       "dates": [
@@ -177,5 +178,5 @@
       ]
     }
   ],
-  "totalUnlocks": 64
+  "totalUnlocks": 65
 }
