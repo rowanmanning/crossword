@@ -5,12 +5,12 @@
     {
       "person": "ivo",
       "leaderboard": "2024-09-01",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 50,
+      "totalSeconds": 170,
+      "position": 5,
+      "scrapeTime": "2024-09-01T09:31:48.654Z",
+      "isPending": false
     },
     {
       "person": "ivo",
@@ -10776,9 +10776,9 @@
   "median": {
     "person": null,
     "leaderboard": null,
-    "minutes": 6,
-    "seconds": 27,
-    "totalSeconds": 387,
+    "minutes": 3,
+    "seconds": 32.5,
+    "totalSeconds": 212.5,
     "position": null,
     "scrapeTime": null,
     "isPending": false
