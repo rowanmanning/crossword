@@ -5,12 +5,12 @@
     {
       "person": "j-sheps",
       "leaderboard": "2024-09-06",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 53,
+      "totalSeconds": 53,
+      "position": 4,
+      "scrapeTime": "2024-09-06T22:33:40.513Z",
+      "isPending": false
     },
     {
       "person": "j-sheps",
@@ -11667,8 +11667,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 10,
-    "totalSeconds": 70,
+    "seconds": 9,
+    "totalSeconds": 69,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -11683,7 +11683,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 2461,
+  "awardCount": 2463,
   "awards": [
     {
       "title": "Gold",
@@ -13285,7 +13285,8 @@
         "2024-08-21",
         "2024-08-26",
         "2024-08-27",
-        "2024-09-01"
+        "2024-09-01",
+        "2024-09-06"
       ]
     },
     {
@@ -14119,6 +14120,7 @@
       "type": "yin-and-yang",
       "text": "Get the same time as another person but with flipped seconds",
       "dates": [
+        "2024-09-06",
         "2024-08-09",
         "2024-07-04",
         "2024-06-27",
