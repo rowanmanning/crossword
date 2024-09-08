@@ -8,7 +8,7 @@
       "minutes": 0,
       "seconds": 59,
       "totalSeconds": 59,
-      "position": 3,
+      "position": 4,
       "scrapeTime": "2024-09-08T08:02:44.880Z",
       "isPending": false
     },
