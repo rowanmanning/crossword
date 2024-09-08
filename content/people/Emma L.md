@@ -5,12 +5,12 @@
     {
       "person": "Emma L",
       "leaderboard": "2024-09-08",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 29,
+      "totalSeconds": 29,
+      "position": 1,
+      "scrapeTime": "2024-09-08T07:31:36.281Z",
+      "isPending": false
     },
     {
       "person": "Emma L",
@@ -11353,7 +11353,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 3088,
+  "awardCount": 3091,
   "awards": [
     {
       "title": "Gold",
@@ -13951,7 +13951,8 @@
         "2024-08-28",
         "2024-09-02",
         "2024-09-04",
-        "2024-09-06"
+        "2024-09-06",
+        "2024-09-08"
       ]
     },
     {
@@ -14264,7 +14265,8 @@
       "text": "Play for a full quarter, give that OKR a 1",
       "dates": [
         "2021-10-30",
-        "2023-09-15"
+        "2023-09-15",
+        "2024-09-08"
       ]
     },
     {
@@ -14758,7 +14760,8 @@
         "2024-08-05",
         "2024-08-14",
         "2024-08-27",
-        "2024-09-06"
+        "2024-09-06",
+        "2024-09-08"
       ]
     },
     {
