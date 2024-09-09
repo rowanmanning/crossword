@@ -5,12 +5,12 @@
     {
       "person": "emCipolla",
       "leaderboard": "2024-09-09",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 27,
+      "totalSeconds": 27,
+      "position": 2,
+      "scrapeTime": "2024-09-09T19:31:47.868Z",
+      "isPending": false
     },
     {
       "person": "emCipolla",
@@ -627,8 +627,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 48,
-    "totalSeconds": 48,
+    "seconds": 47,
+    "totalSeconds": 47,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -637,13 +637,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 27.5,
-    "totalSeconds": 27.5,
+    "seconds": 27,
+    "totalSeconds": 27,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 72,
+  "awardCount": 74,
   "awards": [
     {
       "title": "Gold",
@@ -787,7 +787,8 @@
         "2024-07-25",
         "2024-08-06",
         "2024-08-07",
-        "2024-08-09"
+        "2024-08-09",
+        "2024-09-09"
       ]
     },
     {
@@ -816,6 +817,14 @@
       "text": "Play for a full week without breaks",
       "dates": [
         "2024-07-27"
+      ]
+    },
+    {
+      "title": "Holiday",
+      "type": "holiday",
+      "text": "Come back to the crossword after a week off",
+      "dates": [
+        "2024-09-09"
       ]
     },
     {
