@@ -5,12 +5,12 @@
     {
       "person": "arjun137",
       "leaderboard": "2024-09-10",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 30,
+      "totalSeconds": 150,
+      "position": 6,
+      "scrapeTime": "2024-09-10T21:02:12.471Z",
+      "isPending": false
     },
     {
       "person": "arjun137",
@@ -11687,8 +11687,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 33,
-    "totalSeconds": 93,
+    "seconds": 34,
+    "totalSeconds": 94,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -11703,7 +11703,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 117,
+  "awardCount": 119,
   "awards": [
     {
       "title": "Silver",
@@ -11776,7 +11776,8 @@
         "2024-07-23",
         "2024-08-01",
         "2024-08-17",
-        "2024-08-19"
+        "2024-08-19",
+        "2024-09-10"
       ]
     },
     {
@@ -11922,6 +11923,14 @@
       "dates": [
         "2021-07-13",
         "2024-07-18"
+      ]
+    },
+    {
+      "title": "Dentist",
+      "type": "dentist",
+      "text": "Now this won't hurt a bit…",
+      "dates": [
+        "2024-09-10"
       ]
     },
     {
