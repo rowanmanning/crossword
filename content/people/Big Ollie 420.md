@@ -5,12 +5,12 @@
     {
       "person": "Big Ollie 420",
       "leaderboard": "2024-09-12",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 36,
+      "totalSeconds": 156,
+      "position": 5,
+      "scrapeTime": "2024-09-12T12:42:51.517Z",
+      "isPending": false
     },
     {
       "person": "Big Ollie 420",
@@ -36,9 +36,9 @@
   "mean": {
     "person": null,
     "leaderboard": null,
-    "minutes": 1,
-    "seconds": 46,
-    "totalSeconds": 106,
+    "minutes": 2,
+    "seconds": 11,
+    "totalSeconds": 131,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -46,9 +46,9 @@
   "median": {
     "person": null,
     "leaderboard": null,
-    "minutes": 1,
-    "seconds": 46,
-    "totalSeconds": 106,
+    "minutes": 2,
+    "seconds": 11,
+    "totalSeconds": 131,
     "position": null,
     "scrapeTime": null,
     "isPending": false
