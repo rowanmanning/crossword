@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Big Ollie 420",
+      "leaderboard": "2024-09-13",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Big Ollie 420",
       "leaderboard": "2024-09-12",
       "minutes": 2,
       "seconds": 36,
@@ -53,8 +63,16 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1,
+  "awardCount": 2,
   "awards": [
+    {
+      "title": "Consistent Position ×2",
+      "type": "consistent-2",
+      "text": "Get the same position two days in a row",
+      "dates": [
+        "2024-09-12"
+      ]
+    },
     {
       "title": "Sub Two Minutes",
       "type": "sub-120",
