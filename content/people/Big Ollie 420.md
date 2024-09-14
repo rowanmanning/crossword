@@ -5,12 +5,12 @@
     {
       "person": "Big Ollie 420",
       "leaderboard": "2024-09-14",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 5,
+      "seconds": 15,
+      "totalSeconds": 315,
+      "position": 7,
+      "scrapeTime": "2024-09-14T12:41:37.018Z",
+      "isPending": false
     },
     {
       "person": "Big Ollie 420",
@@ -56,9 +56,9 @@
   "mean": {
     "person": null,
     "leaderboard": null,
-    "minutes": 1,
-    "seconds": 42,
-    "totalSeconds": 102,
+    "minutes": 2,
+    "seconds": 35,
+    "totalSeconds": 155,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -66,14 +66,14 @@
   "median": {
     "person": null,
     "leaderboard": null,
-    "minutes": 2,
-    "seconds": 36,
-    "totalSeconds": 156,
+    "minutes": 3,
+    "seconds": 55.5,
+    "totalSeconds": 235.5,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 6,
+  "awardCount": 8,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -92,6 +92,14 @@
       ]
     },
     {
+      "title": "Double Time",
+      "type": "double-time",
+      "text": "Double your completion time from one day to the next",
+      "dates": [
+        "2024-09-14"
+      ]
+    },
+    {
       "title": "Sub Two Minutes",
       "type": "sub-120",
       "text": "Complete a puzzle in less than two minutes",
@@ -105,6 +113,14 @@
       "text": "Complete a puzzle in less than 45 seconds",
       "dates": [
         "2024-09-13"
+      ]
+    },
+    {
+      "title": "Over Five Minutes",
+      "type": "over-300",
+      "text": "Complete a puzzle in more than 5 minutes",
+      "dates": [
+        "2024-09-14"
       ]
     },
     {
