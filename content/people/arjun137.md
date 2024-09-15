@@ -5,12 +5,12 @@
     {
       "person": "arjun137",
       "leaderboard": "2024-09-16",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 52,
+      "totalSeconds": 52,
+      "position": 2,
+      "scrapeTime": "2024-09-15T23:31:40.731Z",
+      "isPending": false
     },
     {
       "person": "arjun137",
@@ -11747,8 +11747,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 33,
-    "totalSeconds": 93,
+    "seconds": 32,
+    "totalSeconds": 92,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -11757,13 +11757,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 49.5,
-    "totalSeconds": 49.5,
+    "seconds": 50,
+    "totalSeconds": 50,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 122,
+  "awardCount": 124,
   "awards": [
     {
       "title": "Silver",
@@ -11891,7 +11891,8 @@
         "2024-08-05",
         "2024-08-11",
         "2024-08-14",
-        "2024-09-09"
+        "2024-09-09",
+        "2024-09-16"
       ]
     },
     {
@@ -11958,6 +11959,7 @@
       "type": "yin-and-yang",
       "text": "Get the same time as another person but with flipped seconds",
       "dates": [
+        "2024-09-16",
         "2024-07-18",
         "2024-07-04"
       ]
