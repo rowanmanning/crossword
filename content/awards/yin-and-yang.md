@@ -6,8 +6,9 @@
   "unlocks": [
     {
       "person": "j-sheps",
-      "count": 39,
+      "count": 40,
       "dates": [
+        "2024-09-15",
         "2024-09-06",
         "2024-08-09",
         "2024-07-04",
@@ -506,6 +507,14 @@
       ]
     },
     {
+      "person": "Big Ollie 420",
+      "count": 2,
+      "dates": [
+        "2024-09-15",
+        "2024-09-13"
+      ]
+    },
+    {
       "person": "JRedondo",
       "count": 1,
       "dates": [
@@ -518,14 +527,7 @@
       "dates": [
         "2023-02-26"
       ]
-    },
-    {
-      "person": "Big Ollie 420",
-      "count": 1,
-      "dates": [
-        "2024-09-13"
-      ]
     }
   ],
-  "totalUnlocks": 378
+  "totalUnlocks": 380
 }

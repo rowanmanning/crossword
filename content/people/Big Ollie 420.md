@@ -5,12 +5,12 @@
     {
       "person": "Big Ollie 420",
       "leaderboard": "2024-09-15",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 53,
+      "totalSeconds": 53,
+      "position": 6,
+      "scrapeTime": "2024-09-15T18:03:07.009Z",
+      "isPending": false
     },
     {
       "person": "Big Ollie 420",
@@ -67,8 +67,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 35,
-    "totalSeconds": 155,
+    "seconds": 15,
+    "totalSeconds": 135,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -76,14 +76,14 @@
   "median": {
     "person": null,
     "leaderboard": null,
-    "minutes": 3,
-    "seconds": 55.5,
-    "totalSeconds": 235.5,
+    "minutes": 5,
+    "seconds": 15,
+    "totalSeconds": 315,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 8,
+  "awardCount": 11,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -102,6 +102,14 @@
       ]
     },
     {
+      "title": "Quarter Time",
+      "type": "quarter-time",
+      "text": "Quarter your completion time from one day to the next",
+      "dates": [
+        "2024-09-15"
+      ]
+    },
+    {
       "title": "Double Time",
       "type": "double-time",
       "text": "Double your completion time from one day to the next",
@@ -115,6 +123,14 @@
       "text": "Complete a puzzle in less than two minutes",
       "dates": [
         "2024-09-11"
+      ]
+    },
+    {
+      "title": "Sub Minute",
+      "type": "sub-60",
+      "text": "Complete a puzzle in less than a minute",
+      "dates": [
+        "2024-09-15"
       ]
     },
     {
@@ -146,6 +162,7 @@
       "type": "yin-and-yang",
       "text": "Get the same time as another person but with flipped seconds",
       "dates": [
+        "2024-09-15",
         "2024-09-13"
       ]
     }
