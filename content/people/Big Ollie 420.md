@@ -5,12 +5,12 @@
     {
       "person": "Big Ollie 420",
       "leaderboard": "2024-09-17",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 19,
+      "totalSeconds": 79,
+      "position": 5,
+      "scrapeTime": "2024-09-17T10:35:00.521Z",
+      "isPending": false
     },
     {
       "person": "Big Ollie 420",
@@ -87,8 +87,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 15,
-    "totalSeconds": 135,
+    "seconds": 6,
+    "totalSeconds": 126,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -96,14 +96,14 @@
   "median": {
     "person": null,
     "leaderboard": null,
-    "minutes": 5,
-    "seconds": 15,
-    "totalSeconds": 315,
+    "minutes": 2,
+    "seconds": 59,
+    "totalSeconds": 179,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 12,
+  "awardCount": 13,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -143,7 +143,8 @@
       "type": "sub-120",
       "text": "Complete a puzzle in less than two minutes",
       "dates": [
-        "2024-09-11"
+        "2024-09-11",
+        "2024-09-17"
       ]
     },
     {

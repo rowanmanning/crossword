@@ -20,6 +20,11 @@
 		"seconds": 67
 	},
 	{
+		"name": "Big Ollie 420",
+		"scrapeTime": "2024-09-17T10:35:00.521Z",
+		"seconds": 79
+	},
+	{
 		"name": "Lily2point0",
 		"scrapeTime": "2024-09-17T06:35:00.088Z",
 		"seconds": 95
@@ -46,11 +51,6 @@
 	},
 	{
 		"name": "arjun137",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
-		"name": "Big Ollie 420",
 		"scrapeTime": null,
 		"seconds": null
 	},
