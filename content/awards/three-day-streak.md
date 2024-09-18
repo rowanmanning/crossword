@@ -655,6 +655,16 @@
       ]
     },
     {
+      "person": "arjun137",
+      "count": 4,
+      "dates": [
+        "2021-06-25",
+        "2024-04-03",
+        "2024-08-19",
+        "2024-09-18"
+      ]
+    },
+    {
       "person": "Oliver Turner",
       "count": 4,
       "dates": [
@@ -705,15 +715,6 @@
       ]
     },
     {
-      "person": "arjun137",
-      "count": 3,
-      "dates": [
-        "2021-06-25",
-        "2024-04-03",
-        "2024-08-19"
-      ]
-    },
-    {
       "person": "sal",
       "count": 2,
       "dates": [
@@ -737,5 +738,5 @@
       ]
     }
   ],
-  "totalUnlocks": 582
+  "totalUnlocks": 583
 }
