@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Big Ollie 420",
+      "leaderboard": "2024-09-18",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Big Ollie 420",
       "leaderboard": "2024-09-17",
       "minutes": 1,
       "seconds": 19,
@@ -103,7 +113,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 13,
+  "awardCount": 14,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -186,6 +196,14 @@
       "dates": [
         "2024-09-15",
         "2024-09-13"
+      ]
+    },
+    {
+      "title": "The Number of The Beast",
+      "type": "beast",
+      "text": "His number is six hundred and sixty-six",
+      "dates": [
+        "2024-09-17"
       ]
     }
   ]
