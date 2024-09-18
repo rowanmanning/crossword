@@ -8,7 +8,7 @@
       "minutes": 0,
       "seconds": 29,
       "totalSeconds": 29,
-      "position": 1,
+      "position": 2,
       "scrapeTime": "2024-09-18T07:31:45.284Z",
       "isPending": false
     },
@@ -11453,7 +11453,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 3116,
+  "awardCount": 3117,
   "awards": [
     {
       "title": "Gold",
@@ -14542,7 +14542,8 @@
         "2024-07-22",
         "2024-07-26",
         "2024-08-01",
-        "2024-08-07"
+        "2024-08-07",
+        "2024-09-18"
       ]
     },
     {
