@@ -5,12 +5,12 @@
     {
       "person": "Big Ollie 420",
       "leaderboard": "2024-09-19",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 42,
+      "totalSeconds": 42,
+      "position": 1,
+      "scrapeTime": "2024-09-19T05:33:42.080Z",
+      "isPending": false
     },
     {
       "person": "Big Ollie 420",
@@ -95,20 +95,20 @@
   ],
   "best": {
     "person": "Big Ollie 420",
-    "leaderboard": "2024-09-13",
+    "leaderboard": "2024-09-19",
     "minutes": 0,
-    "seconds": 43,
-    "totalSeconds": 43,
-    "position": 5,
-    "scrapeTime": "2024-09-13T18:35:48.789Z",
+    "seconds": 42,
+    "totalSeconds": 42,
+    "position": 1,
+    "scrapeTime": "2024-09-19T05:33:42.080Z",
     "isPending": false
   },
   "mean": {
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 57,
-    "totalSeconds": 117,
+    "seconds": 47,
+    "totalSeconds": 107,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -117,13 +117,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 43,
-    "totalSeconds": 43,
+    "seconds": 42.5,
+    "totalSeconds": 42.5,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 15,
+  "awardCount": 19,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -181,7 +181,8 @@
       "type": "sub-45",
       "text": "Complete a puzzle in less than 45 seconds",
       "dates": [
-        "2024-09-13"
+        "2024-09-13",
+        "2024-09-19"
       ]
     },
     {
@@ -197,7 +198,8 @@
       "type": "three-day-streak",
       "text": "Play for three days in a row",
       "dates": [
-        "2024-09-13"
+        "2024-09-13",
+        "2024-09-19"
       ]
     },
     {
@@ -210,11 +212,27 @@
       ]
     },
     {
+      "title": "Don't Panic",
+      "type": "dont-panic",
+      "text": "A towel is about the most massively useful thing an interstellar hitchhiker can have",
+      "dates": [
+        "2024-09-19"
+      ]
+    },
+    {
       "title": "The Number of The Beast",
       "type": "beast",
       "text": "His number is six hundred and sixty-six",
       "dates": [
         "2024-09-17"
+      ]
+    },
+    {
+      "title": "Quick Draw",
+      "type": "quick-draw",
+      "text": "Complete a puzzle before anyone else (or within 30 minutes of the first person)",
+      "dates": [
+        "2024-09-19"
       ]
     }
   ]
