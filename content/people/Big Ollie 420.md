@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Big Ollie 420",
+      "leaderboard": "2024-09-20",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Big Ollie 420",
       "leaderboard": "2024-09-19",
       "minutes": 0,
       "seconds": 42,
@@ -123,8 +133,16 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 19,
+  "awardCount": 20,
   "awards": [
+    {
+      "title": "Bronze",
+      "type": "bronze",
+      "text": "Get the third fastest time for a day",
+      "dates": [
+        "2024-09-19"
+      ]
+    },
     {
       "title": "Consistent Position ×2",
       "type": "consistent-2",
