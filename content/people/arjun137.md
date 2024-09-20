@@ -5,12 +5,12 @@
     {
       "person": "arjun137",
       "leaderboard": "2024-09-20",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 22,
+      "totalSeconds": 142,
+      "position": 6,
+      "scrapeTime": "2024-09-20T20:02:37.185Z",
+      "isPending": false
     },
     {
       "person": "arjun137",
@@ -11787,8 +11787,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 32,
-    "totalSeconds": 92,
+    "seconds": 33,
+    "totalSeconds": 93,
     "position": null,
     "scrapeTime": null,
     "isPending": false
