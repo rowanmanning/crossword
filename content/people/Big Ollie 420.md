@@ -5,12 +5,12 @@
     {
       "person": "Big Ollie 420",
       "leaderboard": "2024-09-21",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 18,
+      "totalSeconds": 138,
+      "position": 7,
+      "scrapeTime": "2024-09-21T13:04:59.970Z",
+      "isPending": false
     },
     {
       "person": "Big Ollie 420",
@@ -127,8 +127,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 47,
-    "totalSeconds": 107,
+    "seconds": 51,
+    "totalSeconds": 111,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -137,13 +137,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 42.5,
-    "totalSeconds": 42.5,
+    "seconds": 42,
+    "totalSeconds": 42,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 20,
+  "awardCount": 21,
   "awards": [
     {
       "title": "Bronze",
@@ -183,7 +183,8 @@
       "type": "double-time",
       "text": "Double your completion time from one day to the next",
       "dates": [
-        "2024-09-14"
+        "2024-09-14",
+        "2024-09-21"
       ]
     },
     {

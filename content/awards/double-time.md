@@ -2056,19 +2056,20 @@
       ]
     },
     {
+      "person": "Big Ollie 420",
+      "count": 2,
+      "dates": [
+        "2024-09-14",
+        "2024-09-21"
+      ]
+    },
+    {
       "person": "JRedondo",
       "count": 1,
       "dates": [
         "2022-02-11"
       ]
-    },
-    {
-      "person": "Big Ollie 420",
-      "count": 1,
-      "dates": [
-        "2024-09-14"
-      ]
     }
   ],
-  "totalUnlocks": 1915
+  "totalUnlocks": 1916
 }
