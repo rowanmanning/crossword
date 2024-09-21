@@ -38,6 +38,15 @@
       ]
     },
     {
+      "person": "ivo",
+      "count": 3,
+      "dates": [
+        "2023-12-10",
+        "2024-02-11",
+        "2024-09-21"
+      ]
+    },
+    {
       "person": "Rowan M",
       "count": 2,
       "dates": [
@@ -62,14 +71,6 @@
       ]
     },
     {
-      "person": "ivo",
-      "count": 2,
-      "dates": [
-        "2023-12-10",
-        "2024-02-11"
-      ]
-    },
-    {
       "person": "apaleslimghost",
       "count": 1,
       "dates": [
@@ -84,5 +85,5 @@
       ]
     }
   ],
-  "totalUnlocks": 31
+  "totalUnlocks": 32
 }

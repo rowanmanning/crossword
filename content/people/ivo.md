@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "ivo",
+      "leaderboard": "2024-09-22",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "ivo",
       "leaderboard": "2024-09-21",
       "minutes": 0,
       "seconds": 51,
@@ -10983,7 +10993,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 2098,
+  "awardCount": 2100,
   "awards": [
     {
       "title": "Gold",
@@ -11223,7 +11233,8 @@
         "2024-09-05",
         "2024-09-07",
         "2024-09-19",
-        "2024-09-20"
+        "2024-09-20",
+        "2024-09-21"
       ]
     },
     {
@@ -11250,7 +11261,8 @@
       "text": "Get the second fastest time three days in a row",
       "dates": [
         "2023-12-10",
-        "2024-02-11"
+        "2024-02-11",
+        "2024-09-21"
       ]
     },
     {
