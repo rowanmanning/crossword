@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Nick Ramsbottom",
+      "leaderboard": "2024-09-21",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Nick Ramsbottom",
       "leaderboard": "2024-09-20",
       "minutes": null,
       "seconds": null,
