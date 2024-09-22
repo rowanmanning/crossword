@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Big Ollie 420",
+      "leaderboard": "2024-09-23",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Big Ollie 420",
       "leaderboard": "2024-09-22",
       "minutes": 2,
       "seconds": 15,
