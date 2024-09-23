@@ -5,12 +5,12 @@
     {
       "person": "Big Ollie 420",
       "leaderboard": "2024-09-23",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 7,
+      "totalSeconds": 67,
+      "position": 5,
+      "scrapeTime": "2024-09-23T12:03:39.259Z",
+      "isPending": false
     },
     {
       "person": "Big Ollie 420",
@@ -147,8 +147,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 53,
-    "totalSeconds": 113,
+    "seconds": 49,
+    "totalSeconds": 109,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -156,14 +156,14 @@
   "median": {
     "person": null,
     "leaderboard": null,
-    "minutes": 2,
-    "seconds": 58.5,
-    "totalSeconds": 178.5,
+    "minutes": 0,
+    "seconds": 42,
+    "totalSeconds": 42,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 21,
+  "awardCount": 24,
   "awards": [
     {
       "title": "Bronze",
@@ -187,7 +187,8 @@
       "type": "half-time",
       "text": "Half your completion time from one day to the next",
       "dates": [
-        "2024-09-13"
+        "2024-09-13",
+        "2024-09-23"
       ]
     },
     {
@@ -214,7 +215,8 @@
       "dates": [
         "2024-09-11",
         "2024-09-17",
-        "2024-09-18"
+        "2024-09-18",
+        "2024-09-23"
       ]
     },
     {
@@ -248,7 +250,8 @@
       "text": "Play for three days in a row",
       "dates": [
         "2024-09-13",
-        "2024-09-19"
+        "2024-09-19",
+        "2024-09-23"
       ]
     },
     {

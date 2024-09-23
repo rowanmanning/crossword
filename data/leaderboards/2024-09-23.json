@@ -5,6 +5,11 @@
 		"seconds": 26
 	},
 	{
+		"name": "ivo",
+		"scrapeTime": "2024-09-23T12:03:39.259Z",
+		"seconds": 33
+	},
+	{
 		"name": "Otherowan",
 		"scrapeTime": "2024-09-23T09:02:41.538Z",
 		"seconds": 41
@@ -13,6 +18,11 @@
 		"name": "j-sheps",
 		"scrapeTime": "2024-09-22T23:02:30.010Z",
 		"seconds": 63
+	},
+	{
+		"name": "Big Ollie 420",
+		"scrapeTime": "2024-09-23T12:03:39.259Z",
+		"seconds": 67
 	},
 	{
 		"name": "binaryberry",
@@ -45,11 +55,6 @@
 		"seconds": null
 	},
 	{
-		"name": "Big Ollie 420",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
 		"name": "cb",
 		"scrapeTime": null,
 		"seconds": null
@@ -66,11 +71,6 @@
 	},
 	{
 		"name": "itsalex",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
-		"name": "ivo",
 		"scrapeTime": null,
 		"seconds": null
 	},
