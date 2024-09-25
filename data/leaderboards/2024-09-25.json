@@ -5,6 +5,11 @@
 		"seconds": 30
 	},
 	{
+		"name": "Oliver Turner",
+		"scrapeTime": "2024-09-25T08:36:39.216Z",
+		"seconds": 61
+	},
+	{
 		"name": "Lily2point0",
 		"scrapeTime": "2024-09-25T03:08:14.979Z",
 		"seconds": 132
@@ -86,11 +91,6 @@
 	},
 	{
 		"name": "Nick Ramsbottom",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
-		"name": "Oliver Turner",
 		"scrapeTime": null,
 		"seconds": null
 	},
