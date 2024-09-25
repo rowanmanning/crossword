@@ -5,12 +5,12 @@
     {
       "person": "ollie",
       "leaderboard": "2024-09-25",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 17,
+      "totalSeconds": 137,
+      "position": 6,
+      "scrapeTime": "2024-09-25T17:33:03.678Z",
+      "isPending": false
     },
     {
       "person": "ollie",
@@ -37,8 +37,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 10,
-    "totalSeconds": 70,
+    "seconds": 44,
+    "totalSeconds": 104,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -47,13 +47,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 10,
-    "totalSeconds": 70,
+    "seconds": 43.5,
+    "totalSeconds": 103.5,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1,
+  "awardCount": 2,
   "awards": [
     {
       "title": "Sub Two Minutes",
@@ -61,6 +61,14 @@
       "text": "Complete a puzzle in less than two minutes",
       "dates": [
         "2024-09-24"
+      ]
+    },
+    {
+      "title": "Arjun",
+      "type": "arjun",
+      "text": "Join us",
+      "dates": [
+        "2024-09-25"
       ]
     }
   ]
