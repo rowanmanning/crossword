@@ -5,12 +5,12 @@
     {
       "person": "arjun137",
       "leaderboard": "2024-09-26",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 9,
+      "totalSeconds": 69,
+      "position": 2,
+      "scrapeTime": "2024-09-26T12:43:35.882Z",
+      "isPending": false
     },
     {
       "person": "arjun137",
@@ -11847,8 +11847,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 33,
-    "totalSeconds": 93,
+    "seconds": 32,
+    "totalSeconds": 92,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -11863,7 +11863,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 136,
+  "awardCount": 138,
   "awards": [
     {
       "title": "Silver",
@@ -11978,7 +11978,8 @@
         "2024-09-17",
         "2024-09-19",
         "2024-09-21",
-        "2024-09-23"
+        "2024-09-23",
+        "2024-09-26"
       ]
     },
     {
@@ -12081,6 +12082,14 @@
       "text": "Join us",
       "dates": [
         "2024-07-23"
+      ]
+    },
+    {
+      "title": "Nice",
+      "type": "nice",
+      "text": "Nice…",
+      "dates": [
+        "2024-09-26"
       ]
     },
     {
