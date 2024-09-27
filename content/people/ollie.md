@@ -5,12 +5,12 @@
     {
       "person": "ollie",
       "leaderboard": "2024-09-27",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 18,
+      "totalSeconds": 138,
+      "position": 3,
+      "scrapeTime": "2024-09-27T13:34:41.135Z",
+      "isPending": false
     },
     {
       "person": "ollie",
@@ -57,8 +57,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 44,
-    "totalSeconds": 104,
+    "seconds": 55,
+    "totalSeconds": 115,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -66,9 +66,9 @@
   "median": {
     "person": null,
     "leaderboard": null,
-    "minutes": 1,
-    "seconds": 43.5,
-    "totalSeconds": 103.5,
+    "minutes": 2,
+    "seconds": 18,
+    "totalSeconds": 138,
     "position": null,
     "scrapeTime": null,
     "isPending": false
