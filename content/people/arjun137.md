@@ -5,12 +5,12 @@
     {
       "person": "arjun137",
       "leaderboard": "2024-09-30",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 10,
+      "totalSeconds": 70,
+      "position": 2,
+      "scrapeTime": "2024-09-30T08:36:30.847Z",
+      "isPending": false
     },
     {
       "person": "arjun137",
@@ -11897,13 +11897,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 49,
-    "totalSeconds": 49,
+    "seconds": 49.5,
+    "totalSeconds": 49.5,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 140,
+  "awardCount": 143,
   "awards": [
     {
       "title": "Silver",
@@ -11952,7 +11952,8 @@
         "2024-08-05",
         "2024-09-09",
         "2024-09-13",
-        "2024-09-18"
+        "2024-09-18",
+        "2024-09-30"
       ]
     },
     {
@@ -12020,7 +12021,8 @@
         "2024-09-19",
         "2024-09-21",
         "2024-09-23",
-        "2024-09-26"
+        "2024-09-26",
+        "2024-09-30"
       ]
     },
     {
@@ -12104,7 +12106,8 @@
       "text": "Get the same time as another person",
       "dates": [
         "2024-07-18",
-        "2024-07-29"
+        "2024-07-29",
+        "2024-09-30"
       ]
     },
     {
