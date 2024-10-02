@@ -5,12 +5,12 @@
     {
       "person": "ollie",
       "leaderboard": "2024-10-02",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 24,
+      "totalSeconds": 144,
+      "position": 5,
+      "scrapeTime": "2024-10-02T17:32:32.189Z",
+      "isPending": false
     },
     {
       "person": "ollie",
@@ -107,8 +107,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 11,
-    "totalSeconds": 131,
+    "seconds": 14,
+    "totalSeconds": 134,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -117,8 +117,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 18,
-    "totalSeconds": 138,
+    "seconds": 21,
+    "totalSeconds": 141,
     "position": null,
     "scrapeTime": null,
     "isPending": false
