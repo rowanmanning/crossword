@@ -8,7 +8,7 @@
       "minutes": 0,
       "seconds": 53,
       "totalSeconds": 53,
-      "position": 4,
+      "position": 5,
       "scrapeTime": "2024-10-03T05:34:22.599Z",
       "isPending": false
     },
@@ -109,7 +109,7 @@
     "minutes": 0,
     "seconds": 53,
     "totalSeconds": 53,
-    "position": 4,
+    "position": 5,
     "scrapeTime": "2024-10-03T05:34:22.599Z",
     "isPending": false
   },
@@ -133,7 +133,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 4,
+  "awardCount": 5,
   "awards": [
     {
       "title": "Half Time",
@@ -155,6 +155,14 @@
       "title": "Sub Minute",
       "type": "sub-60",
       "text": "Complete a puzzle in less than a minute",
+      "dates": [
+        "2024-10-03"
+      ]
+    },
+    {
+      "title": "Yin and Yang",
+      "type": "yin-and-yang",
+      "text": "Get the same time as another person but with flipped seconds",
       "dates": [
         "2024-10-03"
       ]

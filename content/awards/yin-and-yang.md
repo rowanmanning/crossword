@@ -6,8 +6,9 @@
   "unlocks": [
     {
       "person": "j-sheps",
-      "count": 41,
+      "count": 42,
       "dates": [
+        "2024-10-03",
         "2024-09-16",
         "2024-09-15",
         "2024-09-06",
@@ -531,7 +532,14 @@
       "dates": [
         "2023-02-26"
       ]
+    },
+    {
+      "person": "ollie",
+      "count": 1,
+      "dates": [
+        "2024-10-03"
+      ]
     }
   ],
-  "totalUnlocks": 384
+  "totalUnlocks": 386
 }
