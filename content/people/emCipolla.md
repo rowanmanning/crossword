@@ -5,12 +5,12 @@
     {
       "person": "emCipolla",
       "leaderboard": "2024-10-03",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 38,
+      "totalSeconds": 38,
+      "position": 3,
+      "scrapeTime": "2024-10-03T19:02:29.213Z",
+      "isPending": false
     },
     {
       "person": "emCipolla",
@@ -867,8 +867,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 48,
-    "totalSeconds": 48,
+    "seconds": 47,
+    "totalSeconds": 47,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -883,7 +883,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 90,
+  "awardCount": 92,
   "awards": [
     {
       "title": "Gold",
@@ -963,7 +963,8 @@
       "text": "Half your completion time from one day to the next",
       "dates": [
         "2024-07-17",
-        "2024-08-05"
+        "2024-08-05",
+        "2024-10-03"
       ]
     },
     {
@@ -1025,7 +1026,8 @@
         "2024-09-16",
         "2024-09-17",
         "2024-09-25",
-        "2024-09-26"
+        "2024-09-26",
+        "2024-10-03"
       ]
     },
     {
