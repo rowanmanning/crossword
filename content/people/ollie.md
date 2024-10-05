@@ -5,12 +5,12 @@
     {
       "person": "ollie",
       "leaderboard": "2024-10-05",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 3,
+      "seconds": 2,
+      "totalSeconds": 182,
+      "position": 3,
+      "scrapeTime": "2024-10-05T11:02:14.623Z",
+      "isPending": false
     },
     {
       "person": "ollie",
@@ -137,8 +137,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 2,
-    "totalSeconds": 122,
+    "seconds": 10,
+    "totalSeconds": 130,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -147,13 +147,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 24,
-    "totalSeconds": 144,
+    "seconds": 43,
+    "totalSeconds": 163,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 5,
+  "awardCount": 6,
   "awards": [
     {
       "title": "Half Time",
@@ -161,6 +161,14 @@
       "text": "Half your completion time from one day to the next",
       "dates": [
         "2024-10-03"
+      ]
+    },
+    {
+      "title": "Double Time",
+      "type": "double-time",
+      "text": "Double your completion time from one day to the next",
+      "dates": [
+        "2024-10-05"
       ]
     },
     {
