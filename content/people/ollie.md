@@ -5,12 +5,12 @@
     {
       "person": "ollie",
       "leaderboard": "2024-10-07",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 49,
+      "totalSeconds": 109,
+      "position": 3,
+      "scrapeTime": "2024-10-07T12:03:40.403Z",
+      "isPending": false
     },
     {
       "person": "ollie",
@@ -157,8 +157,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 16,
-    "totalSeconds": 136,
+    "seconds": 14,
+    "totalSeconds": 134,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -166,14 +166,14 @@
   "median": {
     "person": null,
     "leaderboard": null,
-    "minutes": 3,
-    "seconds": 2,
-    "totalSeconds": 182,
+    "minutes": 2,
+    "seconds": 43,
+    "totalSeconds": 163,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 7,
+  "awardCount": 9,
   "awards": [
     {
       "title": "Consistent Position ×2",
@@ -204,7 +204,8 @@
       "type": "sub-120",
       "text": "Complete a puzzle in less than two minutes",
       "dates": [
-        "2024-09-24"
+        "2024-09-24",
+        "2024-10-07"
       ]
     },
     {
@@ -213,6 +214,14 @@
       "text": "Complete a puzzle in less than a minute",
       "dates": [
         "2024-10-03"
+      ]
+    },
+    {
+      "title": "Three Day Streak",
+      "type": "three-day-streak",
+      "text": "Play for three days in a row",
+      "dates": [
+        "2024-10-07"
       ]
     },
     {
