@@ -5,12 +5,12 @@
     {
       "person": "ollie",
       "leaderboard": "2024-10-08",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 37,
+      "totalSeconds": 97,
+      "position": 4,
+      "scrapeTime": "2024-10-08T21:02:09.499Z",
+      "isPending": false
     },
     {
       "person": "ollie",
@@ -167,8 +167,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 14,
-    "totalSeconds": 134,
+    "seconds": 10,
+    "totalSeconds": 130,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -176,14 +176,14 @@
   "median": {
     "person": null,
     "leaderboard": null,
-    "minutes": 2,
-    "seconds": 43,
-    "totalSeconds": 163,
+    "minutes": 3,
+    "seconds": 2,
+    "totalSeconds": 182,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 10,
+  "awardCount": 12,
   "awards": [
     {
       "title": "Bronze",
@@ -223,7 +223,8 @@
       "text": "Complete a puzzle in less than two minutes",
       "dates": [
         "2024-09-24",
-        "2024-10-07"
+        "2024-10-07",
+        "2024-10-08"
       ]
     },
     {
@@ -255,7 +256,8 @@
       "type": "arjun",
       "text": "Join us",
       "dates": [
-        "2024-09-25"
+        "2024-09-25",
+        "2024-10-08"
       ]
     }
   ]

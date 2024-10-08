@@ -130,6 +130,14 @@
       ]
     },
     {
+      "person": "ollie",
+      "count": 2,
+      "dates": [
+        "2024-09-25",
+        "2024-10-08"
+      ]
+    },
+    {
       "person": "joelcarr",
       "count": 1,
       "dates": [
@@ -170,14 +178,7 @@
       "dates": [
         "2024-07-23"
       ]
-    },
-    {
-      "person": "ollie",
-      "count": 1,
-      "dates": [
-        "2024-09-25"
-      ]
     }
   ],
-  "totalUnlocks": 66
+  "totalUnlocks": 67
 }
