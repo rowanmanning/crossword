@@ -5,12 +5,12 @@
     {
       "person": "ollie",
       "leaderboard": "2024-10-09",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 44,
+      "totalSeconds": 44,
+      "position": 2,
+      "scrapeTime": "2024-10-09T13:06:55.566Z",
+      "isPending": false
     },
     {
       "person": "ollie",
@@ -165,20 +165,20 @@
   ],
   "best": {
     "person": "ollie",
-    "leaderboard": "2024-10-03",
+    "leaderboard": "2024-10-09",
     "minutes": 0,
-    "seconds": 53,
-    "totalSeconds": 53,
-    "position": 5,
-    "scrapeTime": "2024-10-03T05:34:22.599Z",
+    "seconds": 44,
+    "totalSeconds": 44,
+    "position": 2,
+    "scrapeTime": "2024-10-09T13:06:55.566Z",
     "isPending": false
   },
   "mean": {
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 10,
-    "totalSeconds": 130,
+    "seconds": 3,
+    "totalSeconds": 123,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -187,13 +187,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 3,
-    "seconds": 2,
-    "totalSeconds": 182,
+    "seconds": 2.5,
+    "totalSeconds": 182.5,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 12,
+  "awardCount": 14,
   "awards": [
     {
       "title": "Bronze",
@@ -216,7 +216,8 @@
       "type": "half-time",
       "text": "Half your completion time from one day to the next",
       "dates": [
-        "2024-10-03"
+        "2024-10-03",
+        "2024-10-09"
       ]
     },
     {
@@ -243,6 +244,14 @@
       "text": "Complete a puzzle in less than a minute",
       "dates": [
         "2024-10-03"
+      ]
+    },
+    {
+      "title": "Sub 45 Seconds",
+      "type": "sub-45",
+      "text": "Complete a puzzle in less than 45 seconds",
+      "dates": [
+        "2024-10-09"
       ]
     },
     {

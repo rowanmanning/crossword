@@ -1705,11 +1705,12 @@
     },
     {
       "person": "ollie",
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2024-10-03"
+        "2024-10-03",
+        "2024-10-09"
       ]
     }
   ],
-  "totalUnlocks": 1550
+  "totalUnlocks": 1551
 }
