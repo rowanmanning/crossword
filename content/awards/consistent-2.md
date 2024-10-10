@@ -875,19 +875,20 @@
       ]
     },
     {
+      "person": "ollie",
+      "count": 2,
+      "dates": [
+        "2024-10-06",
+        "2024-10-09"
+      ]
+    },
+    {
       "person": "ellejay",
       "count": 1,
       "dates": [
         "2024-04-27"
       ]
-    },
-    {
-      "person": "ollie",
-      "count": 1,
-      "dates": [
-        "2024-10-06"
-      ]
     }
   ],
-  "totalUnlocks": 740
+  "totalUnlocks": 741
 }

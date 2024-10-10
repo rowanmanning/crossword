@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "ollie",
+      "leaderboard": "2024-10-10",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "ollie",
       "leaderboard": "2024-10-09",
       "minutes": 0,
       "seconds": 44,
@@ -193,7 +203,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 14,
+  "awardCount": 15,
   "awards": [
     {
       "title": "Bronze",
@@ -208,7 +218,8 @@
       "type": "consistent-2",
       "text": "Get the same position two days in a row",
       "dates": [
-        "2024-10-06"
+        "2024-10-06",
+        "2024-10-09"
       ]
     },
     {
