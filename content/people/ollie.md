@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "ollie",
+      "leaderboard": "2024-10-13",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "ollie",
       "leaderboard": "2024-10-12",
       "minutes": 4,
       "seconds": 35,
@@ -223,7 +233,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 17,
+  "awardCount": 18,
   "awards": [
     {
       "title": "Bronze",
@@ -310,6 +320,14 @@
       "dates": [
         "2024-09-25",
         "2024-10-08"
+      ]
+    },
+    {
+      "title": "The Number of The Beast",
+      "type": "beast",
+      "text": "His number is six hundred and sixty-six",
+      "dates": [
+        "2024-10-12"
       ]
     }
   ]
