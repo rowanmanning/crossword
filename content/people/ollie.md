@@ -5,12 +5,12 @@
     {
       "person": "ollie",
       "leaderboard": "2024-10-12",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 4,
+      "seconds": 35,
+      "totalSeconds": 275,
+      "position": 5,
+      "scrapeTime": "2024-10-12T12:03:13.783Z",
+      "isPending": false
     },
     {
       "person": "ollie",
@@ -206,9 +206,9 @@
   "mean": {
     "person": null,
     "leaderboard": null,
-    "minutes": 1,
-    "seconds": 59,
-    "totalSeconds": 119,
+    "minutes": 2,
+    "seconds": 10,
+    "totalSeconds": 130,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -217,13 +217,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 3,
-    "seconds": 3,
-    "totalSeconds": 183,
+    "seconds": 6.5,
+    "totalSeconds": 186.5,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 16,
+  "awardCount": 17,
   "awards": [
     {
       "title": "Bronze",
@@ -256,7 +256,8 @@
       "type": "double-time",
       "text": "Double your completion time from one day to the next",
       "dates": [
-        "2024-10-05"
+        "2024-10-05",
+        "2024-10-12"
       ]
     },
     {
