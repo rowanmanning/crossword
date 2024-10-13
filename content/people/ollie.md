@@ -5,12 +5,12 @@
     {
       "person": "ollie",
       "leaderboard": "2024-10-13",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 42,
+      "totalSeconds": 162,
+      "position": 5,
+      "scrapeTime": "2024-10-13T09:31:53.096Z",
+      "isPending": false
     },
     {
       "person": "ollie",
@@ -217,8 +217,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 10,
-    "totalSeconds": 130,
+    "seconds": 12,
+    "totalSeconds": 132,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -227,13 +227,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 3,
-    "seconds": 6.5,
-    "totalSeconds": 186.5,
+    "seconds": 3,
+    "totalSeconds": 183,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 18,
+  "awardCount": 19,
   "awards": [
     {
       "title": "Bronze",
@@ -302,7 +302,8 @@
       "type": "three-day-streak",
       "text": "Play for three days in a row",
       "dates": [
-        "2024-10-07"
+        "2024-10-07",
+        "2024-10-13"
       ]
     },
     {
