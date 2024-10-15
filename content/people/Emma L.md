@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Emma L",
+      "leaderboard": "2024-10-15",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Emma L",
       "leaderboard": "2024-10-14",
       "minutes": 0,
       "seconds": 23,
@@ -11713,7 +11723,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 3201,
+  "awardCount": 3203,
   "awards": [
     {
       "title": "Gold",
@@ -12553,7 +12563,8 @@
         "2024-10-09",
         "2024-10-11",
         "2024-10-12",
-        "2024-10-13"
+        "2024-10-13",
+        "2024-10-14"
       ]
     },
     {
@@ -12643,7 +12654,8 @@
       "type": "quadruple-silver",
       "text": "Get the second fastest time four days in a row",
       "dates": [
-        "2023-01-10"
+        "2023-01-10",
+        "2024-10-14"
       ]
     },
     {

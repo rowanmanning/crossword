@@ -16,9 +16,10 @@
     },
     {
       "person": "Emma L",
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2023-01-10"
+        "2023-01-10",
+        "2024-10-14"
       ]
     },
     {
@@ -36,5 +37,5 @@
       ]
     }
   ],
-  "totalUnlocks": 7
+  "totalUnlocks": 8
 }
