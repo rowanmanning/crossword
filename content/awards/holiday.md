@@ -206,6 +206,14 @@
       ]
     },
     {
+      "person": "emCipolla",
+      "count": 2,
+      "dates": [
+        "2024-09-09",
+        "2024-10-16"
+      ]
+    },
+    {
       "person": "binaryberry",
       "count": 1,
       "dates": [
@@ -239,14 +247,7 @@
       "dates": [
         "2024-07-05"
       ]
-    },
-    {
-      "person": "emCipolla",
-      "count": 1,
-      "dates": [
-        "2024-09-09"
-      ]
     }
   ],
-  "totalUnlocks": 129
+  "totalUnlocks": 130
 }
