@@ -5,12 +5,12 @@
     {
       "person": "ollie",
       "leaderboard": "2024-10-17",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 3,
+      "seconds": 34,
+      "totalSeconds": 214,
+      "position": 5,
+      "scrapeTime": "2024-10-17T13:06:58.265Z",
+      "isPending": false
     },
     {
       "person": "ollie",
@@ -257,8 +257,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 7,
-    "totalSeconds": 127,
+    "seconds": 11,
+    "totalSeconds": 131,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -267,13 +267,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 3,
-    "seconds": 3,
-    "totalSeconds": 183,
+    "seconds": 6.5,
+    "totalSeconds": 186.5,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 22,
+  "awardCount": 24,
   "awards": [
     {
       "title": "Bronze",
@@ -308,7 +308,8 @@
       "text": "Double your completion time from one day to the next",
       "dates": [
         "2024-10-05",
-        "2024-10-12"
+        "2024-10-12",
+        "2024-10-17"
       ]
     },
     {
@@ -346,7 +347,8 @@
       "text": "Play for three days in a row",
       "dates": [
         "2024-10-07",
-        "2024-10-13"
+        "2024-10-13",
+        "2024-10-17"
       ]
     },
     {
