@@ -2138,6 +2138,14 @@
       ]
     },
     {
+      "person": "ollie",
+      "count": 2,
+      "dates": [
+        "2024-10-03",
+        "2024-10-20"
+      ]
+    },
+    {
       "person": "JRedondo",
       "count": 1,
       "dates": [
@@ -2157,14 +2165,7 @@
       "dates": [
         "2024-09-15"
       ]
-    },
-    {
-      "person": "ollie",
-      "count": 1,
-      "dates": [
-        "2024-10-03"
-      ]
     }
   ],
-  "totalUnlocks": 2005
+  "totalUnlocks": 2006
 }

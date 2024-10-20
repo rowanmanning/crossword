@@ -5,12 +5,12 @@
     {
       "person": "ollie",
       "leaderboard": "2024-10-20",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 57,
+      "totalSeconds": 57,
+      "position": 5,
+      "scrapeTime": "2024-10-20T13:32:44.953Z",
+      "isPending": false
     },
     {
       "person": "ollie",
@@ -287,8 +287,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 13,
-    "totalSeconds": 133,
+    "seconds": 9,
+    "totalSeconds": 129,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -297,13 +297,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 3,
-    "seconds": 3,
-    "totalSeconds": 183,
+    "seconds": 6.5,
+    "totalSeconds": 186.5,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 24,
+  "awardCount": 26,
   "awards": [
     {
       "title": "Bronze",
@@ -329,7 +329,8 @@
       "text": "Half your completion time from one day to the next",
       "dates": [
         "2024-10-03",
-        "2024-10-09"
+        "2024-10-09",
+        "2024-10-20"
       ]
     },
     {
@@ -360,7 +361,8 @@
       "type": "sub-60",
       "text": "Complete a puzzle in less than a minute",
       "dates": [
-        "2024-10-03"
+        "2024-10-03",
+        "2024-10-20"
       ]
     },
     {
