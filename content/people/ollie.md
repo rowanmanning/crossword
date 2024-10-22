@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "ollie",
+      "leaderboard": "2024-10-22",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "ollie",
       "leaderboard": "2024-10-21",
       "minutes": 1,
       "seconds": 27,
@@ -313,7 +323,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 28,
+  "awardCount": 29,
   "awards": [
     {
       "title": "Bronze",
@@ -417,7 +427,8 @@
       "type": "beast",
       "text": "His number is six hundred and sixty-six",
       "dates": [
-        "2024-10-12"
+        "2024-10-12",
+        "2024-10-21"
       ]
     }
   ]
