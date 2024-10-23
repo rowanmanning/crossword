@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "emCipolla",
+      "leaderboard": "2024-10-23",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "emCipolla",
       "leaderboard": "2024-10-22",
       "minutes": 0,
       "seconds": 35,
@@ -1073,7 +1083,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 108,
+  "awardCount": 110,
   "awards": [
     {
       "title": "Gold",
@@ -1114,7 +1124,8 @@
         "2024-07-31",
         "2024-08-07",
         "2024-09-09",
-        "2024-09-26"
+        "2024-09-26",
+        "2024-10-22"
       ]
     },
     {
@@ -1148,7 +1159,8 @@
       "text": "Unlock third, second, and first place awards",
       "dates": [
         "2024-07-19",
-        "2024-08-07"
+        "2024-08-07",
+        "2024-10-22"
       ]
     },
     {
