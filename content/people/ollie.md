@@ -5,12 +5,12 @@
     {
       "person": "ollie",
       "leaderboard": "2024-10-25",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 31,
+      "totalSeconds": 91,
+      "position": 3,
+      "scrapeTime": "2024-10-25T11:31:54.375Z",
+      "isPending": false
     },
     {
       "person": "ollie",
@@ -337,8 +337,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 8,
-    "totalSeconds": 128,
+    "seconds": 7,
+    "totalSeconds": 127,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -347,13 +347,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 3,
-    "seconds": 15,
-    "totalSeconds": 195,
+    "seconds": 20,
+    "totalSeconds": 200,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 32,
+  "awardCount": 35,
   "awards": [
     {
       "title": "Bronze",
@@ -381,7 +381,8 @@
       "dates": [
         "2024-10-03",
         "2024-10-09",
-        "2024-10-20"
+        "2024-10-20",
+        "2024-10-25"
       ]
     },
     {
@@ -407,7 +408,8 @@
         "2024-10-15",
         "2024-10-16",
         "2024-10-21",
-        "2024-10-22"
+        "2024-10-22",
+        "2024-10-25"
       ]
     },
     {
@@ -436,6 +438,14 @@
         "2024-10-13",
         "2024-10-17",
         "2024-10-21"
+      ]
+    },
+    {
+      "title": "Week-Long Streak",
+      "type": "week-streak",
+      "text": "Play for a full week without breaks",
+      "dates": [
+        "2024-10-25"
       ]
     },
     {
