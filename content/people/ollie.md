@@ -5,12 +5,12 @@
     {
       "person": "ollie",
       "leaderboard": "2024-10-26",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 18,
+      "totalSeconds": 138,
+      "position": 4,
+      "scrapeTime": "2024-10-26T10:35:35.564Z",
+      "isPending": false
     },
     {
       "person": "ollie",
@@ -357,8 +357,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 3,
-    "seconds": 20,
-    "totalSeconds": 200,
+    "seconds": 15,
+    "totalSeconds": 195,
     "position": null,
     "scrapeTime": null,
     "isPending": false
