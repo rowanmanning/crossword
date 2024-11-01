@@ -2806,11 +2806,12 @@
     },
     {
       "person": "ollie",
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2024-10-09"
+        "2024-10-09",
+        "2024-11-01"
       ]
     }
   ],
-  "totalUnlocks": 2663
+  "totalUnlocks": 2664
 }
