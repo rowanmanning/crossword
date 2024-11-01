@@ -166,6 +166,14 @@
       ]
     },
     {
+      "person": "arjun137",
+      "count": 2,
+      "dates": [
+        "2024-09-26",
+        "2024-11-01"
+      ]
+    },
+    {
       "person": "varjmes",
       "count": 1,
       "dates": [
@@ -178,14 +186,7 @@
       "dates": [
         "2024-03-24"
       ]
-    },
-    {
-      "person": "arjun137",
-      "count": 1,
-      "dates": [
-        "2024-09-26"
-      ]
     }
   ],
-  "totalUnlocks": 68
+  "totalUnlocks": 69
 }
