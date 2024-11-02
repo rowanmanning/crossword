@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "itsalex",
+      "leaderboard": "2024-11-03",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "itsalex",
       "leaderboard": "2024-11-02",
       "minutes": 1,
       "seconds": 10,
@@ -12223,7 +12233,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 2141,
+  "awardCount": 2143,
   "awards": [
     {
       "title": "Gold",
@@ -12850,7 +12860,8 @@
         "2024-10-15",
         "2024-10-26",
         "2024-10-31",
-        "2024-11-01"
+        "2024-11-01",
+        "2024-11-02"
       ]
     },
     {
@@ -12889,7 +12900,8 @@
       "text": "Get the second fastest time three days in a row",
       "dates": [
         "2022-11-11",
-        "2023-10-17"
+        "2023-10-17",
+        "2024-11-02"
       ]
     },
     {
