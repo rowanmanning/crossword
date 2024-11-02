@@ -198,6 +198,14 @@
       ]
     },
     {
+      "person": "ollie",
+      "count": 2,
+      "dates": [
+        "2024-10-28",
+        "2024-11-01"
+      ]
+    },
+    {
       "person": "Emma L",
       "count": 1,
       "dates": [
@@ -217,14 +225,7 @@
       "dates": [
         "2024-04-09"
       ]
-    },
-    {
-      "person": "ollie",
-      "count": 1,
-      "dates": [
-        "2024-10-28"
-      ]
     }
   ],
-  "totalUnlocks": 119
+  "totalUnlocks": 120
 }
