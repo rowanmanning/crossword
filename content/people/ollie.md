@@ -5,12 +5,12 @@
     {
       "person": "ollie",
       "leaderboard": "2024-11-05",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 12,
+      "totalSeconds": 72,
+      "position": 2,
+      "scrapeTime": "2024-11-05T07:31:52.445Z",
+      "isPending": false
     },
     {
       "person": "ollie",
@@ -446,9 +446,9 @@
   "mean": {
     "person": null,
     "leaderboard": null,
-    "minutes": 2,
-    "seconds": 1,
-    "totalSeconds": 121,
+    "minutes": 1,
+    "seconds": 59,
+    "totalSeconds": 119,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -457,13 +457,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 3,
-    "seconds": 20,
-    "totalSeconds": 200,
+    "seconds": 27,
+    "totalSeconds": 207,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 53,
+  "awardCount": 55,
   "awards": [
     {
       "title": "Bronze",
@@ -541,7 +541,8 @@
         "2024-10-29",
         "2024-10-30",
         "2024-11-03",
-        "2024-11-04"
+        "2024-11-04",
+        "2024-11-05"
       ]
     },
     {
@@ -607,6 +608,14 @@
         "2024-10-21",
         "2024-10-26",
         "2024-11-02"
+      ]
+    },
+    {
+      "title": "Quick Draw",
+      "type": "quick-draw",
+      "text": "Complete a puzzle before anyone else (or within 30 minutes of the first person)",
+      "dates": [
+        "2024-11-05"
       ]
     }
   ]
