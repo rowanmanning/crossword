@@ -5,12 +5,12 @@
     {
       "person": "ollie",
       "leaderboard": "2024-11-07",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 35,
+      "totalSeconds": 95,
+      "position": 2,
+      "scrapeTime": "2024-11-07T07:02:13.591Z",
+      "isPending": false
     },
     {
       "person": "ollie",
@@ -476,14 +476,14 @@
   "median": {
     "person": null,
     "leaderboard": null,
-    "minutes": 3,
-    "seconds": 34,
-    "totalSeconds": 214,
+    "minutes": 4,
+    "seconds": 4.5,
+    "totalSeconds": 244.5,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 57,
+  "awardCount": 59,
   "awards": [
     {
       "title": "Silver",
@@ -571,7 +571,8 @@
         "2024-11-03",
         "2024-11-04",
         "2024-11-05",
-        "2024-11-06"
+        "2024-11-06",
+        "2024-11-07"
       ]
     },
     {
@@ -644,7 +645,8 @@
       "type": "quick-draw",
       "text": "Complete a puzzle before anyone else (or within 30 minutes of the first person)",
       "dates": [
-        "2024-11-05"
+        "2024-11-05",
+        "2024-11-07"
       ]
     }
   ]

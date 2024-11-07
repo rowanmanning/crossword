@@ -1512,9 +1512,18 @@
     },
     {
       "person": "emCipolla",
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2024-08-15"
+        "2024-08-15",
+        "2024-11-07"
+      ]
+    },
+    {
+      "person": "ollie",
+      "count": 2,
+      "dates": [
+        "2024-11-05",
+        "2024-11-07"
       ]
     },
     {
@@ -1523,14 +1532,7 @@
       "dates": [
         "2024-09-19"
       ]
-    },
-    {
-      "person": "ollie",
-      "count": 1,
-      "dates": [
-        "2024-11-05"
-      ]
     }
   ],
-  "totalUnlocks": 1401
+  "totalUnlocks": 1403
 }
