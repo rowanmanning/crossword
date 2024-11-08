@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "arjun137",
+      "leaderboard": "2024-11-08",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "arjun137",
       "leaderboard": "2024-11-07",
       "minutes": 0,
       "seconds": 52,
@@ -12283,7 +12293,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 168,
+  "awardCount": 169,
   "awards": [
     {
       "title": "Silver",
@@ -12307,7 +12317,8 @@
         "2024-08-23",
         "2024-08-26",
         "2024-08-28",
-        "2024-09-18"
+        "2024-09-18",
+        "2024-11-07"
       ]
     },
     {
