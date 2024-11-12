@@ -5,12 +5,12 @@
     {
       "person": "itsalex",
       "leaderboard": "2024-11-12",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 21,
+      "totalSeconds": 21,
+      "position": 1,
+      "scrapeTime": "2024-11-12T21:31:47.075Z",
+      "isPending": false
     },
     {
       "person": "itsalex",
@@ -12323,7 +12323,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 2160,
+  "awardCount": 2162,
   "awards": [
     {
       "title": "Gold",
@@ -13288,7 +13288,8 @@
         "2024-10-21",
         "2024-10-28",
         "2024-11-01",
-        "2024-11-10"
+        "2024-11-10",
+        "2024-11-12"
       ]
     },
     {
@@ -14063,7 +14064,8 @@
         "2024-10-22",
         "2024-10-23",
         "2024-10-24",
-        "2024-10-28"
+        "2024-10-28",
+        "2024-11-12"
       ]
     },
     {
