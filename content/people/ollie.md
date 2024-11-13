@@ -5,12 +5,12 @@
     {
       "person": "ollie",
       "leaderboard": "2024-11-13",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 59,
+      "totalSeconds": 59,
+      "position": 3,
+      "scrapeTime": "2024-11-13T11:31:43.310Z",
+      "isPending": false
     },
     {
       "person": "ollie",
@@ -527,8 +527,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 2,
-    "totalSeconds": 122,
+    "seconds": 0,
+    "totalSeconds": 120,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -537,13 +537,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 4,
-    "seconds": 30,
-    "totalSeconds": 270,
+    "seconds": 32.5,
+    "totalSeconds": 272.5,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 60,
+  "awardCount": 62,
   "awards": [
     {
       "title": "Silver",
@@ -598,6 +598,14 @@
       ]
     },
     {
+      "title": "Quarter Time",
+      "type": "quarter-time",
+      "text": "Quarter your completion time from one day to the next",
+      "dates": [
+        "2024-11-13"
+      ]
+    },
+    {
       "title": "Double Time",
       "type": "double-time",
       "text": "Double your completion time from one day to the next",
@@ -642,7 +650,8 @@
       "text": "Complete a puzzle in less than a minute",
       "dates": [
         "2024-10-03",
-        "2024-10-20"
+        "2024-10-20",
+        "2024-11-13"
       ]
     },
     {
