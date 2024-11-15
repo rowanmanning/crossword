@@ -251,7 +251,14 @@
       "dates": [
         "2024-07-22"
       ]
+    },
+    {
+      "person": "Lily2point0",
+      "count": 1,
+      "dates": [
+        "2024-11-14"
+      ]
     }
   ],
-  "totalUnlocks": 176
+  "totalUnlocks": 177
 }

@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "ollie",
+      "leaderboard": "2024-11-15",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "ollie",
       "leaderboard": "2024-11-14",
       "minutes": 2,
       "seconds": 54,
@@ -553,7 +563,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 63,
+  "awardCount": 64,
   "awards": [
     {
       "title": "Silver",
@@ -569,7 +579,8 @@
       "text": "Get the third fastest time for a day",
       "dates": [
         "2024-10-07",
-        "2024-11-04"
+        "2024-11-04",
+        "2024-11-14"
       ]
     },
     {

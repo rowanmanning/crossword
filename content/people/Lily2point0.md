@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Lily2point0",
+      "leaderboard": "2024-11-15",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Lily2point0",
       "leaderboard": "2024-11-14",
       "minutes": 1,
       "seconds": 34,
@@ -12373,7 +12383,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 2246,
+  "awardCount": 2248,
   "awards": [
     {
       "title": "Gold",
@@ -12406,7 +12416,16 @@
         "2024-07-07",
         "2024-09-29",
         "2024-10-07",
-        "2024-11-13"
+        "2024-11-13",
+        "2024-11-14"
+      ]
+    },
+    {
+      "title": "Double Silver",
+      "type": "double-silver",
+      "text": "Get the second fastest time two days in a row",
+      "dates": [
+        "2024-11-14"
       ]
     },
     {
