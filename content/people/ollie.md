@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "ollie",
+      "leaderboard": "2024-11-16",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "ollie",
       "leaderboard": "2024-11-15",
       "minutes": 1,
       "seconds": 1,
@@ -563,7 +573,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 67,
+  "awardCount": 69,
   "awards": [
     {
       "title": "Silver",
@@ -580,7 +590,16 @@
       "dates": [
         "2024-10-07",
         "2024-11-04",
-        "2024-11-14"
+        "2024-11-14",
+        "2024-11-15"
+      ]
+    },
+    {
+      "title": "Double Bronze",
+      "type": "double-bronze",
+      "text": "Get the third fastest time two days in a row",
+      "dates": [
+        "2024-11-15"
       ]
     },
     {
