@@ -5,12 +5,12 @@
     {
       "person": "emCipolla",
       "leaderboard": "2024-11-17",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 14,
+      "totalSeconds": 74,
+      "position": 3,
+      "scrapeTime": "2024-11-17T16:35:23.895Z",
+      "isPending": false
     },
     {
       "person": "emCipolla",
@@ -1317,8 +1317,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 49,
-    "totalSeconds": 49,
+    "seconds": 50,
+    "totalSeconds": 50,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -1333,7 +1333,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 133,
+  "awardCount": 135,
   "awards": [
     {
       "title": "Gold",
@@ -1468,7 +1468,8 @@
         "2024-09-28",
         "2024-10-06",
         "2024-10-26",
-        "2024-11-04"
+        "2024-11-04",
+        "2024-11-17"
       ]
     },
     {
@@ -1569,7 +1570,8 @@
       "text": "Come back to the crossword after a week off",
       "dates": [
         "2024-09-09",
-        "2024-10-16"
+        "2024-10-16",
+        "2024-11-17"
       ]
     },
     {
