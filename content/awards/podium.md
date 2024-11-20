@@ -277,7 +277,14 @@
       "dates": [
         "2021-11-04"
       ]
+    },
+    {
+      "person": "Otherowan",
+      "count": 1,
+      "dates": [
+        "2024-11-19"
+      ]
     }
   ],
-  "totalUnlocks": 202
+  "totalUnlocks": 203
 }

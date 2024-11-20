@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Otherowan",
+      "leaderboard": "2024-11-20",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Otherowan",
       "leaderboard": "2024-11-19",
       "minutes": 0,
       "seconds": 37,
@@ -10213,7 +10223,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1300,
+  "awardCount": 1302,
   "awards": [
     {
       "title": "Gold",
@@ -10383,7 +10393,8 @@
         "2024-10-19",
         "2024-11-08",
         "2024-11-09",
-        "2024-11-12"
+        "2024-11-12",
+        "2024-11-19"
       ]
     },
     {
@@ -10460,6 +10471,14 @@
         "2022-08-05",
         "2023-02-01",
         "2023-04-16"
+      ]
+    },
+    {
+      "title": "Podium",
+      "type": "podium",
+      "text": "Unlock third, second, and first place awards",
+      "dates": [
+        "2024-11-19"
       ]
     },
     {
