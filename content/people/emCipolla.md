@@ -5,12 +5,12 @@
     {
       "person": "emCipolla",
       "leaderboard": "2024-11-21",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 28,
+      "totalSeconds": 28,
+      "position": 3,
+      "scrapeTime": "2024-11-21T23:32:19.870Z",
+      "isPending": false
     },
     {
       "person": "emCipolla",
@@ -1357,8 +1357,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 50,
-    "totalSeconds": 50,
+    "seconds": 49,
+    "totalSeconds": 49,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -1373,7 +1373,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 146,
+  "awardCount": 148,
   "awards": [
     {
       "title": "Gold",
@@ -1576,7 +1576,8 @@
         "2024-10-20",
         "2024-10-21",
         "2024-10-29",
-        "2024-11-19"
+        "2024-11-19",
+        "2024-11-21"
       ]
     },
     {
@@ -1587,6 +1588,14 @@
         "2024-07-15",
         "2024-07-23",
         "2024-08-05"
+      ]
+    },
+    {
+      "title": "Chain 3",
+      "type": "chain-3",
+      "text": "Participate in a chain of three sequential times",
+      "dates": [
+        "2024-11-21"
       ]
     },
     {
