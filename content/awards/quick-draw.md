@@ -1503,6 +1503,15 @@
       ]
     },
     {
+      "person": "ollie",
+      "count": 3,
+      "dates": [
+        "2024-11-05",
+        "2024-11-07",
+        "2024-11-21"
+      ]
+    },
+    {
       "person": "leaf",
       "count": 2,
       "dates": [
@@ -1535,14 +1544,6 @@
       ]
     },
     {
-      "person": "ollie",
-      "count": 2,
-      "dates": [
-        "2024-11-05",
-        "2024-11-07"
-      ]
-    },
-    {
       "person": "Big Ollie 420",
       "count": 1,
       "dates": [
@@ -1550,5 +1551,5 @@
       ]
     }
   ],
-  "totalUnlocks": 1419
+  "totalUnlocks": 1420
 }
