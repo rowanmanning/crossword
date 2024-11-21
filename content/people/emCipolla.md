@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "emCipolla",
+      "leaderboard": "2024-11-21",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "emCipolla",
       "leaderboard": "2024-11-20",
       "minutes": 0,
       "seconds": 36,
@@ -1363,7 +1373,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 143,
+  "awardCount": 146,
   "awards": [
     {
       "title": "Gold",
@@ -1380,7 +1390,8 @@
         "2024-08-21",
         "2024-10-18",
         "2024-10-20",
-        "2024-11-19"
+        "2024-11-19",
+        "2024-11-20"
       ]
     },
     {
@@ -1388,7 +1399,8 @@
       "type": "double-gold",
       "text": "Get the fastest time two days in a row",
       "dates": [
-        "2024-07-12"
+        "2024-07-12",
+        "2024-11-20"
       ]
     },
     {
@@ -1630,7 +1642,8 @@
       "text": "Get the twinning award and the fastest time for a day",
       "dates": [
         "2024-07-19",
-        "2024-10-20"
+        "2024-10-20",
+        "2024-11-20"
       ]
     },
     {
