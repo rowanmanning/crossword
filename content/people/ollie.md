@@ -5,12 +5,12 @@
     {
       "person": "ollie",
       "leaderboard": "2024-11-23",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 58,
+      "totalSeconds": 118,
+      "position": 2,
+      "scrapeTime": "2024-11-23T18:36:37.169Z",
+      "isPending": false
     },
     {
       "person": "ollie",
@@ -637,13 +637,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 4,
-    "seconds": 32.5,
-    "totalSeconds": 272.5,
+    "seconds": 30,
+    "totalSeconds": 270,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 79,
+  "awardCount": 81,
   "awards": [
     {
       "title": "Silver",
@@ -761,7 +761,8 @@
         "2024-11-17",
         "2024-11-20",
         "2024-11-21",
-        "2024-11-22"
+        "2024-11-22",
+        "2024-11-23"
       ]
     },
     {
@@ -802,7 +803,8 @@
       "type": "week-streak",
       "text": "Play for a full week without breaks",
       "dates": [
-        "2024-10-25"
+        "2024-10-25",
+        "2024-11-23"
       ]
     },
     {
