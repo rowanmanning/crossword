@@ -1459,11 +1459,12 @@
     },
     {
       "person": "ollie",
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2024-11-06"
+        "2024-11-06",
+        "2024-11-23"
       ]
     }
   ],
-  "totalUnlocks": 1340
+  "totalUnlocks": 1341
 }
