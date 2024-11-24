@@ -5,12 +5,12 @@
     {
       "person": "emCipolla",
       "leaderboard": "2024-11-25",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 48,
+      "totalSeconds": 48,
+      "position": 1,
+      "scrapeTime": "2024-11-24T23:32:12.648Z",
+      "isPending": false
     },
     {
       "person": "emCipolla",
@@ -1407,13 +1407,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 30,
-    "totalSeconds": 30,
+    "seconds": 30.5,
+    "totalSeconds": 30.5,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 152,
+  "awardCount": 154,
   "awards": [
     {
       "title": "Gold",
@@ -1567,7 +1567,8 @@
       "text": "Complete a puzzle in less than a minute",
       "dates": [
         "2024-08-15",
-        "2024-10-28"
+        "2024-10-28",
+        "2024-11-25"
       ]
     },
     {
@@ -1715,7 +1716,8 @@
       "text": "Complete a puzzle before anyone else (or within 30 minutes of the first person)",
       "dates": [
         "2024-08-15",
-        "2024-11-07"
+        "2024-11-07",
+        "2024-11-25"
       ]
     },
     {

@@ -1506,6 +1506,15 @@
       ]
     },
     {
+      "person": "emCipolla",
+      "count": 3,
+      "dates": [
+        "2024-08-15",
+        "2024-11-07",
+        "2024-11-25"
+      ]
+    },
+    {
       "person": "ollie",
       "count": 3,
       "dates": [
@@ -1539,14 +1548,6 @@
       ]
     },
     {
-      "person": "emCipolla",
-      "count": 2,
-      "dates": [
-        "2024-08-15",
-        "2024-11-07"
-      ]
-    },
-    {
       "person": "Big Ollie 420",
       "count": 1,
       "dates": [
@@ -1554,5 +1555,5 @@
       ]
     }
   ],
-  "totalUnlocks": 1423
+  "totalUnlocks": 1424
 }
