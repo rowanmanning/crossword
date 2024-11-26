@@ -5,12 +5,12 @@
     {
       "person": "ollie",
       "leaderboard": "2024-11-26",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 32,
+      "totalSeconds": 92,
+      "position": 1,
+      "scrapeTime": "2024-11-26T23:32:41.413Z",
+      "isPending": false
     },
     {
       "person": "ollie",
@@ -667,13 +667,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 4,
-    "seconds": 30,
-    "totalSeconds": 270,
+    "seconds": 32.5,
+    "totalSeconds": 272.5,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 85,
+  "awardCount": 87,
   "awards": [
     {
       "title": "Silver",
@@ -796,7 +796,8 @@
         "2024-11-22",
         "2024-11-23",
         "2024-11-24",
-        "2024-11-25"
+        "2024-11-25",
+        "2024-11-26"
       ]
     },
     {
@@ -839,6 +840,14 @@
       "dates": [
         "2024-10-25",
         "2024-11-23"
+      ]
+    },
+    {
+      "title": "Twinning",
+      "type": "twinning",
+      "text": "Get the same time as another person",
+      "dates": [
+        "2024-11-26"
       ]
     },
     {
