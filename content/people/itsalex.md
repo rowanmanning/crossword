@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "itsalex",
+      "leaderboard": "2024-11-26",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "itsalex",
       "leaderboard": "2024-11-25",
       "minutes": 0,
       "seconds": 27,
@@ -12453,7 +12463,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 2169,
+  "awardCount": 2170,
   "awards": [
     {
       "title": "Gold",
@@ -12776,7 +12786,8 @@
         "2024-10-30",
         "2024-11-03",
         "2024-11-04",
-        "2024-11-12"
+        "2024-11-12",
+        "2024-11-25"
       ]
     },
     {
