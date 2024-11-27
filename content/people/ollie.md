@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "ollie",
+      "leaderboard": "2024-11-27",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "ollie",
       "leaderboard": "2024-11-26",
       "minutes": 1,
       "seconds": 32,
@@ -673,8 +683,16 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 87,
+  "awardCount": 90,
   "awards": [
+    {
+      "title": "Gold",
+      "type": "gold",
+      "text": "Get the fastest time for a day",
+      "dates": [
+        "2024-11-26"
+      ]
+    },
     {
       "title": "Silver",
       "type": "silver",
@@ -851,6 +869,14 @@
       ]
     },
     {
+      "title": "Twinning In Gold",
+      "type": "twinning-in-gold",
+      "text": "Get the twinning award and the fastest time for a day",
+      "dates": [
+        "2024-11-26"
+      ]
+    },
+    {
       "title": "Yin and Yang",
       "type": "yin-and-yang",
       "text": "Get the same time as another person but with flipped seconds",
@@ -886,6 +912,14 @@
         "2024-11-05",
         "2024-11-07",
         "2024-11-21"
+      ]
+    },
+    {
+      "title": "Slow and Steady",
+      "type": "slow-and-steady",
+      "text": "Complete a puzzle after everyone else but with the fastest time",
+      "dates": [
+        "2024-11-26"
       ]
     }
   ]
