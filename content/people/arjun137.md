@@ -5,12 +5,12 @@
     {
       "person": "arjun137",
       "leaderboard": "2024-11-27",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 13,
+      "totalSeconds": 73,
+      "position": 2,
+      "scrapeTime": "2024-11-27T14:35:30.299Z",
+      "isPending": false
     },
     {
       "person": "arjun137",
@@ -12483,7 +12483,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 184,
+  "awardCount": 185,
   "awards": [
     {
       "title": "Silver",
@@ -12632,7 +12632,8 @@
         "2024-11-18",
         "2024-11-20",
         "2024-11-24",
-        "2024-11-25"
+        "2024-11-25",
+        "2024-11-27"
       ]
     },
     {
