@@ -5,12 +5,12 @@
     {
       "person": "ollie",
       "leaderboard": "2024-12-03",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 24,
+      "totalSeconds": 84,
+      "position": 3,
+      "scrapeTime": "2024-12-03T09:34:22.740Z",
+      "isPending": false
     },
     {
       "person": "ollie",
@@ -727,13 +727,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 4,
-    "seconds": 32.5,
-    "totalSeconds": 272.5,
+    "seconds": 35,
+    "totalSeconds": 275,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 94,
+  "awardCount": 97,
   "awards": [
     {
       "title": "Gold",
@@ -868,7 +868,8 @@
         "2024-11-25",
         "2024-11-26",
         "2024-12-01",
-        "2024-12-02"
+        "2024-12-02",
+        "2024-12-03"
       ]
     },
     {
@@ -901,7 +902,8 @@
         "2024-10-17",
         "2024-10-21",
         "2024-11-15",
-        "2024-11-19"
+        "2024-11-19",
+        "2024-12-03"
       ]
     },
     {
@@ -918,7 +920,8 @@
       "type": "twinning",
       "text": "Get the same time as another person",
       "dates": [
-        "2024-11-26"
+        "2024-11-26",
+        "2024-12-03"
       ]
     },
     {
