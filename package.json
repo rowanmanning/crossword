@@ -19,7 +19,7 @@
     "node": "20.x"
   },
   "dependencies": {
-    "dotenv": "^16.4.5",
+    "dotenv": "^16.4.6",
     "hotkeys-js": "^3.13.7",
     "json5": "^2.2.3"
   },
