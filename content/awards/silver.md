@@ -1472,7 +1472,14 @@
         "2024-11-06",
         "2024-11-23"
       ]
+    },
+    {
+      "person": "adgad",
+      "count": 1,
+      "dates": [
+        "2024-12-03"
+      ]
     }
   ],
-  "totalUnlocks": 1349
+  "totalUnlocks": 1350
 }
