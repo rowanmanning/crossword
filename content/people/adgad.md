@@ -5,12 +5,12 @@
     {
       "person": "adgad",
       "leaderboard": "2024-12-04",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 47,
+      "totalSeconds": 47,
+      "position": 4,
+      "scrapeTime": "2024-12-04T20:34:34.601Z",
+      "isPending": false
     },
     {
       "person": "adgad",
@@ -35,20 +35,20 @@
   ],
   "best": {
     "person": "adgad",
-    "leaderboard": "2024-12-03",
-    "minutes": 1,
-    "seconds": 9,
-    "totalSeconds": 69,
-    "position": 2,
-    "scrapeTime": "2024-12-03T09:02:43.618Z",
+    "leaderboard": "2024-12-04",
+    "minutes": 0,
+    "seconds": 47,
+    "totalSeconds": 47,
+    "position": 4,
+    "scrapeTime": "2024-12-04T20:34:34.601Z",
     "isPending": false
   },
   "mean": {
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 13,
-    "totalSeconds": 73,
+    "seconds": 4,
+    "totalSeconds": 64,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -57,13 +57,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 12.5,
-    "totalSeconds": 72.5,
+    "seconds": 9,
+    "totalSeconds": 69,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 4,
+  "awardCount": 6,
   "awards": [
     {
       "title": "Silver",
@@ -80,6 +80,22 @@
       "dates": [
         "2024-12-02",
         "2024-12-03"
+      ]
+    },
+    {
+      "title": "Sub Minute",
+      "type": "sub-60",
+      "text": "Complete a puzzle in less than a minute",
+      "dates": [
+        "2024-12-04"
+      ]
+    },
+    {
+      "title": "Three Day Streak",
+      "type": "three-day-streak",
+      "text": "Play for three days in a row",
+      "dates": [
+        "2024-12-04"
       ]
     },
     {
