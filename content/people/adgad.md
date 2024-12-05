@@ -5,12 +5,12 @@
     {
       "person": "adgad",
       "leaderboard": "2024-12-05",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 37,
+      "totalSeconds": 97,
+      "position": 2,
+      "scrapeTime": "2024-12-05T19:31:51.189Z",
+      "isPending": false
     },
     {
       "person": "adgad",
@@ -57,8 +57,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 4,
-    "totalSeconds": 64,
+    "seconds": 13,
+    "totalSeconds": 73,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -67,13 +67,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 9,
-    "totalSeconds": 69,
+    "seconds": 12.5,
+    "totalSeconds": 72.5,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 6,
+  "awardCount": 9,
   "awards": [
     {
       "title": "Silver",
@@ -84,12 +84,21 @@
       ]
     },
     {
+      "title": "Double Time",
+      "type": "double-time",
+      "text": "Double your completion time from one day to the next",
+      "dates": [
+        "2024-12-05"
+      ]
+    },
+    {
       "title": "Sub Two Minutes",
       "type": "sub-120",
       "text": "Complete a puzzle in less than two minutes",
       "dates": [
         "2024-12-02",
-        "2024-12-03"
+        "2024-12-03",
+        "2024-12-05"
       ]
     },
     {
@@ -106,6 +115,14 @@
       "text": "Play for three days in a row",
       "dates": [
         "2024-12-04"
+      ]
+    },
+    {
+      "title": "Arjun",
+      "type": "arjun",
+      "text": "Join us",
+      "dates": [
+        "2024-12-05"
       ]
     },
     {
