@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "adgad",
+      "leaderboard": "2024-12-06",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "adgad",
       "leaderboard": "2024-12-05",
       "minutes": 1,
       "seconds": 37,
@@ -73,14 +83,15 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 9,
+  "awardCount": 10,
   "awards": [
     {
       "title": "Silver",
       "type": "silver",
       "text": "Get the second fastest time for a day",
       "dates": [
-        "2024-12-03"
+        "2024-12-03",
+        "2024-12-05"
       ]
     },
     {

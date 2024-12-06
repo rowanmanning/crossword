@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "ollie",
+      "leaderboard": "2024-12-06",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "ollie",
       "leaderboard": "2024-12-05",
       "minutes": 2,
       "seconds": 9,
@@ -753,7 +763,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 98,
+  "awardCount": 99,
   "awards": [
     {
       "title": "Gold",
@@ -781,7 +791,8 @@
         "2024-11-04",
         "2024-11-14",
         "2024-11-15",
-        "2024-12-03"
+        "2024-12-03",
+        "2024-12-05"
       ]
     },
     {

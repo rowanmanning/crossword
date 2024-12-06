@@ -1476,11 +1476,12 @@
     },
     {
       "person": "adgad",
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2024-12-03"
+        "2024-12-03",
+        "2024-12-05"
       ]
     }
   ],
-  "totalUnlocks": 1351
+  "totalUnlocks": 1352
 }
