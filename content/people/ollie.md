@@ -5,12 +5,12 @@
     {
       "person": "ollie",
       "leaderboard": "2024-12-07",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 6,
+      "seconds": 31,
+      "totalSeconds": 391,
+      "position": 3,
+      "scrapeTime": "2024-12-07T12:03:40.494Z",
+      "isPending": false
     },
     {
       "person": "ollie",
@@ -757,8 +757,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 54,
-    "totalSeconds": 114,
+    "seconds": 59,
+    "totalSeconds": 119,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -767,13 +767,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 4,
-    "seconds": 32.5,
-    "totalSeconds": 272.5,
+    "seconds": 35,
+    "totalSeconds": 275,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 101,
+  "awardCount": 104,
   "awards": [
     {
       "title": "Gold",
@@ -876,7 +876,8 @@
         "2024-11-02",
         "2024-11-09",
         "2024-11-14",
-        "2024-11-20"
+        "2024-11-20",
+        "2024-12-07"
       ]
     },
     {
@@ -937,6 +938,14 @@
       ]
     },
     {
+      "title": "Over Five Minutes",
+      "type": "over-300",
+      "text": "Complete a puzzle in more than 5 minutes",
+      "dates": [
+        "2024-12-07"
+      ]
+    },
+    {
       "title": "Three Day Streak",
       "type": "three-day-streak",
       "text": "Play for three days in a row",
@@ -956,7 +965,8 @@
       "text": "Play for a full week without breaks",
       "dates": [
         "2024-10-25",
-        "2024-11-23"
+        "2024-11-23",
+        "2024-12-07"
       ]
     },
     {
