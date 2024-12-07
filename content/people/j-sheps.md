@@ -5,12 +5,12 @@
     {
       "person": "j-sheps",
       "leaderboard": "2024-12-07",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 20,
+      "totalSeconds": 80,
+      "position": 2,
+      "scrapeTime": "2024-12-07T09:02:18.415Z",
+      "isPending": false
     },
     {
       "person": "j-sheps",
@@ -12593,7 +12593,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 2575,
+  "awardCount": 2577,
   "awards": [
     {
       "title": "Gold",
@@ -14022,7 +14022,8 @@
         "2024-10-23",
         "2024-10-26",
         "2024-11-02",
-        "2024-11-03"
+        "2024-11-03",
+        "2024-12-07"
       ]
     },
     {
@@ -14963,6 +14964,14 @@
       "text": "Play for a full quarter, give that OKR a 1",
       "dates": [
         "2021-10-25"
+      ]
+    },
+    {
+      "title": "Holiday",
+      "type": "holiday",
+      "text": "Come back to the crossword after a week off",
+      "dates": [
+        "2024-12-07"
       ]
     },
     {
