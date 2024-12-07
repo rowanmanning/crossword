@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "ollie",
+      "leaderboard": "2024-12-07",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "ollie",
       "leaderboard": "2024-12-06",
       "minutes": 1,
       "seconds": 31,
@@ -763,7 +773,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 100,
+  "awardCount": 101,
   "awards": [
     {
       "title": "Gold",
@@ -779,7 +789,8 @@
       "text": "Get the second fastest time for a day",
       "dates": [
         "2024-11-06",
-        "2024-11-23"
+        "2024-11-23",
+        "2024-12-06"
       ]
     },
     {
