@@ -5,12 +5,12 @@
     {
       "person": "adgad",
       "leaderboard": "2024-12-08",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 28,
+      "totalSeconds": 148,
+      "position": 2,
+      "scrapeTime": "2024-12-08T02:15:24.396Z",
+      "isPending": false
     },
     {
       "person": "adgad",
@@ -87,8 +87,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 13,
-    "totalSeconds": 73,
+    "seconds": 28,
+    "totalSeconds": 88,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -97,8 +97,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 12.5,
-    "totalSeconds": 72.5,
+    "seconds": 9,
+    "totalSeconds": 69,
     "position": null,
     "scrapeTime": null,
     "isPending": false
