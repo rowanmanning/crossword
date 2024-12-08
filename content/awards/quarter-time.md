@@ -514,6 +514,14 @@
       ]
     },
     {
+      "person": "ollie",
+      "count": 2,
+      "dates": [
+        "2024-11-13",
+        "2024-12-08"
+      ]
+    },
+    {
       "person": "sal",
       "count": 1,
       "dates": [
@@ -526,14 +534,7 @@
       "dates": [
         "2024-09-15"
       ]
-    },
-    {
-      "person": "ollie",
-      "count": 1,
-      "dates": [
-        "2024-11-13"
-      ]
     }
   ],
-  "totalUnlocks": 392
+  "totalUnlocks": 393
 }

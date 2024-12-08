@@ -5,12 +5,12 @@
     {
       "person": "ollie",
       "leaderboard": "2024-12-08",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 18,
+      "totalSeconds": 78,
+      "position": 3,
+      "scrapeTime": "2024-12-08T13:07:07.242Z",
+      "isPending": false
     },
     {
       "person": "ollie",
@@ -767,8 +767,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 59,
-    "totalSeconds": 119,
+    "seconds": 58,
+    "totalSeconds": 118,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -776,14 +776,14 @@
   "median": {
     "person": null,
     "leaderboard": null,
-    "minutes": 4,
-    "seconds": 35,
-    "totalSeconds": 275,
+    "minutes": 5,
+    "seconds": 33,
+    "totalSeconds": 333,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 104,
+  "awardCount": 106,
   "awards": [
     {
       "title": "Gold",
@@ -869,7 +869,8 @@
       "type": "quarter-time",
       "text": "Quarter your completion time from one day to the next",
       "dates": [
-        "2024-11-13"
+        "2024-11-13",
+        "2024-12-08"
       ]
     },
     {
@@ -924,7 +925,8 @@
         "2024-12-01",
         "2024-12-02",
         "2024-12-03",
-        "2024-12-06"
+        "2024-12-06",
+        "2024-12-08"
       ]
     },
     {
