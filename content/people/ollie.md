@@ -5,12 +5,12 @@
     {
       "person": "ollie",
       "leaderboard": "2024-12-09",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 55,
+      "totalSeconds": 55,
+      "position": 4,
+      "scrapeTime": "2024-12-09T13:38:04.861Z",
+      "isPending": false
     },
     {
       "person": "ollie",
@@ -777,8 +777,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 58,
-    "totalSeconds": 118,
+    "seconds": 57,
+    "totalSeconds": 117,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -786,14 +786,14 @@
   "median": {
     "person": null,
     "leaderboard": null,
-    "minutes": 5,
-    "seconds": 33,
-    "totalSeconds": 333,
+    "minutes": 6,
+    "seconds": 31,
+    "totalSeconds": 391,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 107,
+  "awardCount": 109,
   "awards": [
     {
       "title": "Gold",
@@ -948,7 +948,8 @@
         "2024-10-03",
         "2024-10-20",
         "2024-11-13",
-        "2024-11-19"
+        "2024-11-19",
+        "2024-12-09"
       ]
     },
     {
@@ -998,7 +999,8 @@
       "text": "Get the same time as another person",
       "dates": [
         "2024-11-26",
-        "2024-12-03"
+        "2024-12-03",
+        "2024-12-09"
       ]
     },
     {
