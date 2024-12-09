@@ -5,12 +5,12 @@
     {
       "person": "adgad",
       "leaderboard": "2024-12-09",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 38,
+      "totalSeconds": 38,
+      "position": 2,
+      "scrapeTime": "2024-12-09T03:19:01.120Z",
+      "isPending": false
     },
     {
       "person": "adgad",
@@ -85,20 +85,20 @@
   ],
   "best": {
     "person": "adgad",
-    "leaderboard": "2024-12-04",
+    "leaderboard": "2024-12-09",
     "minutes": 0,
-    "seconds": 47,
-    "totalSeconds": 47,
-    "position": 4,
-    "scrapeTime": "2024-12-04T20:34:34.601Z",
+    "seconds": 38,
+    "totalSeconds": 38,
+    "position": 2,
+    "scrapeTime": "2024-12-09T03:19:01.120Z",
     "isPending": false
   },
   "mean": {
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 28,
-    "totalSeconds": 88,
+    "seconds": 20,
+    "totalSeconds": 80,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -106,14 +106,14 @@
   "median": {
     "person": null,
     "leaderboard": null,
-    "minutes": 1,
-    "seconds": 9,
-    "totalSeconds": 69,
+    "minutes": 0,
+    "seconds": 58,
+    "totalSeconds": 58,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 10,
+  "awardCount": 12,
   "awards": [
     {
       "title": "Silver",
@@ -122,6 +122,14 @@
       "dates": [
         "2024-12-03",
         "2024-12-05"
+      ]
+    },
+    {
+      "title": "Half Time",
+      "type": "half-time",
+      "text": "Half your completion time from one day to the next",
+      "dates": [
+        "2024-12-09"
       ]
     },
     {
@@ -148,6 +156,14 @@
       "text": "Complete a puzzle in less than a minute",
       "dates": [
         "2024-12-04"
+      ]
+    },
+    {
+      "title": "Sub 45 Seconds",
+      "type": "sub-45",
+      "text": "Complete a puzzle in less than 45 seconds",
+      "dates": [
+        "2024-12-09"
       ]
     },
     {
