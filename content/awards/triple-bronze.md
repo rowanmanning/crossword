@@ -51,6 +51,14 @@
       ]
     },
     {
+      "person": "Lily2point0",
+      "count": 2,
+      "dates": [
+        "2024-09-01",
+        "2024-12-21"
+      ]
+    },
+    {
       "person": "cb",
       "count": 1,
       "dates": [
@@ -63,14 +71,7 @@
       "dates": [
         "2022-11-29"
       ]
-    },
-    {
-      "person": "Lily2point0",
-      "count": 1,
-      "dates": [
-        "2024-09-01"
-      ]
     }
   ],
-  "totalUnlocks": 19
+  "totalUnlocks": 20
 }
