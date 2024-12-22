@@ -3,6 +3,14 @@
   "id": "quadruple-bronze",
   "text": "Get the third fastest time four days in a row",
   "order": "111",
-  "unlocks": [],
-  "totalUnlocks": 0
+  "unlocks": [
+    {
+      "person": "Lily2point0",
+      "count": 1,
+      "dates": [
+        "2024-12-22"
+      ]
+    }
+  ],
+  "totalUnlocks": 1
 }
