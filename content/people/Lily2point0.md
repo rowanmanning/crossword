@@ -5,12 +5,12 @@
     {
       "person": "Lily2point0",
       "leaderboard": "2024-12-25",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 11,
+      "totalSeconds": 71,
+      "position": 2,
+      "scrapeTime": "2024-12-25T09:32:04.869Z",
+      "isPending": false
     },
     {
       "person": "Lily2point0",
@@ -12773,7 +12773,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 2350,
+  "awardCount": 2352,
   "awards": [
     {
       "title": "Gold",
@@ -14221,7 +14221,8 @@
         "2024-12-17",
         "2024-12-18",
         "2024-12-22",
-        "2024-12-23"
+        "2024-12-23",
+        "2024-12-25"
       ]
     },
     {
@@ -14613,6 +14614,7 @@
       "type": "christmas",
       "text": "Play the crossword on Christmas day",
       "dates": [
+        "2024-12-25",
         "2023-12-25",
         "2022-12-25",
         "2021-12-25"

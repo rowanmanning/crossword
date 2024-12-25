@@ -15,6 +15,16 @@
       ]
     },
     {
+      "person": "Lily2point0",
+      "count": 4,
+      "dates": [
+        "2024-12-25",
+        "2023-12-25",
+        "2022-12-25",
+        "2021-12-25"
+      ]
+    },
+    {
       "person": "binaryberry",
       "count": 3,
       "dates": [
@@ -34,15 +44,6 @@
     },
     {
       "person": "j-sheps",
-      "count": 3,
-      "dates": [
-        "2023-12-25",
-        "2022-12-25",
-        "2021-12-25"
-      ]
-    },
-    {
-      "person": "Lily2point0",
       "count": 3,
       "dates": [
         "2023-12-25",
@@ -110,5 +111,5 @@
       ]
     }
   ],
-  "totalUnlocks": 27
+  "totalUnlocks": 28
 }
