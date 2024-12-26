@@ -234,6 +234,14 @@
       ]
     },
     {
+      "person": "Lily2point0",
+      "count": 2,
+      "dates": [
+        "2024-11-14",
+        "2024-12-25"
+      ]
+    },
+    {
       "person": "leaf",
       "count": 1,
       "dates": [
@@ -253,14 +261,7 @@
       "dates": [
         "2024-07-22"
       ]
-    },
-    {
-      "person": "Lily2point0",
-      "count": 1,
-      "dates": [
-        "2024-11-14"
-      ]
     }
   ],
-  "totalUnlocks": 179
+  "totalUnlocks": 180
 }
