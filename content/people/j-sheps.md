@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "j-sheps",
+      "leaderboard": "2024-12-27",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "j-sheps",
       "leaderboard": "2024-12-26",
       "minutes": 0,
       "seconds": 57,
@@ -12783,7 +12793,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 2602,
+  "awardCount": 2604,
   "awards": [
     {
       "title": "Gold",
@@ -13172,7 +13182,8 @@
         "2024-12-17",
         "2024-12-23",
         "2024-12-24",
-        "2024-12-25"
+        "2024-12-25",
+        "2024-12-26"
       ]
     },
     {
@@ -13221,6 +13232,14 @@
         "2024-04-16",
         "2024-08-22",
         "2024-12-25"
+      ]
+    },
+    {
+      "title": "Quadruple Bronze",
+      "type": "quadruple-bronze",
+      "text": "Get the third fastest time four days in a row",
+      "dates": [
+        "2024-12-26"
       ]
     },
     {

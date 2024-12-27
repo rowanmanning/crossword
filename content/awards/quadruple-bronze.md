@@ -10,7 +10,14 @@
       "dates": [
         "2024-12-22"
       ]
+    },
+    {
+      "person": "j-sheps",
+      "count": 1,
+      "dates": [
+        "2024-12-26"
+      ]
     }
   ],
-  "totalUnlocks": 1
+  "totalUnlocks": 2
 }
