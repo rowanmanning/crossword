@@ -5,12 +5,12 @@
     {
       "person": "emCipolla",
       "leaderboard": "2024-12-28",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 57,
+      "totalSeconds": 57,
+      "position": 1,
+      "scrapeTime": "2024-12-28T14:32:05.979Z",
+      "isPending": false
     },
     {
       "person": "emCipolla",
@@ -1733,7 +1733,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 180,
+  "awardCount": 183,
   "awards": [
     {
       "title": "Gold",
@@ -1904,7 +1904,8 @@
         "2024-08-15",
         "2024-10-28",
         "2024-11-25",
-        "2024-12-27"
+        "2024-12-27",
+        "2024-12-28"
       ]
     },
     {
@@ -1979,6 +1980,14 @@
       ]
     },
     {
+      "title": "Nice Try, Joel",
+      "type": "nice-try-joel",
+      "text": "Complete a puzzle in less than a minute on a Saturday",
+      "dates": [
+        "2024-12-28"
+      ]
+    },
+    {
       "title": "Chain 3",
       "type": "chain-3",
       "text": "Participate in a chain of three sequential times",
@@ -2000,7 +2009,8 @@
         "2024-10-28",
         "2024-11-05",
         "2024-11-19",
-        "2024-12-11"
+        "2024-12-11",
+        "2024-12-28"
       ]
     },
     {
