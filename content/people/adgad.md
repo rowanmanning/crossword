@@ -5,12 +5,12 @@
     {
       "person": "adgad",
       "leaderboard": "2024-12-27",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 15,
+      "totalSeconds": 75,
+      "position": 6,
+      "scrapeTime": "2024-12-28T00:46:19.124Z",
+      "isPending": false
     },
     {
       "person": "adgad",
@@ -277,8 +277,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 35,
-    "totalSeconds": 95,
+    "seconds": 34,
+    "totalSeconds": 94,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -286,14 +286,14 @@
   "median": {
     "person": null,
     "leaderboard": null,
-    "minutes": 0,
-    "seconds": 58,
-    "totalSeconds": 58,
+    "minutes": 1,
+    "seconds": 9,
+    "totalSeconds": 69,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 19,
+  "awardCount": 20,
   "awards": [
     {
       "title": "Silver",
@@ -341,7 +341,8 @@
         "2024-12-13",
         "2024-12-16",
         "2024-12-17",
-        "2024-12-24"
+        "2024-12-24",
+        "2024-12-27"
       ]
     },
     {
