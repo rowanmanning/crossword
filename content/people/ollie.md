@@ -5,12 +5,12 @@
     {
       "person": "ollie",
       "leaderboard": "2025-01-01",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 17,
+      "totalSeconds": 137,
+      "position": 3,
+      "scrapeTime": "2025-01-01T16:35:26.775Z",
+      "isPending": false
     },
     {
       "person": "ollie",
@@ -1017,13 +1017,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 4,
-    "seconds": 30,
-    "totalSeconds": 270,
+    "seconds": 26.5,
+    "totalSeconds": 266.5,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 121,
+  "awardCount": 122,
   "awards": [
     {
       "title": "Gold",
@@ -1266,7 +1266,8 @@
       "text": "Join us",
       "dates": [
         "2024-09-25",
-        "2024-10-08"
+        "2024-10-08",
+        "2025-01-01"
       ]
     },
     {
