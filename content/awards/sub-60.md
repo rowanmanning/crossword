@@ -2203,6 +2203,14 @@
       ]
     },
     {
+      "person": "adgad",
+      "count": 2,
+      "dates": [
+        "2024-12-04",
+        "2025-01-05"
+      ]
+    },
+    {
       "person": "JRedondo",
       "count": 1,
       "dates": [
@@ -2215,14 +2223,7 @@
       "dates": [
         "2024-09-15"
       ]
-    },
-    {
-      "person": "adgad",
-      "count": 1,
-      "dates": [
-        "2024-12-04"
-      ]
     }
   ],
-  "totalUnlocks": 2057
+  "totalUnlocks": 2058
 }

@@ -5,12 +5,12 @@
     {
       "person": "adgad",
       "leaderboard": "2025-01-05",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 54,
+      "totalSeconds": 54,
+      "position": 4,
+      "scrapeTime": "2025-01-05T18:02:46.559Z",
+      "isPending": false
     },
     {
       "person": "adgad",
@@ -367,8 +367,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 35,
-    "totalSeconds": 95,
+    "seconds": 33,
+    "totalSeconds": 93,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -377,13 +377,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 5,
-    "totalSeconds": 65,
+    "seconds": 1,
+    "totalSeconds": 61,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 23,
+  "awardCount": 26,
   "awards": [
     {
       "title": "Silver",
@@ -409,7 +409,8 @@
       "type": "half-time",
       "text": "Half your completion time from one day to the next",
       "dates": [
-        "2024-12-09"
+        "2024-12-09",
+        "2025-01-05"
       ]
     },
     {
@@ -443,7 +444,8 @@
       "type": "sub-60",
       "text": "Complete a puzzle in less than a minute",
       "dates": [
-        "2024-12-04"
+        "2024-12-04",
+        "2025-01-05"
       ]
     },
     {
@@ -460,6 +462,14 @@
       "text": "Play for three days in a row",
       "dates": [
         "2024-12-04"
+      ]
+    },
+    {
+      "title": "Twinning",
+      "type": "twinning",
+      "text": "Get the same time as another person",
+      "dates": [
+        "2025-01-05"
       ]
     },
     {

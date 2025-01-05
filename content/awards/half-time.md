@@ -1771,11 +1771,12 @@
     },
     {
       "person": "adgad",
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2024-12-09"
+        "2024-12-09",
+        "2025-01-05"
       ]
     }
   ],
-  "totalUnlocks": 1610
+  "totalUnlocks": 1611
 }
