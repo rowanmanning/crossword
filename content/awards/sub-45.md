@@ -2835,6 +2835,15 @@
       ]
     },
     {
+      "person": "ollie",
+      "count": 3,
+      "dates": [
+        "2024-10-09",
+        "2024-11-01",
+        "2025-01-05"
+      ]
+    },
+    {
       "person": "ellejay",
       "count": 2,
       "dates": [
@@ -2859,14 +2868,6 @@
       ]
     },
     {
-      "person": "ollie",
-      "count": 2,
-      "dates": [
-        "2024-10-09",
-        "2024-11-01"
-      ]
-    },
-    {
       "person": "adgad",
       "count": 1,
       "dates": [
@@ -2874,5 +2875,5 @@
       ]
     }
   ],
-  "totalUnlocks": 2719
+  "totalUnlocks": 2720
 }

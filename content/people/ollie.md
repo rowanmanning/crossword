@@ -5,12 +5,12 @@
     {
       "person": "ollie",
       "leaderboard": "2025-01-05",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 37,
+      "totalSeconds": 37,
+      "position": 3,
+      "scrapeTime": "2025-01-05T16:02:21.645Z",
+      "isPending": false
     },
     {
       "person": "ollie",
@@ -1035,20 +1035,20 @@
   ],
   "best": {
     "person": "ollie",
-    "leaderboard": "2024-11-01",
+    "leaderboard": "2025-01-05",
     "minutes": 0,
-    "seconds": 40,
-    "totalSeconds": 40,
-    "position": 5,
-    "scrapeTime": "2024-11-01T16:36:09.787Z",
+    "seconds": 37,
+    "totalSeconds": 37,
+    "position": 3,
+    "scrapeTime": "2025-01-05T16:02:21.645Z",
     "isPending": false
   },
   "mean": {
     "person": null,
     "leaderboard": null,
     "minutes": 2,
-    "seconds": 2,
-    "totalSeconds": 122,
+    "seconds": 1,
+    "totalSeconds": 121,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -1057,13 +1057,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 4,
-    "seconds": 26.5,
-    "totalSeconds": 266.5,
+    "seconds": 30,
+    "totalSeconds": 270,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 126,
+  "awardCount": 128,
   "awards": [
     {
       "title": "Gold",
@@ -1147,7 +1147,8 @@
         "2024-11-15",
         "2024-11-19",
         "2024-12-15",
-        "2025-01-02"
+        "2025-01-02",
+        "2025-01-05"
       ]
     },
     {
@@ -1242,7 +1243,8 @@
       "text": "Complete a puzzle in less than 45 seconds",
       "dates": [
         "2024-10-09",
-        "2024-11-01"
+        "2024-11-01",
+        "2025-01-05"
       ]
     },
     {
