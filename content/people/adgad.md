@@ -5,12 +5,12 @@
     {
       "person": "adgad",
       "leaderboard": "2025-01-08",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 54,
+      "totalSeconds": 54,
+      "position": 3,
+      "scrapeTime": "2025-01-08T17:32:30.598Z",
+      "isPending": false
     },
     {
       "person": "adgad",
@@ -397,8 +397,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 31,
-    "totalSeconds": 91,
+    "seconds": 30,
+    "totalSeconds": 90,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -407,13 +407,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 4.5,
-    "totalSeconds": 64.5,
+    "seconds": 1,
+    "totalSeconds": 61,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 27,
+  "awardCount": 28,
   "awards": [
     {
       "title": "Silver",
@@ -476,7 +476,8 @@
       "text": "Complete a puzzle in less than a minute",
       "dates": [
         "2024-12-04",
-        "2025-01-05"
+        "2025-01-05",
+        "2025-01-08"
       ]
     },
     {
