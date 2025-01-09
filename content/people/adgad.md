@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "adgad",
+      "leaderboard": "2025-01-09",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "adgad",
       "leaderboard": "2025-01-08",
       "minutes": 0,
       "seconds": 54,
@@ -413,7 +423,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 28,
+  "awardCount": 29,
   "awards": [
     {
       "title": "Silver",
@@ -431,7 +441,8 @@
       "text": "Get the third fastest time for a day",
       "dates": [
         "2024-12-16",
-        "2024-12-30"
+        "2024-12-30",
+        "2025-01-08"
       ]
     },
     {
