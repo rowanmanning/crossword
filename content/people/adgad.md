@@ -5,12 +5,12 @@
     {
       "person": "adgad",
       "leaderboard": "2025-01-09",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 31,
+      "totalSeconds": 91,
+      "position": 4,
+      "scrapeTime": "2025-01-10T00:09:38.484Z",
+      "isPending": false
     },
     {
       "person": "adgad",
@@ -417,13 +417,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 1,
-    "totalSeconds": 61,
+    "seconds": 4.5,
+    "totalSeconds": 64.5,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 29,
+  "awardCount": 31,
   "awards": [
     {
       "title": "Silver",
@@ -478,7 +478,8 @@
         "2024-12-27",
         "2024-12-30",
         "2024-12-31",
-        "2025-01-07"
+        "2025-01-07",
+        "2025-01-09"
       ]
     },
     {
@@ -504,7 +505,8 @@
       "type": "three-day-streak",
       "text": "Play for three days in a row",
       "dates": [
-        "2024-12-04"
+        "2024-12-04",
+        "2025-01-09"
       ]
     },
     {

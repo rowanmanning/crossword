@@ -792,11 +792,12 @@
     },
     {
       "person": "adgad",
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2024-12-04"
+        "2024-12-04",
+        "2025-01-09"
       ]
     }
   ],
-  "totalUnlocks": 631
+  "totalUnlocks": 632
 }
