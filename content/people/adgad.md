@@ -5,12 +5,12 @@
     {
       "person": "adgad",
       "leaderboard": "2025-01-10",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 37,
+      "totalSeconds": 97,
+      "position": 4,
+      "scrapeTime": "2025-01-10T22:02:19.399Z",
+      "isPending": false
     },
     {
       "person": "adgad",
@@ -427,13 +427,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 4.5,
-    "totalSeconds": 64.5,
+    "seconds": 8,
+    "totalSeconds": 68,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 31,
+  "awardCount": 33,
   "awards": [
     {
       "title": "Silver",
@@ -489,7 +489,8 @@
         "2024-12-30",
         "2024-12-31",
         "2025-01-07",
-        "2025-01-09"
+        "2025-01-09",
+        "2025-01-10"
       ]
     },
     {
@@ -532,7 +533,8 @@
       "type": "arjun",
       "text": "Join us",
       "dates": [
-        "2024-12-05"
+        "2024-12-05",
+        "2025-01-10"
       ]
     },
     {

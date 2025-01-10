@@ -141,6 +141,14 @@
       ]
     },
     {
+      "person": "adgad",
+      "count": 2,
+      "dates": [
+        "2024-12-05",
+        "2025-01-10"
+      ]
+    },
+    {
       "person": "joelcarr",
       "count": 1,
       "dates": [
@@ -181,14 +189,7 @@
       "dates": [
         "2024-07-23"
       ]
-    },
-    {
-      "person": "adgad",
-      "count": 1,
-      "dates": [
-        "2024-12-05"
-      ]
     }
   ],
-  "totalUnlocks": 71
+  "totalUnlocks": 72
 }
