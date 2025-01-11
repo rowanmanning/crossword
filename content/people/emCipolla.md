@@ -5,12 +5,12 @@
     {
       "person": "emCipolla",
       "leaderboard": "2025-01-11",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 37,
+      "totalSeconds": 97,
+      "position": 3,
+      "scrapeTime": "2025-01-11T13:31:48.345Z",
+      "isPending": false
     },
     {
       "person": "emCipolla",
@@ -1873,7 +1873,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 198,
+  "awardCount": 201,
   "awards": [
     {
       "title": "Gold",
@@ -2023,7 +2023,8 @@
         "2024-11-03",
         "2024-12-11",
         "2024-12-27",
-        "2025-01-08"
+        "2025-01-08",
+        "2025-01-11"
       ]
     },
     {
@@ -2040,7 +2041,8 @@
         "2024-11-17",
         "2024-11-18",
         "2024-11-27",
-        "2024-12-11"
+        "2024-12-11",
+        "2025-01-11"
       ]
     },
     {
@@ -2216,6 +2218,14 @@
         "2024-08-09",
         "2024-07-24",
         "2024-07-18"
+      ]
+    },
+    {
+      "title": "Arjun",
+      "type": "arjun",
+      "text": "Join us",
+      "dates": [
+        "2025-01-11"
       ]
     },
     {
