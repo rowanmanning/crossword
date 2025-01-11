@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "emCipolla",
+      "leaderboard": "2025-01-11",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "emCipolla",
       "leaderboard": "2025-01-10",
       "minutes": 0,
       "seconds": 30,
@@ -1863,7 +1873,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 196,
+  "awardCount": 198,
   "awards": [
     {
       "title": "Gold",
@@ -1922,7 +1932,8 @@
         "2024-12-09",
         "2024-12-17",
         "2024-12-26",
-        "2025-01-09"
+        "2025-01-09",
+        "2025-01-10"
       ]
     },
     {
@@ -1930,7 +1941,8 @@
       "type": "double-silver",
       "text": "Get the second fastest time two days in a row",
       "dates": [
-        "2024-07-22"
+        "2024-07-22",
+        "2025-01-10"
       ]
     },
     {

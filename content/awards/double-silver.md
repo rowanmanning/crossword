@@ -245,6 +245,14 @@
       ]
     },
     {
+      "person": "emCipolla",
+      "count": 2,
+      "dates": [
+        "2024-07-22",
+        "2025-01-10"
+      ]
+    },
+    {
       "person": "leaf",
       "count": 1,
       "dates": [
@@ -257,14 +265,7 @@
       "dates": [
         "2024-04-27"
       ]
-    },
-    {
-      "person": "emCipolla",
-      "count": 1,
-      "dates": [
-        "2024-07-22"
-      ]
     }
   ],
-  "totalUnlocks": 183
+  "totalUnlocks": 184
 }
