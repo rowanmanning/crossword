@@ -399,9 +399,10 @@
     },
     {
       "person": "emCipolla",
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2024-07-27"
+        "2024-07-27",
+        "2025-01-13"
       ]
     },
     {
@@ -412,5 +413,5 @@
       ]
     }
   ],
-  "totalUnlocks": 287
+  "totalUnlocks": 288
 }

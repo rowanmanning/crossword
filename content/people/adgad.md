@@ -5,12 +5,12 @@
     {
       "person": "adgad",
       "leaderboard": "2025-01-13",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 10,
+      "totalSeconds": 70,
+      "position": 4,
+      "scrapeTime": "2025-01-13T19:31:44.051Z",
+      "isPending": false
     },
     {
       "person": "adgad",
@@ -447,8 +447,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 32,
-    "totalSeconds": 92,
+    "seconds": 31,
+    "totalSeconds": 91,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -457,13 +457,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 4.5,
-    "totalSeconds": 64.5,
+    "seconds": 8,
+    "totalSeconds": 68,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 33,
+  "awardCount": 35,
   "awards": [
     {
       "title": "Silver",
@@ -491,7 +491,8 @@
       "text": "Half your completion time from one day to the next",
       "dates": [
         "2024-12-09",
-        "2025-01-05"
+        "2025-01-05",
+        "2025-01-13"
       ]
     },
     {
@@ -520,7 +521,8 @@
         "2024-12-31",
         "2025-01-07",
         "2025-01-09",
-        "2025-01-10"
+        "2025-01-10",
+        "2025-01-13"
       ]
     },
     {

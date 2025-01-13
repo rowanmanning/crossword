@@ -5,12 +5,12 @@
     {
       "person": "emCipolla",
       "leaderboard": "2025-01-13",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 36,
+      "totalSeconds": 36,
+      "position": 2,
+      "scrapeTime": "2025-01-13T19:31:44.051Z",
+      "isPending": false
     },
     {
       "person": "emCipolla",
@@ -1893,7 +1893,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 205,
+  "awardCount": 207,
   "awards": [
     {
       "title": "Gold",
@@ -2116,7 +2116,8 @@
         "2025-01-05",
         "2025-01-09",
         "2025-01-10",
-        "2025-01-12"
+        "2025-01-12",
+        "2025-01-13"
       ]
     },
     {
@@ -2197,7 +2198,8 @@
       "type": "week-streak",
       "text": "Play for a full week without breaks",
       "dates": [
-        "2024-07-27"
+        "2024-07-27",
+        "2025-01-13"
       ]
     },
     {
