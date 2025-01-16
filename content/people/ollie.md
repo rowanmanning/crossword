@@ -5,12 +5,12 @@
     {
       "person": "ollie",
       "leaderboard": "2025-01-16",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 59,
+      "totalSeconds": 59,
+      "position": 1,
+      "scrapeTime": "2025-01-16T06:35:55.462Z",
+      "isPending": false
     },
     {
       "person": "ollie",
@@ -1156,9 +1156,9 @@
   "mean": {
     "person": null,
     "leaderboard": null,
-    "minutes": 2,
-    "seconds": 0,
-    "totalSeconds": 120,
+    "minutes": 1,
+    "seconds": 59,
+    "totalSeconds": 119,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -1167,13 +1167,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 4,
-    "seconds": 30,
-    "totalSeconds": 270,
+    "seconds": 32.5,
+    "totalSeconds": 272.5,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 138,
+  "awardCount": 140,
   "awards": [
     {
       "title": "Gold",
@@ -1353,7 +1353,8 @@
         "2024-11-13",
         "2024-11-19",
         "2024-12-09",
-        "2025-01-02"
+        "2025-01-02",
+        "2025-01-16"
       ]
     },
     {
@@ -1456,7 +1457,8 @@
         "2024-11-05",
         "2024-11-07",
         "2024-11-21",
-        "2024-12-01"
+        "2024-12-01",
+        "2025-01-16"
       ]
     },
     {
