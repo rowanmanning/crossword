@@ -36,6 +36,15 @@
       ]
     },
     {
+      "person": "Lily2point0",
+      "count": 3,
+      "dates": [
+        "2024-09-01",
+        "2024-12-21",
+        "2025-01-18"
+      ]
+    },
+    {
       "person": "itsalex",
       "count": 2,
       "dates": [
@@ -49,14 +58,6 @@
       "dates": [
         "2023-11-08",
         "2024-10-26"
-      ]
-    },
-    {
-      "person": "Lily2point0",
-      "count": 2,
-      "dates": [
-        "2024-09-01",
-        "2024-12-21"
       ]
     },
     {
@@ -74,5 +75,5 @@
       ]
     }
   ],
-  "totalUnlocks": 21
+  "totalUnlocks": 22
 }
