@@ -5,12 +5,12 @@
     {
       "person": "ollie",
       "leaderboard": "2025-01-19",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 10,
+      "totalSeconds": 70,
+      "position": 5,
+      "scrapeTime": "2025-01-19T22:32:56.498Z",
+      "isPending": false
     },
     {
       "person": "ollie",
@@ -1197,13 +1197,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 4,
-    "seconds": 35,
-    "totalSeconds": 275,
+    "seconds": 41,
+    "totalSeconds": 281,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 142,
+  "awardCount": 144,
   "awards": [
     {
       "title": "Gold",
@@ -1301,7 +1301,8 @@
       "text": "Quarter your completion time from one day to the next",
       "dates": [
         "2024-11-13",
-        "2024-12-08"
+        "2024-12-08",
+        "2025-01-19"
       ]
     },
     {
@@ -1372,7 +1373,8 @@
         "2025-01-08",
         "2025-01-11",
         "2025-01-12",
-        "2025-01-15"
+        "2025-01-15",
+        "2025-01-19"
       ]
     },
     {
