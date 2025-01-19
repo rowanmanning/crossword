@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "adgad",
+      "leaderboard": "2025-01-20",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "adgad",
       "leaderboard": "2025-01-19",
       "minutes": 1,
       "seconds": 25,
@@ -523,7 +533,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 37,
+  "awardCount": 38,
   "awards": [
     {
       "title": "Silver",
@@ -637,6 +647,14 @@
       "text": "Nice…",
       "dates": [
         "2024-12-03"
+      ]
+    },
+    {
+      "title": "The Number of The Beast",
+      "type": "beast",
+      "text": "His number is six hundred and sixty-six",
+      "dates": [
+        "2025-01-19"
       ]
     }
   ]
