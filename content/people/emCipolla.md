@@ -5,12 +5,12 @@
     {
       "person": "emCipolla",
       "leaderboard": "2025-01-19",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 42,
+      "totalSeconds": 42,
+      "position": 3,
+      "scrapeTime": "2025-01-19T11:31:37.328Z",
+      "isPending": false
     },
     {
       "person": "emCipolla",
@@ -1947,13 +1947,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 31,
-    "totalSeconds": 31,
+    "seconds": 31.5,
+    "totalSeconds": 31.5,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 215,
+  "awardCount": 219,
   "awards": [
     {
       "title": "Gold",
@@ -2083,7 +2083,8 @@
         "2024-11-05",
         "2024-11-19",
         "2024-12-02",
-        "2025-01-12"
+        "2025-01-12",
+        "2025-01-19"
       ]
     },
     {
@@ -2185,7 +2186,8 @@
         "2025-01-10",
         "2025-01-12",
         "2025-01-13",
-        "2025-01-17"
+        "2025-01-17",
+        "2025-01-19"
       ]
     },
     {
@@ -2258,7 +2260,8 @@
         "2024-11-19",
         "2024-12-11",
         "2024-12-28",
-        "2025-01-09"
+        "2025-01-09",
+        "2025-01-19"
       ]
     },
     {
@@ -2320,6 +2323,14 @@
       "text": "Join us",
       "dates": [
         "2025-01-11"
+      ]
+    },
+    {
+      "title": "Don't Panic",
+      "type": "dont-panic",
+      "text": "A towel is about the most massively useful thing an interstellar hitchhiker can have",
+      "dates": [
+        "2025-01-19"
       ]
     },
     {
