@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Lily2point0",
+      "leaderboard": "2025-01-23",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Lily2point0",
       "leaderboard": "2025-01-22",
       "minutes": 1,
       "seconds": 21,
@@ -13053,7 +13063,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 2422,
+  "awardCount": 2424,
   "awards": [
     {
       "title": "Gold",
@@ -13102,7 +13112,8 @@
         "2025-01-03",
         "2025-01-04",
         "2025-01-06",
-        "2025-01-15"
+        "2025-01-15",
+        "2025-01-22"
       ]
     },
     {
@@ -13458,6 +13469,14 @@
       "text": "Get the same position five days in a row",
       "dates": [
         "2021-07-14"
+      ]
+    },
+    {
+      "title": "Podium",
+      "type": "podium",
+      "text": "Unlock third, second, and first place awards",
+      "dates": [
+        "2025-01-22"
       ]
     },
     {
