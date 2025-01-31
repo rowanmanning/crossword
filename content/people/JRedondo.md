@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "JRedondo",
+      "leaderboard": "2025-01-31",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "JRedondo",
       "leaderboard": "2025-01-30",
       "minutes": null,
       "seconds": null,
