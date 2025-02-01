@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "ollie",
+      "leaderboard": "2025-02-01",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "ollie",
       "leaderboard": "2025-01-31",
       "minutes": 0,
       "seconds": 41,
@@ -1323,14 +1333,15 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 156,
+  "awardCount": 157,
   "awards": [
     {
       "title": "Gold",
       "type": "gold",
       "text": "Get the fastest time for a day",
       "dates": [
-        "2024-11-26"
+        "2024-11-26",
+        "2025-01-31"
       ]
     },
     {

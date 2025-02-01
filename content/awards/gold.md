@@ -1492,19 +1492,20 @@
       ]
     },
     {
+      "person": "ollie",
+      "count": 2,
+      "dates": [
+        "2024-11-26",
+        "2025-01-31"
+      ]
+    },
+    {
       "person": "binaryberry",
       "count": 1,
       "dates": [
         "2024-02-25"
       ]
-    },
-    {
-      "person": "ollie",
-      "count": 1,
-      "dates": [
-        "2024-11-26"
-      ]
     }
   ],
-  "totalUnlocks": 1387
+  "totalUnlocks": 1388
 }
