@@ -5,12 +5,12 @@
     {
       "person": "emCipolla",
       "leaderboard": "2025-02-01",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 56,
+      "totalSeconds": 116,
+      "position": 2,
+      "scrapeTime": "2025-02-01T10:02:11.627Z",
+      "isPending": false
     },
     {
       "person": "emCipolla",
@@ -2067,8 +2067,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 48,
-    "totalSeconds": 48,
+    "seconds": 49,
+    "totalSeconds": 49,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -2083,7 +2083,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 237,
+  "awardCount": 239,
   "awards": [
     {
       "title": "Gold",
@@ -2252,7 +2252,8 @@
         "2024-12-27",
         "2025-01-08",
         "2025-01-11",
-        "2025-01-18"
+        "2025-01-18",
+        "2025-02-01"
       ]
     },
     {
@@ -2271,7 +2272,8 @@
         "2024-11-27",
         "2024-12-11",
         "2025-01-11",
-        "2025-01-18"
+        "2025-01-18",
+        "2025-02-01"
       ]
     },
     {
