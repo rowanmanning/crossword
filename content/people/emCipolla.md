@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "emCipolla",
+      "leaderboard": "2025-02-03",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "emCipolla",
       "leaderboard": "2025-02-02",
       "minutes": 1,
       "seconds": 34,
@@ -2093,7 +2103,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 241,
+  "awardCount": 243,
   "awards": [
     {
       "title": "Gold",
@@ -2202,7 +2212,16 @@
         "2025-01-05",
         "2025-01-11",
         "2025-01-19",
-        "2025-02-01"
+        "2025-02-01",
+        "2025-02-02"
+      ]
+    },
+    {
+      "title": "Double Bronze",
+      "type": "double-bronze",
+      "text": "Get the third fastest time two days in a row",
+      "dates": [
+        "2025-02-02"
       ]
     },
     {
