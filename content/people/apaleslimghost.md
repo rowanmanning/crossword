@@ -5,12 +5,12 @@
     {
       "person": "apaleslimghost",
       "leaderboard": "2025-02-04",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 8,
+      "totalSeconds": 8,
+      "position": 1,
+      "scrapeTime": "2025-02-04T08:03:06.601Z",
+      "isPending": false
     },
     {
       "person": "apaleslimghost",
@@ -13145,12 +13145,12 @@
   ],
   "best": {
     "person": "apaleslimghost",
-    "leaderboard": "2024-03-31",
+    "leaderboard": "2025-02-04",
     "minutes": 0,
-    "seconds": 10,
-    "totalSeconds": 10,
+    "seconds": 8,
+    "totalSeconds": 8,
     "position": 1,
-    "scrapeTime": "2024-03-31T07:02:05.556Z",
+    "scrapeTime": "2025-02-04T08:03:06.601Z",
     "isPending": false
   },
   "mean": {
@@ -13173,7 +13173,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 1398,
+  "awardCount": 1401,
   "awards": [
     {
       "title": "Gold",
@@ -13651,7 +13651,8 @@
         "2023-04-09",
         "2023-07-23",
         "2024-01-07",
-        "2024-04-19"
+        "2024-04-19",
+        "2025-02-04"
       ]
     },
     {
@@ -14349,7 +14350,8 @@
         "2023-03-10",
         "2023-05-16",
         "2024-03-31",
-        "2024-05-03"
+        "2024-05-03",
+        "2025-02-04"
       ]
     },
     {
@@ -14589,7 +14591,8 @@
         "2024-06-21",
         "2024-07-14",
         "2024-10-18",
-        "2024-12-27"
+        "2024-12-27",
+        "2025-02-04"
       ]
     },
     {
