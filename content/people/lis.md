@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "lis",
+      "leaderboard": "2025-02-05",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "lis",
       "leaderboard": "2025-02-04",
       "minutes": 0,
       "seconds": 15,
@@ -53,8 +63,16 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 4,
+  "awardCount": 5,
   "awards": [
+    {
+      "title": "Silver",
+      "type": "silver",
+      "text": "Get the second fastest time for a day",
+      "dates": [
+        "2025-02-04"
+      ]
+    },
     {
       "title": "Quarter Time",
       "type": "quarter-time",
