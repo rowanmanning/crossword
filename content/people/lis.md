@@ -5,12 +5,12 @@
     {
       "person": "lis",
       "leaderboard": "2025-02-05",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 15,
+      "totalSeconds": 15,
+      "position": 1,
+      "scrapeTime": "2025-02-05T10:35:07.618Z",
+      "isPending": false
     },
     {
       "person": "lis",
@@ -35,20 +35,20 @@
   ],
   "best": {
     "person": "lis",
-    "leaderboard": "2025-02-04",
+    "leaderboard": "2025-02-05",
     "minutes": 0,
     "seconds": 15,
     "totalSeconds": 15,
-    "position": 2,
-    "scrapeTime": "2025-02-04T07:31:47.617Z",
+    "position": 1,
+    "scrapeTime": "2025-02-05T10:35:07.618Z",
     "isPending": false
   },
   "mean": {
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 38,
-    "totalSeconds": 38,
+    "seconds": 30,
+    "totalSeconds": 30,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -57,13 +57,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 37.5,
-    "totalSeconds": 37.5,
+    "seconds": 15,
+    "totalSeconds": 15,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 5,
+  "awardCount": 7,
   "awards": [
     {
       "title": "Silver",
@@ -94,7 +94,16 @@
       "type": "sub-20",
       "text": "Complete a puzzle in less than 20 seconds",
       "dates": [
-        "2025-02-04"
+        "2025-02-04",
+        "2025-02-05"
+      ]
+    },
+    {
+      "title": "Three Day Streak",
+      "type": "three-day-streak",
+      "text": "Play for three days in a row",
+      "dates": [
+        "2025-02-05"
       ]
     },
     {

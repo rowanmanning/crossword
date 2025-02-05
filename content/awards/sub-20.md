@@ -427,19 +427,20 @@
       ]
     },
     {
+      "person": "lis",
+      "count": 2,
+      "dates": [
+        "2025-02-04",
+        "2025-02-05"
+      ]
+    },
+    {
       "person": "emC",
       "count": 1,
       "dates": [
         "2024-03-31"
       ]
-    },
-    {
-      "person": "lis",
-      "count": 1,
-      "dates": [
-        "2025-02-04"
-      ]
     }
   ],
-  "totalUnlocks": 340
+  "totalUnlocks": 341
 }

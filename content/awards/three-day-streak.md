@@ -803,7 +803,14 @@
         "2024-12-04",
         "2025-01-09"
       ]
+    },
+    {
+      "person": "lis",
+      "count": 1,
+      "dates": [
+        "2025-02-05"
+      ]
     }
   ],
-  "totalUnlocks": 638
+  "totalUnlocks": 639
 }
