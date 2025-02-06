@@ -411,6 +411,15 @@
       ]
     },
     {
+      "person": "lis",
+      "count": 3,
+      "dates": [
+        "2025-02-04",
+        "2025-02-05",
+        "2025-02-06"
+      ]
+    },
+    {
       "person": "varjmes",
       "count": 2,
       "dates": [
@@ -427,14 +436,6 @@
       ]
     },
     {
-      "person": "lis",
-      "count": 2,
-      "dates": [
-        "2025-02-04",
-        "2025-02-05"
-      ]
-    },
-    {
       "person": "emC",
       "count": 1,
       "dates": [
@@ -442,5 +443,5 @@
       ]
     }
   ],
-  "totalUnlocks": 341
+  "totalUnlocks": 342
 }
