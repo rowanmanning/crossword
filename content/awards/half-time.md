@@ -1763,6 +1763,16 @@
       ]
     },
     {
+      "person": "adgad",
+      "count": 4,
+      "dates": [
+        "2024-12-09",
+        "2025-01-05",
+        "2025-01-13",
+        "2025-02-07"
+      ]
+    },
+    {
       "person": "JRedondo",
       "count": 3,
       "dates": [
@@ -1781,15 +1791,6 @@
       ]
     },
     {
-      "person": "adgad",
-      "count": 3,
-      "dates": [
-        "2024-12-09",
-        "2025-01-05",
-        "2025-01-13"
-      ]
-    },
-    {
       "person": "Big Ollie 420",
       "count": 2,
       "dates": [
@@ -1798,5 +1799,5 @@
       ]
     }
   ],
-  "totalUnlocks": 1631
+  "totalUnlocks": 1632
 }

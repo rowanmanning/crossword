@@ -5,12 +5,12 @@
     {
       "person": "adgad",
       "leaderboard": "2025-02-07",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 37,
+      "totalSeconds": 37,
+      "position": 3,
+      "scrapeTime": "2025-02-07T15:02:14.017Z",
+      "isPending": false
     },
     {
       "person": "adgad",
@@ -685,20 +685,20 @@
   ],
   "best": {
     "person": "adgad",
-    "leaderboard": "2024-12-09",
+    "leaderboard": "2025-02-07",
     "minutes": 0,
-    "seconds": 38,
-    "totalSeconds": 38,
-    "position": 4,
-    "scrapeTime": "2024-12-09T03:19:01.120Z",
+    "seconds": 37,
+    "totalSeconds": 37,
+    "position": 3,
+    "scrapeTime": "2025-02-07T15:02:14.017Z",
     "isPending": false
   },
   "mean": {
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 30,
-    "totalSeconds": 90,
+    "seconds": 28,
+    "totalSeconds": 88,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -707,13 +707,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 4.5,
-    "totalSeconds": 64.5,
+    "seconds": 1,
+    "totalSeconds": 61,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 40,
+  "awardCount": 42,
   "awards": [
     {
       "title": "Silver",
@@ -742,7 +742,8 @@
       "dates": [
         "2024-12-09",
         "2025-01-05",
-        "2025-01-13"
+        "2025-01-13",
+        "2025-02-07"
       ]
     },
     {
@@ -793,7 +794,8 @@
       "type": "sub-45",
       "text": "Complete a puzzle in less than 45 seconds",
       "dates": [
-        "2024-12-09"
+        "2024-12-09",
+        "2025-02-07"
       ]
     },
     {
