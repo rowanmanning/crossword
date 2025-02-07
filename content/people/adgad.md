@@ -713,7 +713,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 42,
+  "awardCount": 43,
   "awards": [
     {
       "title": "Silver",
@@ -820,7 +820,8 @@
       "type": "twinning",
       "text": "Get the same time as another person",
       "dates": [
-        "2025-01-05"
+        "2025-01-05",
+        "2025-02-07"
       ]
     },
     {
