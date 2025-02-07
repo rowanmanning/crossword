@@ -1504,19 +1504,20 @@
       ]
     },
     {
+      "person": "lis",
+      "count": 2,
+      "dates": [
+        "2025-02-05",
+        "2025-02-06"
+      ]
+    },
+    {
       "person": "binaryberry",
       "count": 1,
       "dates": [
         "2024-02-25"
       ]
-    },
-    {
-      "person": "lis",
-      "count": 1,
-      "dates": [
-        "2025-02-05"
-      ]
     }
   ],
-  "totalUnlocks": 1393
+  "totalUnlocks": 1394
 }

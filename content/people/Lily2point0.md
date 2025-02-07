@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Lily2point0",
+      "leaderboard": "2025-02-07",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Lily2point0",
       "leaderboard": "2025-02-06",
       "minutes": 0,
       "seconds": 48,
@@ -13203,7 +13213,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 2455,
+  "awardCount": 2456,
   "awards": [
     {
       "title": "Gold",
@@ -13355,7 +13365,8 @@
         "2025-01-23",
         "2025-01-24",
         "2025-01-26",
-        "2025-01-28"
+        "2025-01-28",
+        "2025-02-06"
       ]
     },
     {
