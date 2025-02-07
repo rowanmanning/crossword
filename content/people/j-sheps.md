@@ -5,12 +5,12 @@
     {
       "person": "j-sheps",
       "leaderboard": "2025-02-07",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 38,
+      "totalSeconds": 38,
+      "position": 5,
+      "scrapeTime": "2025-02-07T23:31:37.767Z",
+      "isPending": false
     },
     {
       "person": "j-sheps",
@@ -13213,7 +13213,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 2673,
+  "awardCount": 2675,
   "awards": [
     {
       "title": "Gold",
@@ -15290,7 +15290,8 @@
         "2025-01-06",
         "2025-01-12",
         "2025-01-19",
-        "2025-01-31"
+        "2025-01-31",
+        "2025-02-07"
       ]
     },
     {
@@ -15476,6 +15477,7 @@
       "type": "chain-3",
       "text": "Participate in a chain of three sequential times",
       "dates": [
+        "2025-02-07",
         "2024-03-27",
         "2024-03-08",
         "2024-02-11",

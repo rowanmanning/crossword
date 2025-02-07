@@ -713,7 +713,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 43,
+  "awardCount": 44,
   "awards": [
     {
       "title": "Silver",
@@ -795,6 +795,14 @@
       "text": "Complete a puzzle in less than 45 seconds",
       "dates": [
         "2024-12-09",
+        "2025-02-07"
+      ]
+    },
+    {
+      "title": "Chain 3",
+      "type": "chain-3",
+      "text": "Participate in a chain of three sequential times",
+      "dates": [
         "2025-02-07"
       ]
     },
