@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "lis",
+      "leaderboard": "2025-02-09",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "lis",
       "leaderboard": "2025-02-08",
       "minutes": 0,
       "seconds": 6,
@@ -93,7 +103,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 17,
+  "awardCount": 20,
   "awards": [
     {
       "title": "Gold",
@@ -102,7 +112,8 @@
       "dates": [
         "2025-02-05",
         "2025-02-06",
-        "2025-02-07"
+        "2025-02-07",
+        "2025-02-08"
       ]
     },
     {
@@ -119,6 +130,14 @@
       "text": "Get the fastest time three days in a row",
       "dates": [
         "2025-02-07"
+      ]
+    },
+    {
+      "title": "Quadruple Gold",
+      "type": "quadruple-gold",
+      "text": "Get the fastest time four days in a row",
+      "dates": [
+        "2025-02-08"
       ]
     },
     {
@@ -187,6 +206,14 @@
       "text": "Complete a puzzle before anyone else (or within 30 minutes of the first person)",
       "dates": [
         "2025-02-04"
+      ]
+    },
+    {
+      "title": "Slow and Steady",
+      "type": "slow-and-steady",
+      "text": "Complete a puzzle after everyone else but with the fastest time",
+      "dates": [
+        "2025-02-08"
       ]
     }
   ]
