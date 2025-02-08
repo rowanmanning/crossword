@@ -5,12 +5,12 @@
     {
       "person": "lis",
       "leaderboard": "2025-02-08",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 6,
+      "totalSeconds": 6,
+      "position": 1,
+      "scrapeTime": "2025-02-08T22:32:05.571Z",
+      "isPending": false
     },
     {
       "person": "lis",
@@ -65,20 +65,20 @@
   ],
   "best": {
     "person": "lis",
-    "leaderboard": "2025-02-06",
+    "leaderboard": "2025-02-08",
     "minutes": 0,
-    "seconds": 11,
-    "totalSeconds": 11,
+    "seconds": 6,
+    "totalSeconds": 6,
     "position": 1,
-    "scrapeTime": "2025-02-06T08:34:59.351Z",
+    "scrapeTime": "2025-02-08T22:32:05.571Z",
     "isPending": false
   },
   "mean": {
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 24,
-    "totalSeconds": 24,
+    "seconds": 21,
+    "totalSeconds": 21,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -87,13 +87,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 15,
-    "totalSeconds": 15,
+    "seconds": 17,
+    "totalSeconds": 17,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 14,
+  "awardCount": 17,
   "awards": [
     {
       "title": "Gold",
@@ -130,6 +130,14 @@
       ]
     },
     {
+      "title": "Half Time",
+      "type": "half-time",
+      "text": "Half your completion time from one day to the next",
+      "dates": [
+        "2025-02-08"
+      ]
+    },
+    {
       "title": "Quarter Time",
       "type": "quarter-time",
       "text": "Quarter your completion time from one day to the next",
@@ -153,7 +161,16 @@
         "2025-02-04",
         "2025-02-05",
         "2025-02-06",
-        "2025-02-07"
+        "2025-02-07",
+        "2025-02-08"
+      ]
+    },
+    {
+      "title": "Nice Try, Joel",
+      "type": "nice-try-joel",
+      "text": "Complete a puzzle in less than a minute on a Saturday",
+      "dates": [
+        "2025-02-08"
       ]
     },
     {

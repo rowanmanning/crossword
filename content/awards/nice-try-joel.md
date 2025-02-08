@@ -393,7 +393,14 @@
       "dates": [
         "2024-12-28"
       ]
+    },
+    {
+      "person": "lis",
+      "count": 1,
+      "dates": [
+        "2025-02-08"
+      ]
     }
   ],
-  "totalUnlocks": 294
+  "totalUnlocks": 295
 }
