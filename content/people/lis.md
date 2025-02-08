@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "lis",
+      "leaderboard": "2025-02-08",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "lis",
       "leaderboard": "2025-02-07",
       "minutes": 0,
       "seconds": 19,
@@ -83,7 +93,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 12,
+  "awardCount": 14,
   "awards": [
     {
       "title": "Gold",
@@ -91,7 +101,8 @@
       "text": "Get the fastest time for a day",
       "dates": [
         "2025-02-05",
-        "2025-02-06"
+        "2025-02-06",
+        "2025-02-07"
       ]
     },
     {
@@ -100,6 +111,14 @@
       "text": "Get the fastest time two days in a row",
       "dates": [
         "2025-02-06"
+      ]
+    },
+    {
+      "title": "Triple Gold",
+      "type": "triple-gold",
+      "text": "Get the fastest time three days in a row",
+      "dates": [
+        "2025-02-07"
       ]
     },
     {

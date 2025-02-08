@@ -105,7 +105,14 @@
         "2024-04-09",
         "2024-05-28"
       ]
+    },
+    {
+      "person": "lis",
+      "count": 1,
+      "dates": [
+        "2025-02-07"
+      ]
     }
   ],
-  "totalUnlocks": 78
+  "totalUnlocks": 79
 }
