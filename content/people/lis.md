@@ -5,12 +5,12 @@
     {
       "person": "lis",
       "leaderboard": "2025-02-10",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 17,
+      "totalSeconds": 17,
+      "position": 1,
+      "scrapeTime": "2025-02-10T10:35:37.856Z",
+      "isPending": false
     },
     {
       "person": "lis",
@@ -113,7 +113,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 20,
+  "awardCount": 22,
   "awards": [
     {
       "title": "Gold",
@@ -175,6 +175,14 @@
       ]
     },
     {
+      "title": "Double Time",
+      "type": "double-time",
+      "text": "Double your completion time from one day to the next",
+      "dates": [
+        "2025-02-10"
+      ]
+    },
+    {
       "title": "Sub Two Minutes",
       "type": "sub-120",
       "text": "Complete a puzzle in less than two minutes",
@@ -191,7 +199,8 @@
         "2025-02-05",
         "2025-02-06",
         "2025-02-07",
-        "2025-02-08"
+        "2025-02-08",
+        "2025-02-10"
       ]
     },
     {
