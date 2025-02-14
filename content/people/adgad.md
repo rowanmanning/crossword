@@ -5,12 +5,12 @@
     {
       "person": "adgad",
       "leaderboard": "2025-02-14",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 43,
+      "totalSeconds": 43,
+      "position": 3,
+      "scrapeTime": "2025-02-14T17:02:11.546Z",
+      "isPending": false
     },
     {
       "person": "adgad",
@@ -767,8 +767,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 28,
-    "totalSeconds": 88,
+    "seconds": 26,
+    "totalSeconds": 86,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -776,14 +776,14 @@
   "median": {
     "person": null,
     "leaderboard": null,
-    "minutes": 1,
-    "seconds": 1,
-    "totalSeconds": 61,
+    "minutes": 0,
+    "seconds": 57.5,
+    "totalSeconds": 57.5,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 44,
+  "awardCount": 46,
   "awards": [
     {
       "title": "Silver",
@@ -865,7 +865,16 @@
       "text": "Complete a puzzle in less than 45 seconds",
       "dates": [
         "2024-12-09",
-        "2025-02-07"
+        "2025-02-07",
+        "2025-02-14"
+      ]
+    },
+    {
+      "title": "I Choo Choo Choose You",
+      "type": "valentines",
+      "text": "Play the crossword on Valentines day",
+      "dates": [
+        "2025-02-14"
       ]
     },
     {
