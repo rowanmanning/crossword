@@ -5,6 +5,16 @@
   "order": "321",
   "unlocks": [
     {
+      "person": "Emma L",
+      "count": 4,
+      "dates": [
+        "2025-02-14",
+        "2024-02-14",
+        "2023-02-14",
+        "2022-02-14"
+      ]
+    },
+    {
       "person": "j-sheps",
       "count": 4,
       "dates": [
@@ -26,15 +36,6 @@
     },
     {
       "person": "binaryberry",
-      "count": 3,
-      "dates": [
-        "2024-02-14",
-        "2023-02-14",
-        "2022-02-14"
-      ]
-    },
-    {
-      "person": "Emma L",
       "count": 3,
       "dates": [
         "2024-02-14",
@@ -138,5 +139,5 @@
       ]
     }
   ],
-  "totalUnlocks": 31
+  "totalUnlocks": 32
 }
