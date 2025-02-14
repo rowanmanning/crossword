@@ -5,12 +5,12 @@
     {
       "person": "lis",
       "leaderboard": "2025-02-14",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 20,
+      "totalSeconds": 20,
+      "position": 1,
+      "scrapeTime": "2025-02-14T12:03:41.089Z",
+      "isPending": false
     },
     {
       "person": "lis",
@@ -147,13 +147,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 17,
-    "totalSeconds": 17,
+    "seconds": 18,
+    "totalSeconds": 18,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 28,
+  "awardCount": 31,
   "awards": [
     {
       "title": "Gold",
@@ -235,6 +235,14 @@
       ]
     },
     {
+      "title": "Sub 30 Seconds",
+      "type": "sub-30",
+      "text": "Complete a puzzle in less than 30 seconds",
+      "dates": [
+        "2025-02-14"
+      ]
+    },
+    {
       "title": "Sub 20 Seconds",
       "type": "sub-20",
       "text": "Complete a puzzle in less than 20 seconds",
@@ -258,11 +266,20 @@
       ]
     },
     {
+      "title": "I Choo Choo Choose You",
+      "type": "valentines",
+      "text": "Play the crossword on Valentines day",
+      "dates": [
+        "2025-02-14"
+      ]
+    },
+    {
       "title": "Three Day Streak",
       "type": "three-day-streak",
       "text": "Play for three days in a row",
       "dates": [
-        "2025-02-05"
+        "2025-02-05",
+        "2025-02-14"
       ]
     },
     {
