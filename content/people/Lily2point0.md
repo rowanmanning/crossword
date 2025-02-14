@@ -5,12 +5,12 @@
     {
       "person": "Lily2point0",
       "leaderboard": "2025-02-14",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 48,
+      "totalSeconds": 48,
+      "position": 1,
+      "scrapeTime": "2025-02-14T08:02:55.592Z",
+      "isPending": false
     },
     {
       "person": "Lily2point0",
@@ -13283,7 +13283,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 2469,
+  "awardCount": 2472,
   "awards": [
     {
       "title": "Gold",
@@ -15060,7 +15060,8 @@
         "2025-02-05",
         "2025-02-06",
         "2025-02-07",
-        "2025-02-11"
+        "2025-02-11",
+        "2025-02-14"
       ]
     },
     {
@@ -15235,6 +15236,7 @@
       "type": "valentines",
       "text": "Play the crossword on Valentines day",
       "dates": [
+        "2025-02-14",
         "2024-02-14",
         "2023-02-14",
         "2022-02-14"
@@ -16066,7 +16068,8 @@
         "2025-02-07",
         "2025-02-11",
         "2025-02-12",
-        "2025-02-13"
+        "2025-02-13",
+        "2025-02-14"
       ]
     }
   ]
