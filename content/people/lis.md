@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "lis",
+      "leaderboard": "2025-02-14",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "lis",
       "leaderboard": "2025-02-13",
       "minutes": 0,
       "seconds": 15,
@@ -143,7 +153,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 26,
+  "awardCount": 28,
   "awards": [
     {
       "title": "Gold",
@@ -155,7 +165,8 @@
         "2025-02-07",
         "2025-02-08",
         "2025-02-10",
-        "2025-02-12"
+        "2025-02-12",
+        "2025-02-13"
       ]
     },
     {
@@ -163,7 +174,8 @@
       "type": "double-gold",
       "text": "Get the fastest time two days in a row",
       "dates": [
-        "2025-02-06"
+        "2025-02-06",
+        "2025-02-13"
       ]
     },
     {
