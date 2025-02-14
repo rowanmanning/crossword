@@ -5,12 +5,12 @@
     {
       "person": "emCipolla",
       "leaderboard": "2025-02-14",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 46,
+      "totalSeconds": 46,
+      "position": 4,
+      "scrapeTime": "2025-02-14T23:02:14.997Z",
+      "isPending": false
     },
     {
       "person": "emCipolla",
@@ -2213,7 +2213,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 259,
+  "awardCount": 261,
   "awards": [
     {
       "title": "Gold",
@@ -2435,7 +2435,8 @@
         "2025-01-08",
         "2025-01-20",
         "2025-01-26",
-        "2025-02-13"
+        "2025-02-13",
+        "2025-02-14"
       ]
     },
     {
@@ -2532,6 +2533,14 @@
       "text": "Complete a puzzle in less than a minute on a Saturday",
       "dates": [
         "2024-12-28"
+      ]
+    },
+    {
+      "title": "I Choo Choo Choose You",
+      "type": "valentines",
+      "text": "Play the crossword on Valentines day",
+      "dates": [
+        "2025-02-14"
       ]
     },
     {
