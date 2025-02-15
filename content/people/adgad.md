@@ -5,12 +5,12 @@
     {
       "person": "adgad",
       "leaderboard": "2025-02-15",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 0,
+      "totalSeconds": 60,
+      "position": 2,
+      "scrapeTime": "2025-02-15T14:02:07.684Z",
+      "isPending": false
     },
     {
       "person": "adgad",
@@ -786,14 +786,14 @@
   "median": {
     "person": null,
     "leaderboard": null,
-    "minutes": 0,
-    "seconds": 57.5,
-    "totalSeconds": 57.5,
+    "minutes": 1,
+    "seconds": 0,
+    "totalSeconds": 60,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 47,
+  "awardCount": 49,
   "awards": [
     {
       "title": "Silver",
@@ -856,7 +856,8 @@
         "2025-01-10",
         "2025-01-13",
         "2025-01-19",
-        "2025-01-31"
+        "2025-01-31",
+        "2025-02-15"
       ]
     },
     {
@@ -878,6 +879,14 @@
         "2024-12-09",
         "2025-02-07",
         "2025-02-14"
+      ]
+    },
+    {
+      "title": "Nice Try, Joel",
+      "type": "nice-try-joel",
+      "text": "Complete a puzzle in less than a minute on a Saturday",
+      "dates": [
+        "2025-02-15"
       ]
     },
     {
