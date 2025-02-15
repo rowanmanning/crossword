@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "lis",
+      "leaderboard": "2025-02-15",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "lis",
       "leaderboard": "2025-02-14",
       "minutes": 0,
       "seconds": 20,
@@ -153,7 +163,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 31,
+  "awardCount": 33,
   "awards": [
     {
       "title": "Gold",
@@ -166,7 +176,8 @@
         "2025-02-08",
         "2025-02-10",
         "2025-02-12",
-        "2025-02-13"
+        "2025-02-13",
+        "2025-02-14"
       ]
     },
     {
@@ -183,7 +194,8 @@
       "type": "triple-gold",
       "text": "Get the fastest time three days in a row",
       "dates": [
-        "2025-02-07"
+        "2025-02-07",
+        "2025-02-14"
       ]
     },
     {

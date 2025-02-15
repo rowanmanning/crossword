@@ -108,11 +108,12 @@
     },
     {
       "person": "lis",
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2025-02-07"
+        "2025-02-07",
+        "2025-02-14"
       ]
     }
   ],
-  "totalUnlocks": 79
+  "totalUnlocks": 80
 }
