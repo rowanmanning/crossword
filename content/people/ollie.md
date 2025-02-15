@@ -5,12 +5,12 @@
     {
       "person": "ollie",
       "leaderboard": "2025-02-15",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 19,
+      "totalSeconds": 139,
+      "position": 4,
+      "scrapeTime": "2025-02-15T17:31:49.387Z",
+      "isPending": false
     },
     {
       "person": "ollie",
@@ -1457,8 +1457,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 56,
-    "totalSeconds": 116,
+    "seconds": 57,
+    "totalSeconds": 117,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -1466,9 +1466,9 @@
   "median": {
     "person": null,
     "leaderboard": null,
-    "minutes": 0,
-    "seconds": 36,
-    "totalSeconds": 36,
+    "minutes": 2,
+    "seconds": 41.5,
+    "totalSeconds": 161.5,
     "position": null,
     "scrapeTime": null,
     "isPending": false
