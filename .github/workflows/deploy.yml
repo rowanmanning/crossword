@@ -1,0 +1,10 @@
+name: Deploy
+
+on: [push]
+
+jobs:
+  deploy:
+    uses: rowanmanning/actions/.github/workflows/hugo-website.yml@v1
+    with:
+      hugo-version: '0.101.0'
+      timezone: America/New_York
