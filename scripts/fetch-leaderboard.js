@@ -1,12 +1,9 @@
 #!/usr/bin/env node
 'use strict';
 
-const dotenv = require('dotenv');
 const fs = require('node:fs/promises');
 const loadJSON = require('./lib/utils/load-json');
 const JSON5 = require('json5');
-
-dotenv.config();
 
 fetchLeaderboard();
 
