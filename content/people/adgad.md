@@ -5,12 +5,12 @@
     {
       "person": "adgad",
       "leaderboard": "2025-02-16",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 35,
+      "totalSeconds": 95,
+      "position": 1,
+      "scrapeTime": "2025-02-16T00:46:42.982Z",
+      "isPending": false
     },
     {
       "person": "adgad",
@@ -797,13 +797,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 0,
-    "totalSeconds": 60,
+    "seconds": 0.5,
+    "totalSeconds": 60.5,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 50,
+  "awardCount": 53,
   "awards": [
     {
       "title": "Silver",
@@ -868,7 +868,8 @@
         "2025-01-13",
         "2025-01-19",
         "2025-01-31",
-        "2025-02-15"
+        "2025-02-15",
+        "2025-02-16"
       ]
     },
     {
@@ -922,7 +923,8 @@
       "text": "Play for three days in a row",
       "dates": [
         "2024-12-04",
-        "2025-01-09"
+        "2025-01-09",
+        "2025-02-16"
       ]
     },
     {
@@ -965,6 +967,14 @@
       "text": "His number is six hundred and sixty-six",
       "dates": [
         "2025-01-19"
+      ]
+    },
+    {
+      "title": "Quick Draw",
+      "type": "quick-draw",
+      "text": "Complete a puzzle before anyone else (or within 30 minutes of the first person)",
+      "dates": [
+        "2025-02-16"
       ]
     }
   ]
