@@ -5,6 +5,11 @@
 		"seconds": 23
 	},
 	{
+		"name": "emCipolla",
+		"scrapeTime": "2025-02-17T10:35:42.642Z",
+		"seconds": 57
+	},
+	{
 		"name": "Lily2point0",
 		"scrapeTime": "2025-02-17T08:03:07.231Z",
 		"seconds": 79
@@ -46,11 +51,6 @@
 	},
 	{
 		"name": "ellejay",
-		"scrapeTime": null,
-		"seconds": null
-	},
-	{
-		"name": "emCipolla",
 		"scrapeTime": null,
 		"seconds": null
 	},
