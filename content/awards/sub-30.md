@@ -1576,6 +1576,14 @@
       ]
     },
     {
+      "person": "lis",
+      "count": 2,
+      "dates": [
+        "2025-02-14",
+        "2025-02-17"
+      ]
+    },
+    {
       "person": "Nick Ramsbottom",
       "count": 1,
       "dates": [
@@ -1595,14 +1603,7 @@
       "dates": [
         "2025-01-21"
       ]
-    },
-    {
-      "person": "lis",
-      "count": 1,
-      "dates": [
-        "2025-02-14"
-      ]
     }
   ],
-  "totalUnlocks": 1467
+  "totalUnlocks": 1468
 }

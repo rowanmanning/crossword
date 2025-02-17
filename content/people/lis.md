@@ -5,12 +5,12 @@
     {
       "person": "lis",
       "leaderboard": "2025-02-17",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 29,
+      "totalSeconds": 29,
+      "position": 2,
+      "scrapeTime": "2025-02-17T12:43:36.851Z",
+      "isPending": false
     },
     {
       "person": "lis",
@@ -167,8 +167,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 20,
-    "totalSeconds": 20,
+    "seconds": 21,
+    "totalSeconds": 21,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -177,13 +177,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 18,
-    "totalSeconds": 18,
+    "seconds": 19,
+    "totalSeconds": 19,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 33,
+  "awardCount": 34,
   "awards": [
     {
       "title": "Gold",
@@ -271,7 +271,8 @@
       "type": "sub-30",
       "text": "Complete a puzzle in less than 30 seconds",
       "dates": [
-        "2025-02-14"
+        "2025-02-14",
+        "2025-02-17"
       ]
     },
     {
