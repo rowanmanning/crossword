@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "lis",
+      "leaderboard": "2025-02-18",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "lis",
       "leaderboard": "2025-02-17",
       "minutes": 0,
       "seconds": 29,
@@ -183,7 +193,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 34,
+  "awardCount": 35,
   "awards": [
     {
       "title": "Gold",
@@ -231,7 +241,8 @@
       "type": "silver",
       "text": "Get the second fastest time for a day",
       "dates": [
-        "2025-02-04"
+        "2025-02-04",
+        "2025-02-17"
       ]
     },
     {

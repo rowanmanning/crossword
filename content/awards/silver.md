@@ -1556,11 +1556,12 @@
     },
     {
       "person": "lis",
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2025-02-04"
+        "2025-02-04",
+        "2025-02-17"
       ]
     }
   ],
-  "totalUnlocks": 1425
+  "totalUnlocks": 1426
 }
