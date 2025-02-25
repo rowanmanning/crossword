@@ -5,12 +5,12 @@
     {
       "person": "adgad",
       "leaderboard": "2025-02-25",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 43,
+      "totalSeconds": 43,
+      "position": 4,
+      "scrapeTime": "2025-02-25T21:02:13.414Z",
+      "isPending": false
     },
     {
       "person": "adgad",
@@ -877,8 +877,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 23,
-    "totalSeconds": 83,
+    "seconds": 22,
+    "totalSeconds": 82,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -887,13 +887,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 57,
-    "totalSeconds": 57,
+    "seconds": 54,
+    "totalSeconds": 54,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 58,
+  "awardCount": 61,
   "awards": [
     {
       "title": "Silver",
@@ -985,7 +985,8 @@
         "2024-12-09",
         "2025-02-07",
         "2025-02-14",
-        "2025-02-24"
+        "2025-02-24",
+        "2025-02-25"
       ]
     },
     {
@@ -1019,7 +1020,8 @@
       "dates": [
         "2024-12-04",
         "2025-01-09",
-        "2025-02-16"
+        "2025-02-16",
+        "2025-02-25"
       ]
     },
     {
@@ -1037,6 +1039,14 @@
       "dates": [
         "2025-01-05",
         "2025-02-07"
+      ]
+    },
+    {
+      "title": "Yin and Yang",
+      "type": "yin-and-yang",
+      "text": "Get the same time as another person but with flipped seconds",
+      "dates": [
+        "2025-02-25"
       ]
     },
     {
