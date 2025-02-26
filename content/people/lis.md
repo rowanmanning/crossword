@@ -5,12 +5,12 @@
     {
       "person": "lis",
       "leaderboard": "2025-02-26",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 16,
+      "totalSeconds": 16,
+      "position": 1,
+      "scrapeTime": "2025-02-26T11:31:48.678Z",
+      "isPending": false
     },
     {
       "person": "lis",
@@ -257,8 +257,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 21,
-    "totalSeconds": 21,
+    "seconds": 20,
+    "totalSeconds": 20,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -267,13 +267,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 18,
-    "totalSeconds": 18,
+    "seconds": 17,
+    "totalSeconds": 17,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 37,
+  "awardCount": 39,
   "awards": [
     {
       "title": "Gold",
@@ -380,7 +380,8 @@
         "2025-02-10",
         "2025-02-12",
         "2025-02-13",
-        "2025-02-18"
+        "2025-02-18",
+        "2025-02-26"
       ]
     },
     {
@@ -406,6 +407,14 @@
       "dates": [
         "2025-02-05",
         "2025-02-14"
+      ]
+    },
+    {
+      "title": "Holiday",
+      "type": "holiday",
+      "text": "Come back to the crossword after a week off",
+      "dates": [
+        "2025-02-26"
       ]
     },
     {
