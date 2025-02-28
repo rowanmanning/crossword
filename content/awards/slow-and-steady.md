@@ -202,6 +202,14 @@
       ]
     },
     {
+      "person": "lis",
+      "count": 2,
+      "dates": [
+        "2025-02-08",
+        "2025-02-27"
+      ]
+    },
+    {
       "person": "leaf",
       "count": 1,
       "dates": [
@@ -221,14 +229,7 @@
       "dates": [
         "2024-11-26"
       ]
-    },
-    {
-      "person": "lis",
-      "count": 1,
-      "dates": [
-        "2025-02-08"
-      ]
     }
   ],
-  "totalUnlocks": 147
+  "totalUnlocks": 148
 }

@@ -300,6 +300,15 @@
       ]
     },
     {
+      "person": "lis",
+      "count": 3,
+      "dates": [
+        "2025-02-06",
+        "2025-02-13",
+        "2025-02-27"
+      ]
+    },
+    {
       "person": "apaleslimghost",
       "count": 2,
       "dates": [
@@ -324,14 +333,6 @@
       ]
     },
     {
-      "person": "lis",
-      "count": 2,
-      "dates": [
-        "2025-02-06",
-        "2025-02-13"
-      ]
-    },
-    {
       "person": "Oliver Turner",
       "count": 1,
       "dates": [
@@ -346,5 +347,5 @@
       ]
     }
   ],
-  "totalUnlocks": 269
+  "totalUnlocks": 270
 }

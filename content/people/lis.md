@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "lis",
+      "leaderboard": "2025-02-28",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "lis",
       "leaderboard": "2025-02-27",
       "minutes": 0,
       "seconds": 25,
@@ -283,7 +293,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 41,
+  "awardCount": 44,
   "awards": [
     {
       "title": "Gold",
@@ -299,7 +309,8 @@
         "2025-02-13",
         "2025-02-14",
         "2025-02-18",
-        "2025-02-26"
+        "2025-02-26",
+        "2025-02-27"
       ]
     },
     {
@@ -308,7 +319,8 @@
       "text": "Get the fastest time two days in a row",
       "dates": [
         "2025-02-06",
-        "2025-02-13"
+        "2025-02-13",
+        "2025-02-27"
       ]
     },
     {
@@ -442,7 +454,8 @@
       "type": "slow-and-steady",
       "text": "Complete a puzzle after everyone else but with the fastest time",
       "dates": [
-        "2025-02-08"
+        "2025-02-08",
+        "2025-02-27"
       ]
     }
   ]
