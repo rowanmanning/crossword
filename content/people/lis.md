@@ -5,12 +5,12 @@
     {
       "person": "lis",
       "leaderboard": "2025-02-28",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 16,
+      "totalSeconds": 16,
+      "position": 1,
+      "scrapeTime": "2025-02-28T12:03:39.234Z",
+      "isPending": false
     },
     {
       "person": "lis",
@@ -277,8 +277,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 21,
-    "totalSeconds": 21,
+    "seconds": 20,
+    "totalSeconds": 20,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -287,13 +287,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 18,
-    "totalSeconds": 18,
+    "seconds": 17,
+    "totalSeconds": 17,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 44,
+  "awardCount": 46,
   "awards": [
     {
       "title": "Gold",
@@ -405,7 +405,8 @@
         "2025-02-12",
         "2025-02-13",
         "2025-02-18",
-        "2025-02-26"
+        "2025-02-26",
+        "2025-02-28"
       ]
     },
     {
@@ -430,7 +431,8 @@
       "text": "Play for three days in a row",
       "dates": [
         "2025-02-05",
-        "2025-02-14"
+        "2025-02-14",
+        "2025-02-28"
       ]
     },
     {
