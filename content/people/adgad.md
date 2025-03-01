@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "adgad",
+      "leaderboard": "2025-03-02",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "adgad",
       "leaderboard": "2025-03-01",
       "minutes": 1,
       "seconds": 42,
@@ -933,7 +943,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 64,
+  "awardCount": 66,
   "awards": [
     {
       "title": "Silver",
@@ -957,7 +967,16 @@
         "2025-01-08",
         "2025-02-14",
         "2025-02-24",
-        "2025-02-28"
+        "2025-02-28",
+        "2025-03-01"
+      ]
+    },
+    {
+      "title": "Double Bronze",
+      "type": "double-bronze",
+      "text": "Get the third fastest time two days in a row",
+      "dates": [
+        "2025-03-01"
       ]
     },
     {
