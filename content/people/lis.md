@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "lis",
+      "leaderboard": "2025-03-04",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "lis",
       "leaderboard": "2025-03-03",
       "minutes": 0,
       "seconds": 23,
@@ -323,7 +333,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 49,
+  "awardCount": 51,
   "awards": [
     {
       "title": "Gold",
@@ -341,7 +351,8 @@
         "2025-02-18",
         "2025-02-26",
         "2025-02-27",
-        "2025-02-28"
+        "2025-02-28",
+        "2025-03-03"
       ]
     },
     {
@@ -490,7 +501,8 @@
       "text": "Complete a puzzle after everyone else but with the fastest time",
       "dates": [
         "2025-02-08",
-        "2025-02-27"
+        "2025-02-27",
+        "2025-03-03"
       ]
     }
   ]
