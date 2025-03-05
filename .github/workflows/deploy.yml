@@ -1,6 +1,14 @@
 name: Deploy
 
-on: [push]
+on:
+  push:
+  workflow_run:
+    workflows:
+      - Fetch leaderboard
+    branches:
+      - main
+    types:
+      - completed
 
 jobs:
   deploy:
