@@ -5,12 +5,12 @@
     {
       "person": "lis",
       "leaderboard": "2025-03-06",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 30,
+      "totalSeconds": 30,
+      "position": 1,
+      "scrapeTime": "2025-03-06T13:07:21.126Z",
+      "isPending": false
     },
     {
       "person": "lis",
@@ -353,7 +353,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 56,
+  "awardCount": 57,
   "awards": [
     {
       "title": "Gold",
@@ -444,6 +444,14 @@
       "text": "Complete a puzzle in less than two minutes",
       "dates": [
         "2025-02-03"
+      ]
+    },
+    {
+      "title": "Sub 45 Seconds",
+      "type": "sub-45",
+      "text": "Complete a puzzle in less than 45 seconds",
+      "dates": [
+        "2025-03-06"
       ]
     },
     {
