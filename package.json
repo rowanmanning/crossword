@@ -23,7 +23,7 @@
     "json5": "^2.2.3"
   },
   "devDependencies": {
-    "@rowanmanning/biome-config": "^1.4.0"
+    "@rowanmanning/biome-config": "^2.0.0"
   },
   "scripts": {
     "verify": "npm run verify:biome",
