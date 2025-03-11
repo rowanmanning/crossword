@@ -5,12 +5,12 @@
     {
       "person": "adgad",
       "leaderboard": "2025-03-11",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 18,
+      "totalSeconds": 78,
+      "position": 6,
+      "scrapeTime": "2025-03-11T22:34:18.845Z",
+      "isPending": false
     },
     {
       "person": "adgad",
@@ -1027,13 +1027,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 55.5,
-    "totalSeconds": 55.5,
+    "seconds": 57,
+    "totalSeconds": 57,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 67,
+  "awardCount": 69,
   "awards": [
     {
       "title": "Silver",
@@ -1114,7 +1114,8 @@
         "2025-02-15",
         "2025-02-16",
         "2025-03-01",
-        "2025-03-03"
+        "2025-03-03",
+        "2025-03-11"
       ]
     },
     {
@@ -1182,7 +1183,8 @@
       "type": "holiday",
       "text": "Come back to the crossword after a week off",
       "dates": [
-        "2025-01-31"
+        "2025-01-31",
+        "2025-03-11"
       ]
     },
     {

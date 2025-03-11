@@ -232,6 +232,14 @@
       ]
     },
     {
+      "person": "adgad",
+      "count": 2,
+      "dates": [
+        "2025-01-31",
+        "2025-03-11"
+      ]
+    },
+    {
       "person": "binaryberry",
       "count": 1,
       "dates": [
@@ -274,13 +282,6 @@
       ]
     },
     {
-      "person": "adgad",
-      "count": 1,
-      "dates": [
-        "2025-01-31"
-      ]
-    },
-    {
       "person": "lis",
       "count": 1,
       "dates": [
@@ -288,5 +289,5 @@
       ]
     }
   ],
-  "totalUnlocks": 151
+  "totalUnlocks": 152
 }
