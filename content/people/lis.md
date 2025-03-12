@@ -5,12 +5,12 @@
     {
       "person": "lis",
       "leaderboard": "2025-03-12",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 26,
+      "totalSeconds": 26,
+      "position": 2,
+      "scrapeTime": "2025-03-12T09:33:58.747Z",
+      "isPending": false
     },
     {
       "person": "lis",
@@ -413,7 +413,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 67,
+  "awardCount": 69,
   "awards": [
     {
       "title": "Gold",
@@ -532,7 +532,8 @@
         "2025-03-03",
         "2025-03-04",
         "2025-03-05",
-        "2025-03-11"
+        "2025-03-11",
+        "2025-03-12"
       ]
     },
     {
@@ -579,7 +580,8 @@
         "2025-02-05",
         "2025-02-14",
         "2025-02-28",
-        "2025-03-05"
+        "2025-03-05",
+        "2025-03-12"
       ]
     },
     {
