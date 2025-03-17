@@ -5,12 +5,12 @@
     {
       "person": "emCipolla",
       "leaderboard": "2025-03-17",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 44,
+      "totalSeconds": 44,
+      "position": 1,
+      "scrapeTime": "2025-03-17T10:02:54.678Z",
+      "isPending": false
     },
     {
       "person": "emCipolla",
@@ -2523,7 +2523,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 292,
+  "awardCount": 293,
   "awards": [
     {
       "title": "Gold",
@@ -2820,7 +2820,8 @@
         "2025-03-04",
         "2025-03-10",
         "2025-03-14",
-        "2025-03-16"
+        "2025-03-16",
+        "2025-03-17"
       ]
     },
     {
