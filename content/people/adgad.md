@@ -5,12 +5,12 @@
     {
       "person": "adgad",
       "leaderboard": "2025-03-17",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 20,
+      "totalSeconds": 140,
+      "position": 2,
+      "scrapeTime": "2025-03-17T08:36:40.116Z",
+      "isPending": false
     },
     {
       "person": "adgad",
@@ -1077,8 +1077,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 21,
-    "totalSeconds": 81,
+    "seconds": 22,
+    "totalSeconds": 82,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -1087,13 +1087,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 55.5,
-    "totalSeconds": 55.5,
+    "seconds": 54,
+    "totalSeconds": 54,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 71,
+  "awardCount": 72,
   "awards": [
     {
       "title": "Silver",
@@ -1148,7 +1148,8 @@
       "text": "Double your completion time from one day to the next",
       "dates": [
         "2024-12-05",
-        "2024-12-11"
+        "2024-12-11",
+        "2025-03-17"
       ]
     },
     {
