@@ -5,12 +5,12 @@
     {
       "person": "j-sheps",
       "leaderboard": "2025-03-18",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 27,
+      "totalSeconds": 87,
+      "position": 2,
+      "scrapeTime": "2025-03-18T08:03:11.523Z",
+      "isPending": false
     },
     {
       "person": "j-sheps",
@@ -13603,7 +13603,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 2726,
+  "awardCount": 2728,
   "awards": [
     {
       "title": "Gold",
@@ -15123,7 +15123,8 @@
         "2025-02-17",
         "2025-02-18",
         "2025-03-02",
-        "2025-03-06"
+        "2025-03-06",
+        "2025-03-18"
       ]
     },
     {
@@ -16116,7 +16117,8 @@
       "type": "holiday",
       "text": "Come back to the crossword after a week off",
       "dates": [
-        "2024-12-07"
+        "2024-12-07",
+        "2025-03-18"
       ]
     },
     {
