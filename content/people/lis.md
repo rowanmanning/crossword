@@ -5,12 +5,12 @@
     {
       "person": "lis",
       "leaderboard": "2025-03-20",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 8,
+      "totalSeconds": 8,
+      "position": 1,
+      "scrapeTime": "2025-03-20T18:03:12.168Z",
+      "isPending": false
     },
     {
       "person": "lis",
@@ -493,7 +493,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 87,
+  "awardCount": 89,
   "awards": [
     {
       "title": "Gold",
@@ -575,7 +575,8 @@
       "type": "half-time",
       "text": "Half your completion time from one day to the next",
       "dates": [
-        "2025-02-08"
+        "2025-02-08",
+        "2025-03-20"
       ]
     },
     {
@@ -647,7 +648,8 @@
         "2025-03-10",
         "2025-03-13",
         "2025-03-14",
-        "2025-03-19"
+        "2025-03-19",
+        "2025-03-20"
       ]
     },
     {
