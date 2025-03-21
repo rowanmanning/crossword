@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "lis",
+      "leaderboard": "2025-03-21",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "lis",
       "leaderboard": "2025-03-20",
       "minutes": 0,
       "seconds": 8,
@@ -493,7 +503,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 89,
+  "awardCount": 92,
   "awards": [
     {
       "title": "Gold",
@@ -522,7 +532,8 @@
         "2025-03-14",
         "2025-03-17",
         "2025-03-18",
-        "2025-03-19"
+        "2025-03-19",
+        "2025-03-20"
       ]
     },
     {
@@ -556,7 +567,8 @@
       "type": "quadruple-gold",
       "text": "Get the fastest time four days in a row",
       "dates": [
-        "2025-02-08"
+        "2025-02-08",
+        "2025-03-20"
       ]
     },
     {
@@ -707,7 +719,8 @@
         "2025-03-03",
         "2025-03-13",
         "2025-03-17",
-        "2025-03-18"
+        "2025-03-18",
+        "2025-03-20"
       ]
     }
   ]

@@ -58,19 +58,20 @@
       ]
     },
     {
+      "person": "lis",
+      "count": 2,
+      "dates": [
+        "2025-02-08",
+        "2025-03-20"
+      ]
+    },
+    {
       "person": "ivo",
       "count": 1,
       "dates": [
         "2024-04-10"
       ]
-    },
-    {
-      "person": "lis",
-      "count": 1,
-      "dates": [
-        "2025-02-08"
-      ]
     }
   ],
-  "totalUnlocks": 37
+  "totalUnlocks": 38
 }
