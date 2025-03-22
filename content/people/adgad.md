@@ -5,12 +5,12 @@
     {
       "person": "adgad",
       "leaderboard": "2025-03-21",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 0,
+      "totalSeconds": 60,
+      "position": 4,
+      "scrapeTime": "2025-03-22T00:46:34.366Z",
+      "isPending": false
     },
     {
       "person": "adgad",
@@ -1133,7 +1133,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 74,
+  "awardCount": 76,
   "awards": [
     {
       "title": "Silver",
@@ -1218,7 +1218,8 @@
         "2025-02-16",
         "2025-03-01",
         "2025-03-03",
-        "2025-03-11"
+        "2025-03-11",
+        "2025-03-21"
       ]
     },
     {
@@ -1324,6 +1325,14 @@
       "text": "Nice…",
       "dates": [
         "2024-12-03"
+      ]
+    },
+    {
+      "title": "1 Friday Street",
+      "type": "friday-street",
+      "text": "Get a time of exactly 1:00 on a Friday",
+      "dates": [
+        "2025-03-21"
       ]
     },
     {
