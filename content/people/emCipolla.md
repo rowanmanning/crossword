@@ -5,12 +5,12 @@
     {
       "person": "emCipolla",
       "leaderboard": "2025-03-26",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 42,
+      "totalSeconds": 42,
+      "position": 4,
+      "scrapeTime": "2025-03-26T19:31:52.423Z",
+      "isPending": false
     },
     {
       "person": "emCipolla",
@@ -2607,13 +2607,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 34.5,
-    "totalSeconds": 34.5,
+    "seconds": 35,
+    "totalSeconds": 35,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 307,
+  "awardCount": 310,
   "awards": [
     {
       "title": "Gold",
@@ -2921,7 +2921,8 @@
         "2025-03-10",
         "2025-03-14",
         "2025-03-16",
-        "2025-03-17"
+        "2025-03-17",
+        "2025-03-26"
       ]
     },
     {
@@ -3015,7 +3016,8 @@
         "2025-02-03",
         "2025-02-11",
         "2025-02-15",
-        "2025-03-18"
+        "2025-03-18",
+        "2025-03-26"
       ]
     },
     {
@@ -3087,7 +3089,8 @@
       "type": "dont-panic",
       "text": "A towel is about the most massively useful thing an interstellar hitchhiker can have",
       "dates": [
-        "2025-01-19"
+        "2025-01-19",
+        "2025-03-26"
       ]
     },
     {
