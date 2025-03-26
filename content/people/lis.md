@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "lis",
+      "leaderboard": "2025-03-26",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "lis",
       "leaderboard": "2025-03-25",
       "minutes": 0,
       "seconds": 9,
@@ -543,7 +553,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 95,
+  "awardCount": 96,
   "awards": [
     {
       "title": "Gold",
@@ -574,7 +584,8 @@
         "2025-03-18",
         "2025-03-19",
         "2025-03-20",
-        "2025-03-21"
+        "2025-03-21",
+        "2025-03-25"
       ]
     },
     {
