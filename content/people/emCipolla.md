@@ -5,12 +5,12 @@
     {
       "person": "emCipolla",
       "leaderboard": "2025-03-29",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 36,
+      "totalSeconds": 156,
+      "position": 2,
+      "scrapeTime": "2025-03-29T14:02:23.074Z",
+      "isPending": false
     },
     {
       "person": "emCipolla",
