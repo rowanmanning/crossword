@@ -5,12 +5,12 @@
     {
       "person": "adgad",
       "leaderboard": "2025-04-01",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 44,
+      "totalSeconds": 44,
+      "position": 3,
+      "scrapeTime": "2025-04-01T08:37:15.492Z",
+      "isPending": false
     },
     {
       "person": "adgad",
@@ -1237,13 +1237,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 55.5,
-    "totalSeconds": 55.5,
+    "seconds": 54,
+    "totalSeconds": 54,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 78,
+  "awardCount": 80,
   "awards": [
     {
       "title": "Silver",
@@ -1358,7 +1358,8 @@
         "2025-02-07",
         "2025-02-14",
         "2025-02-24",
-        "2025-02-25"
+        "2025-02-25",
+        "2025-04-01"
       ]
     },
     {
@@ -1402,7 +1403,8 @@
       "text": "Come back to the crossword after a week off",
       "dates": [
         "2025-01-31",
-        "2025-03-11"
+        "2025-03-11",
+        "2025-04-01"
       ]
     },
     {
