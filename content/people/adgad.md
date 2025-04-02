@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "adgad",
+      "leaderboard": "2025-04-02",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "adgad",
       "leaderboard": "2025-04-01",
       "minutes": 0,
       "seconds": 44,
@@ -1243,7 +1253,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 80,
+  "awardCount": 81,
   "awards": [
     {
       "title": "Silver",
@@ -1270,7 +1280,8 @@
         "2025-02-24",
         "2025-02-28",
         "2025-03-01",
-        "2025-03-16"
+        "2025-03-16",
+        "2025-04-01"
       ]
     },
     {
