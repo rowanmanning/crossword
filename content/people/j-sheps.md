@@ -5,12 +5,12 @@
     {
       "person": "j-sheps",
       "leaderboard": "2025-04-05",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 2,
+      "seconds": 21,
+      "totalSeconds": 141,
+      "position": 2,
+      "scrapeTime": "2025-04-05T09:02:16.406Z",
+      "isPending": false
     },
     {
       "person": "j-sheps",
@@ -13783,7 +13783,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 2758,
+  "awardCount": 2759,
   "awards": [
     {
       "title": "Gold",
@@ -14937,7 +14937,8 @@
         "2025-02-02",
         "2025-02-12",
         "2025-02-22",
-        "2025-03-22"
+        "2025-03-22",
+        "2025-04-05"
       ]
     },
     {
