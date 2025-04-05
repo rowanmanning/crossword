@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "ollie",
+      "leaderboard": "2025-04-06",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "ollie",
       "leaderboard": "2025-04-05",
       "minutes": 2,
       "seconds": 18,
@@ -1963,7 +1973,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 209,
+  "awardCount": 210,
   "awards": [
     {
       "title": "Gold",
@@ -1990,7 +2000,8 @@
         "2025-02-19",
         "2025-03-01",
         "2025-03-08",
-        "2025-03-15"
+        "2025-03-15",
+        "2025-04-05"
       ]
     },
     {
