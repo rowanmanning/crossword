@@ -5,12 +5,12 @@
     {
       "person": "Emma L",
       "leaderboard": "2025-04-12",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 37,
+      "totalSeconds": 97,
+      "position": 1,
+      "scrapeTime": "2025-04-12T06:36:37.155Z",
+      "isPending": false
     },
     {
       "person": "Emma L",
@@ -13503,7 +13503,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 3827,
+  "awardCount": 3831,
   "awards": [
     {
       "title": "Gold",
@@ -15419,7 +15419,8 @@
         "2025-03-21",
         "2025-03-29",
         "2025-04-02",
-        "2025-04-09"
+        "2025-04-09",
+        "2025-04-12"
       ]
     },
     {
@@ -15596,7 +15597,8 @@
         "2025-01-25",
         "2025-01-31",
         "2025-02-01",
-        "2025-03-29"
+        "2025-03-29",
+        "2025-04-12"
       ]
     },
     {
@@ -17303,6 +17305,14 @@
       ]
     },
     {
+      "title": "Arjun",
+      "type": "arjun",
+      "text": "Join us",
+      "dates": [
+        "2025-04-12"
+      ]
+    },
+    {
       "title": "Nice",
       "type": "nice",
       "text": "Nice…",
@@ -17641,7 +17651,8 @@
         "2025-04-05",
         "2025-04-07",
         "2025-04-10",
-        "2025-04-11"
+        "2025-04-11",
+        "2025-04-12"
       ]
     },
     {
