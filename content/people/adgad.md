@@ -5,12 +5,12 @@
     {
       "person": "adgad",
       "leaderboard": "2025-04-20",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 8,
+      "totalSeconds": 68,
+      "position": 2,
+      "scrapeTime": "2025-04-20T12:03:39.774Z",
+      "isPending": false
     },
     {
       "person": "adgad",
@@ -1427,13 +1427,13 @@
     "person": null,
     "leaderboard": null,
     "minutes": 0,
-    "seconds": 55.5,
-    "totalSeconds": 55.5,
+    "seconds": 57,
+    "totalSeconds": 57,
     "position": null,
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 83,
+  "awardCount": 84,
   "awards": [
     {
       "title": "Silver",
@@ -1523,7 +1523,8 @@
         "2025-03-11",
         "2025-03-21",
         "2025-03-24",
-        "2025-04-14"
+        "2025-04-14",
+        "2025-04-20"
       ]
     },
     {
