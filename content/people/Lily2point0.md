@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Lily2point0",
+      "leaderboard": "2025-05-02",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Lily2point0",
       "leaderboard": "2025-05-01",
       "minutes": 0,
       "seconds": 40,
@@ -14043,7 +14053,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 2647,
+  "awardCount": 2649,
   "awards": [
     {
       "title": "Gold",
@@ -14055,7 +14065,8 @@
         "2024-01-28",
         "2024-03-15",
         "2024-05-15",
-        "2025-01-21"
+        "2025-01-21",
+        "2025-05-01"
       ]
     },
     {
@@ -17005,6 +17016,14 @@
         "2025-04-27",
         "2025-04-29",
         "2025-04-30"
+      ]
+    },
+    {
+      "title": "Slow and Steady",
+      "type": "slow-and-steady",
+      "text": "Complete a puzzle after everyone else but with the fastest time",
+      "dates": [
+        "2025-05-01"
       ]
     }
   ]
