@@ -5,12 +5,12 @@
     {
       "person": "adgad",
       "leaderboard": "2025-05-03",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 5,
+      "seconds": 36,
+      "totalSeconds": 336,
+      "position": 3,
+      "scrapeTime": "2025-05-03T08:02:47.990Z",
+      "isPending": false
     },
     {
       "person": "adgad",
@@ -1547,8 +1547,8 @@
     "person": null,
     "leaderboard": null,
     "minutes": 1,
-    "seconds": 19,
-    "totalSeconds": 79,
+    "seconds": 24,
+    "totalSeconds": 84,
     "position": null,
     "scrapeTime": null,
     "isPending": false
@@ -1563,7 +1563,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 90,
+  "awardCount": 92,
   "awards": [
     {
       "title": "Silver",
@@ -1624,7 +1624,8 @@
       "dates": [
         "2024-12-05",
         "2024-12-11",
-        "2025-03-17"
+        "2025-03-17",
+        "2025-05-03"
       ]
     },
     {
@@ -1688,6 +1689,14 @@
         "2025-02-24",
         "2025-02-25",
         "2025-04-01"
+      ]
+    },
+    {
+      "title": "Over Five Minutes",
+      "type": "over-300",
+      "text": "Complete a puzzle in more than 5 minutes",
+      "dates": [
+        "2025-05-03"
       ]
     },
     {
