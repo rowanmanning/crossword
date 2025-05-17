@@ -81,6 +81,14 @@
       ]
     },
     {
+      "person": "Lily2point0",
+      "count": 2,
+      "dates": [
+        "2024-11-15",
+        "2025-05-16"
+      ]
+    },
+    {
       "person": "apaleslimghost",
       "count": 1,
       "dates": [
@@ -93,14 +101,7 @@
       "dates": [
         "2024-03-08"
       ]
-    },
-    {
-      "person": "Lily2point0",
-      "count": 1,
-      "dates": [
-        "2024-11-15"
-      ]
     }
   ],
-  "totalUnlocks": 43
+  "totalUnlocks": 44
 }
