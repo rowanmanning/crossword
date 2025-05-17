@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "Lily2point0",
+      "leaderboard": "2025-05-18",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "Lily2point0",
       "leaderboard": "2025-05-17",
       "minutes": 3,
       "seconds": 4,
@@ -14203,7 +14213,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 2701,
+  "awardCount": 2703,
   "awards": [
     {
       "title": "Gold",
@@ -14406,7 +14416,8 @@
         "2025-05-03",
         "2025-05-06",
         "2025-05-09",
-        "2025-05-10"
+        "2025-05-10",
+        "2025-05-17"
       ]
     },
     {
@@ -14698,7 +14709,8 @@
       "text": "Unlock third, second, and first place awards",
       "dates": [
         "2025-01-22",
-        "2025-05-02"
+        "2025-05-02",
+        "2025-05-17"
       ]
     },
     {
