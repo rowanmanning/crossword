@@ -5,12 +5,12 @@
     {
       "person": "ollie",
       "leaderboard": "2025-05-18",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 1,
+      "seconds": 59,
+      "totalSeconds": 119,
+      "position": 3,
+      "scrapeTime": "2025-05-18T10:02:27.850Z",
+      "isPending": false
     },
     {
       "person": "ollie",
@@ -2393,7 +2393,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 233,
+  "awardCount": 235,
   "awards": [
     {
       "title": "Gold",
@@ -2629,7 +2629,8 @@
         "2025-04-22",
         "2025-04-24",
         "2025-04-25",
-        "2025-05-04"
+        "2025-05-04",
+        "2025-05-18"
       ]
     },
     {
@@ -2721,6 +2722,14 @@
         "2024-11-23",
         "2024-12-07",
         "2025-02-11"
+      ]
+    },
+    {
+      "title": "Holiday",
+      "type": "holiday",
+      "text": "Come back to the crossword after a week off",
+      "dates": [
+        "2025-05-18"
       ]
     },
     {
