@@ -4,6 +4,16 @@
   "times": [
     {
       "person": "lis",
+      "leaderboard": "2025-05-19",
+      "minutes": null,
+      "seconds": null,
+      "totalSeconds": null,
+      "position": null,
+      "scrapeTime": null,
+      "isPending": true
+    },
+    {
+      "person": "lis",
       "leaderboard": "2025-05-18",
       "minutes": null,
       "seconds": null,
