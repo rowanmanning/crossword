@@ -5,12 +5,12 @@
     {
       "person": "adgad",
       "leaderboard": "2025-05-19",
-      "minutes": null,
-      "seconds": null,
-      "totalSeconds": null,
-      "position": null,
-      "scrapeTime": null,
-      "isPending": true
+      "minutes": 0,
+      "seconds": 58,
+      "totalSeconds": 58,
+      "position": 3,
+      "scrapeTime": "2025-05-19T20:34:53.950Z",
+      "isPending": false
     },
     {
       "person": "adgad",
@@ -1723,7 +1723,7 @@
     "scrapeTime": null,
     "isPending": false
   },
-  "awardCount": 104,
+  "awardCount": 106,
   "awards": [
     {
       "title": "Silver",
@@ -1779,7 +1779,8 @@
         "2025-02-23",
         "2025-03-19",
         "2025-05-05",
-        "2025-05-13"
+        "2025-05-13",
+        "2025-05-19"
       ]
     },
     {
@@ -1844,7 +1845,8 @@
         "2025-02-23",
         "2025-02-28",
         "2025-03-16",
-        "2025-03-19"
+        "2025-03-19",
+        "2025-05-19"
       ]
     },
     {
