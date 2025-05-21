@@ -19,6 +19,7 @@ $site-base-url: "{{ "/" | relURL }}";
 @import "shared/typography";
 
 // Components
+@import "components/alert";
 @import "components/award-list";
 @import "components/card";
 @import "components/content-body";

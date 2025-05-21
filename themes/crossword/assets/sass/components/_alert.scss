@@ -1,0 +1,9 @@
+
+// Alert
+.alert {
+	@extend %base-typography;
+	@extend %layout-inner;
+
+	padding: var(--spacing-half-line);
+	background-color: var(--colorvalue-yellow);
+}

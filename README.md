@@ -1,6 +1,9 @@
 
 # Crossword
 
+> [!WARNING]
+> This website is no longer updated. It relied on the New York Times crossword leaderboard being available on a web page and it no longer is as of 2025-05-21. Thanks for getting involved! The website will be left as-is.
+
 Fetch and archive the New York Times crossword leaderboard - [crossword.rowanmanning.com](https://crossword.rowanmanning.com/).
 
 
