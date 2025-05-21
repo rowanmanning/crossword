@@ -6,9 +6,10 @@ concurrency:
 
 on:
 
-  # Run every 30 minutes
-  schedule:
-    - cron: "*/30 * * * *"
+  # Disabled: the NYT leaderboard is no longer accessible via the web
+  # # Run every 30 minutes
+  # schedule:
+  #   - cron: "*/30 * * * *"
 
   # Allow manual workflow dispatch
   workflow_dispatch: {}
